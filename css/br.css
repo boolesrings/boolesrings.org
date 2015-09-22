@@ -1,0 +1,112 @@
+/*
+ * Cancel out some of jekyll's built-in styles
+ */
+header.site-header {
+  border: none;
+}
+a.site-title {
+  float: none;
+}
+a.site-title:hover {
+  text-decoration: none;
+}
+div.page-content {
+  padding: 0;
+}
+
+/*
+ * Our custom floaty layout for normal screens
+ */
+div.page-content {
+  max-width: 800px;
+  margin: 0px auto;
+}
+header.site-header {
+  text-align: center;
+  padding: 10px 20px;
+  background-image: url("http://boolesrings.org/assets/rings.png");
+  padding-top: 40px;
+  height: 105px;
+}
+a.site-title {
+  font-size: 75px;
+}
+aside.primary {
+  float: right;
+  width: 160px;
+  padding: 30px 0 20px 0;
+  margin-right: 10px;
+}
+div.post {
+  float: left;
+  width: 590px;
+  margin: 0px 30px 20px 10px;
+}
+aside.secondary {
+  float: right;
+  width: 160px;
+  margin-right: 10px;
+}
+nav > a {
+  display: block;
+  color: #111;
+  padding: 4px;
+}
+nav > a:visited {
+  color: #111;
+}
+nav > a:hover {
+  text-decoration: none;
+  background-color: #EEC0FC;
+}
+aside.primary nav > a::before {
+  content: "\2022\ ";
+}
+aside.secondary nav > a::before {
+  content: "| ";
+}
+article li {
+  margin-bottom: 7px;
+}
+
+/*
+ * modifications for mobile devices
+ */
+@media ( max-width: 800px ) {
+  aside.primary {
+    padding: 0 0 20px 0;
+    margin: 0;
+    float: none;
+    width: auto;
+  }
+  div.post {
+    float: none;
+    width: auto;
+  }
+  aside.secondary {
+    background-color: lightgrey;
+    padding: 20px 10px;
+    margin: 0;
+    float: none;
+    width: auto;
+  }
+  nav {
+    display: flex;           display: -webkit-flex;
+    flex-flow: row wrap;     -webkit-flex-flow: row wrap;
+  }
+  aside.primary nav {
+    justify-content: center; -webkit-justify-content: center;
+  }
+  nav > a {
+    width: 152px;
+  }
+  aside.primary nav > a {
+    text-align: center;
+  }
+  aside.primary nav > a::before {
+    content: none;
+  }
+  aside.primary nav > a:hover {
+    background-color: #EEC0FC;
+  }
+}
