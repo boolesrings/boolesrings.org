@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Booles' Rings
 ---
 
 # Recent writing

@@ -1,2 +1,2 @@
-# mathblogging.org
-Soon-to be new home for mathblogging.org
+# boolesrings.org
+Jekyll source for the future booles' rings home page
