@@ -25,16 +25,16 @@ header.site-header {
   text-align: center;
   padding: 10px 20px;
   background-image: url("http://boolesrings.org/assets/rings.png");
-  padding-top: 40px;
-  height: 105px;
+  padding-top: 45px;
+  height: 100px;
 }
 a.site-title {
-  font-size: 75px;
+  font-size: 60px;
 }
 aside.primary {
   float: right;
   width: 160px;
-  padding: 30px 0 20px 0;
+  padding: 40px 0 20px 0;
   margin-right: 10px;
 }
 div.post {
@@ -59,14 +59,11 @@ nav > a:hover {
   text-decoration: none;
   background-color: #EEC0FC;
 }
-aside.primary nav > a::before {
-  content: "\2022\ ";
-}
-aside.secondary nav > a::before {
-  content: "| ";
-}
 article li {
   margin-bottom: 7px;
+}
+strong {
+  font-weight: bold;
 }
 
 /*
