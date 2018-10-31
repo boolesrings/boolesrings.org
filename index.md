@@ -20,4 +20,4 @@ layout: page
   {% endif %}
 {% endfor %}
 
-{% comment %}
+{% endcomment %}
