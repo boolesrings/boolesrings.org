@@ -10,6 +10,8 @@ layout: page
   {% endif %}
 {% endfor %}
 
+{% comment %}
+
 # Recent comments
 
 {% for page in site.pages %}
@@ -18,3 +20,4 @@ layout: page
   {% endif %}
 {% endfor %}
 
+{% comment %}
