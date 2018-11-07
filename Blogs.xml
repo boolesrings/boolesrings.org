@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-11-07T15:45:33Z</updated>
+    <updated>2018-11-07T19:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,77 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/preprint/2018/11/07/PaperMiceFromLongGames.html</id>
+        <link href="https://muellersandra.github.io/preprint/2018/11/07/PaperMiceFromLongGames.html">
+        </link>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/AguileraMuellerConStrengthLongProjDet.pdf">PDF.</a> 
+<a data-toggle="collapse" href="javascript:toggle('bibAM18');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibAM18">
+<pre class="collapse"> @ARTICLE{AM18,
+   AUTHOR= {J. Aguilera and S. Müller},
+   TITLE= {The consistency strength of long projective determinacy},
+   Note={Submitted} }</pre>
+   </div>
+
+<!--more-->
+
+<p>We determine the consistency strength of determinacy for projective
+  games of length $\omega^2$. Our main theorem is that
+  $\boldsymbol\Pi^1_{n+1}$-determinacy for games of length $\omega^2$
+  implies the existence of a model of set theory with $\omega + n$
+  Woodin cardinals. In a first step, we show that this hypothesis
+  implies that there is a countable set of reals $A$ such that
+  $M_n(A)$, the canonical inner model for $n$ Woodin cardinals
+  constructed over $A$, satisfies $A = \mathbb{R}$ and the Axiom of
+  Determinacy. Then we argue how to obtain a model with $\omega + n$
+  Woodin cardinal from this.</p>
+
+<p>We also show how the proof can be adapted to investigate the
+  consistency strength of determinacy for games of length $\omega^2$
+  with payoff in $\Game^{\mathbb{R}} \boldsymbol\Pi^1_1$ or with
+  $\sigma$-projective payoff.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
+        <id>https://muellersandra.github.io/preprint/2018/11/06/PaperADImpliesDCinMice.html</id>
+        <link href="https://muellersandra.github.io/preprint/2018/11/06/PaperADImpliesDCinMice.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/MuellerADimpliesDCinMice.pdf">PDF.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibMu18">
+<pre class="collapse"> @ARTICLE{Mu18,
+   AUTHOR= {S. Müller},
+   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
+   Note={Submitted} }</pre>
+   </div>
+
+<!--more-->
+
+<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
+  holds in countably iterable, passive premice construced over their
+  reals which satisfy the Axiom of Determinacy, $\operatorname{AD}$,
+  in a $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}}$ background
+  universe. This generalizes an argument of Kechris for
+  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
+  particular, we show that for any $n \leq \omega$ and any countable
+  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
+  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
+  \operatorname{DC}$. Furthermore, we argue that for countable premice
+  it suffices to work in a background universe satisfying
+  $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Thoughts on accessibility of equation layout]]></title>
         <id>https://www.peterkrautzberger.org/0207/</id>
@@ -339,7 +410,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(with J. Aguilera and P. Schlicht) Long Games and sigma-Projective Sets]]></title>
+        <title type="html"><![CDATA[(with J. Aguilera and P. Schlicht) Long games and sigma-projective sets]]></title>
         <id>https://muellersandra.github.io/publication/2018/09/22/PaperLongGamesSigmaProjSets.html</id>
         <link href="https://muellersandra.github.io/publication/2018/09/22/PaperLongGamesSigmaProjSets.html">
         </link>
@@ -350,7 +421,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
 <div style="display:none" id="bibAMS18">
 <pre class="collapse"> @ARTICLE{AMS18,
    AUTHOR= {J. Aguilera, S. Müller and P. Schlicht},
-   TITLE= {Long Games and $\sigma$-Projective Sets},
+   TITLE= {Long games and $\sigma$-projective sets},
    Note={Submitted} }</pre>
 </div>
 
@@ -601,19 +672,6 @@ in New York.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
-        <id>http://scoskey.org/course/1819f-187/</id>
-        <link href="http://scoskey.org/course/1819f-187/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 187, Fall 2018 (<a href="http://scoskey.org/m187">site</a>)<!--more--></p>
-
-<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Real and linear analysis]]></title>
         <id>http://scoskey.org/course/1819f-515/</id>
         <link href="http://scoskey.org/course/1819f-515/">
@@ -622,6 +680,19 @@ in New York.</p>
         <summary type="html"><![CDATA[<p>Math 515, Fall 2018 (<a href="http://scoskey.org/m515">site</a>)<!--more--></p>
 
 <p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
+        <id>http://scoskey.org/course/1819f-187/</id>
+        <link href="http://scoskey.org/course/1819f-187/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 187, Fall 2018 (<a href="http://scoskey.org/m187">site</a>)<!--more--></p>
+
+<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -790,8 +861,8 @@ holds. <a href="http://karagila.org/2018/definable-models-without-choice/">Conti
     </entry>
     <entry>
         <title type="html"><![CDATA[KNAW Academy Colloquium on Generalised Baire Spaces - Lebesgue’s Density Theorem for tree forcing ideals]]></title>
-        <id>https://muellersandra.github.io/talk/upcomingtalk/contalk/2018/06/08/TalkAmsterdam.html</id>
-        <link href="https://muellersandra.github.io/talk/upcomingtalk/contalk/2018/06/08/TalkAmsterdam.html">
+        <id>https://muellersandra.github.io/talk/contalk/2018/06/08/TalkAmsterdam.html</id>
+        <link href="https://muellersandra.github.io/talk/contalk/2018/06/08/TalkAmsterdam.html">
         </link>
         <updated>2018-06-07T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On August 24th, 2018 I gave a short talk at the
@@ -824,8 +895,8 @@ Weinert.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[1st Girona conference on inner model theory - Long games and Woodin cardinals]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/06/07/TalkGirona.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/06/07/TalkGirona.html">
+        <id>https://muellersandra.github.io/talk/invconftalk/2018/06/07/TalkGirona.html</id>
+        <link href="https://muellersandra.github.io/talk/invconftalk/2018/06/07/TalkGirona.html">
         </link>
         <updated>2018-06-06T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On July 17, 2018 I gave a talk at the <a href="https://ivv5hpp.uni-muenster.de/u/rds/girona_meeting_2018.html">1st
@@ -1509,38 +1580,6 @@ Weinert.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GDMV Jahrestagung Paderborn - Projective homogeneous spaces and the Wadge hierarchy]]></title>
-        <id>https://muellersandra.github.io/talk/invconftalk/2018/03/06/TalkGDMVPaderborn.html</id>
-        <link href="https://muellersandra.github.io/talk/invconftalk/2018/03/06/TalkGDMVPaderborn.html">
-        </link>
-        <updated>2018-03-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On March 06, 2018 I gave an invited talk in the Section in Logic at the annual
-meeting <a href="http://www.gdmv2018.de">GDMV</a> of the German Mathematical
-Society (DMV) joint with GDM taking place March 5th to 9th in
-Paderborn, Germany.</p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of continuous
-reducibility on the Baire space ${}^\omega\omega$ in form of a game
-and analyzed it in a systematic way. He defined a refinement of the
-Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces.</p>
-
-<p>In this talk, we will discuss the basics behind these results and show
-the first steps towards generalizing them to the projective hierarchy,
-assuming projective determinacy (PD). In particular, we will outline
-that under PD every homogeneous projective space is in fact strongly
-homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A case study in mathematical content]]></title>
         <id>https://www.peterkrautzberger.org/0203/</id>
         <link href="https://www.peterkrautzberger.org/0203/">
@@ -1740,46 +1779,6 @@ It is known that for many transcendental entire functions the escaping set has a
 <p><em>Abstract</em>: In this talk I presented the notation and machinery of forcing, the statement of Martin’s axiom, and some well-known applications in the area of Baire category and measure theory.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(with G. Sargsyan) HOD in inner models with Woodin cardinals]]></title>
-        <id>https://muellersandra.github.io/publication/2018/01/10/PaperHODMnxG.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/01/10/PaperHODMnxG.html">
-        </link>
-        <updated>2018-01-09T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~uhlenbrock/MuellerSargsyanHODMnxG.pdf">PDF.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMS18');" class="title">Bibtex.</a></p>
-
-<div style="display:none" id="bibMS18">
-<pre class="collapse"> @ARTICLE{MS18,
-   AUTHOR= {S. Müller and G. Sargsyan},
-   TITLE= {HOD in inner models with Woodin cardinals},
-   Note={Submitted} }</pre>
-</div>
-
-<!--more-->
-
-<p>We analyze the hereditarily ordinal definable sets
-  $\operatorname{HOD}$ in $M_n(x,g)$ for a Turing cone of reals $x$,
-  where $M_n(x)$ is the canonical inner model with $n$ Woodin
-  cardinals build over $x$ and $g$ is generic over $M_n(x)$ for the
-  Lévy collapse up to its bottom inaccessible limit of inaccessible
-  cardinals. We prove that assuming
-  $\boldsymbol\Pi^1_{n+2}$-determinacy, for a Turing cone of reals
-  $x$, $\operatorname{HOD}^{M_n(x,g)} = M_n(\mathcal{M}_{\infty} |
-  \delta_\infty, \Lambda),$ where $\mathcal{M}_\infty$ is a direct limit of
-  iterates of a certain initial segment of $M_{n+1}$,
-  $\delta_\infty$ is the unique Woodin cardinal in $\mathcal{M}_\infty$, and
-  $\Lambda$ is a partial iteration strategy for $\mathcal{M}_{\infty}$. It
-  will also be shown that under the same hypothesis
-  $\operatorname{HOD}^{M_n(x,g)}$ satisfies $\operatorname{GCH}$. These results
-  generalize to $\operatorname{HOD}^M$ for self-iterable canonical
-  inner models $M$, for example $M_\omega$, the least mouse with
-  $\omega$ Woodin cardinals, or initial segments of the least non-tame
-  mouse $M_{nt}$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
         </author>
     </entry>
     <entry>
@@ -8824,22 +8823,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8856,6 +8839,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
