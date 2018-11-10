@@ -3,7 +3,7 @@ layout: page
 title: Blogs
 ---
 
-* **Joel David Hamkins** [Faculty respondent to paper of Ethan Jarzak on Paradoxical Desires, Oxford Graduate Philosophy Conference, November 2018](http://jdh.hamkins.org/faculty-respondent-ethan-jarzak-on-paradoxical-desires-oxford-graduate-philosophy-conference-november-2018/)
+* **Joel David Hamkins** [Faculty respondent to paper of Ethan Jerzak on Paradoxical Desires, Oxford Graduate Philosophy Conference, November 2018](http://jdh.hamkins.org/faculty-respondent-ethan-jerzak-on-paradoxical-desires-oxford-graduate-philosophy-conference-november-2018/)
 * **Sandra Müller** [(with J. Aguilera) The consistency strength of long projective determinacy](https://muellersandra.github.io/preprint/2018/11/07/PaperMiceFromLongGames.html)
 * **Sandra Müller** [The Axiom of Determinacy implies Dependent Choices in mice](https://muellersandra.github.io/preprint/2018/11/06/PaperADImpliesDCinMice.html)
 * **Peter Krautzberger** [6 Thoughts on accessibility of equation layout](https://www.peterkrautzberger.org/0207/)
