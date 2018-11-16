@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Asaf Karagila** [Pickles!](http://karagila.org/2018/pickles/)
 * **Peter Krautzberger** [Three interesting results from the AIM workshop](https://www.peterkrautzberger.org/0208/)
 * **Joel David Hamkins** [Faculty respondent to paper of Ethan Jerzak on Paradoxical Desires, Oxford Graduate Philosophy Conference, November 2018](http://jdh.hamkins.org/faculty-respondent-ethan-jerzak-on-paradoxical-desires-oxford-graduate-philosophy-conference-november-2018/)
 * **Sandra Müller** [(with J. Aguilera) The consistency strength of long projective determinacy](https://muellersandra.github.io/preprint/2018/11/07/PaperMiceFromLongGames.html)
@@ -12,6 +13,5 @@ title: Blogs
 * **Victoria Gitman** [The Stable Core](https://victoriagitman.github.io/talks/2018/10/15/the-stable-core-Barcelona.html)
 * **Samuel Coskey** [On splitting families](http://scoskey.org/presentation/on-splitting-families/)
 * **Nick Gill** [MSc thesis on matrix completion](https://nickpgill.github.io/2018/10/05/victor-tomno-msc-thesis/)
-* **Assaf Rinot** [Souslin trees at successors of regular cardinals](http://blog.assafrinot.com/?p=4550)
 
 [Grab the feed for all Blogs!](Blogs.xml)
