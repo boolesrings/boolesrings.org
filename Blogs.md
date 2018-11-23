@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Asaf Karagila** [Preserving Properness](http://karagila.org/2018/preserving-properness/)
 * **Asaf Karagila** [Pickles!](http://karagila.org/2018/pickles/)
 * **Peter Krautzberger** [Three interesting results from the AIM workshop](https://www.peterkrautzberger.org/0208/)
 * **Sandra Müller** [(with P. Schlicht, D. Schrittesser and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals](https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html)
@@ -12,6 +13,5 @@ title: Blogs
 * **Peter Krautzberger** [6 Thoughts on accessibility of equation layout](https://www.peterkrautzberger.org/0207/)
 * **Asaf Karagila** [Cohen's Oddity](http://karagila.org/2018/cohens-oddity/)
 * **Victoria Gitman** [The Stable Core](https://victoriagitman.github.io/talks/2018/10/15/the-stable-core-Barcelona.html)
-* **Samuel Coskey** [On splitting families](http://scoskey.org/presentation/on-splitting-families/)
 
 [Grab the feed for all Blogs!](Blogs.xml)
