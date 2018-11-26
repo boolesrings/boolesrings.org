@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-11-26T11:45:27Z</updated>
+    <updated>2018-11-26T15:45:30Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The rearrangement number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-rearrangement-number/#comment-9447</id>
+        <link href="http://jdh.hamkins.org/the-rearrangement-number/#comment-9447">
+        </link>
+        <updated>2018-11-26T14:40:26Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] The rearrangement number. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Lectures on the Philosophy of Mathematics, Oxford, Michaelmas 2018 by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2018/#comment-9403</id>
@@ -191,18 +202,6 @@ Accepted, September 2018.</p>]]></summary>
         </link>
         <updated>2018-09-21T14:20:54Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] in $a$ if it is a member of a finite set definable from $a$ (as in J. D. Hamkins and C. Leahy, Algebraicity and implicit definability in set theory). Ehrenfeucht&#8217;s lemma holds for the ordinal-algebraic sets, we prove, if and only if the [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The rearrangement number: how many rearrangements of a series suffice to validate absolute convergence? Warwick Mathematics Colloquium, October 2018 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/#comment-9375</id>
-        <link href="http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/#comment-9375">
-        </link>
-        <updated>2018-09-21T08:21:17Z</updated>
-        <summary type="html"><![CDATA[<p>Rearrangement does not affect the sum of a finite sum, for the reason that you mention. However, it can affect infinite sums, in certain cases, and this is precisely the content of Riemann&#8217;s rearrangement theorem. It is not difficult to argue that rearrangement does not affect infinite sums consisting entirely of positive numbers, since the finite partial sums of the series and the rearranged series will be cofinal in each other and therefore have the same supremum. And similarly with all-negative sums, and with infinite sums that are <em>absolutely</em> convergent. </p>
-<p>But in the case of sums that are <em>conditionally</em> convergent, however, then rearrangements can change the value of the sum. A conditionally convergent series is an infinite sum that converges, but not when you take the absolute values of the terms in the series. Thus, the positive and negative terms separately diverge to infinity (and negative infinity), but taken together, they cancel and the sum converges. In this case, Riemann proved, you can rearrange the terms to make the sum whatever you like. The way the proof goes is this: take a few positive terms until they add up to more than your target value, then take negative terms until you&#8217;ve undershot the target, and then positive terms again and so on. In the limit, you will hit the target exactly.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

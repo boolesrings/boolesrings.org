@@ -3,6 +3,9 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019](http://jdh.hamkins.org/the-rearrangement-and-subseries-numbers-muenster-january-2019/)
+* **Joel David Hamkins** [An infinitary-logic-free proof of the Barwise end-extension theorem, with new applications, University of Münster, January 2019](http://jdh.hamkins.org/an-infinitary-logic-free-proof-of-the-barwise-extension-theorem-university-of-munster-january-2019/)
+* **Joel David Hamkins** [A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018](http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/)
 * **Asaf Karagila** [Preserving Properness](http://karagila.org/2018/preserving-properness/)
 * **Asaf Karagila** [Pickles!](http://karagila.org/2018/pickles/)
 * **Peter Krautzberger** [Three interesting results from the AIM workshop](https://www.peterkrautzberger.org/0208/)
@@ -10,8 +13,5 @@ title: Blogs
 * **Joel David Hamkins** [Faculty respondent to paper of Ethan Jerzak on Paradoxical Desires, Oxford Graduate Philosophy Conference, November 2018](http://jdh.hamkins.org/faculty-respondent-ethan-jerzak-on-paradoxical-desires-oxford-graduate-philosophy-conference-november-2018/)
 * **Sandra Müller** [(with J. Aguilera) The consistency strength of long projective determinacy](https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html)
 * **Sandra Müller** [The Axiom of Determinacy implies Dependent Choices in mice](https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html)
-* **Peter Krautzberger** [6 Thoughts on accessibility of equation layout](https://www.peterkrautzberger.org/0207/)
-* **Asaf Karagila** [Cohen's Oddity](http://karagila.org/2018/cohens-oddity/)
-* **Victoria Gitman** [The Stable Core](https://victoriagitman.github.io/talks/2018/10/15/the-stable-core-Barcelona.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)
