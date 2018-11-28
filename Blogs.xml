@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-11-28T15:45:35Z</updated>
+    <updated>2018-11-28T19:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1310,7 +1310,10 @@ In the 1970s, consistent examples of $\kappa$-cc posets whose squares are not $\
 To do so, we carry out a systematic study of colorings satisfying a strong unboundedness condition. We prove a number of results indicating circumstances under which such colorings exist, in particular focusing on cases in which these colorings are moreover closed.</p>
 <p><span id="more-4530"></span></p>
 <p><strong>Downloads:</strong></p>
-<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4530, '')"  href="http://www.assafrinot.com/files/paper34.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4530, '')" href="https://arxiv.org/abs/1809.08480" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4530, '')" href="http://dx.doi.org/10.1007/s00012-018-0565-1" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4530, '')" href="https://speakerdeck.com/player/418487216b03498997c2716ba2c80802" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/18" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper34" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/34" class="billet_perm"></a></td></tr></table></p><!--more--></p>]]></summary>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4530, '')"  href="http://www.assafrinot.com/files/paper34.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4530, '')" href="https://arxiv.org/abs/1809.08480" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4530, '')" href="http://dx.doi.org/10.1007/s00012-018-0565-1" class="billet_publish"></a><a href="http://www.ams.org/mathscinet-getitem?mr=3878671" class="billet_review"></a><a onclick="thankYouButtonClick(4530, '')" href="https://speakerdeck.com/player/418487216b03498997c2716ba2c80802" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/18" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper34" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/34" class="billet_perm"></a></td></tr></table></p>
+<p><strong>Citation information:</strong></p>
+<p>C. Lambie-Hanson and A. Rinot, <em>Knaster and friends I: closed colorings and precalibers</em>, Algebra Universalis, 79(4): 90, 2018.</p>
+<p><!--more--></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
         </author>
