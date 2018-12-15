@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-12-15T11:45:24Z</updated>
+    <updated>2018-12-15T15:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,29 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9566</id>
+        <link href="http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9566">
+        </link>
+        <updated>2018-12-15T12:53:09Z</updated>
+        <summary type="html"><![CDATA[<p>Athar, thanks very much for this. It seems to me that this way of arguing in part amounts to replacing the Keisler-Morley theorem in my argument with the omitting types theorem. That isn&#8217;t too suprising, I suppose, since one can prove the Keisler-Morley theorem by omitting types. But your argument also unifies nicely with the rest of the argument, and so I think it is very nice. I am wondering whether this way of thinking can simply the proof of the universal $\Sigma_1$-definable sequence? The current argument is based on this proof of the Barwise extension theorem, and perhaps we can simplify it via omitting types. I want to think that through. </p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018 by Athar]]></title>
+        <id>http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9565</id>
+        <link href="http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9565">
+        </link>
+        <updated>2018-12-15T01:25:00Z</updated>
+        <summary type="html"><![CDATA[<p>Hi Joel,</p>
+<p>To flesh out my comment from your Q&amp;A session, given a countable M, consider the theory T consisting of the atomic diagram of M, together with ZFC + V = L. You proved that this theory is (finitely) consistent in your &#8220;nonstandard&#8221; case (note that in this proof, we do not need to assume that M is omega nonstandard). So by the omitting types theorem, there is a model N of T such that N is an end extension of M.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The hierarchy of logical expressivity by Stan Letovsky]]></title>
         <id>http://jdh.hamkins.org/the-hierarchy-of-logical-expressivity/#comment-9546</id>
@@ -180,28 +203,6 @@ Accepted, September 2018.</p>]]></summary>
         </link>
         <updated>2018-09-24T01:18:33Z</updated>
         <summary type="html"><![CDATA[<p>Thanks for your very interesting post! We don&#8217;t seem to hear much about compasses anymore&#8211;but for some of us the compass opened the &#8220;magical&#8221; world geometry. Playing with a compass started me on one path of exploration, as noted in a post at <a href="https://aperiodical.com/2018/07/bending-the-law-of-sines/" rel="nofollow">https://aperiodical.com/2018/07/bending-the-law-of-sines/</a>.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The inclusion relations of the countable models of set theory are all isomorphic by On set-theoretic mereology as a foundation of mathematics, Oxford Phil Math seminar, October 2018 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/inclusion-relations-are-all-isomorphic/#comment-9378</id>
-        <link href="http://jdh.hamkins.org/inclusion-relations-are-all-isomorphic/#comment-9378">
-        </link>
-        <updated>2018-09-21T16:32:18Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] D. Hamkins and M. Kikuchi, The inclusion relations of the countable models of set theory are all isomorphic, arχiv:1704.04480, [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Set-theoretic mereology by On set-theoretic mereology as a foundation of mathematics, Oxford Phil Math seminar, October 2018 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/set-theoretic-mereology/#comment-9377</id>
-        <link href="http://jdh.hamkins.org/set-theoretic-mereology/#comment-9377">
-        </link>
-        <updated>2018-09-21T16:26:13Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] D. Hamkins and M. Kikuchi, Set-theoretic mereology, Logic and Logical Philosophy, special issue “Mereology and beyond, part II”, pp. 1-24, [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

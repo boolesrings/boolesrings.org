@@ -3,6 +3,8 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018 by Joel David Hamkins](http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9566)
+* **Comments for Joel David Hamkins** [Comment on A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018 by Athar](http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9565)
 * **Comments for Joel David Hamkins** [Comment on The hierarchy of logical expressivity by Stan Letovsky](http://jdh.hamkins.org/the-hierarchy-of-logical-expressivity/#comment-9546)
 * **Comments for Joel David Hamkins** [Comment on The rearrangement number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 \| Joel David Hamkins](http://jdh.hamkins.org/the-rearrangement-number/#comment-9447)
 * **Comments for Joel David Hamkins** [Comment on Lectures on the Philosophy of Mathematics, Oxford, Michaelmas 2018 by Joel David Hamkins](http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2018/#comment-9403)
@@ -11,7 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on Alan Turing, On computable numbers by Lorenzo Cocco](http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9391)
 * **Comments for Joel David Hamkins** [Comment on Alan Turing, On computable numbers by Joel David Hamkins](http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9390)
 * **Comments for Joel David Hamkins** [Comment on Alan Turing, On computable numbers by Sam Butchart](http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9389)
-* **Comments for Joel David Hamkins** [Comment on Alan Turing, On computable numbers by Joel David Hamkins](http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9388)
-* **Comments for Joel David Hamkins** [Comment on Alan Turing, On computable numbers by Lorenzo Cocco](http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9385)
 
 [Grab the feed for all Comments!](Comments.xml)
