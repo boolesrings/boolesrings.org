@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-12-20T11:45:32Z</updated>
+    <updated>2018-12-20T15:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,31 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Groups with identical element counts]]></title>
+        <id>https://nickpgill.github.io/groups-with-identical-element-counts</id>
+        <link href="https://nickpgill.github.io/groups-with-identical-element-counts">
+        </link>
+        <updated>2018-12-20T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Some time ago I heard an interesting story about a remarkable mathematical fact. I can’t locate the source right now, so here is the story as I understand it.</p>
+
+<p>If one consults that <em>Atlas of Finite Groups</em> and looks at the maximal subgroups of the Mathieu group $M_23$, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form $PSL_3(4):2$; the second has form $2^4:A_7$.</p>
+
+<p>It’s important to note how <strong>very different</strong> these two groups are, despite their shared order: in particular, they have different non-abelian composition factors.</p>
+
+<p>John G. Thompson investigated these groups a little further and observed the following remarkable fact: they have <strong>exactly the same element count, by order</strong>. By which I mean that they have the same number of elements of order $2$; the same number of elements of order $3$; and so on. (How he realised this, I really don’t know – but I guess geniuses tend to realise more things than the rest of us…)</p>
+
+<p>Thompson’s observation led him to make the following conjecture: <em>Suppose that two groups, $G$ and $H$, have exactly the same element count, by order. Suppose, moreover, that $G$ is solvable. Then $H$ is solvable.</em></p>
+
+<p>This conjecture is saying, effectively, that it is, in principle, possible to recognition whether or not a group is solvable simply by knowing the number of elements in the group of each different order. Note, that I say “in principle”, as it is not proposing an algorithm for recognising solvability in this way – that is a harder question.</p>
+
+<p>By way of comparison, it is easy to see that there is an algorithm to recognise <em>nilpotency</em> by knowing the number of elements in the group of each different order – one simply tests whether, for each prime $p$ dividing the order of the group, the number of elements of order a power of $p$ is equal to the highest power of $p$ dividing the order of the group. If this is true for all $p$, then the group has a unique Sylow $p$-subgroup for each prime $p$ dividing its order, and this property characterises nilpotency.</p>
+
+<p>As I understand it, Thompson’s conjecture has been proved… but I’m not sure by whom. If anyone could point me to a source, I’d like to give appropriate credit! I don’t know if an algorithm for recognising solvability in this way has ever been written down. I’m also unable to point to the place where Thompson first made the observation about these subgroups of $M_23$ and where he first stated this conjecture; again any help with sources would be appreciated.</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning LaTeX in Jupyter Notebooks]]></title>
         <id>https://mikepawliuk.ca/2018/12/16/learning-latex-in-jupyter-notebooks/</id>
@@ -4075,6 +4100,49 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
+        <id>https://www.peterkrautzberger.org/0190/</id>
+        <link href="https://www.peterkrautzberger.org/0190/">
+        </link>
+        <updated>2016-06-16T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
+<p>Anyway.</p>
+<h2>O to be a query...</h2>
+<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
+<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
+<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
+<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
+<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
+<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
+<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
+<h2>... of silkworm size</h2>
+<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
+<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
+<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
+<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
+<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
+<h2>... or immense</h2>
+<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
+<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
+<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
+<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
+<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
+<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
+<h2>the 800 pound query</h2>
+<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
+<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
+<h3>fool me once, shame on you.</h3>
+<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
+<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
+<p>Either way, a media query for MathML is pointless.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Written elsewhere]]></title>
         <id>https://www.peterkrautzberger.org/0189/</id>
         <link href="https://www.peterkrautzberger.org/0189/">
@@ -4162,49 +4230,6 @@ similar to mathematics.&quot;</p>
 </blockquote>
 <p>In other words, math accessibility sucks bad. And no solution will really help you there. But <a href="https://www.mathjax.org/mathjax-accessibility-extensions-v1-now-available/">MathJax now does its best to make it suck less</a>.</p>
 <p>Oh, speaking of accessibility, I'm extremely disappointed that I won't make it to <a href="http://www.roledrinks.nl/">role=drinks</a> after all -- but if you're close by, why don't you drop by?</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
-        <id>https://www.peterkrautzberger.org/0190/</id>
-        <link href="https://www.peterkrautzberger.org/0190/">
-        </link>
-        <updated>2016-06-16T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
-<p>Anyway.</p>
-<h2>O to be a query...</h2>
-<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
-<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
-<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
-<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
-<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
-<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
-<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
-<h2>... of silkworm size</h2>
-<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
-<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
-<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
-<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
-<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
-<h2>... or immense</h2>
-<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
-<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
-<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
-<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
-<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
-<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
-<h2>the 800 pound query</h2>
-<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
-<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
-<h3>fool me once, shame on you.</h3>
-<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
-<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
-<p>Either way, a media query for MathML is pointless.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -7798,68 +7823,6 @@ But he use of LEM is essential here! :-)</li>
 </ul>
 
 <p>I have e-copies of most of the texts listed above and can provide them on request.</p>]]></summary>
-        <author>
-            <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Background literature on growth and expanders]]></title>
-        <id>https://nickpgill.github.io/2014/03/11/background-literature-on-growth-and-expanders/</id>
-        <link href="https://nickpgill.github.io/2014/03/11/background-literature-on-growth-and-expanders/">
-        </link>
-        <updated>2014-03-11T20:53:26Z</updated>
-        <summary type="html"><![CDATA[<p>The material in here is fairly comprehensive. Comments in <font color="#FF0000">red</font> describe the sources that I suggest you start with. <a href="australia.html">Back to main seminars page</a>.</p>
-
-<p>Background on <strong>expanders</strong>:</p>
-
-<ul>
-  <li>Hoory, Linial, Wigderson, <a href="http://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf">Expander graphs and their applications</a>. 120 pages.</li>
-  <li>Linial, Wigderson, <a href="http://www.math.ias.edu/~boaz/ExpanderCourse/">Lecture notes</a>. I belive the previous link is a more up-to-date version of these notes.</li>
-  <li>Nielsen, <a href="http://www.qinfo.org/people/nielsen/blog/archive/notes/expander_graphs.pdf">Notes on expander graphs</a>. Also in <a href="http://michaelnielsen.org/blog/expander-graphs-i-introduction/">blog format</a>.</li>
-  <li>Davidoff, Sarnak, Valette, <em>Elementary Number Theory, Group Theory, and Ramanujan Graphs</em>. <font color="#FF0000">The Overview and Chapter 1 of this book give a good grounding in the basics of expanders.</font> &lt;/ul&gt; &lt;/p&gt;</li>
-</ul>
-
-<p>On the <strong>sum-product</strong> phenomenon. The basic text is Tao and Vu “Additive Combinatorics”. Here are a few other links:</p>
-
-<ul>
-  <li>Green, <a href="http://arxiv.org/abs/0904.2075">Sum-product over F_p</a>. This is a survey article.</li>
-  <li>Green, <a href="http://www.dpmms.cam.ac.uk/~bjg23/AddCombinatorics/notes7.pdf">Sum-product over the complexes</a>. This focusses on Solymosi’s result.</li>
-  <li>Bourgain, Katz, Tao, <a href="http://arxiv.org/abs/math/0301343">Sum-product over F_p</a>. This is the first proof of sum-product over F_p. However it is difficult so I wouldn’t recommend it as a first read. Plus it is not completely general (it doesn’t work for very small sets). On the plus side it very clearly demonstrates the connection between sum-product phenomena and Szemeredi-Trotter theorems. So it’s worth looking at for this reason.</li>
-  <li>Helfgott, <a href="http://arxiv.org/abs/0807.2027">Growth in SL_3</a>. Section 3 of this paper is devoted to a generalization of <em>the idea of</em> the sum-product theorem. It is based on the Glibichuk-Konyagin sum-product theorem over F_p (which works for small sets so improves the work of BKT mentioned above), but is couched in much more general terms; the statement involves one group acting upon another. <font color="#FF0000">This is the key statement of the sum-product phenomenon for our purposes; the exposition is excellent.</font></li>
-  <li>Tao and Vu, <em>Additive Combinatorics</em>. <font color="#FF0000">To get a taste of how incidence theorems are related to the sum-product phenomenon read Sections 8.1-8.3.</font> &lt;/ul&gt;</li>
-</ul>
-
-<p>On <strong>growth in non-abelian groups</strong>:</p>
-
-<ul>
-  <li>Helfgott, <a href="http://arxiv.org/abs/0807.2027">Growth in SL_3</a>. This paper is central. It includes a discussion of key ideas including escape, non-singularity, sticking subgroups in different directions, bounds on torus intersection, bounds on conjugacy classes, use of incidence theorems etc. The statement of Theorem 1.1 is “ideal” (as this is currently understood); it reduces questions of growth to the nilpotent setting. <font color="#FF0000">Sections 4 and 5 of this paper are particularly vital. Subsequent sections of the paper use incidence theorems; we will be able to go to the full result more directly.</font></li>
-  <li>Breuillard, Green, Tao, <a href="http://arxiv.org/abs/1001.4570">Growth in Chevalley groups</a>. This is an announcement of the general result which focusses on the pivot argument. <font color="#FF0000">A full proof of this result does not yet exist in the literature. So for now the best exposition of the result is <a href="http://terrytao.wordpress.com/2010/01/27/linear-approximate-groups/">this blog entry of Tao</a> (see also the subsequent discussion, especially the simplifications described by Helfgott).</font></li>
-  <li>Pyber, Szabo, <a href="http://arxiv.org/abs/1001.4556">Growth in groups of Lie type</a>. The methods in this paper are similar to those of the previous link. However the statement is more general (it holds for twisted groups). In addition examples are given that justify the dependency of the constant epsilon on the rank.</li>
-  <li>Larsen, Pink, <a href="http://www.math.ethz.ch/~pink/ftp/LP5.pdf">Subgroups of algebraic groups</a>. This paper contains material that was central to adapting Helfgott’s work to the general setting (a la the previous two points). &lt;/ul&gt; &lt;/p&gt;</li>
-</ul>
-
-<p><strong>Expanders from groups</strong>:</p>
-
-<ul>
-  <li>Bourgain, Gamburd, <a href="http://annals.princeton.edu/annals/2008/167-2/p07.xhtml">Expanders in SL_2(p)</a>. This uses Helfgott’s result on growth in SL_2(p) to generate expanders. These two clever people have a couple of other papers that are also of interest:</li>
-  <li>J. Bourgain and A. Gamburd, Expansion and random walks in SLd (Z/pn Z):I, J. Eur. Math. Soc. 10 (2008), 987-1011.</li>
-  <li>J. Bourgain and A. Gamburd, SLd (Z/pn Z):II, preprint</li>
-  <li>Varju, <a href="http://arxiv.org/abs/1001.3664">Expansion in SL_d</a> This generalizes some of the work of Bourgain and Gamburd.</li>
-  <li>Kassabov, Nikolov, Lubotzky, <a href="http://arxiv.org/abs/math/0510562">Finite simple groups as expanders</a>. An entirely different set of techniques.</li>
-  <li>Kassabov, <a href="http://arxiv.org/abs/math/0505624">Symmetric groups as expanders</a>. Another entirely different set of techniques.</li>
-</ul>
-
-<p><strong>Sieving</strong>:</p>
-<ul>
-  <li>Bourgain, Gamburd, Sarnak, <a href="www.math.princeton.edu/sarnak/sespM8.pdf">Affine linear sieve, expanders, and sum-product</a>. Using expansion results to <em>sieve</em>. The latter activity being something number theorists are particularly fond of.</li>
-  <li>Green, <a href="http://arxiv.org/abs/0911.3354">Linear approximate groups and connections</a>. A survey article which, amongst other things, discusses the the work of BGS on the sieve. &lt;/ul&gt;</li>
-</ul>
-
-<p><strong>Property T</strong>: The first construction of expander graphs was by Margulis and used property T, a representation theoretic property that holds for certain discrete groups (SL_d(Z) with d&gt;2 for instance).</p>
-<ul>
-  <li><a href="http://en.wikipedia.org/wiki/Kazhdan's_property_(T)">Wikipedia</a> gives a definition of Property T.</li>
-  <li>A. Lubotzky. <em>Discrete groups, expanding graphs and invariant measures</em>, volume 125 of Progress in Mathematics. This book outlines (amongst other things) the connection between Property T and expansion properties. &lt;/ul&gt;</li>
-</ul>]]></summary>
         <author>
             <name>Nick Gill</name>
         </author>
@@ -14845,33 +14808,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -14894,6 +14830,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
