@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-12-20T15:45:34Z</updated>
+    <updated>2018-12-20T19:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -21,19 +21,19 @@
         <updated>2018-12-20T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Some time ago I heard an interesting story about a remarkable mathematical fact. I can’t locate the source right now, so here is the story as I understand it.</p>
 
-<p>If one consults that <em>Atlas of Finite Groups</em> and looks at the maximal subgroups of the Mathieu group $M_23$, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form $PSL_3(4):2$; the second has form $2^4:A_7$.</p>
+<p>If one consults the <em>Atlas of Finite Groups</em> and looks at the maximal subgroups of the Mathieu group M_23, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form PSL_3(4):2; the second has form 2^4:A_7.</p>
 
 <p>It’s important to note how <strong>very different</strong> these two groups are, despite their shared order: in particular, they have different non-abelian composition factors.</p>
 
-<p>John G. Thompson investigated these groups a little further and observed the following remarkable fact: they have <strong>exactly the same element count, by order</strong>. By which I mean that they have the same number of elements of order $2$; the same number of elements of order $3$; and so on. (How he realised this, I really don’t know – but I guess geniuses tend to realise more things than the rest of us…)</p>
+<p>John G. Thompson investigated these groups a little further and observed the following remarkable fact: they have <strong>exactly the same element count, by order</strong>. By which I mean that they have the same number of elements of order 2; the same number of elements of order 3; and so on. (How he realised this, I really don’t know – but I guess geniuses tend to realise more things than the rest of us…)</p>
 
-<p>Thompson’s observation led him to make the following conjecture: <em>Suppose that two groups, $G$ and $H$, have exactly the same element count, by order. Suppose, moreover, that $G$ is solvable. Then $H$ is solvable.</em></p>
+<p>Thompson’s observation led him to make the following conjecture: <em>Suppose that two groups, G and H, have exactly the same element count, by order. Suppose, moreover, that G is solvable. Then H is solvable.</em></p>
 
 <p>This conjecture is saying, effectively, that it is, in principle, possible to recognition whether or not a group is solvable simply by knowing the number of elements in the group of each different order. Note, that I say “in principle”, as it is not proposing an algorithm for recognising solvability in this way – that is a harder question.</p>
 
-<p>By way of comparison, it is easy to see that there is an algorithm to recognise <em>nilpotency</em> by knowing the number of elements in the group of each different order – one simply tests whether, for each prime $p$ dividing the order of the group, the number of elements of order a power of $p$ is equal to the highest power of $p$ dividing the order of the group. If this is true for all $p$, then the group has a unique Sylow $p$-subgroup for each prime $p$ dividing its order, and this property characterises nilpotency.</p>
+<p>By way of comparison, it is easy to see that there is an algorithm to recognise <em>nilpotency</em> by knowing the number of elements in the group of each different order – one simply tests whether, for each prime <em>p</em> dividing the order of the group, the number of elements of order a power of <em>p</em> is equal to the highest power of <em>p</em> dividing the order of the group. If this is true for all <em>p</em>, then the group has a unique Sylow <em>p</em>-subgroup for each prime <em>p</em> dividing its order, and this property characterises nilpotency.</p>
 
-<p>As I understand it, Thompson’s conjecture has been proved… but I’m not sure by whom. If anyone could point me to a source, I’d like to give appropriate credit! I don’t know if an algorithm for recognising solvability in this way has ever been written down. I’m also unable to point to the place where Thompson first made the observation about these subgroups of $M_23$ and where he first stated this conjecture; again any help with sources would be appreciated.</p>]]></summary>
+<p>As I understand it, Thompson’s conjecture has been proved… but I’m not sure by whom. If anyone could point me to a source, I’d like to give appropriate credit! I don’t know if an algorithm for recognising solvability in this way has ever been written down. I’m also unable to point to the place where Thompson first made the observation about these subgroups of M_23 and where he first stated this conjecture; again any help with sources would be appreciated.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
         </author>
@@ -197,6 +197,37 @@
 <p>In another problem there, coming from a work with David Asperó, we asked if an \(\omega_2\)-closed forcing must preserve the property of being proper. Yasou Yoshinobu provided us with a negative answer based on Shelah's <em>&quot;Proper and Improper Forcing&quot; XVII Observation 2.12 (p.826)</em>. Take \(\kappa\) to be uncountable, by forcing with \(\Add(\omega,1)\ast\Col(\omega_1,2^\kappa)\) and appealing to the gap lemma, \((2^{<\kappa})\) is a tree with only \(\aleph_1\) branches. It can therefore be specialized by a ccc forcing in that model. The iteration of these three forcing (Cohen real, collapse, specialize) is clearly proper. But now by forcing with \(\Add(\kappa,1)\) we must in fact violate the properness of this forcing, which was defined in the ground model, since the new branch is also generic for the tree and will therefore collapse \(\omega_1\). <a href="http://karagila.org/2018/preserving-properness/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the subgroup lattice of a group]]></title>
+        <id>https://nickpgill.github.io/on-the-subgroup-lattice</id>
+        <link href="https://nickpgill.github.io/on-the-subgroup-lattice">
+        </link>
+        <updated>2018-11-20T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A couple of months ago, I went to a very enjoyable <a href="https://groupsinflorence2.wordpress.com/">conference in Florence</a>. During the course of this conference, I found myself stood in a coffee queue next to Peter Pal Palfy, whom I had heard of but never had the privilege of meeting. I want to recount a very interesting bit of maths that he told me about while we were in that queue – although it concerns a very natural group theory question, I had never heard of it before.</p>
+
+<p>Anyone who has done a little bit of group theory is familiar with the subgroup lattice of a group. This question concerns what can happen between a <em>second-maximal subgroup</em> of a group <em>G</em>, and the group <em>G</em> itself.</p>
+
+<p>A <strong>second-maximal subgroup</strong>, <em>H</em>, of <em>G</em> is a group that is maximal in the lattice of subgroups of <em>G</em>, once we have removed <em>G</em> itself, along with all maximal subgroups of <em>G</em>. By definition, the only proper subgroups that contain such a group <em>H</em> are maximal subgroups of <em>G</em>. So we have this set-up:</p>
+
+<p><img src="lattice.jpg" alt="Lattice image" /></p>
+
+<p>So, observe, that our second-maximal subgroup <em>H</em> lies inside precisely <em>n</em> maximal subgroups of <em>G</em>. Now, here’s the question: <em>what are the possibilities for the number n in the diagram?</em></p>
+
+<p>For instance, is it possible to find a group <em>G</em> which has a second-maximal subgroup <em>H</em> that lies in precisely 8 maximal subgroups of <em>G</em>. If the answer is “yes” to this question, then let’s say that 8 is an <strong>sml-number</strong>.</p>
+
+<p>A preliminary observation: If <em>G</em> is elementary abelian of order <em>p^2</em> for some prime <em>p</em>, then the trivial subgroup is second-maximal, and basic linear algebra says that it lies in precisely <em>1+p</em> maximal subgroups of <em>G</em>. Thus, <em>p+1</em> is an sml-number, for every prime <em>p</em>.</p>
+
+<p>With a bit of ingenuity, one can generalize this example to conclude that <em>q+1</em> is an sml-number, for every prime power <em>q</em>. What is more one can construct these examples so that the groups in question are solvable. Now, here’s a neat partial converse, due to Palfy and Pudlak: <em>If H is a second-maximal subgroup of a solvable group G, then H is contained in q+1 maximal subgroups for some prime power q</em>.</p>
+
+<p>For solvable groups, then, we have a complete answer. What about non-solvable groups? Here, the situation is still unclear. A 1983 paper of Walter Feit established that both 7 and 11 are sml-number – remarkably, he does this by exhibiting two different second maximal subgroups <em>H</em> of the alternating group <em>A_31</em>, one of which lies in exactly 7 maximals (here <em>H</em> is the normalizer of a Sylow 31-subgroup in <em>PSL(5,2)</em>), the other in 11 (here <em>H</em> is the normalizer of a Sylow 31-subgroup in <em>PSL(3,5)</em>).</p>
+
+<p>Subsequent work by Lucchini has shown that all numbers of the form <em>q+2</em> are sml-numbers for <em>q</em> a prime power. He has exhibited other infinite families of sml-numbers, although as far as I know Feit’s examples remain sporadic.</p>
+
+<p>To my knowledge, a complete answer still remains to be proven. I find it quite remarkable that such a basic question should throw up such bizarre and sporadic behaviour, and thereby resist a complete solution…</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
         </author>
     </entry>
     <entry>
@@ -566,7 +597,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 20"
+                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 21"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4550_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -1705,6 +1736,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>http://localhost:4000/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="http://localhost:4000/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -1740,24 +1789,6 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -7734,100 +7765,6 @@ But he use of LEM is essential here! :-)</li>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Topics in Group Theory]]></title>
-        <id>https://nickpgill.github.io/2014/03/11/topics-in-group-theory/</id>
-        <link href="https://nickpgill.github.io/2014/03/11/topics-in-group-theory/">
-        </link>
-        <updated>2014-03-11T21:31:49Z</updated>
-        <summary type="html"><![CDATA[<p>This website is for the 4th year course at the Universidad de Costa Rica starting Monday 10th March, 2014.</p>
-
-<p><strong>Practical matters</strong></p>
-
-<ul>
-  <li><strong>Lectures</strong>: There are two lectures per week (Monday, 15:00 – 17:50 and Thursday, 16:00 – 17:50) in Room 400. There will be 80 hours of lectures in total.</li>
-  <li><strong>Lecture notes</strong>: These will be put online on Thursday afternoon each week.</li>
-  <li><strong>Office hours</strong>: Mondays 2 – 3pm and Thursdays 2 – 4pm.</li>
-  <li><strong>Assessment</strong>: There will be two exams, each counting 40% of the total mark. The remaining 20% of the mark will be for exercises.
-    <ul>
-      <li>The first exam has happened. Answers are <a href="http://boolesrings.org/nickgill/files/2014/05/exam1withanswers.pdf">here</a>.</li>
-      <li>The second exam has happened. Answers are <a href="http://boolesrings.org/nickgill/files/2014/07/exam2withsolutions.pdf">here</a>.</li>
-    </ul>
-  </li>
-  <li><strong><a href="http://boolesrings.org/nickgill/files/2014/03/carta_al_estudiante_2014a2.pdf">La carta al estudiante</a></strong> (in Spanish).</li>
-</ul>
-
-<p><strong>Lecture notes</strong></p>
-
-<ul>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Lectures1and22.pdf">Lectures 1 and 2</a> – Introduction and Category Theory;</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Lecture32.pdf">Lecture 3</a> – Group actions.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/04/Lecture4.pdf">Lecture 4</a> – The alternating groups.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/04/Lecture51.pdf">Lecture 5</a> – Primitive permutation groups.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/04/Lecture6.pdf">Lecture 6</a> – The product action.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Lecture7.pdf">Lecture 7</a> – Minimal normal subgroups and the socle.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Lecture8.pdf">Lecture 8</a> – The O’Nan-Scott Theorem.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Lecture9.pdf">Lecture 9</a> – Series.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Lecture10.pdf">Lecture 10</a> – Fields and vector spaces.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Lecture11.pdf">Lecture 11</a> – Projective space.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Lecture12.pdf">Lecture 12</a> – Linear groups acting on projective space.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Lecture13.pdf">Lecture 13</a> – Forms and polar spaces.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Lecture14.pdf">Lecture 14</a> – Isometries and Witt’s lemma.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Lecture15.pdf">Lecture 15</a> – Abstract polar spaces. (This lecture is in draft form; its content is not officially part of the course.)</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/07/Lecture16.pdf">Lecture 16</a> – Symplectic groups.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/07/Lecture17.pdf">Lecture 17</a> – Unitary groups.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/07/Lecture18.pdf">Lecture 18</a> – Orthogonal groups.</li>
-</ul>
-
-<p><strong>Exercises</strong></p>
-
-<p>I will provide full answers for the first set, thereafter answers will only be provided on request.</p>
-
-<ul>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Exercises1and2.pdf">Exercises 1 and 2</a> – <a href="http://boolesrings.org/nickgill/files/2014/03/Answers1and21.pdf">Answers 1 and 2</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Exercises3.pdf">Exercises 3</a> – <a href="http://boolesrings.org/nickgill/files/2014/04/Answers3.pdf">Answers 3</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Exercises4.pdf">Exercises 4</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Exercises5.pdf">Exercises 5</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/03/Exercises6.pdf">Exercises 6</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Exercises7.pdf">Exercises 7</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Exercises8.pdf">Exercises 8</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Exercises9.pdf">Exercises 9</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Exercises10.pdf">Exercises 10</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/05/Exercises11.pdf">Exercises 11</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Exercises12.pdf">Exercises 12</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Exercises13.pdf">Exercises 13</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Exercises14.pdf">Exercises 14</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/06/Exercises16.pdf">Exercises 16</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/07/Exercises17and18.pdf">Exercises 17 and 18</a>.</li>
-</ul>
-
-<p><strong>Background reading</strong></p>
-
-<p>No one text covers all of the material in this course. Principal texts are as follows:</p>
-
-<ul>
-  <li>John D. Dixon and Brian Mortimer, <em>Permutation groups</em>, Graduate Texts in Mathematics, vol. 163, Springer-Verlag, New York, 1996.</li>
-  <li>Peter Cameron’s notes on <a href="http://www.maths.qmul.ac.uk/~pjc/class_gps/">Classical Groups</a>;</li>
-  <li>Peter Cameron’s notes on <a href="http://www.maths.qmul.ac.uk/~pjc/pps/">Projective and polar spaces</a> (First edition published as QMW Maths Notes 13 in 1991).</li>
-</ul>
-
-<p>Additional texts of interest:</p>
-
-<ul>
-  <li>Harald Simmons, <a href="http://www.cs.man.ac.uk/ hsimmons/zCATS.pdf">An introduction to category theory</a>. (I drew on a very small part of these notes when I wrote the chapter on category theory.)</li>
-  <li>Jean Dieudonne, <em>La geometrie des groupes classiques</em>. This is a classic, in French.</li>
-  <li>Peter Kleidman and Martin Liebeck, <em>The subgroup structure of the finite classical groups</em>. This proves a refined version of Aschbacher’s theorem on the subgroup structure of the finite classical groups. It also contains a wealth of other information on these groups (and other almost simple groups).</li>
-  <li>Donald Taylor, <em>The geometry of the classical groups</em>. This covers all the material in the second half of this course plus a fair bit more.</li>
-  <li>Helmut Wielandt, <em>Finite permutation groups</em>. Another classic giving a good sense of the major themes in the development of the theory of finite permutation groups.</li>
-  <li>Robert Wilson, <em>Finite simple groups</em>. Related lecture notes are <a href="http://www.maths.qmul.ac.uk/~raw/FSG/">online</a>.</li>
-  <li>Joanna Fawcett, <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/4534/Fawcett_Joanna.pdf">The O’Nan-Scott theorem for finite primitive permutation groups</a>. A very nice Masters thesis giving a self-contained proof of the O’Nan-Scott theorem.</li>
-</ul>
-
-<p>I have e-copies of most of the texts listed above and can provide them on request.</p>]]></summary>
-        <author>
-            <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Red workbook, p8]]></title>
         <id>https://www.peterkrautzberger.org/0154/</id>
         <link href="https://www.peterkrautzberger.org/0154/">
@@ -8795,22 +8732,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8827,6 +8748,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -14808,33 +14745,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
-        <id>https://www.peterkrautzberger.org/0061/</id>
-        <link href="https://www.peterkrautzberger.org/0061/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 6: properness ctd.</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 2)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
-    <img alt="screenshot of page 6" src="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
         <id>https://www.peterkrautzberger.org/0060/</id>
         <link href="https://www.peterkrautzberger.org/0060/">
@@ -14857,6 +14767,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
+        <id>https://www.peterkrautzberger.org/0061/</id>
+        <link href="https://www.peterkrautzberger.org/0061/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 6: properness ctd.</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 2)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
+    <img alt="screenshot of page 6" src="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>

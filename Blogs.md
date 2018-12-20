@@ -10,8 +10,8 @@ title: Blogs
 * **Joel David Hamkins** [An infinitary-logic-free proof of the Barwise end-extension theorem, with new applications, University of Münster, January 2019](http://jdh.hamkins.org/an-infinitary-logic-free-proof-of-the-barwise-extension-theorem-university-of-munster-january-2019/)
 * **Joel David Hamkins** [A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018](http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/)
 * **Asaf Karagila** [Preserving Properness](http://karagila.org/2018/preserving-properness/)
+* **Nick Gill** [On the subgroup lattice of a group](https://nickpgill.github.io/on-the-subgroup-lattice)
 * **Asaf Karagila** [Pickles!](http://karagila.org/2018/pickles/)
 * **Peter Krautzberger** [Three interesting results from the AIM workshop](https://www.peterkrautzberger.org/0208/)
-* **Sandra Müller** [(with P. Schlicht, D. Schrittesser and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals](https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)
