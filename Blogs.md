@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Nick Gill** [Matrices for classical groups](https://nickpgill.github.io/matrices-for-classical-groups)
 * **Nick Gill** [Groups with identical element counts](https://nickpgill.github.io/groups-with-identical-element-counts)
 * **Mike Pawliuk – Mathematics** [Learning LaTeX in Jupyter Notebooks](https://mikepawliuk.ca/2018/12/16/learning-latex-in-jupyter-notebooks/)
 * **Mike Pawliuk – Mathematics** [Unifying themes in Ramsey Theory – BIRS 2018](https://mikepawliuk.ca/2018/12/02/unifying-themes-in-ramsey-theory-birs-2018/)
@@ -12,6 +13,5 @@ title: Blogs
 * **Asaf Karagila** [Preserving Properness](http://karagila.org/2018/preserving-properness/)
 * **Nick Gill** [On the subgroup lattice of a group](https://nickpgill.github.io/on-the-subgroup-lattice)
 * **Asaf Karagila** [Pickles!](http://karagila.org/2018/pickles/)
-* **Peter Krautzberger** [Three interesting results from the AIM workshop](https://www.peterkrautzberger.org/0208/)
 
 [Grab the feed for all Blogs!](Blogs.xml)

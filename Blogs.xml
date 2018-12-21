@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2018-12-21T07:45:33Z</updated>
+    <updated>2018-12-21T11:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -14,14 +14,111 @@
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
     <entry>
+        <title type="html"><![CDATA[Matrices for classical groups]]></title>
+        <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
+        <link href="https://nickpgill.github.io/matrices-for-classical-groups">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p>A finite classical groups is best thought of as a group of linear operators on some vector space defined over a finite field. Which means, of course, that I can take a basis for this vector space and then represent the elements of my group as matrices.</p>
+
+<p>However, I have almost <strong>never</strong> seen anyone do this in the literature. “Taking a basis” is thought of as a rather crude thing to do when doing linear algebra – one generally tries to write general arguments that do not refer to any particular basis. However, speaking for myself, when I’m trying to work out what the hell is going on inside a finite matrix group, I often end up trying to write down individual elements as matrices… And then hiding all this when it comes to writing up the paper!</p>
+
+<p>This means that I have never publicly written down any of these calculations, despite using many of them over and over again. So this page is designed to be a little repository for me to note down interesting observations about such calculations… And perhaps they’ll be useful for someone else some time…</p>
+
+<h2 id="working-with-omega_4q">Working with $\Omega_4^+(q)$</h2>
+
+<p>This family of groups has some weird behaviour, especially when $q$ is even. For instance, let us write $\mathcal{U}_m$ for the set of maximal totally singular subspaces. If $q$ is even and $q&gt;2$, then $\Omega_4^+(q)$ is defined to be the group inducing odd permutations on $\mathcal{U}_m$…. If $q=2$, however, the group so defined is <strong>not</strong> $\Omega_4^+(2)$, and one needs to define it in a completely different way (see Kleidman and Liebeck, p.31).</p>
+
+<h1 id="finding-some-elements-in-omega_4q">Finding some elements in $\Omega_4^+(q)$.</h1>
+
+<p>Let $(e_1,f_1)$ and $(e_2, f_2)$ be hyperbolic pairs, and let $\mathcal{B}={e_1, e_2, f_2, f_1}$ maintaining order. Then, one can calculate directly that $O_4^+(q)$ contains elements of the form</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{pmatrix}
+1 & a & b & ab \\ & 1 & & b \\ & & 1 & a \\ & & & 1
+\end{pmatrix}; %]]]]><![CDATA[></script>
+
+<p>these elements form a subgroup $S$ of size $q^2$; indeed, for $q$ odd, they form a Sylow $p$-subgroup of $O_4^+(q)$.</p>
+
+<p>When $q$ is odd, one can look at orders to see directly that $S$ is actually a subgroup of $\Omega_4^+(q)$. Indeed, the same is true when $q$ is even, but to see this it is easiest to observe that $S$ is normalized by the element</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+g=\begin{pmatrix}
+1 & & & \\ &  & 1 & \\ & 1 & & \\ & & & 1
+\end{pmatrix}. %]]]]><![CDATA[></script>
+
+<p>This element clearly takes one element $U=\langle e_1, e_2\rangle \in \mathcal{U}_2$ to another element $W=\langle e_1, f_2\rangle\in \mathcal{U}_2$. What is more $U\cap W$ has codimension $1$ in both $U$ and $W$. This allows us to conclude that $g\in SO_4^+(q)\setminus \Omega_4^+(q)$ (see Kleidman and Liebeck, p. 30). Now order considerations imply that $S$ must be a subgroup of $\Omega_4^+(q)$.</p>
+
+<h1 id="finding-all-elements-in-omega_4q">Finding all elements in $\Omega_4^+(q)$.</h1>
+
+<p>Let $R$ be the set of elements whose transpose is in $S$. One sees immediately that both $R$ and $S$ lie in $\Omega_4^+(q)$ and hence so does $\langle R,S\rangle$.</p>
+
+<p>If one sets $a$ to equal $0$, while $b$ ranges across $\mathbb{F}_q$, in both $R$ and $S$, then one immediately observes a copy of $SL_2(q)$ in $\Omega_4^+(q)$. The same is true setting $b$ to equal $0$. Since these two copies effectively “avoid interaction” one immediately obtains a copy of $SL_2(q)\circ SL_2(q)$ inside $\Omega_4^+(q)$. (The central product is due to the fact that both copies of $SL_2(q)$ share $-I$ as an element.)</p>
+
+<p>Now one can observe that $\Omega_4^+(q)$ also contains the element</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{pmatrix}
+& & & 1\\ & & 1 & \\ & 1 & & \\ 1 & & & 
+\end{pmatrix} %]]]]><![CDATA[></script>
+
+<p>Now order considerations allow us to conclude that $\Omega_4^+(q)\cong (SL_2(q)\circ SL_2(q)):2$, and we have written down all elements of the group.</p>
+
+<h2 id="sp_n-22a--omega_n2a">$Sp_{n-2}(2^a) &lt; \Omega_n^+(2^a)$</h2>
+
+<p>When $q$ is even, $\Omega_n^+(q)$ has a maximal subgroup – the stabilizer of a non-degenerate $1$-space – isomorphic to $Sp_{n-2}(q)$. I will write down the elements of this subgroup for $n=4$; the general case follows similarly.</p>
+
+<p>First, we adjust our basis from before to be $\mathcal{C}={z_1, x_1, x_2, y_2}$ where $z_1=x_1+y_1$.</p>
+
+<p>With respect to this basis, our quadratic form becomes</p>
+
+<script type="math/tex; mode=display">Q(a,b,c,d) = ab+a^2+cd</script>
+
+<p>and we see that $z_1$ is non-singular. Now simply observe that the following elements stabilize $z_1$:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{pmatrix}
+1 & & & c \\ & 1 & & \\ & c & 1 & c^2 \\ & & & 1
+\end{pmatrix}. %]]]]><![CDATA[></script>
+
+<p>Doing the “transpose trick” like before, one immediately obtains a copy of $SL_2(q)$ in this stabilizer and (using the perfectness of $SL_2(q)$ for $q&gt;3$ if necessary), one obtains that the stabilizer of $z_1$ in $\Omega_4^+(q)$ is isomorphic to $SL_2(q)\cong Sp_{2}(q)$.</p>
+
+<p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Groups with identical element counts]]></title>
         <id>https://nickpgill.github.io/groups-with-identical-element-counts</id>
         <link href="https://nickpgill.github.io/groups-with-identical-element-counts">
         </link>
         <updated>2018-12-20T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Some time ago I heard an interesting story about a remarkable mathematical fact. I can’t locate the source right now, so here is the story as I understand it.</p>
+        <summary type="html"><![CDATA[<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
 
-<p>If one consults the <em>Atlas of Finite Groups</em> and looks at the maximal subgroups of the Mathieu group M_23, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form PSL_3(4):2; the second has form 2^4:A_7.</p>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p>Some time ago I heard an interesting story about a remarkable mathematical fact. I can’t locate the source right now, so here is the story as I understand it.</p>
+
+<p>If one consults the <em>Atlas of Finite Groups</em> and looks at the maximal subgroups of the Mathieu group $M_{23}$, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form $PSL_3(4):2$; the second has form $2^4:A_7$.</p>
 
 <p>It’s important to note how <strong>very different</strong> these two groups are, despite their shared order: in particular, they have different non-abelian composition factors.</p>
 
@@ -29,11 +126,11 @@
 
 <p>Thompson’s observation led him to make the following conjecture: <em>Suppose that two groups, G and H, have exactly the same element count, by order. Suppose, moreover, that G is solvable. Then H is solvable.</em></p>
 
-<p>This conjecture is saying, effectively, that it is, in principle, possible to recognition whether or not a group is solvable simply by knowing the number of elements in the group of each different order. Note, that I say “in principle”, as it is not proposing an algorithm for recognising solvability in this way – that is a harder question.</p>
+<p>This conjecture can be interpreted as saying that it is, in principle, possible to recognise whether or not a group is solvable simply by knowing the number of elements in the group of each different order. Note, that I say “in principle”, as it is not proposing an algorithm for recognising solvability in this way – that is a harder question.</p>
 
 <p>By way of comparison, it is easy to see that there is an algorithm to recognise <em>nilpotency</em> by knowing the number of elements in the group of each different order – one simply tests whether, for each prime <em>p</em> dividing the order of the group, the number of elements of order a power of <em>p</em> is equal to the highest power of <em>p</em> dividing the order of the group. If this is true for all <em>p</em>, then the group has a unique Sylow <em>p</em>-subgroup for each prime <em>p</em> dividing its order, and this property characterises nilpotency.</p>
 
-<p>As I understand it, Thompson’s conjecture has been proved… but I’m not sure by whom. If anyone could point me to a source, I’d like to give appropriate credit! I don’t know if an algorithm for recognising solvability in this way has ever been written down. I’m also unable to point to the place where Thompson first made the observation about these subgroups of M_23 and where he first stated this conjecture; again any help with sources would be appreciated.</p>]]></summary>
+<p>As I understand it, Thompson’s conjecture has been proved… but I’m not sure by whom. If anyone could point me to a source, I’d like to give appropriate credit! I don’t know if an algorithm for recognising solvability in this way has ever been written down. I’m also unable to point to the place where Thompson first made the observation about these subgroups of $M_{23}$ and where he first stated this conjecture; again any help with sources would be appreciated.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
         </author>
@@ -1736,24 +1833,6 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>http://localhost:4000/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="http://localhost:4000/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -1789,6 +1868,24 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="http://localhost:4000/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -6749,279 +6846,6 @@ But he use of LEM is essential here! :-)</li>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MA460: Álgebra lineal II]]></title>
-        <id>https://nickpgill.github.io/2014/05/22/algebra-lineal-ii/</id>
-        <link href="https://nickpgill.github.io/2014/05/22/algebra-lineal-ii/">
-        </link>
-        <updated>2014-05-22T18:36:31Z</updated>
-        <summary type="html"><![CDATA[<p>Esta pagina es para un curso a la universidad de Costa Rica. El curso empeza el lunes 11 agosto 2014. Puede leer la <a href="http://boolesrings.org/nickgill/files/2014/07/carta_al_estudiante_2014b.pdf">carta al estudiante</a>.</p>
-
-<p><strong>Plan del curso</strong></p>
-
-<table border="1">
-  <tr>
-    <td>
-      <b>Semana</b>
-    </td>
-    
-    <td>
-      <b>Materiál</b>
-    </td>
-    
-    <td>
-      <b>Evaluación</b>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1
-    </td>
-    
-    <td>
-      Repaso de Álgebra Lineal I
-    </td>
-    
-    <td>
-      L 11/8: <a href="http://boolesrings.org/nickgill/files/2014/08/lallej1.pdf">Tarea 1</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2
-    </td>
-    
-    <td>
-      Operadores lineales, matrices semejantes, <br /> Valores propios, polinomios característicos
-    </td>
-    
-    <td>
-      L 18/8: Tarea 1 devuelto <br /> J 21/8: Tarea 1 discutido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      3
-    </td>
-    
-    <td>
-      Subespacios invariantes
-    </td>
-    
-    <td>
-      L 25/8: <a href="http://boolesrings.org/nickgill/files/2014/09/lallej2.pdf">Tarea 2</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      4
-    </td>
-    
-    <td>
-      Triangulación simultánea<br /> Diagonalización simultánea<br /><a href="http://boolesrings.org/nickgill/files/2014/09/diagonal.pdf">Dos demostraciones difíciles</a>
-    </td>
-    
-    <td>
-      L 01/9: Tarea 2 devuelto <br /> J 04/9: Tarea 2 discutido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      5
-    </td>
-    
-    <td>
-      Sumas directas invariantes<br /> Descomposición prima
-    </td>
-    
-    <td>
-      L 8/9: <a href="http://boolesrings.org/nickgill/files/2014/09/lallej3.pdf">Tarea 3</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      6
-    </td>
-    
-    <td>
-      No hay clases esta semana. Nótese que <br /> muchas personas tenían problemas con <br /> pregunta 8 de tarea 3. Para una discusión <br /> interesante sobre esta tema, vaya <a href="http://math.stackexchange.com/questions/57242/similar-matrices-and-field-extensions">aquí</a>.
-    </td>
-    
-    <td>
-      L 15/9: Feriado <br /> J 18/9: Tarea 3 devuelto y <br /><b><a href="http://boolesrings.org/nickgill/files/2014/09/examen1d.pdf">Examen parcial 1</a></b>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      7
-    </td>
-    
-    <td>
-      Subespacios cíclicos<br />Descomposición cíclica
-    </td>
-    
-    <td>
-      L 22/9: <a href="http://boolesrings.org/nickgill/files/2014/09/lallej4.pdf">Tarea 4</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      8
-    </td>
-    
-    <td>
-      La forma racional<br />Nuevos ejemplos de cuerpos&lt;/a&gt;
-    </td>
-    
-    <td>
-      L 29/9: Tarea 4 devuelto <br /> J 02/10: Tareas 3 y 4 discutido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      9
-    </td>
-    
-    <td>
-      Formas y matrices<br /> Espacios producto interno
-    </td>
-    
-    <td>
-      L 06/10: <a href="http://boolesrings.org/nickgill/files/2014/10/lallej5.pdf">Tarea 5</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      10
-    </td>
-    
-    <td>
-      Propiedades de productos internos<br />El proceso Gram-Schmidt
-    </td>
-    
-    <td>
-      L 13/10: Tarea 5 devuelto <br /> J 16/10: Tarea 5 discutido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      11
-    </td>
-    
-    <td>
-      Proyecciones<br />Complementos ortogonales
-    </td>
-    
-    <td>
-      L 20/10: <a href="http://boolesrings.org/nickgill/files/2014/10/lallej6.pdf">Tarea 6</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      12
-    </td>
-    
-    <td>
-      Operadores unitarios<br />Operadores ortogonales
-    </td>
-    
-    <td>
-      L 27/10: Tarea 6 devuelto <br /> J 30/10: <b><a href="http://boolesrings.org/nickgill/files/2014/11/examen2a.pdf">Examen parcial 2</a></b>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      13
-    </td>
-    
-    <td>
-      Operadores normales<br />La ley de inercia de Sylvester
-    </td>
-    
-    <td>
-      L 03/11: <a href="http://boolesrings.org/nickgill/files/2014/11/lallej7.pdf">Tarea 7</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      14
-    </td>
-    
-    <td>
-      La clasificación de formas sesquilineales
-    </td>
-    
-    <td>
-      L 10/11: Tarea 7 devuelto <br /> J 13/11: Tarea 7 discutido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      15
-    </td>
-    
-    <td>
-      Formas cuadráticas<br />Grupos de isometrías
-    </td>
-    
-    <td>
-      L 17/11: <a href="http://boolesrings.org/nickgill/files/2014/11/lallej8.pdf">Tarea 8</a> distribuido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      16
-    </td>
-    
-    <td>
-      Secciones cónicas<br />La teoría de relatividad especial
-    </td>
-    
-    <td>
-      L 24/11: Tarea 8 devuelto <br /> J 27/11: Tarea 8 discutido
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      17
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-      <b><a href="http://boolesrings.org/nickgill/files/2014/12/examen3consoluciones.pdf">Exámen parcial 3</a></b>
-    </td>
-  </tr>
-</table>
-
-<p>Si tiene más preguntas, se puede</p>
-
-<ul>
-  <li>mandarme un correo: chatwithgill [at] gmail [dot] com</li>
-  <li>visitarme en mi oficina: las horas de oficina son 9-12 lunes y 10-12, jueves. (Pero si estoy en mi oficina, siempre estoy contento discutir el curso. Si quiere estar seguro que yo sea aquí, ¡escríbame!)</li>
-</ul>]]></summary>
-        <author>
-            <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Debates About The Climate]]></title>
         <id>http://karagila.org/2014/debates-about-the-climate/</id>
         <link href="http://karagila.org/2014/debates-about-the-climate/">
@@ -8732,6 +8556,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8748,22 +8588,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -14745,33 +14569,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -14794,6 +14591,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
