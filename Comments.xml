@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-01-10T07:45:25Z</updated>
+    <updated>2019-01-10T11:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The subseries number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-subseries-number/#comment-9848</id>
+        <link href="http://jdh.hamkins.org/the-subseries-number/#comment-9848">
+        </link>
+        <updated>2019-01-10T08:46:45Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] The subseries number. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Souslin trees at successors of regular cardinals by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4550#comment-635</id>
@@ -192,17 +203,6 @@ Accepted, December 2018.</p>]]></summary>
         </link>
         <updated>2018-10-01T08:20:01Z</updated>
         <summary type="html"><![CDATA[<p>Rational numbers are no problem for Turing or anyone. The interesting case of computable numbers is with irrational numbers, even transcendental numbers. Trying to adopt a variant representation for rational numbers will not avoid the main difficulty my post is about, since you cannot tell from finitely much information of $a$ and $b$ separately (when they are transcendental, for example), whether $a+b$ is rational or not.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Alan Turing, On computable numbers by Robert Frost]]></title>
-        <id>http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9382</id>
-        <link href="http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9382">
-        </link>
-        <updated>2018-09-30T21:04:20Z</updated>
-        <summary type="html"><![CDATA[<p>Why can Turing not just use a radix with $n+1$ characters to represent any number in base n? Then represent a rational number having an infinitely repeating tail by inserting the character $n+1$ in the place where the number begins to repeat?  Then even infinitely repeating numbers terminate.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
