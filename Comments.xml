@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-01-18T07:45:26Z</updated>
+    <updated>2019-01-18T11:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on A question for the mathematics oracle by Vincent R.B. Blazy]]></title>
+        <id>http://jdh.hamkins.org/question-for-the-math-oracle/#comment-9892</id>
+        <link href="http://jdh.hamkins.org/question-for-the-math-oracle/#comment-9892">
+        </link>
+        <updated>2019-01-17T12:11:56Z</updated>
+        <summary type="html"><![CDATA[<p>The &#8220;ordinary mathematicians&#8221; aren&#8217;t working in any Model of ZFC, that would exist in some stronger Theory, etc.; they&#8217;re actually working syntactically in ZFC itself! 😊</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The subseries number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/the-subseries-number/#comment-9848</id>
@@ -192,17 +203,6 @@ Accepted, December 2018.</p>]]></summary>
         </link>
         <updated>2018-10-02T17:41:14Z</updated>
         <summary type="html"><![CDATA[<p>It is not clear to me that Turing’s definition/explication of computable real number can be said to be wrong, since it is extensionally correct. It seems to be rather his definition of “computable function from the reals to the reals” that is overly restrictive and therefore inadequate to explain the intuitive concept. On his definition, if I understand it well, a function is computable if there is a computable function that maps presentations of the arguments  in Turing’s sense (program enumerating the digits of the arguments) to a presentation of the value in Turing’s sense (a program enumerating the digits of the value). That’s a small subclass of (so, not coextensional to) the computable functions according to the modern definition. So I do not see a philosophical problem after all.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Alan Turing, On computable numbers by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9383</id>
-        <link href="http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9383">
-        </link>
-        <updated>2018-10-01T08:20:01Z</updated>
-        <summary type="html"><![CDATA[<p>Rational numbers are no problem for Turing or anyone. The interesting case of computable numbers is with irrational numbers, even transcendental numbers. Trying to adopt a variant representation for rational numbers will not avoid the main difficulty my post is about, since you cannot tell from finitely much information of $a$ and $b$ separately (when they are transcendental, for example), whether $a+b$ is rational or not.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
