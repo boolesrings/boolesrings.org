@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-01-21T23:45:32Z</updated>
+    <updated>2019-01-23T19:45:35Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -2408,7 +2408,7 @@ In set theory, classes are collections of sets which are ``too large" to be sets
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4456_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4456_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4456_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4456, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 36"
+                <input type="button" onclick="thankYouButtonClick(4456, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 37"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4456_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -2432,7 +2432,7 @@ As a bonus, the outcome $\lambda^+$-Souslin tree is moreover <em>free</em>.</p>
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4450_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4450_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4450_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4450, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 26"
+                <input type="button" onclick="thankYouButtonClick(4450, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 27"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4450_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -2829,7 +2829,7 @@ In the mean time, there are a few small intermediate steps like setting up a <a 
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4399_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4399_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4399_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4399, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 34"
+                <input type="button" onclick="thankYouButtonClick(4399, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 35"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4399_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -3268,7 +3268,7 @@ here the second sum is <img src="https://s0.wp.com/latex.php?latex=0+&#038;bg=ff
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4373_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4373_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4373_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4373, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 79"
+                <input type="button" onclick="thankYouButtonClick(4373, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 80"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4373_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
