@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-01-25T11:45:33Z</updated>
+    <updated>2019-01-25T15:45:41Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -549,7 +549,7 @@ and they became the standard Viennese gift from visitors to Jerusalem for me. Mo
         <id>https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html">
         </link>
-        <updated>2018-11-14T23:00:00Z</updated>
+        <updated>2018-11-14T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1811.06489.pdf">PDF.</a> <a href="https://arxiv.org/abs/1811.06489">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibMSSW18');" class="title">Bibtex.</a></p>
 
@@ -594,7 +594,7 @@ analogue to the density theorem.</p>]]></summary>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
         </link>
-        <updated>2018-11-06T23:00:00Z</updated>
+        <updated>2018-11-06T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/AguileraMuellerConStrengthLongProjDet.pdf">PDF.</a> 
 <a data-toggle="collapse" href="javascript:toggle('bibAM18');" class="title">Bibtex.</a></p>
 
@@ -631,7 +631,7 @@ analogue to the density theorem.</p>]]></summary>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
         </link>
-        <updated>2018-11-05T23:00:00Z</updated>
+        <updated>2018-11-05T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/MuellerADimpliesDCinMice.pdf">PDF.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
 
@@ -661,12 +661,45 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rutgers Logic Seminar - The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/05/TalkRutgers.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/05/TalkRutgers.html">
         </link>
-        <updated>2018-11-04T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On December 10, 2018 I am invited to give a talk in the <a href="http://www.grigorsargis.net/seminar.html">Rutgers Logic
+        <updated>2018-11-04T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On December 10, 2018 I gave a talk in the <a href="http://www.grigorsargis.net/seminar.html">Rutgers Logic
 Seminar</a>.</p>
 
 <p><em>The consistency strength of long projective determinacy</em></p>
@@ -699,8 +732,8 @@ determinacy of sufficiently long projective games.</p>]]></summary>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/04/TalkBonn.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/04/TalkBonn.html">
         </link>
-        <updated>2018-11-03T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On December 04, 2018 I am invited to give a talk in the <a href="http://www.math.uni-bonn.de/ag/logik/teaching/2018WS/oberseminar.shtml">Oberseminar
+        <updated>2018-11-03T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On December 04, 2018 I gave a talk in the <a href="http://www.math.uni-bonn.de/ag/logik/teaching/2018WS/oberseminar.shtml">Oberseminar
 mathematische Logik</a> in Bonn.</p>
 
 <p><em>Structural properties of the Stable Core</em></p>
@@ -1066,7 +1099,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
         <id>https://muellersandra.github.io/publication/2018/09/22/PaperLongGamesSigmaProjSets.html</id>
         <link href="https://muellersandra.github.io/publication/2018/09/22/PaperLongGamesSigmaProjSets.html">
         </link>
-        <updated>2018-09-21T22:00:00Z</updated>
+        <updated>2018-09-21T21:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/AguileraMuellerSchlichtLongGamesandSigmaProjectiveSets.pdf">PDF.</a> 
 <a data-toggle="collapse" href="javascript:toggle('bibAMS18');" class="title">Bibtex.</a></p>
 
@@ -1215,10 +1248,10 @@ is something not fully verified, not fully vetted (at the very least by ourselve
     </entry>
     <entry>
         <title type="html"><![CDATA[UMI-SIMAI-PTM, Wroclaw - Large Cardinals in the Stable Core]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/08/21/TalkWroclaw.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/08/21/TalkWroclaw.html">
+        <id>https://muellersandra.github.io/talk/invconftalk/2018/08/21/TalkWroclaw.html</id>
+        <link href="https://muellersandra.github.io/talk/invconftalk/2018/08/21/TalkWroclaw.html">
         </link>
-        <updated>2018-08-20T22:00:00Z</updated>
+        <updated>2018-08-20T21:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On September 19, 2018 I was invited to give a talk in the Thematic Session
 in Set Theory and Topology at the joint meeting of the Italian
 Mathematical Union, the Italian Society of Industrial and Applied
@@ -1250,10 +1283,10 @@ Mathematics and the Polish Mathematical Society (<a href="http://umi-simai.ptm.o
     </entry>
     <entry>
         <title type="html"><![CDATA[CUNY Set Theory Seminar - How to obtain Woodin cardinals from the determinacy of long games]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/08/20/TalkCUNY.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/08/20/TalkCUNY.html">
+        <id>https://muellersandra.github.io/talk/invsemtalk/2018/08/20/TalkCUNY.html</id>
+        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/08/20/TalkCUNY.html">
         </link>
-        <updated>2018-08-19T22:00:00Z</updated>
+        <updated>2018-08-19T21:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On September 7, 2018 I gave a talk in the CUNY Set Theory Seminar
 in New York.</p>
 
@@ -1313,19 +1346,6 @@ in New York.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real and linear analysis]]></title>
-        <id>http://scoskey.org/course/1819f-515/</id>
-        <link href="http://scoskey.org/course/1819f-515/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 515, Fall 2018 (<a href="http://scoskey.org/m515">site</a>)<!--more--></p>
-
-<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
         <id>http://scoskey.org/course/1819f-187/</id>
         <link href="http://scoskey.org/course/1819f-187/">
@@ -1334,6 +1354,19 @@ in New York.</p>
         <summary type="html"><![CDATA[<p>Math 187, Fall 2018 (<a href="http://scoskey.org/m187">site</a>)<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real and linear analysis]]></title>
+        <id>http://scoskey.org/course/1819f-515/</id>
+        <link href="http://scoskey.org/course/1819f-515/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 515, Fall 2018 (<a href="http://scoskey.org/m515">site</a>)<!--more--></p>
+
+<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1461,7 +1494,7 @@ holds. <a href="http://karagila.org/2018/definable-models-without-choice/">Conti
         <id>https://muellersandra.github.io/talk/contalk/2018/06/08/TalkAmsterdam.html</id>
         <link href="https://muellersandra.github.io/talk/contalk/2018/06/08/TalkAmsterdam.html">
         </link>
-        <updated>2018-06-07T22:00:00Z</updated>
+        <updated>2018-06-07T21:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On August 24th, 2018 I gave a short talk at the
 <a href="http://events.illc.uva.nl/KNAW2018/">KNAW Academy Colloquium on Generalised Baire Spaces</a>
 taking place August 23rd and 24th in Amsterdam, The Netherlands.</p>
@@ -1486,31 +1519,6 @@ taking place August 23rd and 24th in Amsterdam, The Netherlands.</p>
 Weinert.</p>
 
 <p>Slides are available <a href="http://events.illc.uva.nl/KNAW2018/Schrittesser-Mueller-Talk-Amsterdam-2018.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1st Girona conference on inner model theory - Long games and Woodin cardinals]]></title>
-        <id>https://muellersandra.github.io/talk/invconftalk/2018/06/07/TalkGirona.html</id>
-        <link href="https://muellersandra.github.io/talk/invconftalk/2018/06/07/TalkGirona.html">
-        </link>
-        <updated>2018-06-06T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On July 17, 2018 I gave a talk at the <a href="https://ivv5hpp.uni-muenster.de/u/rds/girona_meeting_2018.html">1st
-Girona conference on inner model theory</a> in Girona.</p>
-
-<p><em>Long games and Woodin cardinals</em></p>
-
-<p><em>Abstract:</em> Itay Neeman proved the determinacy of analytic games of
- length $\omega \cdot \theta$ for countable $\theta &gt; \omega$ from a
- sharp for $\theta$ Woodin cardinals. We aim for a converse at
- successor ordinals and show how to obtain $\omega+1$ Woodin cardinals
- from the determinacy of analytic games of length $\omega \cdot
- (\omega+1)$.</p>
-
-<p>This is joint work with Juan P. Aguilera.</p>
-
-<p>Notes for this talk are available <a href="https://ivv5hpp.uni-muenster.de/u/rds/GM_2018_Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
