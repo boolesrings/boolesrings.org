@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-01-26T11:45:32Z</updated>
+    <updated>2019-01-26T15:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019]]></title>
+        <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/</id>
+        <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/">
+        </link>
+        <updated>2019-01-26T14:34:53Z</updated>
+        <summary type="html"><![CDATA[This will be a talk for the Jowett Society on 8 February, 2019. The talk will take place in the Oxford Faculty of Philosophy, 3:30 &#8211; 5:30pm, in the Lecture Room of the Radcliffe Humanities building. Abstract. Potentialism is the view, &#8230; <a href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Towards a general method for accessible content trees or: deep aria-labels for equations revisited]]></title>
         <id>https://www.peterkrautzberger.org/0209/</id>
@@ -146,6 +157,19 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019 (<a href="https://scoskey.org/m314">site</a>)<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -229,19 +253,6 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019 (<a href="https://scoskey.org/m314">site</a>)<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -627,6 +638,39 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -656,39 +700,6 @@ analogue to the density theorem.</p>]]></summary>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1335,14 +1346,16 @@ in New York.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Set-theoretic blockchains]]></title>
-        <id>http://jdh.hamkins.org/set-theoretic-blockchains/</id>
-        <link href="http://jdh.hamkins.org/set-theoretic-blockchains/">
+        <title type="html"><![CDATA[Real and linear analysis]]></title>
+        <id>http://scoskey.org/course/1819f-515/</id>
+        <link href="http://scoskey.org/course/1819f-515/">
         </link>
-        <updated>2018-08-07T00:32:08Z</updated>
-        <summary type="html"><![CDATA[[bibtex key="HabicHamkinsKlausnerVernerWilliams2018:Set-theoretic-blockchains"] <a href="http://jdh.hamkins.org/set-theoretic-blockchains/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 515, Fall 2018 (<a href="http://scoskey.org/m515">site</a>)<!--more--></p>
+
+<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
         <author>
-            <name>Joel David Hamkins</name>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -1354,19 +1367,6 @@ in New York.</p>
         <summary type="html"><![CDATA[<p>Math 187, Fall 2018 (<a href="http://scoskey.org/m187">site</a>)<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real and linear analysis]]></title>
-        <id>http://scoskey.org/course/1819f-515/</id>
-        <link href="http://scoskey.org/course/1819f-515/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 515, Fall 2018 (<a href="http://scoskey.org/m515">site</a>)<!--more--></p>
-
-<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>

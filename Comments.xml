@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-01-26T11:45:25Z</updated>
+    <updated>2019-01-26T15:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by 10 fun geometry ideas to share with kids – inspired by a Jordan Ellenberg tweet – Mike's Math Page]]></title>
+        <id>http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-9935</id>
+        <link href="http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-9935">
+        </link>
+        <updated>2019-01-25T15:06:21Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;]  Math for Nine Year Olds -&gt; Joel David Hamkins&#8217;s take on Fold and Punch [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on A remark on Schimmerling’s question by Ari Brodsky]]></title>
         <id>http://blog.assafrinot.com/?p=4456#comment-640</id>
@@ -204,17 +215,6 @@ Accepted, December 2018.</p>]]></summary>
 <p>And if one adopts Turing&#8217;s view that the programs we should be looking at are the programs that generate the successive digits of the real number, then this is precisely where he goes wrong, since in this case, the ordinary operations of addition and multiplication will not be computable, for the reasons I explained in the post. </p>
 <p>Turing seems in his article to assume that they would be computable, and much more, since he is using the tangent function and infinite sums and so on. </p>
 <p>The philosophical question here as I see it is: what does it mean to have a computable real number? Does it mean to have a particular real number? No, it means to have an algorithm that is capable of describing a real number.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Alan Turing, On computable numbers by Lorenzo Cocco]]></title>
-        <id>http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9385</id>
-        <link href="http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9385">
-        </link>
-        <updated>2018-10-02T17:41:14Z</updated>
-        <summary type="html"><![CDATA[<p>It is not clear to me that Turing’s definition/explication of computable real number can be said to be wrong, since it is extensionally correct. It seems to be rather his definition of “computable function from the reals to the reals” that is overly restrictive and therefore inadequate to explain the intuitive concept. On his definition, if I understand it well, a function is computable if there is a computable function that maps presentations of the arguments  in Turing’s sense (program enumerating the digits of the arguments) to a presentation of the value in Turing’s sense (a program enumerating the digits of the value). That’s a small subclass of (so, not coextensional to) the computable functions according to the modern definition. So I do not see a philosophical problem after all.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
