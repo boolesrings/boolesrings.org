@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-02T23:45:24Z</updated>
+    <updated>2019-02-03T03:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019 by Erin Carmody]]></title>
+        <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-9984</id>
+        <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-9984">
+        </link>
+        <updated>2019-02-03T01:41:28Z</updated>
+        <summary type="html"><![CDATA[<p>It seems that both are true. It is amazing that at the same time life unfold via free will, and that God has seen the entire story written. What a paradox.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by 10 fun geometry ideas to share with kids – inspired by a Jordan Ellenberg tweet – Mike's Math Page]]></title>
         <id>http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-9935</id>
@@ -200,21 +211,6 @@ Accepted, December 2018.</p>]]></summary>
 <p>So for example the sequence 10 1 corresponds to 2/3, 10 0 corresponds to -2/3, 1110 01 corresponds to 2 + 4/9, 10 11111&#8230; corresponds to 2/3 + 4/9 + 8/27 + &#8230; = 2 and so on.</p>
 <p>A Turing machine that prints a sequence of 1s and 0s of this form is then said to compute the corresponding real number; a real number is computable if there is a machine that computes it. Turing cites Brouwer as the source for &#8220;this use of overlapping intervals for the definition of real numbers&#8221;. (See Gherardi section 3.3 for discussion of this).</p>
 <p>Turing states (but does not prove) that this new definition solves the problem he discussed. Gherardi proves (section 3.4) that Turing&#8217;s representation is *computably equivalent* to one of the current standard representations (the Cauchy representation) and so it also solves the problem described in your piece &#8211; the standard operations of addition, multiplication and so on are now computable functions.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Alan Turing, On computable numbers by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9388</id>
-        <link href="http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9388">
-        </link>
-        <updated>2018-10-09T09:26:36Z</updated>
-        <summary type="html"><![CDATA[<p>I don&#8217;t agree fully with this comment, and I still think it is correct to say that Turing has the wrong definition. </p>
-<p>The reason is that we do not ultimately think of a computable real number as a particular kind of real number, and despite his initial definition, neither does Turing. When it comes to defining operations on the computable real numbers, which is what Turing is aiming at, he explicitly abandons the idea that these are defined on the real numbers themselves or some of them. Rather, operations on the computable real numbers are functions defined on the programs that generate such reals. So a computable real number, for Turing as well as for the contemporary theory, is a program for generating a real number.</p>
-<p>And if one adopts Turing&#8217;s view that the programs we should be looking at are the programs that generate the successive digits of the real number, then this is precisely where he goes wrong, since in this case, the ordinary operations of addition and multiplication will not be computable, for the reasons I explained in the post. </p>
-<p>Turing seems in his article to assume that they would be computable, and much more, since he is using the tangent function and infinite sums and so on. </p>
-<p>The philosophical question here as I see it is: what does it mean to have a computable real number? Does it mean to have a particular real number? No, it means to have an algorithm that is capable of describing a real number.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
