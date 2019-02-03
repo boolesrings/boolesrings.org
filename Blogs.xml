@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-03T19:45:32Z</updated>
+    <updated>2019-02-03T23:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -601,6 +601,41 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
+        </link>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I am invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
+
+<p><em>The consistency strength of long projective determinacy</em></p>
+
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
+
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -638,39 +673,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -700,6 +702,39 @@ every homogeneous space is in fact strongly homogeneous.</p>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1487,40 +1522,6 @@ in New York.</p>
 holds. <a href="http://karagila.org/2018/definable-models-without-choice/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KNAW Academy Colloquium on Generalised Baire Spaces - Lebesgue’s Density Theorem for tree forcing ideals]]></title>
-        <id>https://muellersandra.github.io/talk/contalk/2018/06/08/TalkAmsterdam.html</id>
-        <link href="https://muellersandra.github.io/talk/contalk/2018/06/08/TalkAmsterdam.html">
-        </link>
-        <updated>2018-06-07T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On August 24th, 2018 I gave a short talk at the
-<a href="http://events.illc.uva.nl/KNAW2018/">KNAW Academy Colloquium on Generalised Baire Spaces</a>
-taking place August 23rd and 24th in Amsterdam, The Netherlands.</p>
-
-<p><em>Abstract:</em>  Lebesgue introduced a notion of density point of a set of
- reals and proved that any Borel set of reals has the density
- property, i.e. it is equal to the set of its density points up to a
- null set. We introduce alternative definitions of density points in
- Cantor space (or Baire space) which coincide with the usual
- definition of density points for the uniform measure on
- ${}^{\omega}2$ up to a set of measure $0$, and which depend only on
- the ideal of measure $0$ sets but not on the measure itself. This
- allows us to define the density property for the ideals associated to
- tree forcings analogous to the Lebesgue density theorem for the
- uniform measure on ${}^{\omega}2$. The main results show that among
- the ideals associated to well-known tree forcings, the density
- property holds for all such ccc forcings and fails for the remaining
- forcings. In fact we introduce the notion of being stem-linked and
- show that every stem-linked tree forcing has the density property.</p>
-
-<p>This is joint work with Philipp Schlicht, David Schrittesser and Thilo
-Weinert.</p>
-
-<p>Slides are available <a href="http://events.illc.uva.nl/KNAW2018/Schrittesser-Mueller-Talk-Amsterdam-2018.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
         </author>
     </entry>
     <entry>
