@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-04T15:45:32Z</updated>
+    <updated>2019-02-04T19:45:40Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -162,7 +162,7 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         <link href="http://scoskey.org/course/1819s-314/">
         </link>
         <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019 (<a href="https://scoskey.org/m314">site</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
         <author>
@@ -257,11 +257,11 @@ g=\begin{pmatrix}
     </entry>
     <entry>
         <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/1314s-502</id>
-        <link href="http://scoskey.org/1314s-502">
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
         </link>
         <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019 (<a href="https://scoskey.org/m502">site</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
         <author>
@@ -1386,7 +1386,7 @@ in New York.</p>
         <link href="http://scoskey.org/course/1819f-515/">
         </link>
         <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 515, Fall 2018 (<a href="http://scoskey.org/m515">site</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
         <author>
@@ -1399,7 +1399,7 @@ in New York.</p>
         <link href="http://scoskey.org/course/1819f-187/">
         </link>
         <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 187, Fall 2018 (<a href="http://scoskey.org/m187">site</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
         <author>
@@ -1818,7 +1818,7 @@ To do so, we carry out a systematic study of colorings satisfying a strong unbou
         <link href="http://scoskey.org/ordered-graphs">
         </link>
         <updated>2018-04-12T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>With Paul Ellis. (<a href="http://arxiv.org/abs/1804.04609">arχiv</a> | <a href="https://dx.doi.org/10.1007/s00153-018-0645-0">journal</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>With Paul Ellis. <em>Archive for mathematical logic</em>, 2019. (<a href="https://dx.doi.org/10.1007/s00153-018-0645-0">ordered graphs in journal</a>)<!--more--></p>
 
 <p><em>Abstract</em>: We show that for any countable homogeneous ordered graph $G$, the conjugacy problem for automorphisms of $G$ is Borel complete. In fact we establish that each such $G$ satisfies a strong extension property called ABAP, which implies that the isomorphism relation on substructures of $G$ is Borel reducible to the conjugacy relation on automorphisms of $G$.</p>]]></summary>
         <author>
@@ -2191,7 +2191,7 @@ The layout captured in this image combines a label (5.4) with an ordered list of
         <link href="http://scoskey.org/calkin-wilf">
         </link>
         <updated>2018-02-06T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>With Paul Ellis and Japheth Wood. (<a href="https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/">article</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>With Paul Ellis and Japheth Wood.<!--more--></p>
 
 <p><em>Abstract</em>: Questions about infinity are fascinating, and can lead into deep mathematical topics in set theory. The mathematics of infinite sets wasn’t clearly understood until Cantor defined cardinal numbers in the late 19th century, stating that two sets are the same size if there is a one-to-one correspondence between them. One surprising result from set theory, first proved by Cantor in 1873, is that there are precisely as many rational numbers (fractions) as there are counting numbers. Over one hundred years later, mathematicians Neil Calkin and Herbert S. Wilf published a more elegant proof of this fact.</p>
 
