@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-04T19:45:40Z</updated>
+    <updated>2019-02-04T23:45:37Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -343,6 +343,34 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
+        <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
+        <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Joe Willert, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
+
+<p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unifying themes in Ramsey Theory – BIRS 2018]]></title>
         <id>https://mikepawliuk.ca/2018/12/02/unifying-themes-in-ramsey-theory-birs-2018/</id>
         <link href="https://mikepawliuk.ca/2018/12/02/unifying-themes-in-ramsey-theory-birs-2018/">
@@ -601,41 +629,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I am invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -668,6 +661,41 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
   consistency strength of determinacy for games of length $\omega^2$
   with payoff in $\Game^{\mathbb{R}} \boldsymbol\Pi^1_1$ or with
   $\sigma$-projective payoff.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
+        </link>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I am invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
+
+<p><em>The consistency strength of long projective determinacy</em></p>
+
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
+
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1381,19 +1409,6 @@ in New York.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real and linear analysis]]></title>
-        <id>http://scoskey.org/course/1819f-515/</id>
-        <link href="http://scoskey.org/course/1819f-515/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
-
-<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
         <id>http://scoskey.org/course/1819f-187/</id>
         <link href="http://scoskey.org/course/1819f-187/">
@@ -1402,6 +1417,19 @@ in New York.</p>
         <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real and linear analysis]]></title>
+        <id>http://scoskey.org/course/1819f-515/</id>
+        <link href="http://scoskey.org/course/1819f-515/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
+
+<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1999,24 +2027,6 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2057,6 +2067,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In praise of failure]]></title>
         <id>http://karagila.org/2018/in-praise-of-failure/</id>
         <link href="http://karagila.org/2018/in-praise-of-failure/">
@@ -2081,19 +2109,6 @@ How did you know you were doing well at the game?</p></blockquote>
 <figure data-shortcode="caption" id="attachment_1056" style="width: 517px" class="wp-caption alignnone"><img data-attachment-id="1056" data-permalink="https://mikepawliuk.ca/vdw-full/" data-orig-file="https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png?w=660" data-orig-size="517,116" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="VDW full" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png?w=660?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png?w=660?w=517" src="https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png?w=660" alt="VDW full"   class="alignnone size-full wp-image-1056" srcset="https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png 517w, https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png?w=150 150w, https://mikepawliuk.files.wordpress.com/2013/12/vdw-full.png?w=300 300w" sizes="(max-width: 517px) 100vw, 517px" /><figcaption class="wp-caption-text">This is the colouring.</figcaption></figure>]]></summary>
         <author>
             <name>Mike Pawliuk – Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classification of scattered linear orders]]></title>
-        <id>http://scoskey.org/presentation/classification-of-scattered-linear-orders/</id>
-        <link href="http://scoskey.org/presentation/classification-of-scattered-linear-orders/">
-        </link>
-        <updated>2018-03-06T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Boise Set Theory Seminar, March 2018<!--more--></p>
-
-<p><em>Abstract</em>: A linear order is called scattered if the rational order doesn’t embed into it. Scattered linear orders admit a derivative operation and an ordinal rank. In this talk we introduce some machinery needed to study the complexity of the classification of scattered linear orders of a given countable rank.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -2183,21 +2198,6 @@ The layout captured in this image combines a label (5.4) with an ordered list of
 <p>&nbsp;</p>]]></summary>
         <author>
             <name>Norman Lewis Perlmutter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperbinary numbers and fraction trees]]></title>
-        <id>http://scoskey.org/calkin-wilf</id>
-        <link href="http://scoskey.org/calkin-wilf">
-        </link>
-        <updated>2018-02-06T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>With Paul Ellis and Japheth Wood.<!--more--></p>
-
-<p><em>Abstract</em>: Questions about infinity are fascinating, and can lead into deep mathematical topics in set theory. The mathematics of infinite sets wasn’t clearly understood until Cantor defined cardinal numbers in the late 19th century, stating that two sets are the same size if there is a one-to-one correspondence between them. One surprising result from set theory, first proved by Cantor in 1873, is that there are precisely as many rational numbers (fractions) as there are counting numbers. Over one hundred years later, mathematicians Neil Calkin and Herbert S. Wilf published a more elegant proof of this fact.</p>
-
-<p>This article is the result of our work to develop the ideas in the Calkin-Wilf proof, so that they would be accessible to the teachers in our three different Math Teachers’ Circles. We designed an investigation into the hyperbinary numbers (itself a 19th century topic that predates Cantor’s work on cardinality) and developed the Tree of Fractions, much in the style of Calkin and Wilf. We asked teachers to make observations, ask questions, and convince each other of the veracity of their claims.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>

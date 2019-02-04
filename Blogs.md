@@ -11,7 +11,7 @@ title: Blogs
 * **Samuel Coskey** [Logic and set theory](http://scoskey.org/course/1819s-502/)
 * **Nick Gill** [Groups with identical element counts](https://nickpgill.github.io/groups-with-identical-element-counts)
 * **Mike Pawliuk – Mathematics** [Learning LaTeX in Jupyter Notebooks](https://mikepawliuk.ca/2018/12/16/learning-latex-in-jupyter-notebooks/)
-* **Mike Pawliuk – Mathematics** [Unifying themes in Ramsey Theory – BIRS 2018](https://mikepawliuk.ca/2018/12/02/unifying-themes-in-ramsey-theory-birs-2018/)
-* **Joel David Hamkins** [The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019](http://jdh.hamkins.org/the-rearrangement-and-subseries-numbers-muenster-january-2019/)
+* **Samuel Coskey** [Euclidian geometry proposed lesson plans](http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/)
+* **Samuel Coskey** [Pythagorean theorem area proofs](http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/)
 
 [Grab the feed for all Blogs!](Blogs.xml)
