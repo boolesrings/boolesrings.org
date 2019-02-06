@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-06T07:45:32Z</updated>
+    <updated>2019-02-06T11:45:36Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -326,7 +326,7 @@ g=\begin{pmatrix}
 <p><img data-attachment-id="1808" data-permalink="https://mikepawliuk.ca/2018/12/16/learning-latex-in-jupyter-notebooks/latex_8a906c4c6162313a7c99233a4201d667/" data-orig-file="https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=660" data-orig-size="874,176" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="latex_8a906c4c6162313a7c99233a4201d667" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=660?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=660?w=660" class=" size-full wp-image-1808 aligncenter" src="https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=660" alt="latex_8a906c4c6162313a7c99233a4201d667" srcset="https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=660 660w, https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=150 150w, https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=300 300w, https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png?w=768 768w, https://mikepawliuk.files.wordpress.com/2018/12/latex_8a906c4c6162313a7c99233a4201d667.png 874w" sizes="(max-width: 660px) 100vw, 660px"   /></p>
 <h2>4. Rationale</h2>
 <p>This was designed to be used as a resource outside of class that students could use whenever they want, as often as they want. In this sense it is a &#8220;flipped or blended&#8221; resource [3]. The nature of a jupyter notebook (it&#8217;s a fancy text file) means that students necessarily must download their own version of it and edit it as they go. This encourages them to personalize the material and take ownership of it. They can even modify the examples in the text instantly see how it changes the outcome.</p>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/D8K90hX4PrE?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/D8K90hX4PrE?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>In the SAMR model [2] this is firmly in the &#8220;Redefinition&#8221; category, as the Jupyter notebook simultaneously acts as information, scratch pad, code compiler, notebook, and authentic outcome. In addition, completing the exercises in a Jupyter notebook is an authentic use of the skill being trained.</p>
 <p><img style="max-width:100%;display:block;margin-left:auto;margin-right:auto;" title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_SAMR_Model.jpg/975px-The_SAMR_Model.jpg" alt="" /></p>
 <p>The main driver of solid pedagogical underpinnings is the <a href="http://udlguidelines.cast.org" target="_blank" rel="noopener">Universal Design guidelines </a>[1]. There I used all nine principles to make the resource more robust and drive student learning in many different, but natural, ways. In particular, the resource is low in passive learning, and high in active learning. Each section is a couple sentences, some examples, then right into activities. The activities are of use to a student in a first year math class, and many additional, alternative explanations are offered. See my activity design post for more discussion about this.</p>
@@ -343,6 +343,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -353,19 +366,6 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -701,6 +701,39 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -730,39 +763,6 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1409,19 +1409,6 @@ in New York.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
-        <id>http://scoskey.org/course/1819f-187/</id>
-        <link href="http://scoskey.org/course/1819f-187/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
-
-<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Real and linear analysis]]></title>
         <id>http://scoskey.org/course/1819f-515/</id>
         <link href="http://scoskey.org/course/1819f-515/">
@@ -1430,6 +1417,19 @@ in New York.</p>
         <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
+        <id>http://scoskey.org/course/1819f-187/</id>
+        <link href="http://scoskey.org/course/1819f-187/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
+
+<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1932,7 +1932,7 @@ domain and all the links should work, at least for the foreseeable future. So th
 </ol>
 <h2>Mar I/O plays mario</h2>
 <p>We&#8217;ll come back to your answers in a moment. For now, I want you to watch a bit of a video of an AI (called Mar I/O) learning to play the original 1985 Super Mario Brothers. Watch maybe the first 4 or 5 minutes, and then skip to the middle of the video. You only need to watch a little bit to get the sense of what&#8217;s going on.</p>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/l5_sWT_5I1o?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/l5_sWT_5I1o?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>(If you like this, you can watch <a href="https://www.youtube.com/watch?v=oWU48a2nNLA">a livestream of Mar I/O&#8217;s attempts</a> to beat the game level by level.)</p>
 <p>First of all, this program starts off only knowing a couple of things:</p>
 <ol>
@@ -1948,7 +1948,7 @@ domain and all the links should work, at least for the foreseeable future. So th
 </ol>
 <p>If you&#8217;re interested, Mar I/O is a <strong>Recurrent Neural Net</strong>. There are other types of AI, but this is the we&#8217;ll look at today.</p>
 <h2>&#8220;See how many envelopes you can lick in an hour, then try to break that record!&#8221;</h2>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/2Pbywpi64Tg?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;start=25&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/2Pbywpi64Tg?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;start=25&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>So at first it tries random stuff to increase its fitness score: jumping, standing still, ducking, running left, and none of these seem to increase its fitness. Then, when it presses right, mario starts progressing in the level and its fitness score goes up.</p>
 <p>This is called <strong>training the AI</strong>. It measures its progress against a fitness score, and it reinforces behaviour that increases that score. i.e. It starts to favour pressing right because that seems to increase its fitness score.</p>
 <p>This works great until it gets to the first enemy and mario runs right into it and dies. After a couple more tries, it starts to experiment some more (just like it was trying random things at the beginning of the level). Around the 2:20 mark of the video, Mar I/O presses the jump button right before the enemy and successfully clears it, allowing mario to move further right and increase its fitness score.</p>
@@ -1968,7 +1968,7 @@ How did you know you were doing well at the game?</p></blockquote>
 <p>When my character turned invisible, the screen stopped scrolling and I wasn&#8217;t sure what to do. At that point I just pressed buttons until it started to scroll again; i.e. <strong>I tried random things when I got stuck</strong>. As I continued to get stuck and unstuck, I recognized that I was getting stuck at the short walls, and that jumping over them saved me then. Trying the same trick saved me again when I was invisible. i.e. I was <strong>training</strong> on the short walls.</p>
 <p>This is very similar to how Mar I/O trains and learns.</p>
 <p>For comparison, here&#8217;s a video of one of the best Mario players in the world, CarlSagan42, taking 18 hours to beat an extremely difficult fan-made level. (<strong>Warning</strong>: there are a bunch of swear words.)</p>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/iqjUuQD4PJY?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/iqjUuQD4PJY?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>Notice a couple things:</p>
 <ol>
 <li>When faced with a new obstacle, he often just &#8220;tries something&#8221;. Maybe it works, maybe it doesn&#8217;t; Either way he gets information.</li>
@@ -1985,11 +1985,11 @@ How did you know you were doing well at the game?</p></blockquote>
 <p>Now Mar I/O doesn&#8217;t have any extra code which tells it &#8220;this is what a pit looks like&#8221; or &#8220;this is what a pipe is&#8221; or anything like that, (although it can see enemies as black tiles, it doesn&#8217;t know what an enemy <em>is</em>).</p>
 <p>Each time it succeeds at increasing its fitness score it strengthens the connections between the visual cues and the sequence of button presses that got it there. Each connection like this is stored in the AI as an <strong>&#8220;artificial neuron&#8221;</strong>. So when you were playing Zrist, you probably developed a neuron relating to gaps (&#8220;If gap, then jump&#8221;), one for tall walls (&#8220;If tall wall, then slide&#8221;), and many others.</p>
 <h2>&#8220;Features don&#8217;t have any deep meaning. They&#8217;re just stupid drawings that give you a cheap laugh&#8221;</h2>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/QjbyFM7fW9o?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/QjbyFM7fW9o?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>The very cool thing about modern AI is that you typically don&#8217;t need to tell it what or how many artificial neurons to make ahead of time, <em>Mar I/O adds neurons as it learns</em>. It&#8217;s just like how you didn&#8217;t need to know how many types of obstacles you would face in Zrist, you built up a list as you went. This is very powerful!</p>
 <p>The flip side to this is that after Mar I/O learns to beat a level, we humans will have a hard time understanding what it&#8217;s using to make its decisions. It won&#8217;t always be clear to us what visual elements (called <strong>&#8220;features&#8221;</strong>) it&#8217;s using to make its decisions.</p>
 <h2>Human learning</h2>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/YvhlOtQAU0A?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/YvhlOtQAU0A?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>Hopefully you see some of the parallels between the way AIs learn things and the way humans learn things. There are a lot of similarities. Mimicking human learning has been very useful for creating AIs.</p>
 <p>I&#8217;m going to point out a couple other ways that humans learn that help illustrate ways in which AI can learn.</p>
 <ol>
@@ -2001,7 +2001,7 @@ How did you know you were doing well at the game?</p></blockquote>
 <p>One of these processes is called a <strong>generation</strong>. For easy levels, Mar I/O only needed 40 or so generations. For difficult levels, Mar I/O needed over 250 generations! It can take a long time for these random mutations to produce helpful effects.</p>
 <p>If this feels a lot like evolution, well that&#8217;s because it is! These AI learn by evolving and refining their strategies. This is a very deep and powerful idea, but I&#8217;ve already gone on long enough, so I&#8217;ll save it for another time.</p>
 <h2>The limits of AI</h2>
-<iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/weAcVf6QUX4?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe>
+<div class="jetpack-video-wrapper"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/weAcVf6QUX4?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
 <p>The advancement of AI evokes many feelings: Awe and wonder, but also fear and skepticism. So I&#8217;ll end this post talking about what the future might look like.</p>
 <p>AI are machines. The term artificial intelligence might better be described as artificial <em>skill</em>. Mar I/O is only able to maximize a fitness score. It&#8217;s quite good at that, but that&#8217;s the only thing it can do. This AI is highly specialized to Super Mario Brothers. While it&#8217;s possible that the underlying Mar I/O code can be adapted to other games (like <a href="https://www.youtube.com/watch?v=Ipi40cb_RsI">Mario Kart</a>), it requires human knowledge, judgement and skill to adapt it to other settings.</p>
 <p>We don&#8217;t expect that Mar I/O will turn ever turn into a killer robot. At its core, Mar I/O is a (complicated) machine that presses buttons and is good at increasing a number (its fitness score).</p>
