@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-07T03:45:34Z</updated>
+    <updated>2019-02-07T07:45:41Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -343,6 +343,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -353,19 +366,6 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -701,6 +701,39 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -730,39 +763,6 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -2027,6 +2027,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2062,24 +2080,6 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
