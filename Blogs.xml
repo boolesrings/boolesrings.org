@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-12T19:45:34Z</updated>
+    <updated>2019-02-12T23:45:45Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1011,7 +1011,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 39"
+                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 40"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4550_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
