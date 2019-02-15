@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-15T07:45:32Z</updated>
+    <updated>2019-02-15T11:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,31 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[4th Arctic Set Theory Workshop, January 2019]]></title>
+        <id>http://blog.assafrinot.com/?p=4556</id>
+        <link href="http://blog.assafrinot.com/?p=4556">
+        </link>
+        <updated>2019-02-15T06:50:35Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4556_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4556_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4556_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4556_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4556, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 1"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4556_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4556_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set Theory Workshop 4</a> in Kilpisjärvi, January 2019.</p>
+<p><strong>Talk Title: </strong>Splitting a stationary set: Is there another way?</p>
+<p><strong>Abstract:</strong> Motivated by a problem in <em>pcf</em> theory, we seek for a new way to partition stationary sets.</p>
+<p>This is joint work with <a href="http://blog.assafrinot.com/?persons=maxwell-levine">Maxwell Levine</a>.</p>
+<p><strong>Downloads:</strong></p>
+<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4556, '')" href="http://www.assafrinot.com/files/rinot_arctic2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/38" class="billet_further"></a><a href="http://www.assafrinot.com/talk/arctic2019" class="billet_perm"></a></td></tr></table></p><span id="more-4556"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Core Model Induction and Other Inner Model Theoretic Tools Rutgers - Tutorial: HOD Computations]]></title>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html</id>
@@ -199,19 +224,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -306,6 +318,19 @@ g=\begin{pmatrix}
         <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -3276,32 +3301,6 @@ here the second sum is <img src="https://s0.wp.com/latex.php?latex=0+&#038;bg=ff
 <p>&nbsp;</p>]]></summary>
         <author>
             <name>Dave Sixsmith – I am a mathematician, not a calculator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributive Aronszajn trees]]></title>
-        <id>http://blog.assafrinot.com/?p=4373</id>
-        <link href="http://blog.assafrinot.com/?p=4373">
-        </link>
-        <updated>2017-04-04T15:40:42Z</updated>
-        <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4373_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
-                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4373_2', true);" 
-                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4373_2', false);"
-                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4373_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4373, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 86"
-                  class="thanks_button thanks_compact thanks_brown"
-                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
-                  id="thanksButton_4373_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4373_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~brodska/">Ari Meir Brodsky</a>.</p>
-<p><strong>Abstract.</strong>  Ben-David and Shelah <a href="http://www.ams.org/mathscinet-getitem?mr=MR861900">proved</a> that if $\lambda$ is a singular strong-limit cardinal and $2^\lambda=\lambda^+$, then $\square^*_\lambda$ entails the existence of a $\lambda$-distributive $\lambda^+$-Aronszajn tree. Here, it is proved that the same conclusion remains valid after replacing the hypothesis $\square^*_\lambda$  by $\square(\lambda^+,{&lt;\lambda})$.</p>
-<p>As $\square(\lambda^+,{&lt;\lambda})$ does not impose a bound on the order-type of the witnessing clubs, our construction is necessarily different from that of Ben-David and Shelah, and instead uses walks on ordinals augmented with club guessing.</p>
-<p>A major component of this work is the study of <strong>postprocessing functions</strong> and their effect on square sequences. A byproduct of this study is the finding that for $\kappa$ regular uncountable, $\square(\kappa)$ entails the existence of a partition of $\kappa$ into $\kappa$ many fat  sets. When contrasted with a classic model of Magidor, this shows that it is equiconsistent with the existence of a weakly compact cardinal that $\omega_2$ cannot be split into two fat  sets.</p>
-<p><span id="more-4373"></span></p>
-<p><strong>Downloads:</strong></p>
-<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4373, '')"  href="http://www.assafrinot.com/files/paper29.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4373, '')" href="https://arxiv.org/abs/1707.05048" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4373, '')" href="http://doi.org/10.4064/fm542-4-2018" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4373, '')" href="http://www.assafrinot.com/talk/luminy2017" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/24" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper29" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/29" class="billet_perm"></a></td></tr></table></p><!--more--></p>]]></summary>
-        <author>
-            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>
@@ -14721,33 +14720,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -14770,6 +14742,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
