@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-20T11:45:25Z</updated>
+    <updated>2019-02-20T15:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10103</id>
+        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10103">
+        </link>
+        <updated>2019-02-20T14:48:42Z</updated>
+        <summary type="html"><![CDATA[<p>No, it was just a chalk talk, based on the (upcoming) paper for notes. I think the paper will be available on the arXiv before long.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Golshani]]></title>
+        <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10102</id>
+        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10102">
+        </link>
+        <updated>2019-02-20T12:05:39Z</updated>
+        <summary type="html"><![CDATA[<p>Are there any slides for your talk?</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-10017</id>
@@ -177,30 +199,6 @@ Accepted, December 2018.</p>]]></summary>
         </link>
         <updated>2018-11-08T09:27:20Z</updated>
         <summary type="html"><![CDATA[<p>In which room/time are you giving these lectures? I might want to drop in on the 3 forthcoming ones if there&#8217;s space.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Alan Turing, On computable numbers by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9392</id>
-        <link href="http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9392">
-        </link>
-        <updated>2018-10-13T14:42:48Z</updated>
-        <summary type="html"><![CDATA[<p>Yes, I think we basically agree. I suppose one can say that I have over-stated the case to a certain extent, since it isn&#8217;t actually completely clear from Turing&#8217;s article whether he thought of it just like this. After all, at least on the surface, he does define a computable real number as a kind of real number. But then when one gets into how one might use these, the real number gets replaced by the program. </p>
-<p>So in my treatment of this issue in the book I am currently writing on the philosophy of mathematics, I take a somewhat softer tone, while making essentially the same points.</p>
-<p>I find these issues quite subtle and interesting, for both mathematical and philosophical reasons.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Alan Turing, On computable numbers by Lorenzo Cocco]]></title>
-        <id>http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9391</id>
-        <link href="http://jdh.hamkins.org/alan-turing-on-computable-numbers/#comment-9391">
-        </link>
-        <updated>2018-10-13T13:15:11Z</updated>
-        <summary type="html"><![CDATA[<p>I think that it is the idea that there are definitions of a term by a different coextensional one that are not *correct* that I was at pains to deny. There are of course interesting questions about how a certain notion and theory are best formalised/analysed when we are not sure at the outset about what sort of entities we want to talk about (reals or programs?). What I got wrong, as Prof. Hamkins pointed out, is that I assumed that the definition had to single out a class of real numbers. But then, on Turing&#8217;s initial definition and on the modern one define, the computable numbers are two different, in fact disjoint classes of programs. They are not coextensional at all. Therefore, again, this does not provide an example of two definitions that are extensionally equivalent but of which one is incorrect.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
