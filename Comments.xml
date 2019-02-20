@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-20T19:45:25Z</updated>
+    <updated>2019-02-20T23:45:27Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,20 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019 by Thomas Benjamin]]></title>
+        <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10106</id>
+        <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10106">
+        </link>
+        <updated>2019-02-20T22:20:08Z</updated>
+        <summary type="html"><![CDATA[<p>Very nice slide presentation.  I do have a question regarding a set-theoretic potentialist&#8217;s view of $V$, the universe of all sets and its relation to the Kunen Inconsistency in $ZFC$.  As is known, what Kunen proved in his paper, &#8220;Elementary embeddings and Infinitary Combinatorics&#8221;, is the following, for $j$: $V$ $\rightarrow$ $M$, assuming $AC$:</p>
+<p>$\mathscr P$($\lambda$) $nsubseteq$ $M$</p>
+<p>where $\lambda$ = { $j^n$($\kappa$): $n$ $\lt$ $\omega$}.</p>
+<p>My question is simply this:  If, for a set-theoretic potentialist, $V$ is the limit structure of all models of $ZFC$ (and it would seem that it would be, given your comments in the slide presentation regarding the limit structure), does the Kunen Inconsistency prove the set-theoretic potentialist&#8217;s point of view (since, according to what is written on the slide presentation, &#8220;the actual limit structure does not exist&#8221;) ?</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10103</id>
@@ -188,17 +202,6 @@ Accepted, December 2018.</p>]]></summary>
         </link>
         <updated>2018-11-09T18:01:19Z</updated>
         <summary type="html"><![CDATA[<p>The lectures are in the Oxford Faculty of Philosophy building, the Radcliffe Humanities building, in the Lecture Room on the 2nd floor, Thursdays 12-1.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Lectures on the Philosophy of Mathematics, Oxford, Michaelmas 2018 by Artem Kaznatcheev]]></title>
-        <id>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2018/#comment-9401</id>
-        <link href="http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2018/#comment-9401">
-        </link>
-        <updated>2018-11-08T09:27:20Z</updated>
-        <summary type="html"><![CDATA[<p>In which room/time are you giving these lectures? I might want to drop in on the 3 forthcoming ones if there&#8217;s space.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

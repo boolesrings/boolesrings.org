@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019 by Thomas Benjamin](http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10106)
 * **Comments for Joel David Hamkins** [Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Joel David Hamkins](http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10103)
 * **Comments for Joel David Hamkins** [Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Golshani](http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10102)
 * **Comments for Joel David Hamkins** [Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by Joel David Hamkins](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-10017)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Assaf Rinot** [Comment on A remark on Schimmerling’s question by Ari Brodsky](http://blog.assafrinot.com/?p=4456#comment-640)
 * **Comments for Joel David Hamkins** [Comment on A question for the mathematics oracle by Vincent R.B. Blazy](http://jdh.hamkins.org/question-for-the-math-oracle/#comment-9892)
 * **Comments for Joel David Hamkins** [Comment on The subseries number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 \| Joel David Hamkins](http://jdh.hamkins.org/the-subseries-number/#comment-9848)
-* **Comments for Assaf Rinot** [Comment on Souslin trees at successors of regular cardinals by saf](http://blog.assafrinot.com/?p=4550#comment-635)
 
 [Grab the feed for all Comments!](Comments.xml)

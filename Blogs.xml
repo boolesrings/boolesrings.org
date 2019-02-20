@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-20T19:45:32Z</updated>
+    <updated>2019-02-20T23:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -72,6 +72,68 @@
 <p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4556, '')" href="http://www.assafrinot.com/files/rinot_arctic2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/38" class="billet_further"></a><a href="http://www.assafrinot.com/talk/arctic2019" class="billet_perm"></a></td></tr></table></p><span id="more-4556"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A $\square(\kappa)$-like principle consistent with weak compactness]]></title>
+        <id>https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html</id>
+        <link href="https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html">
+        </link>
+        <updated>2019-02-09T05:00:00Z</updated>
+        <summary type="html"><![CDATA[<p><span id="CodyGitmanLambieHanson:SquarePrinciple">B. Cody, V. Gitman, and C. Lambie-Hanson, “A $\square(κ)$-like principle consistent with weak compactness,” <i>Submitted</i>. </span></p>
+<p>In this paper, we introduce and investigate an incompactness principle we call $\square_1(\kappa)$, which is closely related to $\square(\kappa)$ but is consistent with weak compactness. Let us begin by recalling the basic facts about $\square(\kappa)$. </p>
+
+<p>The principle $\square(\kappa)$ asserts that there is a $\kappa$-length coherent sequence of clubs $\vec{C}=\langle C_\alpha\mid\alpha\in\text{lim}(\kappa)\rangle$ that cannot be threaded. For an uncountable cardinal $\kappa$, a sequence $\vec{C}=\langle C_\alpha\mid\alpha\in\text{lim}(\kappa)\rangle$ of clubs $C_\alpha\subseteq\alpha$ is called <em>coherent</em> if whenever $\beta$ is a limit point of $C_\alpha$ we have $C_\beta=C_\alpha\cap\beta$. Given a coherent sequence $\vec{C}$, we say that $C$ is a <em>thread</em> through $\vec{C}$ if $C$ is a club subset of $\kappa$ and $C\cap\alpha=C_\alpha$ for every limit point $\alpha$ of $C$. A coherent sequence $\vec{C}$ is called a $\square(\kappa)$-sequence if it cannot be threaded, and $\square(\kappa)$ holds if there is a $\square(\kappa)$-sequence. It is easy to see that $\square(\kappa)$ implies that $\kappa$ is not weakly compact, and thus $\square(\kappa)$ can be viewed as asserting that $\kappa$ exhibits a certain amount of incompactness. The principle $\square(\kappa)$ was isolated by Todorčević <a href="#Todorcevic:squareKappa">[1]</a>, building on work of Jensen <a href="#Jensen:FineStructure">[2]</a>, who showed that, if $V = L$, then $\square(\kappa)$ holds for every regular uncountable $\kappa$ that is not weakly compact.</p>
+<p>
+The natural ${\leq}\kappa$-strategically closed forcing to add a $\square(\kappa)$-sequence (<a href="#LambieHanson:SquaresAndCoveringMatrices">[3]</a>, Lemma 35) preserves the inaccessibility as well as the Mahloness of $\kappa$, but kills the weak compactness of $\kappa$ and indeed adds a non-reflecting stationary set. However, if $\kappa$ is weakly compact, there is a forcing <a href="#HayutLambieHanson:SimultaneousStationaryReflectionAndSquareSequences">[4]</a> which adds a $\square(\kappa)$-sequence and also preserves the fact that every stationary subset of $\kappa$ reflects. Thus, relative to the existence of a weakly compact cardinal, $\square(\kappa)$ is consistent with ${\rm Refl}(\kappa)$, the principle that every stationary set reflects. However, $\square(\kappa)$ implies the failure of the simultaneous stationary reflection principle ${\rm Refl}(\kappa,2)$ which states that if $S$ and $T$ are any two stationary subsets of $\kappa$, then there is some $\alpha<\kappa$ with ${\rm cf}(\alpha)>\omega$ such that $S\cap \alpha$ and $T\cap\alpha$ are both stationary in $\alpha$. In fact, $\square(\kappa)$ implies that every stationary subset of $\kappa$ can be partitioned into two stationary sets that do not simultaneously reflect (<a href="#HayutLambieHanson:SimultaneousStationaryReflectionAndSquareSequences">[4]</a>, Theorem 2.1).</p>
+
+<p>If $\kappa$ is a weakly compact cardinal, then the collection of non-$\Pi^1_1$-indescribable subsets of $\kappa$ forms a natural normal ideal called the $\Pi^1_1$-indescribability ideal:
+$$\Pi^1_1(\kappa)=\{X\subseteq\kappa\mid \text{$X$ is not $\Pi^1_1$-indescribable}\}.$$
+A set $S\subseteq\kappa$ is <em>$\Pi^1_1$-indescribable</em> if for every $A\subseteq V_\kappa$ and every $\Pi^1_1$-sentence $\varphi$, whenever $(V_\kappa,\in,A)\models\varphi$ there is an $\alpha\in S$ such that $(V_\alpha,\in,A\cap V_\alpha)\models\varphi$. More generally, a $\Pi^1_n$-indescribable cardinal $\kappa$ carries the analogously defined $\Pi^1_n$-indescribability ideal. It is natural to ask the question: which results concerning the nonstationary ideal can be generalized to the various ideals associated to large cardinals, such as the $\Pi^1_n$-indescribability ideals? The work of Sun <a href="#Sun:StationaryCardinals">[5]</a> and Hellsten <a href="#Hellsten:DiamondsOnLargeCardinals">[6]</a> showed that when $\kappa$ is $\Pi^1_n$-indescribable the collection of \emph{$n$-club} subsets of $\kappa$ is a filter-base for the filter $\Pi^1_n(\kappa)^*$ dual to the $\Pi^1_n$-indescribability ideal, yielding a characterization of $\Pi^1_n$-indescribable sets that resembles the definition of stationarity: when $\kappa$ is $\Pi^1_n$-indescribable, a set $S\subseteq\kappa$ is $\Pi^1_n$-indescribable if and only if $S\cap C\neq\emptyset$ for every $n$-club $C\subseteq\kappa$. Several recent results have used this characterization (<a href="#Hellsten:OrdersOfIndescribableSets">[7]</a>, <a href="#Hellsten:SaturationOfTheWeaklyCompactIdeal">[8]</a>, <a href="#Cody:AddingANonReflectingWeaklyCompactSet">[9]</a> and <a href="#CodySakai:WeaklyCompactAtLeastOmegaWeaklyCompact">[10]</a>) to generalize theorems concerning the nonstationary ideal to the $\Pi^1_1$-indescribability ideal. For technical reasons, there has been less success with the $\Pi^1_n$-indescribability ideals for $n>1$. In this article we continue this line of research: by replacing "clubs" with "$1$-clubs" we obtain a $\square(\kappa)$-like principle $\square_1(\kappa)$ that is consistent with weak compactness but not with $\Pi^1_2$-indescribability.</p>
+
+<p>We will see that the principle $\square_1(\kappa)$ holds trivially at weakly compact cardinals $\kappa$ below which stationary reflection fails. (This is analogous to the fact that $\square(\kappa)$ holds trivially for every $\kappa$ of cofinality $\omega_1$.) Thus, the task at hand is not just to show that $\square_1(\kappa)$ is consistent with the weak compactness of $\kappa$, but to show that it is consistent with the weak compactness of $\kappa$ even when stationary reflection holds at many cardinals below $\kappa$, so that nontrivial coherence of the sequence is obtained. Recall that when $\kappa$ is $\kappa^+$-weakly compact, the set of weakly compact cardinals below $\kappa$ is weakly compact and much more, so, in particular, the set of inaccessible $\alpha<\kappa$ at which stationary reflection holds is weakly compact.</p>
+
+<p><strong>Theorem:</strong>
+If $\kappa$ is $\kappa^+$-weakly compact and the ${\rm GCH}$ holds, then there is a cofinality-preserving forcing extension in which
+<ul>
+<li>$\kappa$ remains $\kappa^+$-weakly compact</li>
+<li> and $\square_1(\kappa)$ holds.</li>
+</ul>
+</p>
+
+<p>We will also investigate the relationship between $\square_1(\kappa)$ and weakly compact reflection principles. The <em>weakly compact reflection principle</em> ${\rm Refl}_1(\kappa)$ states that $\kappa$ is weakly compact and for every weakly compact $S\subseteq \kappa$ there is an $\alpha<\kappa$ such that $S\cap\alpha$ is weakly compact. It is straightforward to see that if $\kappa$ is $\Pi^1_2$-indescribable, then ${\rm Refl}_1(\kappa)$ holds, and if ${\rm Refl}_1(\kappa)$ holds, then $\kappa$ is $\omega$-weakly compact (see <a href="#Cody:AddingANonReflectingWeaklyCompactSet">[9]</a>). However, the following results show that neither of these implications can be reversed. The first author <a href="#Cody:AddingANonReflectingWeaklyCompactSet">[9]</a> showed that if ${\rm Refl}_1(\kappa)$ holds then there is a forcing which adds a non-reflecting weakly compact subset of $\kappa$ and preserves the $\omega$-weak compactness of $\kappa$, hence the $\omega$-weak compactness of $\kappa$ does not imply ${\rm Refl}_1(\kappa)$. The first author and Hiroshi Sakai <a href="#CodySakai:WeaklyCompactAtLeastOmegaWeaklyCompact">[10]</a> showed that ${\rm Refl}_1(\kappa)$ can hold at the least $\omega$-weakly compact cardinal, and hence ${\rm Refl}_1(\kappa)$ does not imply the $\Pi^1_2$-indescribability of $\kappa$. Just as $\square(\kappa)$ and ${\rm Refl}(\kappa)$ can hold simultaneously relative to a weakly compact cardinal, we will prove that $\square_1(\kappa)$ and ${\rm Refl}_1(\kappa)$ can hold simultaneously relative to a $\Pi^1_2$-indescribable cardinal.</p>
+
+
+<p><strong>Theorem:</strong>
+Suppose that $\kappa$ is $\Pi^1_2$-indescribable and the ${\rm GCH}$ holds. Then there is a cofinality-preserving forcing extension in which
+<ul>
+<li> $\square_1(\kappa)$ holds,</li>
+<li> ${\rm Refl}_1(\kappa)$ holds and</li>
+<li> $\kappa$ is $\kappa^+$-weakly compact.</li>
+</ul>
+</p>
+
+Using $n$-club subsets of $\kappa$, we formulate a generalization of $\square_1(\kappa)$ to higher degrees of indescribability. It is easily seen that $\square_n(\kappa)$ implies that $\kappa$ is not $\Pi^1_{n+1}$-indescribable. However, for technical reasons  our methods do not seem to show that $\square_n(\kappa)$ can hold nontrivially when $\kappa$ is $\Pi^1_n$-indescribable. Our methods do allow for a generalization of Hellsten's $1$-club shooting forcing to $n$-club shooting, and we also show that, if $S$ is a $\Pi^1_n$-indescribable set, a $1$-club can be shot through
+$S$ while preserving the $\Pi^1_n$-indescribability of all $\Pi^1_n$-indescribable subsets of $S$.
+
+Finally, we consider the influence of $\square_n(\kappa)$ on \emph{simultaneous} reflection of
+$\Pi^1_n$-indescribable sets. We let ${\rm Refl}_n(\kappa,\mu)$ denote the following simultaneous reflection principle: $\kappa$ is $\Pi^1_n$-indescribable and whenever $\{S_\alpha\mid\alpha<\mu\}$ is a collection of $\Pi^1_n$-indescribable sets, there is a $\beta<\kappa$ such that $S_\alpha\cap\beta$ is $\Pi^1_n$-indescribable for all $\alpha < \mu$. We show that for $n\geq 1$, if $\square_n(\kappa)$ holds at a $\Pi^1_n$-indescribable cardinal, then the simultaneous reflection principle ${\rm Refl}_n(\kappa,2)$ fails. As a consequence, we show that relative to a $\Pi^1_2$-indescribable cardinal, it is consistent that ${\rm Refl}_1(\kappa)$ holds and ${\rm Refl}_1(\kappa,2)$ fails.
+
+
+
+<h2>References</h2>
+<ol class="bibliography"><li><span id="Todorcevic:squareKappa">S. Todorčević, “Partitioning pairs of countable ordinals,” <i>Acta Math.</i>, vol. 159, no. 3-4, pp. 261–294, 1987. Available at: https://doi.org/10.1007/BF02392561</span></li>
+<li><span id="Jensen:FineStructure">R. B. Jensen, “The fine structure of the constructible hierarchy,” <i>Ann. Math. Logic</i>, vol. 4, pp. 229–308; erratum, ibid. 4 (1972), 443, 1972. Available at: http://dx.doi.org/10.1016/0003-4843(72)90001-0</span></li>
+<li><span id="LambieHanson:SquaresAndCoveringMatrices">C. Lambie-Hanson, “Squares and covering matrices,” <i>Ann. Pure Appl. Logic</i>, vol. 165, no. 2, pp. 673–694, 2014. Available at: https://doi.org/10.1016/j.apal.2013.10.001</span></li>
+<li><span id="HayutLambieHanson:SimultaneousStationaryReflectionAndSquareSequences">Y. Hayut and C. Lambie-Hanson, “Simultaneous stationary reflection and square sequences,” <i>J. Math. Log.</i>, vol. 17, no. 2, pp. 1750010, 27, 2017. Available at: https://doi-org.proxy.library.vcu.edu/10.1142/S0219061317500106</span></li>
+<li><span id="Sun:StationaryCardinals">W. Z. Sun, “Stationary cardinals,” <i>Arch. Math. Logic</i>, vol. 32, no. 6, pp. 429–442, 1993. Available at: http://dx.doi.org/10.1007/BF01270466</span></li>
+<li><span id="Hellsten:DiamondsOnLargeCardinals">A. Hellsten, “Diamonds on large cardinals,” <i>Ann. Acad. Sci. Fenn. Math. Diss.</i>, no. 134, p. 48, 2003. </span></li>
+<li><span id="Hellsten:OrdersOfIndescribableSets">A. Hellsten, “Orders of indescribable sets,” <i>Arch. Math. Logic</i>, vol. 45, no. 6, pp. 705–714, 2006. Available at: http://dx.doi.org/10.1007/s00153-006-0015-1</span></li>
+<li><span id="Hellsten:SaturationOfTheWeaklyCompactIdeal">A. Hellsten, “Saturation of the weakly compact ideal,” <i>Proc. Amer. Math. Soc.</i>, vol. 138, no. 9, pp. 3323–3334, 2010. Available at: http://dx.doi.org/10.1090/S0002-9939-2010-10399-4</span></li>
+<li><span id="Cody:AddingANonReflectingWeaklyCompactSet">B. Cody, “Adding a non-reflecting weakly compact set,” <i>Accepted at Notre Dame Journal of Formal Logic</i>. Available at: https://arxiv.org/abs/1701.04358</span></li>
+<li><span id="CodySakai:WeaklyCompactAtLeastOmegaWeaklyCompact">B. Cody and H. Sakai, “The weakly compact reflection principle need not imply a high order of weak compactness,” <i>Submitted</i>. Available at: https://arxiv.org/abs/1707.08506</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -295,19 +357,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -407,6 +456,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Groups with identical element counts]]></title>
         <id>https://nickpgill.github.io/groups-with-identical-element-counts</id>
         <link href="https://nickpgill.github.io/groups-with-identical-element-counts">
@@ -481,6 +543,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -491,19 +566,6 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1470,19 +1532,6 @@ is something not fully verified, not fully vetted (at the very least by ourselve
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real and linear analysis]]></title>
-        <id>http://scoskey.org/course/1819f-515/</id>
-        <link href="http://scoskey.org/course/1819f-515/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
-
-<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
         <id>http://scoskey.org/course/1819f-187/</id>
         <link href="http://scoskey.org/course/1819f-187/">
@@ -1491,6 +1540,19 @@ is something not fully verified, not fully vetted (at the very least by ourselve
         <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real and linear analysis]]></title>
+        <id>http://scoskey.org/course/1819f-515/</id>
+        <link href="http://scoskey.org/course/1819f-515/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
+
+<p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2088,24 +2150,6 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2141,6 +2185,24 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -2679,54 +2741,6 @@ Given a set-theoretic property $\mathcal P$ characterized by the existence of el
 <p>This is really just the core, the fundamental issue around MathML layout on the web. Even if you make the assumption that an equation layout engine should be added to browsers, there are more problems. And then we're still not talking about the problems of the shoddy implementations in Gecko and WebKit. Let's see if I'll get around to that. For now, let's continue the 10,000 ft view a bit longer.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filter games and Ramsey-like cardinals]]></title>
-        <id>https://victoriagitman.github.io/talks/2017/09/27/filter-games-and-ramsey-like-cardinals.html</id>
-        <link href="https://victoriagitman.github.io/talks/2017/09/27/filter-games-and-ramsey-like-cardinals.html">
-        </link>
-        <updated>2017-09-27T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://boolesrings.org/victoriagitman/cuny-logic-seminars/cuny-set-theory-seminar/" target="_blank">CUNY Set Theory Seminar</a>, October 20, 2017.<!--more--></p>
-
-<p>Peter Holy and Philipp Schlicht recently introduced a robust hierarchy of Ramsey-like cardinals $\kappa$ using games in which player I plays an increasing sequence of $\kappa$-models and player II responds by playing an increasing sequence of $M$-ultrafilters for some cardinal $\alpha\leq\kappa$ many steps, with player II winning if she is able to continue finding the required filters <a href="#HolySchlicht:HierarchyRamseyLikeCardinals">[1]</a>. The entire hierarchy sits below a measurable cardinal and intertwines with Ramsey cardinals, as well as the Ramsey-like cardinals I introduced in <a href="#gitman:ramsey">[2]</a>. The cardinals in the hierarchy can also be defined by the existence of the kinds of elementary embeddings characterizing Ramsey cardinals and other cardinals in that neighborhood. Before getting to their hierarchy and the filter games, we need some background.</p>
-
-<p>Large cardinals $\kappa$ below a measurable cardinal tend to be characterized by the existence of certain elementary embeddings of weak $\kappa$-models or $\kappa$-models. A <em>weak $\kappa$-model</em> is a transitive model of ${\rm ZFC}^-$ of size $\kappa$ and height above $\kappa$, which we should think of as a mini-universe of set theory; a $\kappa$-model is additionally closed under $\lt\kappa$-sequences. Given a weak $\kappa$-model $M$, we call $U\subseteq P(\kappa)\cap M$ an $M$-<em>ultrafilter</em> if the structure $\langle M,\in, U\rangle$ satisfies that $U$ is a normal ultrafilter. (Note that since an $M$-ultrafilter is only $\lt\kappa$-complete for sequences from $M$, the ultrapower by it need not be well-founded.) Obviously, if the ultrapower of a weak $\kappa$-model $M$ by an $M$-ultrafilter on $\kappa$ is well-founded, then we get an elementary embedding of $M$ into a transitive model $N$, and conversely if there is an elementary embedding $j:M\to N$ with $N$ transitive and critical point $\kappa$, then $U=\{A\in M\mid A\subseteq\kappa\text{ and }\kappa\in j(A)\}$ is an $M$-ultrafilter with a well-founded ultrapower. These types of elementary embeddings characterize, for instance, weakly compact cardinals. If $\kappa^{\lt\kappa}=\kappa$, then $\kappa$ is weakly compact whenever every $\kappa$-model has an $M$-ultrafilter on $\kappa$ (and hence a well-founded ultrapower).</p>
-
-<p>An $M$-ultrafilter $U$, for a weak $\kappa$-model $M$, is called <em>weakly amenable</em> if for every $X\in M$, which $M$ thinks has size $\kappa$, $X\cap U\in M$. Because a weakly amenable $M$-ultrafilter is partially internal to $M$, we are able to define its iterates and iterate the ultrapower construction as we would do with a measure on $\kappa$. If $j:M\to N$ is the ultrapower by a weakly amenable $M$-ultrafilter on $\kappa$, then $M$ and $N$ have the same subsets of $\kappa$, and conversely if $M$ and $N$ have the same subsets of $\kappa$ and $j:M\to N$ is an elementary embedding with critical point $\kappa$, then the induced $M$-ultrafilter is weakly amenable. In a striking contrast with the characterization of weakly compact cardinals, it is inconsistent to assume that <em>every</em> $\kappa$-model $M$ has a weakly amenable $M$-ultrafilter! Looking at this from the perspective of the corresponding elementary embeddings $j:M\to N$, this happens because there is too much reflection between $M$ and $N$ for objects of size $\kappa$. </p>
-
-<p>The existence of weakly amenable $M$-ultrafilters for some weak $\kappa$-models characterizes Ramsey cardinals. A cardinal $\kappa$ is Ramsey whenever every $A\subseteq\kappa$ is an element of a weak $\kappa$-model $M$ which has a weakly amenable countably complete $M$-ultrafilter. If we assume that every $A\subseteq\kappa$ is an element of a $\kappa$-model $M$ which has such an $M$-ultrafilter, then we get a stronger large cardinal notion, the <em>strongly Ramsey</em> cardinal. If we further assume that every $A\subseteq\kappa$ is an element of a $\kappa$-model $M\prec H_{\kappa^+}$ for which there is such an $M$-ultrafilter, then we get an even stronger notion, the <em>super Ramsey</em> cardinal. Both notions are still weaker than a measurable cardinal. If we instead weaken our requirements and assume that every $A\subseteq\kappa$ is an element of a weak $\kappa$-model for which there is a weakly amenable $M$-ultrafilter with a well-founded ultrapower, we get a <em>weakly Ramsey</em> cardinal, which sits between ineffable and Ramsey cardinals. I introduced these notions and showed that a super Ramsey cardinal is a limit of strongly Ramsey cardinals, which is in turn a limit of Ramsey cardinals, which is in turn a limit of weakly Ramsey cardinals, which is in turn a limit of completely ineffable cardinals <a href="#gitman:ramsey">[2]</a>. I also called weakly Ramsey cardinals <em>$1$-iterable</em> because they are the first step in a hierarchy of <em>$\alpha$-iterable</em> cardinals for $\alpha\leq\omega_1$, which all sit below a Ramsey cardinal (see <a href="#gitman:welch">[3]</a> for definitions and properties). What happens if we consider intermediate versions between Ramsey and strongly Ramsey cardinals where we stratify the closure on the model $M$, considering models with $M^\alpha\subseteq M$ for cardinals $\alpha<\kappa$? What happens if we consider models $M\prec H_\theta$ for large $\theta$ and not just models $M\prec H_{\kappa^+}$?</p>
-<p>
-Obviously we cannot have a weak $\kappa$-model $M$ elementary in $H_\theta$ for $\theta>\kappa^+$. So let's drop the requirement of transitivity from the definition of a weak $\kappa$-model, but only require that $\kappa+1\subseteq M$. Now it makes sense to ask for a weak $\kappa$-model $M\prec H_\theta$ for arbitrarily large $\theta$. Suppose $\alpha\leq\kappa$ is a regular cardinal. Holy and Schlicht defined that $\kappa$ is <em>$\alpha$-Ramsey</em> if for every $A\subseteq\kappa$ and arbitrarily large regular $\theta>\kappa$, there is a weak $\kappa$-model $M\prec H_\theta$, closed under $\lt\alpha$-sequences, with $A\in M$ for which there is a weakly amenable $M$-ultrafilter on $\kappa$ (in the lone case $\alpha=\omega$, add that the ultrapower must be well-founded) <a href="#HolySchlicht:HierarchyRamseyLikeCardinals">[1]</a>. It is not difficult to see that it is equivalent to require that the models exist for <em>all</em> regular $\theta>\kappa$. Also, for a fixed $\theta$, it suffices to have a single such weak $\kappa$-model $M\prec H_\theta$, meaning that the requirement that every $A$ is an element of such a model is superfluous. An $\omega$-Ramsey cardinal is a limit of weakly Ramsey cardinals, and I showed that it is weaker than a 2-iterable cardinal, and hence much weaker than a Ramsey cardinal. An $\omega_1$-Ramsey cardinal is a limit of Ramsey cardinals. A $\kappa$-Ramsey cardinal is a limit of super Ramsey cardinals. I will say where the strongly Ramsey cardinals fit in below. </p>
-
-<p>It turns out that the $\alpha$-Ramsey cardinals have a game theoretic characterization! To motivate it, let's consider the following natural strengthening of the characterization of weakly compact cardinals. Suppose that whenever $M$ is a weak $\kappa$-model, $F$ is an $M$-ultrafilter and $N$ is another weak $\kappa$-model extending $M$, then we can find an $N$-ultrafilter $\bar F\supseteq F$. What is the strength of this property? I showed that it is inconsistent. Roughly, it implies the existence of too many weakly amenable $M$-ultrafilters, which we already saw leads to inconsistency (see <a href="#HolySchlicht:HierarchyRamseyLikeCardinals">[1]</a> for proof). So here is instead a game version of extending models and filters formulated by Holy and Schlicht.</p>
-
-<p>Let us say that a <em>filter</em> is any subset of $P(\kappa)$ with the property that the intersection of any finite number of its elements has size $\kappa$. We will say that a filter $F$ <em>measures</em> $A\subseteq \kappa$ if $A\in F$ or $\kappa\setminus A\in F$ and we will say that $F$ <em>measures</em> $X\subseteq P(\kappa)$ if $F$ measures all $A\in X$. If $M$ is a weak $\kappa$-model, we will say that a filter $F$ is <em>$M$-normal</em> if $F\cap M$ is an $M$-ultrafilter.</p>
-
-<p>Suppose $\kappa$ is weakly compact. Given an ordinal $\alpha\leq\kappa^+$ and a regular $\theta>\kappa$, consider the following two-player game of perfect information $G^\theta_\alpha(\kappa)$. Two players, the <em>challenger</em> and the <em>judge</em>, take turns to play $\subseteq$-increasing sequences $\langle M_\gamma\mid \gamma<\alpha\rangle$ of $\kappa$-models, and $\langle F_\gamma\mid\gamma<\alpha\rangle$ of filters on $\kappa$, such that the following hold for every $\gamma<\alpha$.
-<ul>
-<li> The challenger plays $M_\gamma\prec H_\theta$, and then the judge plays a filter $F_\gamma$ on $\kappa$ that measures $P(\kappa)\cap M_\gamma$.</li>
-<li> $\langle M_{\bar\gamma}\mid \bar\gamma<\gamma\rangle,\,\langle F_{\bar \gamma}\cap M_{\bar\gamma}\mid\bar\gamma<\gamma\rangle\in M_\gamma$.</li>
-</ul>
-Let $M_\alpha=\bigcup_{\gamma<\alpha}M_\gamma$ and $F_\alpha=\bigcup_{\gamma<\alpha}F_\gamma$. If $F_\alpha$ is a $M_\alpha$-normal filter, then the judge wins, and otherwise the challenger wins. Note that in order to have any hope of winning the judge must play a filter $F_\gamma$ at each stage such that $F_\gamma\cap M_\gamma$ is an $M_\gamma$-ultrafilter.
-</p>
-
-<p>Holy and Schlicht showed that if the challenger has a winning strategy in $G^\theta_\alpha(\kappa)$ for a single $\theta$, then the challenger has a winning strategy for all $\theta$, and similarly for the judge. Thus, we will say that $\kappa$ has the <em>$\alpha$-filter property</em> if the challenger has no winning strategy in the game $G^\theta_\alpha(\kappa)$ for some (all) regular $\theta>\kappa$. <a href="#HolySchlicht:HierarchyRamseyLikeCardinals">[1]</a></p>
-
-<p>Holy and Schlicht showed that for regular $\alpha>\omega$, $\kappa$ has the $\alpha$-filter property if and only if $\kappa$ is $\alpha$-Ramsey! Using the game characterization, they showed that $\kappa$ is $\alpha$-Ramsey ($\alpha>\omega$) if and only if every $A\in H_{2^{\kappa^+}}$ is an element of a weak $\kappa$-model $M\prec H_{2^{\kappa^+}}$, closed under $\lt\alpha$-sequences, for which there is an $M$-ultrafilter. [bibcite key=HolySchlicht:HierarchyRamseyLikeCardinals] Thus, we actually only need a single $\theta=2^{\kappa^+}$! So instead of $H_{\kappa^+}$ as in the definition of super Ramsey cardinals, the natural stopping point is $H_{2^{\kappa^+}}$. With the new characterization, we can also show that a strongly Ramsey cardinal is a limit of $\alpha$-Ramsey cardinals for every $\alpha<\kappa$.</p>
-<p>
-So now we have in order of increasing strength: weakly Ramsey, $\omega$-Ramsey, $\alpha$-iterable for $2\leq\alpha\leq\omega_1$, Ramsey, $\alpha$-Ramsey for $\omega_1\leq\alpha<\kappa$, strongly Ramsey, super Ramsey, $\kappa$-Ramsey, measurable.
-</p>
-<p>Why the restriction $\gamma>\omega$? I showed that an $\omega$-Ramsey cardinal is a limit of cardinals with the $\omega$-filter property (see [bibcite key=HolySchlicht:HierarchyRamseyLikeCardinals] for proof). The problem arises because even if the judge wins the game $G^\theta_\omega(\kappa)$, the ultrapower of $M_\omega$ by $F_\omega$ need not be well-founded. The same problem arises for any singular cardinal of cofinality $\omega$. The solution seems to be to consider a stronger version of the game for cardinals $\alpha$ of cofinality $\omega$, where it is required that the final filter $F_\alpha$ produces a well-founded ultrapower. Let's call this game $wfG^\theta_\alpha(\kappa)$. The well-founded games don't seem to behave as nicely as $G^\theta_\alpha(\kappa)$. For instance, it is not known whether having a winning strategy for a single $\theta$ is equivalent to having a winning strategy for all $\theta$. I conjecture that it is not the case. Still with the well-founded games, the arguments now generalize to show that $\kappa$ is $\omega$-Ramsey if and only if $\kappa$ has the well-founded $\omega$-filter property for every $\theta$.</p>
-<p>
-Finally, what about $\alpha$-Ramsey cardinals for singular $\alpha$? Well, since a weak $\kappa$-model $M$ that is closed under $\lt\alpha$-sequences for a singular $\alpha$ is also closed under $\lt\alpha^+$-sequences, $\alpha$-Ramsey for a singular $\alpha$ implies $\alpha^+$-Ramsey. So instead Holy and Schlicht defined that $\kappa$ is $\alpha$-Ramsey for a singular $\alpha$ if $\kappa$ has the well-founded $\alpha$-filter property (the well-founded part is only needed for $\alpha$ of cofinality $\omega$) <a href="#HolySchlicht:HierarchyRamseyLikeCardinals">[1]</a>. Now we have the $\alpha$-Ramsey hierarchy for all cardinals $\alpha\leq\kappa$. Holy and Schlicht showed that this is a strict hierarchy of large cardinal notions: if $\kappa$ is $\alpha$-Ramsey and $\beta<\alpha$, then $V_\kappa$ is a model of proper class many $\beta$-Ramsey cardinals, and moreover if $\beta$ is regular, then $\kappa$ is indeed a limit of $\beta$-Ramsey cardinals <a href="#HolySchlicht:HierarchyRamseyLikeCardinals">[1]</a>.</p>
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="HolySchlicht:HierarchyRamseyLikeCardinals">P. Holy and P. Schlicht, “A hierarchy of Ramsey-like cardinals.” </span></li>
-<li><span id="gitman:ramsey">V. Gitman, “Ramsey-like cardinals,” <i>The Journal of Symbolic Logic</i>, vol. 76, no. 2, pp. 519–540, 2011. Available at: http://dx.doi.org/10.2178/jsl/1305810762</span></li>
-<li><span id="gitman:welch">V. Gitman and P. D. Welch, “Ramsey-like cardinals II,” <i>The Journal of Symbolic Logic</i>, vol. 76, no. 2, pp. 541–560, 2011. Available at: http://dx.doi.org/10.2178/jsl/1305810763</span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -4373,49 +4387,6 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
-        <id>https://www.peterkrautzberger.org/0190/</id>
-        <link href="https://www.peterkrautzberger.org/0190/">
-        </link>
-        <updated>2016-06-16T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
-<p>Anyway.</p>
-<h2>O to be a query...</h2>
-<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
-<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
-<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
-<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
-<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
-<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
-<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
-<h2>... of silkworm size</h2>
-<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
-<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
-<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
-<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
-<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
-<h2>... or immense</h2>
-<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
-<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
-<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
-<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
-<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
-<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
-<h2>the 800 pound query</h2>
-<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
-<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
-<h3>fool me once, shame on you.</h3>
-<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
-<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
-<p>Either way, a media query for MathML is pointless.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Written elsewhere]]></title>
         <id>https://www.peterkrautzberger.org/0189/</id>
         <link href="https://www.peterkrautzberger.org/0189/">
@@ -4503,6 +4474,49 @@ similar to mathematics.&quot;</p>
 </blockquote>
 <p>In other words, math accessibility sucks bad. And no solution will really help you there. But <a href="https://www.mathjax.org/mathjax-accessibility-extensions-v1-now-available/">MathJax now does its best to make it suck less</a>.</p>
 <p>Oh, speaking of accessibility, I'm extremely disappointed that I won't make it to <a href="http://www.roledrinks.nl/">role=drinks</a> after all -- but if you're close by, why don't you drop by?</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
+        <id>https://www.peterkrautzberger.org/0190/</id>
+        <link href="https://www.peterkrautzberger.org/0190/">
+        </link>
+        <updated>2016-06-16T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
+<p>Anyway.</p>
+<h2>O to be a query...</h2>
+<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
+<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
+<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
+<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
+<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
+<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
+<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
+<h2>... of silkworm size</h2>
+<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
+<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
+<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
+<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
+<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
+<h2>... or immense</h2>
+<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
+<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
+<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
+<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
+<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
+<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
+<h2>the 800 pound query</h2>
+<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
+<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
+<h3>fool me once, shame on you.</h3>
+<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
+<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
+<p>Either way, a media query for MathML is pointless.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -8701,22 +8715,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8733,6 +8731,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -14714,33 +14728,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -14763,6 +14750,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
