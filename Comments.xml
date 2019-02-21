@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-21T15:45:26Z</updated>
+    <updated>2019-02-21T19:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -47,6 +47,28 @@
         <summary type="html"><![CDATA[<p>Are there any slides for your talk?</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on An $S$-space from a Cohen real by The S-space problem, and the cardinal invariant $mathfrak p$ | Assaf Rinot]]></title>
+        <id>http://blog.assafrinot.com/?p=2707#comment-647</id>
+        <link href="http://blog.assafrinot.com/?p=2707#comment-647">
+        </link>
+        <updated>2019-02-15T07:51:44Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] separable topological space which is not hereditarily Lindelöf. Do they exist? Consistently, yes. However, Szentmiklóssy proved that compact $S$-spaces do not exist, assuming Martin&#8217;s [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Contents by 4th Arctic Set Theory Workshop, January 2019 | Assaf Rinot]]></title>
+        <id>http://blog.assafrinot.com/#comment-646</id>
+        <link href="http://blog.assafrinot.com/#comment-646">
+        </link>
+        <updated>2019-02-15T07:49:29Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] This is joint work with Maxwell Levine. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
         </author>
     </entry>
     <entry>
@@ -270,28 +292,6 @@ Accepted, March 2018.</p>]]></summary>
         </link>
         <updated>2018-02-14T08:59:16Z</updated>
         <summary type="html"><![CDATA[<p>It does not, because the proof goes through the proxy principle $P(\lambda^+,\cdots)$ that asserts, among other things, that $\diamondsuit(\lambda^+)$ holds.</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Prikry forcing may add a Souslin tree by Mohammad]]></title>
-        <id>http://blog.assafrinot.com/?p=4222#comment-421</id>
-        <link href="http://blog.assafrinot.com/?p=4222#comment-421">
-        </link>
-        <updated>2018-02-14T08:07:21Z</updated>
-        <summary type="html"><![CDATA[<p>Does your result says anything when $2^\lambda &gt; \lambda^+$?</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on A strong form of König’s lemma by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4433#comment-351</id>
-        <link href="http://blog.assafrinot.com/?p=4433#comment-351">
-        </link>
-        <updated>2017-11-29T06:20:31Z</updated>
-        <summary type="html"><![CDATA[<p>that&#8217;s right!</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
