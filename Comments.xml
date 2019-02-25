@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-02-25T15:45:25Z</updated>
+    <updated>2019-02-25T19:45:29Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,29 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Draw an infinite chessboard in perspective, using straightedge only by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136</id>
+        <link href="http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136">
+        </link>
+        <updated>2019-02-25T17:41:34Z</updated>
+        <summary type="html"><![CDATA[<p>This is a critical point. You are right that with straightedge only, you cannot construct the exact midpoint (you can prove this by observing that it is not invariant under the transformations of projective geometry, although these preserve straight lines). The point of the construction is that the chessboard will still look good even if you do not use the exact midpoint. A similar issue affects the other construction method, where you fix the initial square, since the corresponding diagonal point at infinity may not be the midpoint.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Draw an infinite chessboard in perspective, using straightedge only by Gio]]></title>
+        <id>http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10135</id>
+        <link href="http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10135">
+        </link>
+        <updated>2019-02-25T13:04:08Z</updated>
+        <summary type="html"><![CDATA[<p>&gt; and a third point midway between them (brown)</p>
+<p>Does this point have to be exactly the middle? I don&#8217;t think so because of the &#8220;only straightedge&#8221; constraint, but I&#8217;m not sure of the meaning of &#8220;midway&#8221; in English. In geometry, is it &#8220;somewhere between the two points&#8221; or &#8220;exactly the middle&#8221;? (I&#8217;m not native English speaker)</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019 by Thomas Benjamin]]></title>
         <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10106</id>
@@ -202,28 +225,6 @@ Accepted, December 2018.</p>]]></summary>
         </link>
         <updated>2018-12-09T14:02:20Z</updated>
         <summary type="html"><![CDATA[<p>Would love to see a lattice of expressivity that includes temporal logics, causal logics, logics of action, higher order, epistemic/doxastic, etc.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The rearrangement number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-rearrangement-number/#comment-9447</id>
-        <link href="http://jdh.hamkins.org/the-rearrangement-number/#comment-9447">
-        </link>
-        <updated>2018-11-26T14:40:26Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] The rearrangement number. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Lectures on the Philosophy of Mathematics, Oxford, Michaelmas 2018 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2018/#comment-9403</id>
-        <link href="http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2018/#comment-9403">
-        </link>
-        <updated>2018-11-09T18:01:19Z</updated>
-        <summary type="html"><![CDATA[<p>The lectures are in the Oxford Faculty of Philosophy building, the Radcliffe Humanities building, in the Lecture Room on the 2nd floor, Thursdays 12-1.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
