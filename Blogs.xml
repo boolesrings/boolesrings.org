@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-06T19:45:34Z</updated>
+    <updated>2019-03-06T23:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,19 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[In praise of Replacement]]></title>
+        <id>http://karagila.org/2019/in-praise-of-replacement/</id>
+        <link href="http://karagila.org/2019/in-praise-of-replacement/">
+        </link>
+        <updated>2019-03-06T22:20:42Z</updated>
+        <summary type="html"><![CDATA[<p>I have often seen people complain about Replacement axioms. For example, <a href="https://mathoverflow.net/q/208711/7206">this MathOverflow question</a>, or <a href="https://mathoverflow.net/q/121406/7206">this one</a>, or <a href="https://mathoverflow.net/q/228168/7206">that one</a>, and also <a href="https://mathoverflow.net/q/219040/7206">this one</a>. This technical-looking schema of axioms state that if \(\varphi\) defines a function on a set \(x\), then the image of \(x\) under that function is a set. And this axiom schema is a powerhouse! It is one of the three component that give \(\ZF\) its power (the others being power set and infinity, of course). </p>
+
+<p>You'd think that people in category theory would like it, from a foundational point of view, it literally tells you that functions exists if you can define them! And category theory is all about the functions (yes, I know it's not, but I'm trying to make a point). <a href="http://karagila.org/2019/in-praise-of-replacement/">Continue reading...</a></p>]]></summary>
+        <author>
+            <name>Asaf Karagila</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Must there be numbers we cannot describe or define? Definability in mathematics and the Math Tea argument, Norwich, February 2019]]></title>
         <id>http://jdh.hamkins.org/must-there-be-number-we-cannot-define-norwich-february-2019/</id>
@@ -357,6 +370,32 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -440,32 +479,6 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -901,39 +914,6 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -963,6 +943,39 @@ every homogeneous space is in fact strongly homogeneous.</p>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -2150,6 +2163,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2185,24 +2216,6 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
