@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-10T11:45:25Z</updated>
+    <updated>2019-03-10T15:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on An inconsistent form of club guessing by Ari B.]]></title>
+        <id>http://blog.assafrinot.com/?p=845#comment-654</id>
+        <link href="http://blog.assafrinot.com/?p=845#comment-654">
+        </link>
+        <updated>2019-03-10T15:32:45Z</updated>
+        <summary type="html"><![CDATA[<p>In order for the concept to be non-trivial, it seems that you need to specify $\alpha&gt;0$ somewhere in the definition.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Draw an infinite chessboard in perspective, using straightedge only by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136</id>
@@ -282,17 +293,6 @@ Accepted, September 2018.</p>]]></summary>
         <updated>2018-03-28T20:36:20Z</updated>
         <summary type="html"><![CDATA[<p>Submitted to Fundamenta Mathematicae, April 2017.<br />
 Accepted, March 2018.</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Prikry forcing may add a Souslin tree by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4222#comment-422</id>
-        <link href="http://blog.assafrinot.com/?p=4222#comment-422">
-        </link>
-        <updated>2018-02-14T08:59:16Z</updated>
-        <summary type="html"><![CDATA[<p>It does not, because the proof goes through the proxy principle $P(\lambda^+,\cdots)$ that asserts, among other things, that $\diamondsuit(\lambda^+)$ holds.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
