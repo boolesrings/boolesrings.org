@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-13T19:45:25Z</updated>
+    <updated>2019-03-13T23:45:27Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on An inconsistent form of club guessing by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=845#comment-655</id>
+        <link href="http://blog.assafrinot.com/?p=845#comment-655">
+        </link>
+        <updated>2019-03-13T20:53:11Z</updated>
+        <summary type="html"><![CDATA[<p>Now corrected. Thanks!</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on An inconsistent form of club guessing by Ari B.]]></title>
         <id>http://blog.assafrinot.com/?p=845#comment-654</id>
@@ -281,18 +292,6 @@ Accepted, September 2018.</p>]]></summary>
         </link>
         <updated>2018-05-01T14:01:32Z</updated>
         <summary type="html"><![CDATA[<p>There is a typo in the definition of $W$. It should not be $ \mathcal{A} \in [a]^{&lt;\kappa}  $ but $ \mathcal{A} \in [P(a)]^{&lt;\kappa}  $ (where $P(a)$ denotes the power set of $a$).</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Distributive Aronszajn trees by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4373#comment-556</id>
-        <link href="http://blog.assafrinot.com/?p=4373#comment-556">
-        </link>
-        <updated>2018-03-28T20:36:20Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted to Fundamenta Mathematicae, April 2017.<br />
-Accepted, March 2018.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>

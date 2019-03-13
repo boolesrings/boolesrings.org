@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Assaf Rinot** [Comment on An inconsistent form of club guessing by saf](http://blog.assafrinot.com/?p=845#comment-655)
 * **Comments for Assaf Rinot** [Comment on An inconsistent form of club guessing by Ari B.](http://blog.assafrinot.com/?p=845#comment-654)
 * **Comments for Joel David Hamkins** [Comment on Draw an infinite chessboard in perspective, using straightedge only by Joel David Hamkins](http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136)
 * **Comments for Joel David Hamkins** [Comment on Draw an infinite chessboard in perspective, using straightedge only by Gio](http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10135)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Assaf Rinot** [Comment on An $S$-space from a Cohen real by The S-space problem, and the cardinal invariant $mathfrak p$ \| Assaf Rinot](http://blog.assafrinot.com/?p=2707#comment-647)
 * **Comments for Assaf Rinot** [Comment on Contents by 4th Arctic Set Theory Workshop, January 2019 \| Assaf Rinot](http://blog.assafrinot.com/#comment-646)
 * **Comments for Joel David Hamkins** [Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by Joel David Hamkins](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-10017)
-* **Comments for Joel David Hamkins** [Comment on Inner-model reflection principles by Inner-model reflection principles \| A kind of library](http://jdh.hamkins.org/inner-model-reflection-principles/#comment-9981)
 
 [Grab the feed for all Comments!](Comments.xml)
