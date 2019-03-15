@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-15T15:45:31Z</updated>
+    <updated>2019-03-15T19:45:38Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -209,6 +209,56 @@ the meeting.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic Fest in the Windy City - The interplay between inner model theory and descriptive set theory in a nutshell]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html">
+        </link>
+        <updated>2019-02-07T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On June 01, 2019 I am invited to give a talk at the <a href="https://homepages.math.uic.edu/~sinapova/Logic%20fest%202019.html">Logic
+Fest in the Windy City</a> in Chicago, USA.</p>
+
+<p><em>The interplay between inner model theory and descriptive set theory
+ in a nutshell</em></p>
+
+<p><em>Abstract:</em> The study of inner models was initiated by G"odel’s
+ analysis of the constructible universe $L$. Later, it became
+ necessary to study canonical inner models with large cardinals,
+ e.g. measurable cardinals, strong cardinals or Woodin cardinals,
+ which were introduced by Jensen, Mitchell, Steel, and others. Around
+ the same time, the study of infinite two-player games was driven
+ forward by Martin’s proof of analytic determinacy from a measurable
+ cardinal, Borel determinacy from ZFC, and Martin and Steel’s proof of
+ levels of projective determinacy from Woodin cardinals with a
+ measurable cardinal on top. First Woodin and later Neeman improved
+ the result in the projective hierarchy by showing that in fact the
+ existence of a countable iterable model, a mouse, with Woodin
+ cardinals and a top measure suffices to prove determinacy in the
+ projective hierarchy.</p>
+
+<p>This opened up the possibility for an optimal result stating the
+equivalence between local determinacy hypotheses and the existence of
+mice in the projective hierarchy, just like the equivalence of
+analytic determinacy and the existence of $x^\sharp$ for every real
+$x$ which was shown by Martin and Harrington in the 70’s. The
+existence of mice with Woodin cardinals and a top measure from levels
+of projective determinacy was shown by Woodin in the 90’s. Together
+with his earlier and Neeman’s results this estabilishes a tight
+connection between descriptive set theory in the projective hierarchy
+and inner model theory.</p>
+
+<p>In this talk, we will outline the main concepts and results connecting
+determinacy hypotheses with the existence of mice with large
+cardinals. Neeman’s methods mentioned above extend to show determinacy
+of projective games of arbitrary countable length from the existence
+of inner models with many Woodin cardinals. We will discuss a number
+of more recent results, some of which are joint work with Juan
+Aguilera, showing that inner models with many Woodin cardinals can be
+obtained from the determinacy of countable projective games.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019]]></title>
         <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/</id>
         <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/">
@@ -400,19 +450,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -496,6 +533,19 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -630,7 +680,7 @@ g=\begin{pmatrix}
 <h2>Monday &#8211; Day 1B &#8211; EPPA/Hrushovski property</h2>
 <p><strong>Natasha Dobrinen</strong> started the afternoon with a chalkboard talk showcasing new results about big Ramsey degrees. She showed how she overcame the difficulties with the random graph to find the big Ramsey degrees for graphs that forbid small complete graphs. At its core she was able to sidestep a difficulty that the Sauer construction presented by <em>starting</em> where the Sauer construction <em>ends</em>.</p>
 <p><strong>Jan Hubicka</strong> highlighted exciting work that he&#8217;s been doing about general methods of proving the EPPA (Hrshovski property) for various classes of metric spaces. He was able to breathe life into the idea of valuations first presented elsewhere.</p>
-<p>Finally, <strong>Macin Sabok</strong> presented work showing that the class of <em>hyper</em>tournaments does not have EPPA. It uses natural generalizations of the ideas present in Herwig-Lascar. It does not say anything about the (very hard) prized problem &#8220;Does the class of tournaments have EPPA?&#8221;. <strong>Edit:</strong> Marcin reminded me that the paper does actually prove something about tournaments: they have EPPA for specific families of isomorphisms (pairwise disjoint domains and ranges). The paper also contains novel ideas that weren&#8217;t present in the original Herwig-Lascar paper, such as the use of Gerstein&#8217;s lemma and iterated covering spaces.</p>
+<p>Finally, <strong>Macin Sabok</strong> presented work showing that the class of <em>hyper</em>tournaments does not have EPPA. It uses generalizations of the ideas present in Herwig-Lascar, together with other ideas from algebraic topology. It does not answer the (very hard) prized problem &#8220;Does the class of tournaments have EPPA?&#8221;, but it does prove EPPA for a specific class of isomorphisms.</p>
 <p>The day ended with a small group of us going on <a href="https://www.strava.com/activities/1974581635">a fast hike of Tunnel mountain</a>.</p>
 <h2>Tuesday &#8211; Day 2A &#8211; Dynamics</h2>
 <p>The morning session focused on the fruitful connections that topological dynamics has had with Ramsey theory through <a href="https://mikepawliuk.ca/2016/11/16/topological-dynamics-and-ramsey-classes-ramsey-doccourse-prague-2016/">the KPT correspondence</a>.</p>
@@ -670,7 +720,8 @@ g=\begin{pmatrix}
 <p><strong>Dragan Masulovic</strong> showed us how the tools of category theory can be used to view and prove <a href="https://mikepawliuk.ca/2016/12/12/dual-ramsey-an-introduction-ramsey-doccourse-prague-2016/">dual results in Ramsey theory</a>. He showed us the value and type of isomorphism of categories in the Ramsey context. There was a special attention to making the results usable and practical for the non-category theorist.</p>
 <p><strong>Stevo Todorcevic</strong> gave concluding remarks for the conference. To be honest, I was so caught up in his talk that I didn&#8217;t take notes. <a href="https://www.birs.ca/events/2018/5-day-workshops/18w5180/videos/watch/201811231059-Todorcevic.html">I highly recommend watching his talk</a>.</p>
 <p>And with that, we wrapped up this iteration of the Ramsey theory meeting.</p>
-<figure data-shortcode="caption" id="attachment_1801" aria-describedby="caption-attachment-1801" style="width: 4160px" class="wp-caption alignnone"><img data-attachment-id="1801" data-permalink="https://mikepawliuk.ca/2018/12/02/unifying-themes-in-ramsey-theory-birs-2018/birs_1/" data-orig-file="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660" data-orig-size="4160,3120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1039348800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.79&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="BIRS_1" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660?w=660" class="alignnone size-full wp-image-1801" src="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660" alt="BIRS_1" srcset="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660 660w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=1320 1320w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=300 300w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=768 768w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=1024 1024w" sizes="(max-width: 660px) 100vw, 660px"   /><figcaption id="caption-attachment-1801" class="wp-caption-text">The cafeteria early in the morning. You can see Venus to the left of one of the trees.</figcaption></figure>]]></summary>
+<figure data-shortcode="caption" id="attachment_1801" aria-describedby="caption-attachment-1801" style="width: 4160px" class="wp-caption alignnone"><img data-attachment-id="1801" data-permalink="https://mikepawliuk.ca/2018/12/02/unifying-themes-in-ramsey-theory-birs-2018/birs_1/" data-orig-file="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660" data-orig-size="4160,3120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1039348800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.79&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="BIRS_1" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660?w=660" class="alignnone size-full wp-image-1801" src="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660" alt="BIRS_1" srcset="https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=660 660w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=1320 1320w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=300 300w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=768 768w, https://mikepawliuk.files.wordpress.com/2018/12/birs_1.jpg?w=1024 1024w" sizes="(max-width: 660px) 100vw, 660px"   /><figcaption id="caption-attachment-1801" class="wp-caption-text">The cafeteria early in the morning. You can see Venus to the left of one of the trees.</figcaption></figure>
+<p>&nbsp;</p>]]></summary>
         <author>
             <name>Mike Pawliuk – Mathematics</name>
         </author>
@@ -929,39 +980,6 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -991,6 +1009,39 @@ every homogeneous space is in fact strongly homogeneous.</p>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1397,40 +1448,6 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(with J. Aguilera and P. Schlicht) Long games and sigma-projective sets]]></title>
-        <id>https://muellersandra.github.io/publication/2018/09/22/PaperLongGamesSigmaProjSets.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/09/22/PaperLongGamesSigmaProjSets.html">
-        </link>
-        <updated>2018-09-21T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/AguileraMuellerSchlichtLongGamesandSigmaProjectiveSets.pdf">PDF.</a> 
-<a data-toggle="collapse" href="javascript:toggle('bibAMS18');" class="title">Bibtex.</a></p>
-
-<div style="display:none" id="bibAMS18">
-<pre class="collapse"> @ARTICLE{AMS18,
-   AUTHOR= {J. Aguilera, S. Müller and P. Schlicht},
-   TITLE= {Long games and $\sigma$-projective sets},
-   Note={Submitted} }</pre>
-</div>
-
-<!--more-->
-
-<p>We prove a number of results on the determinacy of $\sigma$-projective
-sets of reals, i.e., those belonging to the smallest pointclass
-containing the open sets and closed under complements, countable
-unions, and projections. We first prove the equivalence between
-$\sigma$-projective determinacy and the determinacy of certain classes
-of games of variable length ${&lt;}\omega^2$. We then give an elementary
-proof of the determinacy of $\sigma$-projective sets from optimal
-large-cardinal hypotheses. Finally, we show how to generalize the
-proof to obtain proofs of the determinacy of $\sigma$-projective games
-of a given countable length and of games with payoff in the smallest
-$\sigma$-algebra containing the projective sets, from corresponding
-assumptions.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On set-theoretic mereology as a foundation of mathematics, Oxford Phil Math seminar, October 2018]]></title>
         <id>http://jdh.hamkins.org/on-set-theoretic-mereology-as-a-foundation-of-mathematics-oxford-phil-math-seminar-october-2018/</id>
         <link href="http://jdh.hamkins.org/on-set-theoretic-mereology-as-a-foundation-of-mathematics-oxford-phil-math-seminar-october-2018/">
@@ -1560,19 +1577,6 @@ is something not fully verified, not fully vetted (at the very least by ourselve
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
-        <id>http://scoskey.org/course/1819f-187/</id>
-        <link href="http://scoskey.org/course/1819f-187/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
-
-<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Real and linear analysis]]></title>
         <id>http://scoskey.org/course/1819f-515/</id>
         <link href="http://scoskey.org/course/1819f-515/">
@@ -1581,6 +1585,19 @@ is something not fully verified, not fully vetted (at the very least by ourselve
         <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
+        <id>http://scoskey.org/course/1819f-187/</id>
+        <link href="http://scoskey.org/course/1819f-187/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
+
+<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2165,6 +2182,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2200,24 +2235,6 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>

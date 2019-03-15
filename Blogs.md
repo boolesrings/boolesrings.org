@@ -10,8 +10,8 @@ title: Blogs
 * **Assaf Rinot** [4th Arctic Set Theory Workshop, January 2019](http://blog.assafrinot.com/?p=4556)
 * **Victoria Gitman** [A $\square(\kappa)$-like principle consistent with weak compactness](https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html)
 * **Sandra Müller** [The Core Model Induction and Other Inner Model Theoretic Tools Rutgers - Tutorial: HOD Computations](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html)
+* **Sandra Müller** [Logic Fest in the Windy City - The interplay between inner model theory and descriptive set theory in a nutshell](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html)
 * **Joel David Hamkins** [Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019](http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/)
 * **Sandra Müller** [Set Theory Seminar Bar-Ilan University - Projective determinacy for games of length omega^2 and longer](https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/01/25/TalkBarIlan.html)
-* **Peter Krautzberger** [Towards a general method for accessible content trees or: deep aria-labels for equations revisited](https://www.peterkrautzberger.org/0209/)
 
 [Grab the feed for all Blogs!](Blogs.xml)
