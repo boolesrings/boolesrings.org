@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-18T11:45:32Z</updated>
+    <updated>2019-03-18T15:45:30Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -2579,7 +2579,7 @@ In set theory, classes are collections of sets which are ``too large" to be sets
 <p><strong>Abstract.</strong> Schimmerling asked whether $\square^*_\lambda$ together with GCH entails the existence of a $\lambda^+$-Souslin tree, for a singular cardinal $\lambda$. Here, we provide an affirmative answer under the additional assumption that there exists a non-reflecting stationary subset of $E^{\lambda^+}_{\neq cf(\lambda)}$.<br />
 As a bonus, the outcome $\lambda^+$-Souslin tree is moreover <em>free</em>.</p>
 <p><strong>Downloads:</strong></p>
-<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4456, '')"  href="http://www.assafrinot.com/files/paper32.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><a onclick="thankYouButtonClick(4456, '')" href="https://rdcu.be/bnYdk" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4456, '')" href="http://www.assafrinot.com/talk/luminy2017" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/26" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper32" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/32" class="billet_perm"></a></td></tr></table></p><span id="more-4456"></span></p>]]></summary>
+<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4456, '')"  href="http://www.assafrinot.com/files/paper32.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><a onclick="thankYouButtonClick(4456, '')" href="http://doi.org/10.1007/s11083-019-09482-7" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4456, '')" href="http://www.assafrinot.com/talk/luminy2017" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/26" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper32" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/32" class="billet_perm"></a></td></tr></table></p><span id="more-4456"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
         </author>
