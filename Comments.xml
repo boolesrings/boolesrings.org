@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-22T11:45:25Z</updated>
+    <updated>2019-03-22T15:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Kelley-Morse set theory does not prove the class Fodor Principle, CUNY Set Theory Seminar, March, 2019 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/#comment-10180</id>
+        <link href="http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/#comment-10180">
+        </link>
+        <updated>2019-03-22T13:12:09Z</updated>
+        <summary type="html"><![CDATA[<p>I am given to understand that a live stream of the talk will be available at: <a href="https://videostreaming.gc.cuny.edu/videos/livestreams/page1/" rel="nofollow">https://videostreaming.gc.cuny.edu/videos/livestreams/page1/</a>.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on An inconsistent form of club guessing by saf]]></title>
         <id>http://blog.assafrinot.com/?p=845#comment-655</id>
@@ -236,17 +247,6 @@ Accepted, December 2018.</p>]]></summary>
         <updated>2018-12-15T01:25:00Z</updated>
         <summary type="html"><![CDATA[<p>Hi Joel,</p>
 <p>To flesh out my comment from your Q&amp;A session, given a countable M, consider the theory T consisting of the atomic diagram of M, together with ZFC + V = L. You proved that this theory is (finitely) consistent in your &#8220;nonstandard&#8221; case (note that in this proof, we do not need to assume that M is omega nonstandard). So by the omitting types theorem, there is a model N of T such that N is an end extension of M.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The hierarchy of logical expressivity by Stan Letovsky]]></title>
-        <id>http://jdh.hamkins.org/the-hierarchy-of-logical-expressivity/#comment-9546</id>
-        <link href="http://jdh.hamkins.org/the-hierarchy-of-logical-expressivity/#comment-9546">
-        </link>
-        <updated>2018-12-09T14:02:20Z</updated>
-        <summary type="html"><![CDATA[<p>Would love to see a lattice of expressivity that includes temporal logics, causal logics, logics of action, higher order, epistemic/doxastic, etc.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

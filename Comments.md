@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on Kelley-Morse set theory does not prove the class Fodor Principle, CUNY Set Theory Seminar, March, 2019 by Joel David Hamkins](http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/#comment-10180)
 * **Comments for Assaf Rinot** [Comment on An inconsistent form of club guessing by saf](http://blog.assafrinot.com/?p=845#comment-655)
 * **Comments for Assaf Rinot** [Comment on An inconsistent form of club guessing by Ari B.](http://blog.assafrinot.com/?p=845#comment-654)
 * **Comments for Joel David Hamkins** [Comment on Draw an infinite chessboard in perspective, using straightedge only by Joel David Hamkins](http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Golshani](http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10102)
 * **Comments for Assaf Rinot** [Comment on An $S$-space from a Cohen real by The S-space problem, and the cardinal invariant $mathfrak p$ \| Assaf Rinot](http://blog.assafrinot.com/?p=2707#comment-647)
 * **Comments for Assaf Rinot** [Comment on Contents by 4th Arctic Set Theory Workshop, January 2019 \| Assaf Rinot](http://blog.assafrinot.com/#comment-646)
-* **Comments for Joel David Hamkins** [Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by Joel David Hamkins](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-10017)
 
 [Grab the feed for all Comments!](Comments.xml)
