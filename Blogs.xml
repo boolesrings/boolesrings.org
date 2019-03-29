@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-03-29T07:45:31Z</updated>
+    <updated>2019-03-29T11:45:41Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,54 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[A Rodgers-Saxl type theorem]]></title>
+        <id>https://nickpgill.github.io/a-rodgers-saxl-theorem</id>
+        <link href="https://nickpgill.github.io/a-rodgers-saxl-theorem">
+        </link>
+        <updated>2019-03-29T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p>Pyber, Szabó and I have recently completed a paper entitled <em>A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank</em>. A copy of the paper can be found <a href="https://arxiv.org/abs/1901.09255">on the arXiv</a>.</p>
+
+<p>Our result was inspired by a result of Rodgers and Saxl which appeared in <em>Communications of Algebra</em> in 2003:</p>
+
+<p><strong>Theorem</strong>: Suppose that $C_1,\dots, C_k$ are conjugacy classes in $SL_n(q)$ such that 
+$\Pi_{i=1}^k|C_i|\geq|SL_n(q)|^{12}$. Then 
+$\Pi_{i=1}^kC_i=SL_n(q)$.</p>
+
+<p>Our result has a similar flavour.</p>
+
+<p><strong>Theorem</strong>: Let $G=G_r(q)$ be a finite simple group of Lie type of rank $r$. There exists $c=f(r)$ such that if $S_1,\dots, S_k$ are subsets of $G$ satisfying 
+$\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.</p>
+
+<p>Our theorem differs to that of Rodgers and Saxl in three important respects, two good, one not so good: First, our result pertains to all finite simple groups $G$ of Lie type. Second, our result does not just pertain to conjugacy classes, but to subsets of the group, provided we are free to take conjugates.</p>
+
+<p>The third difference is a weak point: our result replaces the constant ``12’’  in their thereom with an unspecified constant that depends on the rank of the group $G$. We conjecture that we should be able to do better, and not just for finite simple groups of Lie type, but for alternating groups as well:</p>
+
+<p><strong>Conjecture</strong>: Let $G$ be a finite simple group. There exists $c$ such that if $S_1,\dots, S_k$ are  subsets of $G$ satisfying 
+$\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.</p>
+
+<p>This conjecture seems hard! Our theorem has a rank-dependency because it makes use of the “Product Theorem” which was proved, independently by Pyber-Szabó and by Breuillard-Green-Tao. To prove the conjecture we would need to replace the Product Theorem in our argument with, um, something else… But what?!</p>
+
+<p>One last remark: there is a fourth sense in which our theorem differs to that of Rodgers and Saxl – we are interested in finite simple groups, while they consider $SL_n(q)$ which is, in general, only quasi-simple.</p>
+
+<p>It turns out that the distinction here is not significant: It is not hard to show that our theorem is true if and only if the analogous statement is true for quasi-simple groups (provided you require that the sets $S_i$ do not intersect the centre of $G$)… And the same is true of the conjecture stated above. So the stated conjecture would be a generalization of both our result and that of Rodgers and Saxl, albeit we don’t specify the value of $c$ as Rodgers and Saxl did.</p>
+
+<p>Let me finish this post by thanking my two co-authors, Laci and Bandi. I have worked with these two guys on a previous paper, and they are both brilliant and generous with their many ideas. I hope to have the privilege of working with them more in the future.</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor Principle, CUNY Set Theory Seminar, March, 2019]]></title>
         <id>http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/</id>
@@ -459,19 +507,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -555,6 +590,19 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -645,19 +693,6 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -668,6 +703,19 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -930,6 +978,41 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
+        </link>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
+
+<p><em>The consistency strength of long projective determinacy</em></p>
+
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
+
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -962,41 +1045,6 @@ analogue to the density theorem.</p>]]></summary>
   consistency strength of determinacy for games of length $\omega^2$
   with payoff in $\Game^{\mathbb{R}} \boldsymbol\Pi^1_1$ or with
   $\sigma$-projective payoff.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -6805,36 +6853,6 @@ Funny, I had missed your typo. I was really trying to joke that I count as two r
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MA1004: Álgebra lineal]]></title>
-        <id>https://nickpgill.github.io/2014/07/29/ma1004-algebra-lineal/</id>
-        <link href="https://nickpgill.github.io/2014/07/29/ma1004-algebra-lineal/">
-        </link>
-        <updated>2014-07-29T20:23:30Z</updated>
-        <summary type="html"><![CDATA[<p>Esta pagina es para un curso a la universidad de Costa Rica. El curso empezará el lunes 11 agosto 2014. Estoy enseñando grupo 3.</p>
-
-<p>Materiales:</p>
-
-<ul>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/07/CartaEstudianteMA1004.pdf">la carta al estudiante</a>.</li>
-  <li><a href="http://boolesrings.org/nickgill/files/2014/07/Cronograma-detallado-MA1004-UCR.pdf">Un cronograma detallado</a>.</li>
-  <li>El libro principal: <a href="http://boolesrings.org/nickgill/files/2014/07/libro-algebra-lineal.pdf"><em>Álgebra lineal</em></a> por Arce, Castillo y González.</li>
-  <li>Unos <a href="http://boolesrings.org/nickgill/files/2014/07/EjerciciosAlgebraLineal-Fonseca.pdf">ejercicios suplementarios</a> si se necesita practicar más.</li>
-  <li>Un libro alternativo: <a href="http://boolesrings.org/nickgill/files/2014/07/Algebra-Lineal-y-sus-Aplicaciones-3ra-Edición-David-C.-Lay.pdf"><em>Álgebra lineal y sus aplicaciones</em></a> por Lay. &lt;/ul&gt;</li>
-</ul>
-
-<p>En adición de esta página hay una otra página en Moodle con material de ayuda para esta curso. La página se llama <strong>Ayuda Algebra Lineal</strong> y está en la sección de <a href="http://moodlenew.emate.ucr.ac.cr/course/view.php?id=63">Matemática aplicada</a> de la escuela de matemática. La clave para matricularse es <strong>Ayuda2014</strong> y solo la deben usar los estudiantes la primera vez que se matriculen.</p>
-
-<p>Si tiene más preguntas, se puede</p>
-
-<ul>
-  <li>mandarme un correo: chatwithgill [at] gmail [dot] com</li>
-  <li>visitarme en mi oficina: las horas de oficina son 9-12 lunes y 10-12, jueves. (Pero si estoy en mi oficina, siempre estoy contento discutir el curso. Si quiere estar seguro que estará aquí, ¡escríbame!)</li>
-</ul>]]></summary>
-        <author>
-            <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No uniform ultrafilters]]></title>
         <id>http://karagila.org/2014/no-uniform-ultrafilters/</id>
         <link href="http://karagila.org/2014/no-uniform-ultrafilters/">
@@ -8745,6 +8763,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8761,22 +8795,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
