@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-05T06:45:30Z</updated>
+    <updated>2019-04-05T10:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1636,19 +1636,6 @@ is something not fully verified, not fully vetted (at the very least by ourselve
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
-        <id>http://scoskey.org/course/1819f-187/</id>
-        <link href="http://scoskey.org/course/1819f-187/">
-        </link>
-        <updated>2018-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
-
-<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Real and linear analysis]]></title>
         <id>http://scoskey.org/course/1819f-515/</id>
         <link href="http://scoskey.org/course/1819f-515/">
@@ -1657,6 +1644,19 @@ is something not fully verified, not fully vetted (at the very least by ourselve
         <summary type="html"><![CDATA[<p>Math 515, Fall 2018<!--more--></p>
 
 <p><em>Catalog description</em>: Lebesgue measure on the reals, construction of the Lebesgue integral and its basic properties. Advanced linear algebra and matrix analysis. Fourier analysis, introduction to functional analysis.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete and foundational mathematics]]></title>
+        <id>http://scoskey.org/course/1819f-187/</id>
+        <link href="http://scoskey.org/course/1819f-187/">
+        </link>
+        <updated>2018-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 187, Fall 2018<!--more--></p>
+
+<p><em>Catalog description</em>: An introduction to the language and methods of reasoning used throughout mathematics. Topics include propositional and predicate logic, elementary set theory, proof techniques including mathematical induction,functions and relations, combinatorial enumeration, permutations and symmetry.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2228,6 +2228,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2263,24 +2281,6 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -4465,6 +4465,49 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
+        <id>https://www.peterkrautzberger.org/0190/</id>
+        <link href="https://www.peterkrautzberger.org/0190/">
+        </link>
+        <updated>2016-06-16T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
+<p>Anyway.</p>
+<h2>O to be a query...</h2>
+<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
+<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
+<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
+<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
+<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
+<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
+<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
+<h2>... of silkworm size</h2>
+<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
+<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
+<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
+<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
+<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
+<h2>... or immense</h2>
+<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
+<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
+<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
+<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
+<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
+<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
+<h2>the 800 pound query</h2>
+<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
+<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
+<h3>fool me once, shame on you.</h3>
+<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
+<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
+<p>Either way, a media query for MathML is pointless.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Written elsewhere]]></title>
         <id>https://www.peterkrautzberger.org/0189/</id>
         <link href="https://www.peterkrautzberger.org/0189/">
@@ -4552,49 +4595,6 @@ similar to mathematics.&quot;</p>
 </blockquote>
 <p>In other words, math accessibility sucks bad. And no solution will really help you there. But <a href="https://www.mathjax.org/mathjax-accessibility-extensions-v1-now-available/">MathJax now does its best to make it suck less</a>.</p>
 <p>Oh, speaking of accessibility, I'm extremely disappointed that I won't make it to <a href="http://www.roledrinks.nl/">role=drinks</a> after all -- but if you're close by, why don't you drop by?</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
-        <id>https://www.peterkrautzberger.org/0190/</id>
-        <link href="https://www.peterkrautzberger.org/0190/">
-        </link>
-        <updated>2016-06-16T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
-<p>Anyway.</p>
-<h2>O to be a query...</h2>
-<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
-<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
-<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
-<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
-<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
-<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
-<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
-<h2>... of silkworm size</h2>
-<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
-<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
-<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
-<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
-<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
-<h2>... or immense</h2>
-<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
-<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
-<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
-<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
-<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
-<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
-<h2>the 800 pound query</h2>
-<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
-<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
-<h3>fool me once, shame on you.</h3>
-<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
-<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
-<p>Either way, a media query for MathML is pointless.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
