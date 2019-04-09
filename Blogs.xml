@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-09T06:45:31Z</updated>
+    <updated>2019-04-09T10:45:30Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -22,6 +22,113 @@
         <summary type="html"><![CDATA[[bibtex key="GitmanHamkinsKaragila:KM-set-theory-does-not-prove-the-class-Fodor-theorem"] <a href="http://jdh.hamkins.org/km-does-not-prove-class-fodor/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rodgers-Saxl type conjecture for characters]]></title>
+        <id>https://nickpgill.github.io/a-rodgers-saxl-conjecture-for-characters</id>
+        <link href="https://nickpgill.github.io/a-rodgers-saxl-conjecture-for-characters">
+        </link>
+        <updated>2019-04-05T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p>This is a follow-up to my <a href="https://nickpgill.github.io/a-rodgers-saxl-theorem">previous post on a generalization of a theorem of Rodgers and Saxl</a>.</p>
+
+<p>The story starts with a beautiful talk I heard by Martin Liebeck in which he outlined a result due to him, Shalev &amp; Tiep:</p>
+
+<p><strong>Theorem</strong>: Let $f$ be a faithful irreducible of $Sym(n)$. Then $f^{*4n}$ (i.e.tensor product $4n$ times) contains every irreducible as a constituent.</p>
+
+<p>This theorem can be interpreted as giving an upper bound on the diameter of the <a href="https://en.wikipedia.org/wiki/McKay_graph">McKay graphs</a> of the symmetric group. I won’t pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I’m just stating the symmetric group version of their result – they had more general statements for finite (almost) simple groups.</p>
+
+<p>Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c &gt; \sum \dim(f_i)$ where the sum on the right hand side ranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this latter quantity, <a href="https://projecteuclid.org/download/pdf_1/euclid.bams/1183553478">a result of Moser and Wyman</a> asserts that</p>
+
+<script type="math/tex; mode=display">I_n \sim\frac{1}{\sqrt{2}} n^{n/2} \exp(-n/2-1/4+\sqrt{n}).</script>
+
+<p>Now, using the fact that there exists an irreducible of dimension $n-1$, we obtain that</p>
+
+<script type="math/tex; mode=display">c>= \log (\sum \dim(f_i))/ \log(\dim(f) = \log (I_n+1)/ \log (n-1),</script>
+
+<p>and we conclude that $c$ must be at least linear in $n$.</p>
+
+<p>A well-known heuristic in finite group theory says that whenever one proves statements about (ordinary) characters, there is probably a statement about conjugacy classes lurking nearby (and vice versa). This heuristic sounds very wooly, but it can be made rigorous in very many different contexts, and in very many different ways.</p>
+
+<p>Sure enough, there is a “conjugacy class version” of the theorem above – it was proved by Liebeck and Shalev:</p>
+
+<p><strong>Theorem</strong>: There exists a constant $d$ such that if $C$ is a conjugacy class of $G$, a finite non-abelian simple group and if
+<script type="math/tex">k >= d \log|G|/ \log|C|,</script>
+then $C^k = G$.</p>
+
+<p>Here we are taking products of conjugacy classes instead of tensor products of characters. But, again, the result is of the same kind – it says that by taking a product $d$ times, then you will obtain all conjugacy classes, and $d$ is as small as one could possibly ask for, up to a multiplicative constant.</p>
+
+<p>So, now, recall that in the previous post, I made the following conjecture:</p>
+
+<p><strong>Conjecture</strong>: There exists a constant $c$ such that if $G$ is a finite simple group, and $S_1,\dots, S_k$ are  subsets of $G$ satisfying 
+$\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.</p>
+
+<p>A special case of this conjecture occurs when our sets $S_1,\dots, S_k$ are conjugacy classes of $G$. In this case, we obtain the following statement:</p>
+
+<p><strong>Conjecture</strong>: There exists a constant $c$ such that if $G$ is a finite simple group, and $C_1,\dots, C_k$ are conjugacy classes of $G$ satisfying 
+$\Pi_{i=1}^k|S_i|\geq|G|^c$, then $G=C_1\cdot C_2\cdots C_k$.</p>
+
+<p>I don’t know how to prove this theorem, but it’s possible that it’s not out of reach. The Rodgers–Saxl theorem that started all this off implies that the conjecture is true for the family $PSL(n,q)$ with the constant $c=12$. The theorem I proved with Pyber and Szabo implies it for groups of Lie type of bounded rank, so one is left with (some of) the classicals of unbounded rank, and the alternating groups.</p>
+
+<p>But back to chacters. What would be the character–theoretic version of the previous two conjectures? The first has, if I recall correctly, been stated by the LST-team:</p>
+
+<p><strong>Conjecture</strong> There exists $C&gt;0$ such that if $\chi$ is a non-trivial character of a finite simple group $G$ and if
+<script type="math/tex">c>C \log(\textrm{sum of dimensions of all irreducibles of }G)/ \log(\textrm{dimension of }\chi),</script> 
+then $\chi^{*c}$ contains every irreducible of $G$ as a constituent.</p>
+
+<p>The Rodgers-Saxl analogue of this would be:</p>
+
+<p><strong>Conjecture</strong> There exists $C&gt;0$ such that if $\chi_1,…, \chi_t$ are non-trivial characters of a finite simple group $G$ and if</p>
+
+<script type="math/tex; mode=display">\dim(\chi_1)*\dim(\chi_2)*...*\dim(\chi_t) > (\textrm{sum of dimensions of all irreducibles of }G)^C</script>
+
+<p>then $\chi_{1}*\cdots *\chi_{t}$ contains every irreducible of $G$ as a constituent.</p>
+
+<p>Let’s think about whether proving something like this might be possible just for the special case of $G=Sym(n)$ (OK, it’s not simple, but almost).</p>
+
+<p>First let me note that LST prove their result by showing that if $f$ is a faithful character of $Sym(n)$, then $f * f$ or $f *f *f *f$ always contains $\chi_{1,n-1}$, from which the result follows (one just calculates how many tensor products of $\chi_{1,n-1}$ one needs to obtain all irreducibles as constituents).</p>
+
+<p>My go-to man for symmetric group rep theory is Mark Wildon. I dropped him an email with the following question.</p>
+
+<p><strong>Question</strong>: Does there exist a positive integer $N$ such that if $k&gt; N$ and $f_1, …, f_k$ are irreducible characters of Sym(n), then the tensor product of $f_1,…, f_k$ (in that order) contains an irreducible constituent isomorphic to $\chi_{1,n-1}$?</p>
+
+<p>Mark was immediately able to shed light. This question can be answered affirmatively. Indeed the following argument (which is Mark’s) shows that something much stronger is true:</p>
+
+<p>Let $k$ be a field and let $G$ be a finite group. On page 45 of Alperin, <em>Local Representation Theory</em>, it’s shown that if $V$ is a faithful $k$G-module then there exists $N$ such that the $N$-fold tensor product $V \otimes … \otimes V$ contains a free submodule. Since $V \otimes F \cong F \oplus … \oplus F$ (with $\dim(V)$ summands) for any free $kG$-module $F$, it follows that any product with more factors (which may be arbitrary kG-modules) also contains a free submodule.</p>
+
+<p>In the language of characters: if $\chi$ is the character of $V$, and $\psi$ is any other character, then any character $\chi^N \times \psi$ contains the regular character.</p>
+
+<p><strong>Corollary</strong>: there exists $M$ such that any product of any $M$ faithful irreducible characters of $Sym(n)$ contains the regular character as a constituent.</p>
+
+<p><strong>Proof</strong>: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P$ is 2 less than the number of partitions of $n$, unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin’s result, and let $N = \max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED</p>
+
+<p>That’s a brilliant start, but it doesn’t give us any information about what $M$ can be. The same argument as I gave at the top of this post implies that $M$ must be bounded below by some linear function in $n$: so, then, it it possible that one can choose $M$ to be linear in $n$?</p>
+
+<p>Here’s what Mark had to say on the subject:</p>
+
+<blockquote>
+  <p><em>Some experiments in MAGMA suggest rather intriguingly that one can take 
+$M = n - 1$ for $Sym(n)$. This bound is sharp for $n = 3,\dots, 10$.</em></p>
+</blockquote>
+
+<p>Is this enough evidence to make a conjecture? Hell, yeah!</p>
+
+<p><strong>Conjecture</strong>: Suppose that $f_1,\dots, f_{n-1}$ are faithful irreducible characters of $Sym(n)$. Then $f_1* \cdots* f_{n-1}$  contains the regular character as a constituent.</p>
+
+<p>I think of this as a “Rodgers-Saxl type conjecture for characters”. Now, the challenge is to turn it into a theorem….</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
         </author>
     </entry>
     <entry>
@@ -704,6 +811,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -714,19 +834,6 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1061,39 +1168,6 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
-
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
-
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
-
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
-
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
@@ -1123,6 +1197,39 @@ every homogeneous space is in fact strongly homogeneous.</p>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -2228,24 +2335,6 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2281,6 +2370,24 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -5655,201 +5762,6 @@ Tomorrow (Monday, July 20th) is the last day for registration. This means that y
 </ol> <a href="http://karagila.org/2015/the-rules-of-research/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating New Appointments]]></title>
-        <id>https://nickpgill.github.io/2015/06/03/celebrating-new-appointments/</id>
-        <link href="https://nickpgill.github.io/2015/06/03/celebrating-new-appointments/">
-        </link>
-        <updated>2015-06-03T13:09:34Z</updated>
-        <summary type="html"><![CDATA[<p>This two-day event will take place on 23rd and 30th June 2015 at the University of South Wales. The event is being held to <a href="http://www.lms.ac.uk/grants/celebrating-new-appointments-scheme-1">celebrate the appointment</a> of four new lecturers in the maths dept of USW. It will consist of four sessions of general talks, each hosted by a new lecturer. All are welcome!</p>
-
-<p>There is no registration fee, but please register your attendance or obtain any further details by contacting <a href="mailto:Nick.Gill@southwales.ac.uk">Nick Gill</a>. All events are held in rooms G310 and G311. Morning tea, lunch and afternoon tea are included and complementary. There are limited funds available for dinner — please let us know if you would like to join us.</p>
-
-<p>A list of titles and abstracts for all talks <a href="/files/2015/06/talks.pdf">is now available</a>.</p>
-
-<h2 id="tuesday-23rd-june-2015">Tuesday 23rd June 2015</h2>
-
-<table>
-  <tr>
-    <td>
-      09:30
-    </td>
-    
-    <td>
-      coffee
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      10:00
-    </td>
-    
-    <td>
-      Session 1: Combinatorics and cryptography&lt;/p&gt; 
-      
-      <ol>
-        <li>
-          Si&acirc;n K. Jones (USW)
-        </li>
-        <li>
-          Derek Smith (Emeritus Professor)
-        </li>
-        <li>
-          Hannah Davies (USW)
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      12:00
-    </td>
-    
-    <td>
-      lunch
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      13:30
-    </td>
-    
-    <td>
-      Session 2: Numerically modelling the atmosphere&lt;/p&gt; 
-      
-      <ol>
-        <li>
-          James Kent (USW)
-        </li>
-        <li>
-          John Thuburn (University of Exeter)
-        </li>
-        <li>
-          Ayoe Buus Hansen (Met Office)
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      15:30
-    </td>
-    
-    <td>
-      coffee
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      18:00
-    </td>
-    
-    <td>
-      dinner
-    </td>
-  </tr>
-</table>
-
-<h2 id="tuesday-30th-june-2015">Tuesday 30th June 2015</h2>
-
-<table>
-  <tr>
-    <td>
-      09:30
-    </td>
-    
-    <td>
-      coffee
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      10:00
-    </td>
-    
-    <td>
-      Session 3: Operational Research&lt;/p&gt; 
-      
-      <ol>
-        <li>
-          Penny Holborn (USW)
-        </li>
-        <li>
-          Rhyd Lewis (Cardiff University)
-        </li>
-        <li>
-          Izabela Komenda (Aneurin Bevan University Health Board)
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      12:00
-    </td>
-    
-    <td>
-      lunch
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      13:30
-    </td>
-    
-    <td>
-      Session 4: Group Theory&lt;/p&gt; 
-      
-      <ol>
-        <li>
-          Nick Gill (USW)
-        </li>
-        <li>
-          Ian Short (Open University)
-        </li>
-        <li>
-          John Britnell (Imperial)
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      15:30
-    </td>
-    
-    <td>
-      coffee
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      18:00
-    </td>
-    
-    <td>
-      dinner
-    </td>
-  </tr>
-</table>
-
-<p>The meeting is supported by an LMS Conference grant celebrating new appointments and the University of South Wales.</p>
-
-<p><img src="http://demorganhouse.org.uk/sites/demorganhouse.org.uk/files/imagefield_thumbs/tmp/logo_lms_rgb.jpg" alt="London Mathematical Society" height="100" align="left" /><img src="http://www.southwales.ac.uk/static/foxsite/images/USW-logo.png" alt="University of South Wales" height="100" align="right" /></p>]]></summary>
-        <author>
-            <name>Nick Gill</name>
         </author>
     </entry>
     <entry>
