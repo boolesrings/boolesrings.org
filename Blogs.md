@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [Kelley-Morse set theory does not prove the class Fodor principle](http://jdh.hamkins.org/km-does-not-prove-class-fodor/)
 * **Nick Gill** [A Rodgers-Saxl type theorem](https://nickpgill.github.io/a-rodgers-saxl-theorem)
 * **Joel David Hamkins** [Kelley-Morse set theory does not prove the class Fodor Principle, CUNY Set Theory Seminar, March, 2019](http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/)
 * **Samuel Coskey** [On splitting and splittable families](http://scoskey.org/splitsplit)
@@ -12,6 +13,5 @@ title: Blogs
 * **Assaf Rinot** [Partitioning a reflecting stationary set](http://blog.assafrinot.com/?p=4559)
 * **Assaf Rinot** [4th Arctic Set Theory Workshop, January 2019](http://blog.assafrinot.com/?p=4556)
 * **Victoria Gitman** [A $\square(\kappa)$-like principle consistent with weak compactness](https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html)
-* **Sandra Müller** [The Core Model Induction and Other Inner Model Theoretic Tools Rutgers - Tutorial: HOD Computations](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)
