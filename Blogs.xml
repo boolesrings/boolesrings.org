@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-11T10:45:31Z</updated>
+    <updated>2019-04-11T14:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019]]></title>
+        <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/</id>
+        <link href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/">
+        </link>
+        <updated>2019-04-11T14:05:30Z</updated>
+        <summary type="html"><![CDATA[This will be a graduate-level lecture seminar on the Philosophy of Mathematics, run jointly by Professor Timothy Williamson and myself, held during Trinity term 2019 at Oxford University. We shall meet every Tuesday 2-4 pm during term in the Ryle &#8230; <a href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
         <id>http://jdh.hamkins.org/km-does-not-prove-class-fodor/</id>
@@ -625,6 +636,19 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -719,19 +743,6 @@ g=\begin{pmatrix}
         <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1717,17 +1728,6 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Draw an infinite chessboard in perspective, using straightedge only]]></title>
-        <id>http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/</id>
-        <link href="http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/">
-        </link>
-        <updated>2018-08-30T23:59:31Z</updated>
-        <summary type="html"><![CDATA[I&#8217;d like to explain to you how to draw chessboards by hand in perfect perspective, using only a straightedge.  In this post, I&#8217;ll explain how to construct chessboards of any size, starting with the size of the basic unit square. &#8230; <a href="http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Five Star Theorems]]></title>
         <id>http://karagila.org/2018/five-star-theorems/</id>
         <link href="http://karagila.org/2018/five-star-theorems/">
@@ -2335,6 +2335,24 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
+        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
+        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
+        </link>
+        <updated>2018-03-21T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
+
+<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
+<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
+
+<div class="figure">
+<img src="/images/vienna.jpg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
         <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
         <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
@@ -2370,24 +2388,6 @@ How did you know you were doing well at the game?</p></blockquote>
               Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
 <li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
 <li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -3108,7 +3108,10 @@ In the mean time, there are a few small intermediate steps like setting up a <a 
 It follows that for every uncountable cardinal $\lambda$, if $\lambda^{++}$ is not a Mahlo cardinal in Godel&#8217;s constructible universe, then $2^\lambda = \lambda^+$ entails the existence of a  $\lambda^+$-complete $\lambda^{++}$-Souslin tree.</p>
 <p><span id="more-4399"></span></p>
 <p><strong>Downloads:</strong></p>
-<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4399, '')"  href="http://www.assafrinot.com/files/paper31.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4399, '')" href="https://arxiv.org/abs/1708.06932" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4399, '')" href="http://dx.doi.org/10.4153/CJM-2017-058-2" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4399, '')" href="http://u.cs.biu.ac.il/~lambiec/estc2017.html" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/24" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper31" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/31" class="billet_perm"></a></td></tr></table></p><!--more--></p>]]></summary>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4399, '')"  href="http://www.assafrinot.com/files/paper31.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4399, '')" href="https://arxiv.org/abs/1708.06932" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4399, '')" href="http://dx.doi.org/10.4153/CJM-2017-058-2" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4399, '')" href="http://u.cs.biu.ac.il/~lambiec/estc2017.html" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/24" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper31" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/31" class="billet_perm"></a></td></tr></table></p>
+<p><strong>Citation information:</strong></p>
+<p>C. Lambie-Hanson and A. Rinot, <em>A forcing axiom deciding the generalized Souslin Hypothesis</em>, Canad. J. Math., 71(2): 437-470, 2019.<br />
+<!--more--></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
         </author>
@@ -8701,6 +8704,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8717,22 +8736,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
