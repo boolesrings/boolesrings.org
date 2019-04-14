@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [Is there just one mathematical universe? DRIFT, Amsterdam, May 2019](http://jdh.hamkins.org/is-there-just-one-mathematical-universe-amsterdam-may-2019/)
 * **Joel David Hamkins** [Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019](http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/)
 * **Joel David Hamkins** [Kelley-Morse set theory does not prove the class Fodor principle](http://jdh.hamkins.org/km-does-not-prove-class-fodor/)
 * **Nick Gill** [A Rodgers-Saxl type conjecture for characters](https://nickpgill.github.io/a-rodgers-saxl-conjecture-for-characters)
@@ -12,6 +13,5 @@ title: Blogs
 * **Asaf Karagila** [In praise of Replacement](http://karagila.org/2019/in-praise-of-replacement/)
 * **Samuel Coskey** [Introduction to continuous logic and model theory for metric structures.](http://scoskey.org/presentation/introduction-to-continuous-logic-and-model-theory-for-metric-structures/)
 * **Joel David Hamkins** [Must there be numbers we cannot describe or define? Definability in mathematics and the Math Tea argument, Norwich, February 2019](http://jdh.hamkins.org/must-there-be-number-we-cannot-define-norwich-february-2019/)
-* **Assaf Rinot** [Partitioning a reflecting stationary set](http://blog.assafrinot.com/?p=4559)
 
 [Grab the feed for all Blogs!](Blogs.xml)
