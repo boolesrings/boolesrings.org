@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-15T10:45:33Z</updated>
+    <updated>2019-04-15T14:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[The modal logic of potentialism, ILLC Amsterdam, May 2019]]></title>
+        <id>http://jdh.hamkins.org/modal-logic-of-potentialism-amsterdam-may-2019/</id>
+        <link href="http://jdh.hamkins.org/modal-logic-of-potentialism-amsterdam-may-2019/">
+        </link>
+        <updated>2019-04-15T13:57:23Z</updated>
+        <summary type="html"><![CDATA[This will be a talk at the Institute of Logic, Language and Computation (ILLC) at the University of Amsterdam for events May 11-12, 2019. Abstract: Potentialism can be seen as a fundamentally model-theoretic notion, in play for any class of &#8230; <a href="http://jdh.hamkins.org/modal-logic-of-potentialism-amsterdam-may-2019/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is there just one mathematical universe? DRIFT, Amsterdam, May 2019]]></title>
         <id>http://jdh.hamkins.org/is-there-just-one-mathematical-universe-amsterdam-may-2019/</id>
@@ -1118,41 +1129,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -1190,34 +1166,36 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
         </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
-Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
 
-<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+<p><em>The consistency strength of long projective determinacy</em></p>
 
-<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
-continuous reducibility on the Baire space ${}^\omega\omega$ in form
-of a game and analyzed it in a systematic way. He defined a refinement
-of the Borel hierarchy, called the Wadge hierarchy, showed that it is
-well-founded, and (assuming determinacy for Borel sets) proved that
-every Borel pointclass appears in this classification. Later Louveau
-found a description of all levels in the Borel Wadge hierarchy using
-Boolean operations on sets. Fons van Engelen used this description to
-analyze Borel homogeneous spaces and show that every homogeneous Borel
-space is in fact strongly homogeneous.</p>
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
 
-<p>In this talk, we will show how to generalize these results under the
-Axiom of Determinacy. In particular, we will outline that under AD
-every homogeneous space is in fact strongly homogeneous.</p>
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
 
-<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
-
-<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1252,6 +1230,39 @@ every homogeneous space is in fact strongly homogeneous.</p>
   \operatorname{DC}$. Furthermore, we argue that for countable premice
   it suffices to work in a background universe satisfying
   $\operatorname{ZF} + \operatorname{AC}_{\omega,\mathbb{R}}$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
+Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
+
+<p><em>Homogeneous Spaces and Wadge Theory</em></p>
+
+<p><em>Abstract:</em> In his PhD thesis Wadge characterized the notion of
+continuous reducibility on the Baire space ${}^\omega\omega$ in form
+of a game and analyzed it in a systematic way. He defined a refinement
+of the Borel hierarchy, called the Wadge hierarchy, showed that it is
+well-founded, and (assuming determinacy for Borel sets) proved that
+every Borel pointclass appears in this classification. Later Louveau
+found a description of all levels in the Borel Wadge hierarchy using
+Boolean operations on sets. Fons van Engelen used this description to
+analyze Borel homogeneous spaces and show that every homogeneous Borel
+space is in fact strongly homogeneous.</p>
+
+<p>In this talk, we will show how to generalize these results under the
+Axiom of Determinacy. In particular, we will outline that under AD
+every homogeneous space is in fact strongly homogeneous.</p>
+
+<p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
+
+<p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1675,17 +1686,6 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
         </link>
         <updated>2018-09-21T15:44:06Z</updated>
         <summary type="html"><![CDATA[This will be a talk for the Logic Seminar in Oxford at the Mathematics Institute in the Andrew Wiles Building on October 9, 2018, at 4:00 pm, with tea at 3:30. Abstract. The universal algorithm is a Turing machine program $e$ that can &#8230; <a href="http://jdh.hamkins.org/parallels-in-universality-oxford-math-logic-seminar-october-2018/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rearrangement number: how many rearrangements of a series suffice to validate absolute convergence? Warwick Mathematics Colloquium, October 2018]]></title>
-        <id>http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/</id>
-        <link href="http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/">
-        </link>
-        <updated>2018-09-20T16:33:54Z</updated>
-        <summary type="html"><![CDATA[This will be a talk for the Mathematics Colloquium at the University of Warwick, to be held October 19, 2018, 4:00 pm in Lecture Room B3.02 at the Mathematics Institute. I am given to understand that the talk will be &#8230; <a href="http://jdh.hamkins.org/rearrangement-number-warwick-october-2018/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
         </author>
@@ -14717,33 +14717,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
-        <id>https://www.peterkrautzberger.org/0061/</id>
-        <link href="https://www.peterkrautzberger.org/0061/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 6: properness ctd.</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 2)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
-    <img alt="screenshot of page 6" src="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
         <id>https://www.peterkrautzberger.org/0060/</id>
         <link href="https://www.peterkrautzberger.org/0060/">
@@ -14766,6 +14739,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
+        <id>https://www.peterkrautzberger.org/0061/</id>
+        <link href="https://www.peterkrautzberger.org/0061/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 6: properness ctd.</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 2)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
+    <img alt="screenshot of page 6" src="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
