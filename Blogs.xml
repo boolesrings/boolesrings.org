@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-19T18:45:32Z</updated>
+    <updated>2019-04-19T22:45:30Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,20 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Set theory in second-order]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/19/set-theory-in-second-order.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/19/set-theory-in-second-order.html">
+        </link>
+        <updated>2019-04-19T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the Set Theory in UK 2 meeting, University of Bristol, May 8, 2019.<!--more--></p>
+
+<p><strong>Abstract</strong>: Classes, from class forcing notions to elementary embeddings of the universe to inner models, play a fundamental role in modern set theory. But within first-order set theory we are limited to studying only definable classes and we cannot even express properties that necessitate quantifying over classes. Second-order set theory is a formal framework in which a model consists both of a collection of sets and a collection of classes (which are themselves collections of sets). In second-order set theory, we can study classes such as truth predicates, which can never be definable over a model of ${\rm ZFC}$, and properties that, for instance, quantify over all inner models. With this formal background we can develop a theory of class forcing that explains why and when class forcing behaves differently from set forcing. In this talk, I will discuss a hierarchy of second-order set theories, starting from the weak Gödel-Bernays set theory ${\rm GBC}$ and going beyond the relatively strong Kelley-Morse theory ${\rm KM}$. I will give an overview of a number of interesting second-order set theoretic principles that arose out of recent work in this area, such as, class choice principles, transfinite recursion with classes, determinacy of games on the ordinals, and the class Fodor Principle. The study of where these principles fit in the hierarchy of second-order set theories should serve as the beginning of a reverse mathematics program that I hope this talk will encourage set theorists to take part in.
+</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The modal logic of potentialism, ILLC Amsterdam, May 2019]]></title>
         <id>http://jdh.hamkins.org/modal-logic-of-potentialism-amsterdam-may-2019/</id>
@@ -44,6 +58,110 @@
         <summary type="html"><![CDATA[This will be a graduate-level lecture seminar on the Philosophy of Mathematics, run jointly by Professor Timothy Williamson and myself, held during Trinity term 2019 at Oxford University. We shall meet every Tuesday 2-4 pm during term in the Ryle &#8230; <a href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
+        <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
+        <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p><span id="GitmanHamkinsKaragila:KM-set-theory-does-not-prove-the-class-Fodor-theorem">V. Gitman, J. D. Hamkins, and A. Karagila, “Kelley-Morse set theory does not prove the class Fodor theorem,” <i>Submitted</i>. </span></p>
+
+<p>The <em>class Fodor principle</em> is the assertion that every regressive class function $F:S\to{\rm Ord}$ defined on a stationary class $S$ is constant on a stationary subclass of $S$. This statement can be expressed in the usual second-order language of set theory, and the principle can therefore be sensibly considered in the context of any of the various second-order set-theoretic systems, such as Gödel-Bernays ${\rm GBC}$ set theory or Kelley-Morse ${\rm KM}$ set theory. Just as with the classical Fodor's lemma in first-order set theory, the class Fodor principle is equivalent, over a weak base theory, to the assertion that the class club filter is normal. We shall investigate the strength of the class Fodor principle and try to find its place within the natural hierarchy of second-order set theories. We shall also define and study weaker versions of the class Fodor principle.</p>
+
+<p>If one tries to prove the class Fodor principle by adapting one of the classical proofs of the first-order Fodor's lemma, then one inevitably finds oneself needing to appeal to a certain second-order class-choice principle, which goes beyond the axiom of choice and the global choice principle, but which is not available in Kelley-Morse set theory <a href="#GitmanHamkins:KMplus">[1]</a>. For example, in one standard proof, we would want for a given ${\rm Ord}$-indexed sequence of non-stationary classes to be able to choose for each member of it a class club that it misses. This would be an instance of class-choice, since we seek to choose classes here, rather than sets. The class choice principle ${\rm CC}(\Pi^0_1)$, it turns out, is sufficient for us to make these choices, for this principle states that if every ordinal $\alpha$ admits a class $A$ witnessing a $\Pi^0_1$-assertion $\varphi(\alpha,A)$, allowing class parameters, then there is a single class $B\subseteq {\rm Ord}\times V$, whose slices $B_\alpha$ witness $\varphi(\alpha,B_\alpha)$; and the property of being a class club avoiding a given class is $\Pi^0_1$ expressible.</p>
+
+<p>Thus, the class Fodor principle, and consequently also the normality of the class club filter, is provable in the relatively weak second-order set theory ${\rm GBC}+{\rm CC}(\Pi^0_1)$. This theory is known to be weaker in consistency strength than the theory ${\rm GBC}+\Pi^1_1$-comprehension, which is itself strictly weaker in consistency strength than ${\rm KM}$.</p>
+
+<p>But meanwhile, although the class choice principle is weak in consistency strength, it is not actually provable in ${\rm KM}$; indeed, even the weak fragment ${\rm CC}(\Pi^0_1)$ is not provable in ${\rm KM}$. Those results were proved several years ago by the first two authors <a href="#GitmanHamkins:KMplus">[1]</a>, but they can now be seen as  consequences of the main result of this article. In light of that result, however, one should perhaps not have expected to be able to prove the class Fodor principle in ${\rm KM}$.</p>
+
+<p>Indeed, it follows similarly from arguments of the third author in <a href="#karagila:Fodor">[2]</a> that if $\kappa$ is an inaccessible cardinal, then there is a forcing extension $V[G]$ with a symmetric submodel $M$ such that $V_\kappa^M=V_\kappa$, which implies that $\mathcal M=(V_\kappa,\in, V^M_{\kappa+1})$ is a model of Kelley-Morse, and in $\mathcal M$, the class Fodor principle fails in a very strong sense.</p>
+
+<p>In this article, adapting the ideas of <a href="#karagila:Fodor">[2]</a> to the second-order set-theoretic context and using similar methods as in  <a href="#GitmanHamkins:KMplus">[1]</a>, we shall prove that every model of ${\rm KM}$ has an extension in which the class Fodor principle fails in that strong sense: there can be a class function $F:{\rm Ord}\to\omega$, which is not constant on any stationary class. In particular, in these models, the class club filter is not $\sigma$-closed: there is a class $B\subseteq\omega\times{\rm Ord}$, each of whose vertical slices $B_n$ contains a class club, but $\bigcap B_n$ is empty.
+</p>
+
+<p><strong>Main Theorem</strong>
+Kelley-Morse set theory ${\rm KM}$, if consistent, does not prove the class Fodor principle. Indeed, if there is a model of ${\rm KM}$, then there is a model of ${\rm KM}$ with a class function $F:{\rm Ord}\to \omega$, which is not constant on any stationary class; in this model, therefore, the class club filter is not $\sigma$-closed.
+</p>
+
+<p>We shall also investigate various weak versions of the class Fodor principle.</p>
+
+<p><strong>Definition</strong>:
+<ol>
+<li>
+For a cardinal $\kappa$, the <em>class $\kappa$-Fodor principle</em> asserts that every class function $F:S\to\kappa$ defined on a stationary class $S\subseteq{\rm Ord}$ is constant on a stationary subclass of $S$.
+</li>
+<li>
+The <em>class $<{\rm Ord}$-Fodor principle</em> is the assertion that the $\kappa$-class Fodor principle holds for every cardinal $\kappa$.
+</li>
+<li>
+The <em>bounded class Fodor principle</em> asserts that every regressive class function $F:S\to{\rm Ord}$ on a stationary class $S\subseteq{\rm Ord}$ is bounded on a stationary subclass of $S$.
+</li>
+<li>
+The <em>very weak class Fodor principle</em> asserts that every regressive class function $F:S\to{\rm Ord}$ on a stationary class $S\subseteq{\rm Ord}$ is constant on an unbounded subclass of $S$.
+</li>
+</ol>
+</p>
+
+<p>We shall separate these principles as follows.</p>
+
+<p>
+<strong>Theorem</strong>: Suppose ${\rm KM}$ is consistent.
+<ol>
+<li>
+There is a model of ${\rm KM}$ in which the class Fodor principle fails, but the class $<{\rm Ord}$-Fodor principle holds.
+</li>
+<li>
+There is a model of ${\rm KM}$ in which the class $\omega$-Fodor principle fails, but the bounded class Fodor principle holds.
+</li>
+<li>
+There is a model of ${\rm KM}$ in which the class $\omega$-Fodor principle holds, but the bounded class Fodor principle fails.
+</li>
+<li>
+${\rm GB}^-$ proves the very weak class Fodor principle.
+</li>
+</ol>
+</p>
+
+<p>Finally, we show that the class Fodor principle can neither be created nor destroyed by set forcing.</p>
+
+<p><strong>Theorem</strong>:
+ The class Fodor principle is invariant by set forcing over models of ${\rm GBC}^-$. That is, it holds in an extension if and only if it holds in the ground model.
+</p>
+<p>
+Let us conclude the introduction by mentioning the following easy negative instance of the class Fodor principle for certain ${\rm GBC}$ models. This argument seems to be a part of set-theoretic folklore. Namely, consider an $\omega$-standard model of ${\rm GBC}$ set theory $M$ having no $V_\kappa^M$ that is a model of ${\rm ZFC}$. A minimal transitive model of ${\rm ZFC}$, for example, has this property. Inside $M$, let $F(\kappa)$ be the least $n$ such that $V_\kappa^M$ fails to satisfy $\Sigma_n$-collection. This is a definable class function $F:{\rm Ord}^M\to\omega$ in $M$, but it cannot be constant on any stationary class in $M$, because by the reflection theorem there is a class club of cardinals $\kappa$ such that $V_\kappa^M$ satisfies $\Sigma_n$-collection.</p>
+<h2>References</h2>
+<ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
+<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set theories with classes]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<!--more--></p>
+
+<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -658,6 +776,32 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -741,32 +885,6 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -1129,6 +1247,41 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
+        </link>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
+
+<p><em>The consistency strength of long projective determinacy</em></p>
+
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
+
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -1161,41 +1314,6 @@ analogue to the density theorem.</p>]]></summary>
   consistency strength of determinacy for games of length $\omega^2$
   with payoff in $\Game^{\mathbb{R}} \boldsymbol\Pi^1_1$ or with
   $\sigma$-projective payoff.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -2052,7 +2170,7 @@ of the site to see if it's been published or whatnot.</p>
 
 <p>In models of ${\rm KM}$, the hyperclass object $\mathbb B_{\mathbb P}$ has all the desired properties. It is complete for all hyperclasses and indeed, as aught to be the case because it has a class-sized dense sub-partial-order, all its hyperclass antichains are coded. But it is still very difficult if not impossible to define the Boolean-valued model with a Boolean algebra whose elements are classes. A natural solution to this problem is to move a slightly stronger second-order set theory Kelley-Morse together with the Choice Scheme.</p>
 
-<p>The <em>Choice Scheme</em> ${\rm CC}$ is a choice principle (or a collection principle depending on the point of view) for classes which states for every second-order assertion $\varphi(x,X,A)$ that if for every set $x$, there is a witnessing class $X$ such that $\varphi(x,X,A)$ holds, then there is a single class $Y$ collecting witnesses for every set $x$, in the sense that $\varphi(x,Y_x,A)$ holds for every set $x$ (where $Y_x$ is the $x$-th slice of $Y$ defined as above). Kelley-Morse does not prove even the weakest instances of the Choice Scheme, those for first-order assertions and making just $\omega$-many choices <a href="#GitmanHamkinsJohnstone:KMplus">[6]</a>. But nevertheless the two theories ${\rm KM}$ and ${\rm KM}+{\rm CC}$ are equiconsistent, basically because the "constructible universe" of a model of ${\rm KM}$ satisfies ${\rm KM}+{\rm CC}$. The theory ${\rm KM}+{\rm CC}$ has one remarkable feature. It is bi-interpretable with a very well-understood first-order set theory. Given a model $\mathscr V\models{\rm KM}+{\rm CC}$ we can consider its class well-founded relations. For instance, $\mathscr V$ has relations coding ${\rm ORD}+{\rm ORD}$, ${\rm ORD}\times\omega$, $V\cup{\{V\}}$, etc. We can view such relations as coding transitive sets that sit "above" the sets of $V$. Modulo isomorphism, we can define a membership relation on the equivalence classes of these relations resulting in a first-order structure extending $V$. We will call this structure the companion model $M_{\mathscr V}$ of $\mathscr V$. The model $M_{\mathscr V}$ satisfies the theory ${\rm ZFC}^-_I$, consisting of the axioms of ${\rm ZFC}$ without powerset $(-)$, with the assertion that there is a largest cardinal $\kappa$ which is inaccessible ($I$). Natural models of ${\rm ZFC}^-_I$ are $H_{\kappa^+}$ for an inaccessible cardinal $\kappa$. The $V_\kappa$ of $M_{\mathscr V}$ consists of the sets $V$ of $\mathscr V$ and the subsets of $V_\kappa$ are the classes of $\mathscr V$. In the other direction if $M\models{\rm ZFC}^-_I$, then $\mathscr V=\langle V_\kappa^M,\in,\mathcal C\rangle$, where $\mathcal C$ consists of the subsets of $V_\kappa$ in $M$, is a model of ${\rm KM}+{\rm CC}$ whose companion model $M_{\mathscr V}$ is isomorphic to $M$.</p>
+<p>The <em>Choice Scheme</em> ${\rm CC}$ is a choice principle (or a collection principle depending on the point of view) for classes which states for every second-order assertion $\varphi(x,X,A)$ that if for every set $x$, there is a witnessing class $X$ such that $\varphi(x,X,A)$ holds, then there is a single class $Y$ collecting witnesses for every set $x$, in the sense that $\varphi(x,Y_x,A)$ holds for every set $x$ (where $Y_x$ is the $x$-th slice of $Y$ defined as above). Kelley-Morse does not prove even the weakest instances of the Choice Scheme, those for first-order assertions and making just $\omega$-many choices (missing reference). But nevertheless the two theories ${\rm KM}$ and ${\rm KM}+{\rm CC}$ are equiconsistent, basically because the "constructible universe" of a model of ${\rm KM}$ satisfies ${\rm KM}+{\rm CC}$. The theory ${\rm KM}+{\rm CC}$ has one remarkable feature. It is bi-interpretable with a very well-understood first-order set theory. Given a model $\mathscr V\models{\rm KM}+{\rm CC}$ we can consider its class well-founded relations. For instance, $\mathscr V$ has relations coding ${\rm ORD}+{\rm ORD}$, ${\rm ORD}\times\omega$, $V\cup{\{V\}}$, etc. We can view such relations as coding transitive sets that sit "above" the sets of $V$. Modulo isomorphism, we can define a membership relation on the equivalence classes of these relations resulting in a first-order structure extending $V$. We will call this structure the companion model $M_{\mathscr V}$ of $\mathscr V$. The model $M_{\mathscr V}$ satisfies the theory ${\rm ZFC}^-_I$, consisting of the axioms of ${\rm ZFC}$ without powerset $(-)$, with the assertion that there is a largest cardinal $\kappa$ which is inaccessible ($I$). Natural models of ${\rm ZFC}^-_I$ are $H_{\kappa^+}$ for an inaccessible cardinal $\kappa$. The $V_\kappa$ of $M_{\mathscr V}$ consists of the sets $V$ of $\mathscr V$ and the subsets of $V_\kappa$ are the classes of $\mathscr V$. In the other direction if $M\models{\rm ZFC}^-_I$, then $\mathscr V=\langle V_\kappa^M,\in,\mathcal C\rangle$, where $\mathcal C$ consists of the subsets of $V_\kappa$ in $M$, is a model of ${\rm KM}+{\rm CC}$ whose companion model $M_{\mathscr V}$ is isomorphic to $M$.</p>
 
 <p>Thus, whenever we work in a model $\mathscr V\models{\rm KM}+{\rm CC}$, we might as well be working in its companion model $M_{\mathscr V}$. But now the trick is that in $M_{\mathscr V}$, the class partial order $\mathbb P$ is a set (subset of $V_\kappa^{M_{\mathscr V}}$) and the hyperclass $\mathbb B_{\mathbb P}$ is a class-complete Boolean algebra with set-sized antichains. In $M_{\mathscr V}$, it is now easy to define the collection $M_{\mathscr V}^{\mathbb B_{\mathbb P}}$ of $\mathbb B_{\mathbb P}$-names as well the Boolean values of all assertions in the forcing language, using the completeness of $\mathbb B_{\mathbb P}$. In this sense, we have the Boolean algebras approach to forcing in models of ${\rm KM}+{\rm CC}$. </p>
 
@@ -2065,8 +2183,7 @@ of the site to see if it's been published or whatnot.</p>
 <li><span id="PeterHolyRegulaKrapfPhilippSchlicht:classforcing2">P. Holy, R. Krapf, and P. Schlicht, “Characterizations of Pretameness and the Ord-cc.” </span></li>
 <li><span id="PeterHolyRegulaKrapfPhilippLuckeAnaNjegomirPhilippSchlicht:classforcing1">P. Holy, R. Krapf, P. Lücke, A. Njegomir, and P. Schlicht, “Class Forcing, the Forcing Theorem and Boolean Completions.” </span></li>
 <li><span id="GitmanHamkinsHolySchlichtWilliams:ForcingTheorem">V. Gitman, J. D. Hamkins, P. Holy, P. Schlicht, and K. Williams, “The exact strength of the class forcing theorem,” <i>Submitted</i>. </span></li>
-<li><span id="AntosFriedmanGitman:booleanclassforcing">C. Antos, S. D. Friedman, and V. Gitman, “Boolean-valued class forcing,” <i>Submitted</i>. </span></li>
-<li><span id="GitmanHamkinsJohnstone:KMplus">V. Gitman, J. D. Hamkins, and T. Johnstone, “Kelley-Morse set theory and choice principles for classes.” </span></li></ol>]]></summary>
+<li><span id="AntosFriedmanGitman:booleanclassforcing">C. Antos, S. D. Friedman, and V. Gitman, “Boolean-valued class forcing,” <i>Submitted</i>. </span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -2335,64 +2452,6 @@ How did you know you were doing well at the game?</p></blockquote>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A model of second-order arithmetic satisfying AC but not DC]]></title>
-        <id>https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html</id>
-        <link href="https://victoriagitman.github.io/publications/2018/03/21/a-model-of-second-order-arithmetic-satisfying-AC-but-not-DC.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><span id="FriedmanGitman:ModelOfACNotDC">S.-D. Friedman, V. Gitman, and V. Kanovei, “A model of second-order arithmetic satisfying AC but not DC,” <i>To appear in the Journal of Mathematical Logic</i>. Available at: https://victoriagitman.github.io/files/ModelOfACNotDC.pdf</span></p>
-
-<p>Models of arithmetic are two-sorted structures, having two types of objects, which we think of as numbers and sets of numbers. Their properties are formalized using a two-sorted logic with separate variables and quantifiers for numbers and sets. By convention, we will denote number variables by lower-case letters and sets variables by upper-case letters. The language of second-order arithmetic is the language of first-order arithmetic $\mathcal L_A=\{+,\cdot,<,0,1\}$ together with a membership relation $\in$ between numbers and sets. A multitude of second-order arithmetic theories, as well as the relationships between them, have been extensively studied (see <a href="#simpson:second-orderArithmetic">[1]</a>).</p>
-
-<p>An example of a weak second-order arithmetic theory is ${\rm ACA_0}$, whose axioms consist of the modified Peano axioms, where instead of the induction scheme we have the single second-order induction axiom $$\forall X [(0\in X\wedge \forall n(n\in X\rightarrow n+1\in X))\rightarrow \forall n (n\in X)],$$ and the <em>comprehension scheme</em> for first-order formulas. The latter is a scheme of assertions stating for every first-order formula, possibly with class parameters, that there is a set whose elements are exactly the numbers satisfying the formula. One of the strongest second-order arithmetic theories is ${\rm Z}_2$, often referred to as <em>full second-order arithmetic</em>, which strengthens comprehension for first-order formulas in ${\rm ACA}_0$ to full comprehension for all second-order assertions. This means that for a formula with any number of second-order quantifiers, there is a set whose elements are exactly the numbers satisfying the formula. The reals of any model of ${\rm ZF}$ is a model of ${\rm Z}_2$. We can further strengthen the theory ${\rm Z}_2$ by adding choice principles for sets: the choice scheme and the dependent choice scheme.</p>
-
-<p>The <em>choice scheme</em> is a scheme of assertions, which states for every second-order formula $\varphi(n,X,A)$ with a set parameter $A$ that if for every number $n$, there is a set $X$ witnessing $\varphi(n,X,A)$, then there is a single set $Y$ collecting witnesses for every $n$, in the sense that $\varphi(n,Y_n,A)$ holds, where $Y_n=\{m\mid \langle n,m\rangle\in Y\}$ and $\langle n,m\rangle$ is any standard coding of pairs. More precisely, an instance of the choice scheme for the formula $\varphi(n,X,A)$ is $$\forall n\exists X\varphi(n,X,A)\rightarrow \exists Y\forall n\varphi(n,Y_n,A).$$ We will denote by $\Sigma^1_n$-${\rm AC}$ the fragment of the choice scheme for $\Sigma^1_n$-assertions, making an analogous definition for $\Pi^1_n$, and we will denote the full choice scheme by $\Sigma^1_\infty$-${\rm AC}$. The reals of any model of ${\rm ZF}+{\rm AC}_\omega$ (countable choice) satisfy ${\rm Z}_2+\Sigma^1_\infty$-${\rm AC}$. It is a folklore result, going back possibly to Mostowski, that the theory ${\rm Z}_2+\Sigma^1_\infty$-${\rm AC}$ is bi-interpretable with the theory ${\rm ZFC}^-$ (${\rm ZFC}$ without the powerset axiom, with Collection instead of Replacement) together with the statement that every set is countable.</p>
-
-<p>The <em>dependent choice scheme</em> is a scheme of assertions, which states for every second-order formula $\varphi(X,Y,A)$ with set parameter $A$ that if for every set $X$, there is a set $Y$ witnessing $\varphi(X,Y,A)$, then there is a single set $Z$ making infinitely many dependent choices according to $\varphi$. More precisely, an instance of the dependent choice scheme for the formula $\varphi(X,Y,A)$ is $$\forall X\exists Y\varphi(X,Y,A)\rightarrow \exists Z\forall n\varphi(Z_n,Z_{n+1},A).$$ We will denote by $\Sigma^1_n$-${\rm DC}$ the dependent choice scheme for $\Sigma^1_n$-assertions, with an analogous definition for $\Pi^1_n$, and we will denote the full dependent choice scheme by $\Sigma^1_\infty$-${\rm DC}$. The reals of a model of ${\rm ZF}+{\rm DC}$ (dependent choice) satisfy ${\rm Z}_2+\Sigma^1_\infty$-${\rm DC}$.</p>
-
-<p>It is not difficult to see that the theory ${\rm Z}_2$ implies $\Sigma^1_2$-${\rm AC}$, the choice scheme for $\Sigma^1_2$-assertions. Models of ${\rm Z}_2$ can build their own version of Gödel's constructible universe $L$. If a model of ${\rm Z}_2$ believes that a set $\Gamma$ is a well-order, then it has a set coding a set-theoretic structure constructed like $L$ along the well-order $\Gamma$.  It turns out that models of ${\rm Z}_2$ satisfy a version of Shoenfield's absoluteness with respect to their constructible universes. For every $\Sigma^1_2$-assertion $\varphi$, a model of ${\rm Z}_2$ satisfies $\varphi$ if and only its constructible universe satisfies $\varphi$ with set quantifiers naturally interpreted as ranging over the reals. All of the above generalizes to constructible universes $L[A]$ relativized to a set parameter $A$. Thus, given a $\Sigma^1_2$-assertion $\varphi(n,X,A)$ for which the model satisfies $\forall n\exists X\varphi(n,X,A)$, the model can go to its constructible universe $L[A]$ to pick the least witness $X$ for $\varphi(n,X,A)$ for every $n$, because $L[A]$ agrees when $\varphi$ is satisfied, and then put the witnesses together into a single set using comprehension. So long as the unique witnessing set can be obtained for each $n$, comprehension suffices to obtain a single set of witnesses. How much more of the choice scheme follows from ${\rm Z}_2$? The reals of the classical Feferman-Lévy model of ${\rm ZF}$ (see <a href="#levy:choicescheme">[2]</a>, Theorem 8), in which $\aleph_1$ is a countable union of countable sets, is a $\beta$-model of ${\rm Z}_2$ in which $\Pi^1_2$-${\rm AC}$ fails. This is a particulary strong failure of the choice scheme because, as we explain below, $\beta$-models are meant to strongly resemble the full standard model $P(\omega)$.</p>
-
-<p>There are two ways in which a model of second-order arithmetic can resemble the full standard model $P(\omega)$. A model of second-order arithmetic is called an $\omega$-<em>model</em> if its first-order part is $\omega$, and it follows that its second-order part is some subset of $P(\omega)$. But even an $\omega$-model can poorly resemble $P(\omega)$ because it may be wrong about well-foundedness by missing $\omega$-sequences. An $\omega$-model of second-order arithmetic which is correct about well-foundedness is called a $\beta$-<em>model</em>. The reals of any transitive ${\rm ZF}$-model is a $\beta$-model of ${\rm Z}_2$. One advantage to having a $\beta$-model of ${\rm Z}_2$ is that the constructible universe it builds internally is isomorphic to an initial segment $L_\alpha$ of the actual constructible universe $L$.</p>
-
-<p>The theory ${\rm Z}_2$ also implies $\Sigma^1_2$-${\rm DC}$ (see <a href="#simpson:second-orderArithmetic">[1]</a>, Theorem VII.9.2), the dependent choice scheme for $\Sigma^1_2$-assertions.  In this article, we construct a symmetric submodel of a forcing extension of $L$ whose reals form a model of second-order arithmetic in which ${\rm Z}_2$ together with $\Sigma^1_\infty$-${\rm AC}$ holds, but $\Pi^1_2$-${\rm DC}$ fails. The forcing notion we use is a tree iteration of a forcing for adding a real due to Jensen.</p>
-
-<p>Jensen's forcing, which we will call here $\mathbb P^J$, introduced by Jensen in <a href="#jensen:real">[3]</a>, is a subposet of Sacks forcing constructed in $L$ using the $\diamondsuit$ principle. The poset $\mathbb P^J$ has the ccc and adds a unique generic real over $L$. The collection of all $L$-generic reals for $\mathbb P^J$ in any model is $\Pi^1_2$-definable. Jensen used his forcing to show that it is consistent with ${\rm ZFC}$ that there is a $\Sigma^1_3$-definable non-constructible real <a href="#jensen:real">[3]</a>. Recently Lyubetsky and Kanovei extended the "uniqueness of generic filters" property of Jensen's forcing to finite-support products of $\mathbb P^J$ <a href="#kanovei:productOfJensenReals">[4]</a>. They showed that in a forcing extension $L[G]$ by the $\omega$-length finite support-product of $\mathbb P^J$, the only $L$-generic reals for $\mathbb P^J$ are the slices of the generic filter $G$. The result easily extends to $\omega_1$-length finite support-products as well.</p>
-
-<p>We in turn extend the ``uniqueness of generic filters" property to tree iterations of Jensen's forcing. We first define finite iterations $\mathbb P^J_n$ of Jensen's forcing $\mathbb P^J$, and then define an iteration of $\mathbb P^J$ along a tree $\mathcal T$ to be a forcing whose conditions are functions from a finite subtree of $\mathcal T$ into $\bigcup_{n<\omega}\mathbb P_n^J$ such that nodes on level $n$ get mapped to elements of the $n$-length iteration $\mathbb P_n^J$ and conditions on higher nodes extend conditions on lower nodes. The functions are ordered by extension of domain and strengthening on each coordinate. We show that in a forcing extension $L[G]$ by the tree iteration of $\mathbb P^J$ along the tree ${}^{\lt\omega}\omega_1$ (or the tree ${}^{\lt\omega}\omega$) the only $L$-generic filters for $\mathbb P_n^J$ are the restrictions of $G$ to level $n$ nodes of tree. We proceed to construct a symmetric submodel of $L[G]$ which has the tree of $\mathbb P_n^J$-generic filters added by $G$ but no branch through it. The symmetric model we construct satisfies ${\rm AC}_\omega$ and the tree of $\mathbb P_n^J$-generic filters is $\Pi^1_2$-definable in it. The reals of this model thus provide the desired $\beta$-model of ${\rm Z}_2$ in which $\Sigma^1_\infty$-${\rm AC}$ holds, but $\Pi^1_2$-${\rm DC}$ fails.</p>
-<p>Our results also answer a long-standing open question of Zarach from <a href="#Zarach1996:ReplacmentDoesNotImplyCollection">[5]</a> about whether the Reflection Principle holds in models of ${\rm ZFC}^-$. The <em>Reflection Principle</em> states that every formula can be reflected to a transitive set, and holds in ${\rm ZFC}$ by the Lévy-Montague reflection because every formula is reflected by some $V_\alpha$. In the absence of the von Neumann hierarchy, it is not clear how to realize reflection, and indeed we show that it fails in $H_{\omega_1}\models{\rm ZFC}^-$ of the symmetric model we construct.</p>
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="simpson:second-orderArithmetic">S. G. Simpson, <i>Subsystems of second order arithmetic</i>, Second. Cambridge University Press, Cambridge; Association for
-              Symbolic Logic, Poughkeepsie, NY, 2009, p. xvi+444. Available at: http://dx.doi.org/10.1017/CBO9780511581007</span></li>
-<li><span id="levy:choicescheme">A. Lévy, “Definability in axiomatic set theory. II,” in <i>Mathematical Logic and Foundations of Set Theory
-              (Proc. Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 129–145. </span></li>
-<li><span id="jensen:real">R. Jensen, “Definable sets of minimal degree,” in <i>Mathematical logic and foundations of set theory (Proc.
-              Internat. Colloq., Jerusalem, 1968)</i>, North-Holland, Amsterdam, 1970, pp. 122–128. </span></li>
-<li><span id="kanovei:productOfJensenReals">V. Kanovei and V. Lyubetsky, “A countable definable set of reals containing no definable elements.” </span></li>
-<li><span id="Zarach1996:ReplacmentDoesNotImplyCollection">A. M. Zarach, “Replacement $\nrightarrow$ collection,” in <i>Gödel ’96 (Brno, 1996)</i>, vol. 6, Berlin: Springer, 1996, pp. 307–322. </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles at KGRC]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/03/21/virtual-large-cardinals-at-kgrc.html">
-        </link>
-        <updated>2018-03-21T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a \href="http://www.logic.univie.ac.at/Home.html" target="_blank">Kurt Gödel Research Center</a> Research Seminar in Vienna, Austria, April 14, 2018.<br><strong><a href="/files/ViennaSeminarVirtual.pdf">Slides</a></strong><!--more--></p>
-
-<img src="/images/Josephinum.jpg" style="float:left; padding: 10px;" />
-<strong>Abstract</strong>: Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, we say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Sitting atop the hierarchy are virtual versions of inconsistent large cardinal principles such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals. With Bagaria, Hamkins and Schindler, we investigated  properties of the virtual version of Vopěnka's Principle, which is consistent with $V=L$, and established some surprising differences from Vopenka's Principle, stemming from the failure of Kunen's Inconsistency in the virtual setting. A recent new direction in the study of virtual large cardinal principles involves asking that the required embeddings exist in forcing extensions preserving a large segment of the cardinals. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle. Time permitting, I will give an overview of Woodin's new results on virtual large cardinals in cardinal preserving extensions. 
-
-<div class="figure">
-<img src="/images/vienna.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In praise of failure]]></title>
         <id>http://karagila.org/2018/in-praise-of-failure/</id>
         <link href="http://karagila.org/2018/in-praise-of-failure/">
@@ -2591,55 +2650,6 @@ It is known that for many transcendental entire functions the escaping set has a
 <p>&nbsp;</p>]]></summary>
         <author>
             <name>Dave Sixsmith – I am a mathematician, not a calculator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The emerging zoo of second-order set theories]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/01/03/the-emerging-zoo-of-second-order-set-theories.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/01/03/the-emerging-zoo-of-second-order-set-theories.html">
-        </link>
-        <updated>2018-01-03T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://www.uni-konstanz.de/en/" target="_blank">Young Researchers' Workshop: Forcing and Philosophy</a>, University of Konstanz, January 18, 2018.<br><strong><a href="/files/SecondOrderSetTheory.pdf">Slides</a></strong><!--more--></p>
-<img src="/images/konstanz.jpg" style="float:left; padding: 10px;" />
-In set theory, classes are collections of sets which are ``too large" to be sets themselves. More formally, a <em>class</em>, in a model of first-order set theory, is a definable (with parameters) collection of sets. Classes play an important role in modern set theory. Class forcing can make global changes to a universe of set theory, such as making the ${\rm GCH}$ fail at all regular cardinals. Large cardinals imply the existence of class elementary embeddings $j:V\to M$ from the universe into a transitive class submodel. Inner model theory studies canonical <em>inner models</em> (transitive class submodels containing all the ordinals).
-
-<p>The restriction to the study of only the definable large collections of sets is a limitation of first-order set theory which prevents us from exploring some natural properties of set-theoretic universes. For instance, consider the long standing open question whether Reinhardt cardinals are consistent with ${\rm ZF}$, which has been revisited only a few days ago in <a href="https://arxiv.org/abs/1712.09678" target="_blank">this article</a>. The <em>Reinhardt cardinal</em> is the critical point of an elementary embedding $j:V\to V$. It is not difficult to show that there cannot be a definable elementary $j:V\to V$ in a model of ${\rm ZF}$, so the open question is about the existence of an undefinable such embedding. Other recent examples of the use of general classes comes from the study of inner model reflection principles. Motivated by a question of Neil Barton, Barton, Caicedo, Fuchs, Hamkins, and Reitz recently introduced and studied the <em>Inner Model Reflection Principle</em> stating that every first-order formula reflects to a proper inner model <a href="#BartonCaicedoFuchsHamkinsReitz:Inner-model-reflection-principles">[1]</a>. The statement of the principle cannot be expressed in first-order set theory because it requires quantifying over classes. Along similar lines, Friedman had previously introduced the <em>Inner Model Hypothesis</em> which states that if a first-order sentence holds in an outer model (extension universe) of an inner model, then it already holds in some inner model <a href="#Friedman2006:InternalConsistencyAndIMH">[2]</a>. For a long time it was not clear in what framework this principle could be formalized because it requires not only quantifying over classes but also referring to classes that are potentially outside the universe itself.</p>
-
-<p>So how do we undertake a general study of classes? What is the framework in which we can have undefinable classes and where we can study the properties of classes in the same way we study sets? This framework is second-order set theory, formalized in a two-sorted logic with separate objects and quantifiers for sets and classes. Models of second-order set theory are triples $\mathscr V=\langle V,\in,\mathcal C\rangle$ where $\mathcal C$ is the collection of classes of $\mathscr V$. One of the weakest reasonable axiomatizations of second-order theory is the Gödel-Bernays set theory ${\rm GBC}$ whose axioms consist of the ${\rm ZFC}$ axioms for sets, extensionality, replacement, and existence of global well-order axioms for classes, together with a weak comprehension scheme stating that every first-order formula defines a class. If a universe of set theory has a definable global well-order, then it together with its definable classes is a model of ${\rm GBC}$. Indeed, ${\rm GBC}$ is equiconsistent with ${\rm ZFC}$ and has the same first-order consequences as ${\rm ZFC}$. If we just add to ${\rm GBC}$ comprehension for $\Sigma^1_1$-formulas (formulas with a single class existential quantifier), we get a much stronger theory with many desirable properties. The theory ${\rm GBC}$ + $\Sigma^1_1$-Comprehension implies that that any two <em>meta-ordinals</em> (class well-orders) are comparable, that we can iterate the $L$ construction along any meta-ordinal, that there is an iterated truth predicate along any meta-ordinal, that determinacy holds for open class games, and that the class forcing theorem holds.</p>
-
-<p>A <em>truth predicate</em> is a class of Gödel codes of first-order formulas obeying Tarskian truth conditions. Tarski's Theorem on the undefinablity of truth implies that a truth predicate cannot be definable and therefore ${\rm GBC}$, because it can have models with only the definable classes, cannot imply the existence of such a class. Indeed, the existence of a truth predicate class implies $\text{Con}({\rm ZFC})$, $\text{Con}(\text{Con}({\rm ZFC}))$ and much more. ${\rm GBC}$ + $\Sigma^1_1$-Comprehension implies that there is a truth predicate for every structure $\langle V,\in, A\rangle$ for a class $A$. In particular, if $T_0$ is the truth predicate (for $\langle V,\in,A\rangle$), then we have a truth predicate $T_1$ for the structure $\langle V,\in, T_0,A\rangle$, that is we have truth for truth. How far can we iterate the truth operation? ${\rm GBC}$ + $\Sigma^1_1$-Comprehension implies that we get an iterated truth predicate along any meta-ordinal.</p>
-
-<p>By analogy with games on $X^\omega$, for a set $X$, where the players take turns playing elements from $X$ for $\omega$-many steps, in the second-order context we can consider games on ${\rm ORD}^\omega$. It turns out ${\rm GBC}$ + $\Sigma^1_1$-Comprehension implies determinacy for all such open class games <a href="#GitmanHamkins:OpenDeterminacyForClassGames">[3]</a>.</p>
-
-<p>The strength of the forcing construction comes from the <em>Forcing Theorem</em> which states that the forcing relation (for a fixed first-order formula) is definable. The analogue of the Forcing Theorem for class partial orders says that the forcing relation (for a fixed first-order formula) is a class. The <em>Class Forcing Theorem</em> can fail in a model of ${\rm GBC}$ because there are class forcing notions from whose forcing relation for atomic formulas we can define a truth predicate. But ${\rm GBC}$ + $\Sigma^1_1$-Comprehension implies the Class Forcing Theorem.</p>
-
-<p>Surprisingly, in ${\rm GBC}$ + $\Sigma^1_1$-Comprehension, we can even formalize Friedman's Inner Model Hypothesis because the properties of outer models can be expressed via a strong logic, called $V$-logic, whose proof system is expressible in this theory <a href="#AntosBartonFriedman:VLogic">[4]</a>.</p>
-
-<p>Indeed, it turns out that most of these principles are implied by a weaker natural theory ${\rm GBC}$ + ${\rm ETR}$ elementary transfinite recursion. The principle ${\rm ETR}$, which is an analogue of the Recursion Theorem in first-order set theory, states that every first-order definable recursion along a meta-ordinal has a solution. The principle ${\rm ETR}$ implies over ${\rm GBC}$ that we can iterate the $L$ construction along any meta-ordinal. Over ${\rm GBC}$, the principle ${\rm ETR}$ is equivalent to determinacy for clopen class games and to the existence of an iterated truth predicate along any meta-ordinal <a href="#GitmanHamkins:OpenDeterminacyForClassGames">[3]</a>. The Class Forcing Theorem is equivalent over ${\rm GBC}$, to the principle $\rm {ETR}_{\rm {ORD}}$, stating that we can perform recursions along ${\rm ORD}$ <a href="#GitmanHamkinsHolySchlichtWilliams:ForcingTheorem">[5]</a>. The amount of available ${\rm ETR}$ gives a natural hierarchy of second-order set theories above ${\rm GBC}$ with ${\rm ETR}_\omega$ already implying the existence of a truth predicate.</p>
-
-<p>The only principle we have considered so far which is known to be stronger than ${\rm ETR}$ is open determinacy, a result due to Sato <a href="#Sato:determinacy">[6]</a>. Hamkins and Woodin showed recently that open determinacy implies that forcing does not add meta-ordinals, a natural analogue to the statement that forcing does not add ordinals (personal communication).
-
-<p>Of course, the amount of available comprehension itself gives a hierarchy of second-order set theories culminating with the Kelley-Morse set theory ${\rm KM}$, which consists of ${\rm GBC}$ together with the full comprehension scheme for all second-order formulas. Beyond ${\rm KM}$ are theories which include choice principles for classes, such as the <em>choice scheme</em> and the <em>dependent choice scheme</em>. These theories have the advantage of bi-interpretability with extensions of the well-understood first-order set theory ${\rm ZFC}^-_I$ (${\rm ZFC}$ without powerset and with the existence of the largest cardinal which is inaccessible). An even stronger principle, which endows classes with more set-like properties, is the existence of a canonically definable well-order of the classes. The existence of a definable well-ordering on classes makes it possible, for instance, to carry out the Boolean valued model forcing construction for class forcing notions (work in progress with Carolin Antos and Sy-David Friedman).</p>
-
-<p>Are there natural second-order set-theoretic principles between ${\rm GBC}$ + $\Sigma^1_1$-comprehension and ${\rm KM}?$ What natural principles lie beyond ${\rm KM}$ together with the choice scheme and the dependent choice scheme? </p>
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="BartonCaicedoFuchsHamkinsReitz:Inner-model-reflection-principles">N. Barton, A. E. Caicedo, G. Fuchs, J. D. Hamkins, and J. Reitz, “Inner-model reflection principles,” <i>ArXiv e-prints</i>, 2017. Available at: http://jdh.hamkins.org/inner-model-reflection-principles</span></li>
-<li><span id="Friedman2006:InternalConsistencyAndIMH">S.-D. Friedman, “Internal consistency and the inner model hypothesis,” <i>Bull. Symbolic Logic</i>, vol. 12, no. 4, pp. 591–600, 2006. Available at: http://projecteuclid.org/getRecord?id=euclid.bsl/1164056808</span></li>
-<li><span id="GitmanHamkins:OpenDeterminacyForClassGames">V. Gitman and J. D. Hamkins, “Open determinacy for class games,” in <i>Foundations of mathematics</i>, vol. 690, Amer. Math. Soc., Providence, RI, 2017, pp. 121–143. </span></li>
-<li><span id="AntosBartonFriedman:VLogic">N. Barton, C. Antos, and S.-D. Friedman, “Universism and extensions of V,” <i>ArXiv e-prints</i>. </span></li>
-<li><span id="GitmanHamkinsHolySchlichtWilliams:ForcingTheorem">V. Gitman, J. D. Hamkins, P. Holy, P. Schlicht, and K. Williams, “The exact strength of the class forcing theorem,” <i>Submitted</i>. </span></li>
-<li><span id="Sato:determinacy">K. Sato, “Inductive dichotomy: separation of open and clopen class determinacies.” </span></li></ol>
-
-<div class="figure">
-<img src="/images/vika_konstanz4.jpg" />
-</div>
-
-<div class="figure">
-<img src="/images/vika_konstanz1.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -2847,22 +2857,6 @@ If $\square(\lambda^+,&lt;\lambda)$ holds, then there exists a $\lambda$-distrib
 <p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4420, '')" href="http://www.assafrinot.com/files/rinot_luminy2017.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/29" class="billet_further"></a><a href="http://www.assafrinot.com/talk/luminy2017" class="billet_perm"></a></td></tr></table></p><span id="more-4420"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual large cardinal principles]]></title>
-        <id>https://victoriagitman.github.io/talks/2017/10/12/virtual-large-cardinal-principles.html</id>
-        <link href="https://victoriagitman.github.io/talks/2017/10/12/virtual-large-cardinal-principles.html">
-        </link>
-        <updated>2017-10-12T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://logic.harvard.edu/colloquium.php" target="_blank">Harvard Logic Colloquium</a>, Cambridge, November 8, 2017.<!--more--></p>
-
-<img src="/images/harvard.jpg" style="float:left; padding: 10px;" />
-
-<strong>Abstract</strong>: 
-Given a set-theoretic property $\mathcal P$ characterized by the existence of elementary embeddings between some first-order structures, let's say that $\mathcal P$ holds <em>virtually</em> if the embeddings between structures from $V$ characterizing $\mathcal P$ exist somewhere in the generic multiverse. We showed with Schindler that virtual versions of supercompact, $C^{(n)}$-extendible, $n$-huge and rank-into-rank cardinals form a large cardinal hierarchy consistent with $V=L$. Included in the hierarchy are virtual versions of inconsistent large cardinal notions such as the existence of an elementary embedding $j:V_\lambda\to V_\lambda$ for $\lambda$ much larger than the supremum of the critical sequence. The Silver indiscernibles, under $0^\sharp$, which have a number of large cardinal properties in $L$, are also natural examples of virtual large cardinals.   Virtual versions of forcing axioms, including ${\rm PFA}$, ${\rm SCFA}$, and resurrection axioms, have been studied by Schindler and Fuchs, who showed that they are equiconsistent with virtual large cardinals. We showed with Bagaria and Schindler that the virtual version of Vopěnka's  Principle is consistent with $V=L$. Bagaria had showed that Vopěnka's  Principle holds if and only if the universe has a proper class of $C^{(n)}$-extendible cardinals for every $n\in\omega$. We almost generalized his result by showing that the virtual version is equiconsistent with the existence, for every $n\in\omega$, of a proper class of virtually $C^{(n)}$-extendible cardinals. With Hamkins we showed that Bagaria's result cannot generalize by constructing a model of virtual Vopěnka's  Principle in which there are no virtually extendible cardinals. The difference arises from the failure of Kunen's Inconsistency in the virtual setting. In the talk, I will discuss a mixture of results about the virtual large cardinal hierarchy and virtual Vopěnka's  Principle.]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -14717,33 +14711,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -14766,6 +14733,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
