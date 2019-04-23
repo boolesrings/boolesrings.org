@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-23T14:45:25Z</updated>
+    <updated>2019-04-23T18:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/#comment-10224</id>
+        <link href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/#comment-10224">
+        </link>
+        <updated>2019-04-23T15:09:07Z</updated>
+        <summary type="html"><![CDATA[<p>I&#8217;ve realized that video recording in a discussion-style seminar would likely have an inhibiting effect on the students who are participating, and so Tim and I have decided against video recording.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/#comment-10223</id>
+        <link href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/#comment-10223">
+        </link>
+        <updated>2019-04-23T11:11:51Z</updated>
+        <summary type="html"><![CDATA[<p>I&#8217;m glad you think well of it. I don&#8217;t think there is any plan for video recording, although I shall inquire about it. The seminars will be held discussion-style, rather than lectures.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019 by Michał Tomasz Godziszewski]]></title>
         <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/#comment-10215</id>
@@ -217,17 +239,6 @@ Accepted, January 2019.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on The subseries number by The rearrangement and subseries numbers: how much convergence suffices for absolute convergence? Mathematics Colloquium, University of Münster, January 2019 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-subseries-number/#comment-9848</id>
-        <link href="http://jdh.hamkins.org/the-subseries-number/#comment-9848">
-        </link>
-        <updated>2019-01-10T08:46:45Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] The subseries number. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on Souslin trees at successors of regular cardinals by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4550#comment-635</id>
         <link href="http://blog.assafrinot.com/?p=4550#comment-635">
@@ -237,17 +248,6 @@ Accepted, January 2019.</p>]]></summary>
 Accepted, December 2018.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on A new proof of the Barwise extension theorem, without infinitary logic, CUNY Logic Workshop, December 2018 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9567</id>
-        <link href="http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem-cuny-logic-workshop-december-2018/#comment-9567">
-        </link>
-        <updated>2018-12-16T13:12:03Z</updated>
-        <summary type="html"><![CDATA[<p>Thinking a bit more about this, it isn&#8217;t clear to me yet how to prove that the types are not principal. I&#8217;ve sent you an email.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
