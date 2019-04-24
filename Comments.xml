@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-24T02:45:29Z</updated>
+    <updated>2019-04-24T06:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,29 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=588#comment-675</id>
+        <link href="http://blog.assafrinot.com/?p=588#comment-675">
+        </link>
+        <updated>2019-04-24T06:04:01Z</updated>
+        <summary type="html"><![CDATA[<p>thanks!</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by Ari B.]]></title>
+        <id>http://blog.assafrinot.com/?p=588#comment-674</id>
+        <link href="http://blog.assafrinot.com/?p=588#comment-674">
+        </link>
+        <updated>2019-04-24T05:43:17Z</updated>
+        <summary type="html"><![CDATA[<p>The &#8220;Open Problem&#8221; above is answered (positively), assuming the consistency of a measurable cardinal, in this paper by Raghavan and Todorcevic:<br />
+<a href="https://doi.org/10.1007/s11856-018-1677-1" rel="nofollow">https://doi.org/10.1007/s11856-018-1677-1</a></p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019 by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/#comment-10224</id>
@@ -269,28 +292,6 @@ Accepted, September 2018.</p>]]></summary>
         </link>
         <updated>2018-08-29T05:40:19Z</updated>
         <summary type="html"><![CDATA[<p>Actually, there is an easier proof (of the Induction step): Either we have a disjoint system of size $\kappa$, or take any maximal disjoint system and some point in its union will belong to  $\kappa$ many (other) members of $\mathcal A$ (that&#8217;s where the regularity of $\kappa$ is needed).</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The Engelking-Karlowicz theorem, and a useful corollary by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=2054#comment-562</id>
-        <link href="http://blog.assafrinot.com/?p=2054#comment-562">
-        </link>
-        <updated>2018-05-01T15:23:07Z</updated>
-        <summary type="html"><![CDATA[<p>Right. Thank you very much!</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The Engelking-Karlowicz theorem, and a useful corollary by DM]]></title>
-        <id>http://blog.assafrinot.com/?p=2054#comment-561</id>
-        <link href="http://blog.assafrinot.com/?p=2054#comment-561">
-        </link>
-        <updated>2018-05-01T14:01:32Z</updated>
-        <summary type="html"><![CDATA[<p>There is a typo in the definition of $W$. It should not be $ \mathcal{A} \in [a]^{&lt;\kappa}  $ but $ \mathcal{A} \in [P(a)]^{&lt;\kappa}  $ (where $P(a)$ denotes the power set of $a$).</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
