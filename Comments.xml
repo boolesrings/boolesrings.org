@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-26T06:45:23Z</updated>
+    <updated>2019-04-26T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Jeanette Walter]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10227</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10227">
+        </link>
+        <updated>2019-04-24T22:29:51Z</updated>
+        <summary type="html"><![CDATA[<p>Thank you.  Well earned appreciation, I&#8217;d say!  I&#8217;m a homeschooling mum with a virtually non-existent knowledge of maths and I&#8217;m determined that my sons do not suffer the same fate as me.  It is only by the willingness of mathematicians, like yourself, who share so freely that I can even begin to attempt this.  Luckily I feel like I am succeeding as they both enjoy maths and have even used the word &#8216;cool&#8217;, panic and fear do not enter into it!  I am learning right along with them.  I really cannot thank you enough!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10226</id>
@@ -234,17 +245,6 @@
         </link>
         <updated>2019-02-02T21:35:54Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] also here. The paper will appear in Studia Logica. Meanwhile, it can be accessed on the arXiv, or in my [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by Joseph O'Rourke]]></title>
-        <id>http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-9962</id>
-        <link href="http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-9962">
-        </link>
-        <updated>2019-01-30T13:10:13Z</updated>
-        <summary type="html"><![CDATA[<p>&#8220;one can cut out many other shapes in just one cut.&#8221; In fact one can cut out *any* shape (or shapes) composed of straight edges. The Fold-and-Cut theorem. <a href="https://en.wikipedia.org/wiki/Fold-and-cut_theorem" rel="nofollow">https://en.wikipedia.org/wiki/Fold-and-cut_theorem</a></p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
