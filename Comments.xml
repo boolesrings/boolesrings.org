@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-30T10:45:24Z</updated>
+    <updated>2019-04-30T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,61 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10244</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10244">
+        </link>
+        <updated>2019-04-30T13:19:06Z</updated>
+        <summary type="html"><![CDATA[<p>Let me try to flesh out what I was saying (with no guarantee of success). I want, as the second player, to stop you, as first player, from winning outright. So as above, after your first move I shall nominate a diagonal that I promise to occupy in its entirety. </p>
+<p>That means you won&#8217;t get a full row, and it will be easy for me to stop you getting one of the first few columns, so it remains for me to ensure that you don&#8217;t get any diagonals that are lower than my target diagonal, apart from the one directly below.</p>
+<p>To do this, I choose a fairly sparse set of points such that each of those lower diagonals contains at least one of those points, and there is only one point in each column. And I&#8217;ll make sure that each point from that set is at even height and is a lot lower than the target diagonal. Let&#8217;s call these blocking points.</p>
+<p>I will now apply the following strategy. Every time you play in a column below a blocking point, I will immediately play directly above you. That guarantees that I will get all blocking points, unless I am forced at some point to play directly above myself, before having reached the blocking point. Let&#8217;s call a column safe if I&#8217;m allowed to play there. Then if all columns are unsafe, there must be a first moment when that happened, and that can&#8217;t be at a successor ordinal because then there is a safe column somewhere and that takes infinitely many moves to fill up. So it&#8217;s at a limit ordinal, which means that you have to make the next move at that danger moment for me. </p>
+<p>So I think I can get all the blocking points.</p>
+<p>Ah but that doesn&#8217;t quite work, since if you fill up all columns apart from two that contain two blocking points for which the parities of the distances from the target diagonal are different, then you will end up occupying a point in my target diagonal if I apply the strategy.</p>
+<p>But I think I can at least stop you winning, by applying the same proof but to a set of points that blocks all rows, all columns and all diagonals. I think all I need is that all the blocking points in any column have even parity. </p>
+<p>OK here&#8217;s a quick version of the argument. I nominate an infinite set of columns where you will be the first to play and where the play thereafter will alternate between us (because whenever you play there I will go straight on top). Assuming I succeed, and choose the columns sensibly, I can rule out all diagonals this way, as well as all rows of even height. </p>
+<p>In fact, let me be a bit more concrete. My strategy is as follows. If you play in a column with x-coordinate zero mod 3, then I&#8217;ll play on top of you immediately afterwards. If you play in column with x-coordinate 2m+1, then the first time you do so I&#8217;ll play in the column 2m+2, and vice versa. Otherwise, whenever you play in one of those columns I&#8217;ll play on top immediately afterwards.</p>
+<p>I claim that at the end of the game, all the 0-mod-3 columns will be filled you-me-you-me-you-me etc., and for each m, at least one of the 2m+1 and the 2m+2 columns will be filled me-you-me-you etc.  (that one being the one you didn&#8217;t go in first), while the other will alternate either straight away or after starting you-you. Note that this stops you occupying any row, column or diagonal.</p>
+<p>If I fail in that objective, there will have to be a first moment when I fail. It can&#8217;t be at a successor ordinal, since all I have to do is stick to that strategy. And at a limit ordinal your options are to play above one of my pieces, in which case I can happily continue, or to occupy an unoccupied column. If the unoccupied column is 0-mod-3 I&#8217;m happy, and if it&#8217;s 1 or 2, then the other must also be unoccupied (or I would have contributed to the first one) so again I&#8217;m happy.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10243</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10243">
+        </link>
+        <updated>2019-04-30T11:16:35Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks for the vote of confidence.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Tanner Struck]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10242</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10242">
+        </link>
+        <updated>2019-04-30T11:07:14Z</updated>
+        <summary type="html"><![CDATA[<p>It is perfectly fine that you used it. I actually think it&#8217;s really cool!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10241</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10241">
+        </link>
+        <updated>2019-04-30T10:48:44Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks very much for this information! I&#8217;m not on pinterest, but I&#8217;d like to contact that person about using this image. Is it alright with you that I have used your modified version? </p>
+<p>The Pi version seems to be: <a href="https://www.pinterest.com/pin/380413499768691503" rel="nofollow">https://www.pinterest.com/pin/380413499768691503</a>. </p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The connect-infinity game! by Tanner Struck]]></title>
         <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10240</id>
@@ -170,28 +225,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on Is there just one mathematical universe? DRIFT, Amsterdam, May 2019 by Hendrik Boom]]></title>
-        <id>http://jdh.hamkins.org/is-there-just-one-mathematical-universe-amsterdam-may-2019/#comment-10206</id>
-        <link href="http://jdh.hamkins.org/is-there-just-one-mathematical-universe-amsterdam-may-2019/#comment-10206">
-        </link>
-        <updated>2019-04-14T20:04:18Z</updated>
-        <summary type="html"><![CDATA[<p>An interesting item in this topic is synthetic differential geometry, which works beautifully, but only when the underlying logic does not  have the law of the excluded middle.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Kelley-Morse set theory does not prove the class Fodor Principle, CUNY Set Theory Seminar, March, 2019 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/#comment-10180</id>
-        <link href="http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/#comment-10180">
-        </link>
-        <updated>2019-03-22T13:12:09Z</updated>
-        <summary type="html"><![CDATA[<p>I am given to understand that a live stream of the talk will be available at: <a href="https://videostreaming.gc.cuny.edu/videos/livestreams/page1/" rel="nofollow">https://videostreaming.gc.cuny.edu/videos/livestreams/page1/</a>.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on An inconsistent form of club guessing by saf]]></title>
         <id>http://blog.assafrinot.com/?p=845#comment-655</id>
         <link href="http://blog.assafrinot.com/?p=845#comment-655">
@@ -211,29 +244,6 @@
         <summary type="html"><![CDATA[<p>In order for the concept to be non-trivial, it seems that you need to specify $\alpha&gt;0$ somewhere in the definition.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Draw an infinite chessboard in perspective, using straightedge only by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136</id>
-        <link href="http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10136">
-        </link>
-        <updated>2019-02-25T17:41:34Z</updated>
-        <summary type="html"><![CDATA[<p>This is a critical point. You are right that with straightedge only, you cannot construct the exact midpoint (you can prove this by observing that it is not invariant under the transformations of projective geometry, although these preserve straight lines). The point of the construction is that the chessboard will still look good even if you do not use the exact midpoint. A similar issue affects the other construction method, where you fix the initial square, since the corresponding diagonal point at infinity may not be the midpoint.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Draw an infinite chessboard in perspective, using straightedge only by Gio]]></title>
-        <id>http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10135</id>
-        <link href="http://jdh.hamkins.org/draw-an-infinite-chessboard-in-perspective/#comment-10135">
-        </link>
-        <updated>2019-02-25T13:04:08Z</updated>
-        <summary type="html"><![CDATA[<p>&gt; and a third point midway between them (brown)</p>
-<p>Does this point have to be exactly the middle? I don&#8217;t think so because of the &#8220;only straightedge&#8221; constraint, but I&#8217;m not sure of the meaning of &#8220;midway&#8221; in English. In geometry, is it &#8220;somewhere between the two points&#8221; or &#8220;exactly the middle&#8221;? (I&#8217;m not native English speaker)</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
