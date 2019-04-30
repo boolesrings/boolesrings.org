@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-30T06:45:24Z</updated>
+    <updated>2019-04-30T10:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,73 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Tanner Struck]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10240</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10240">
+        </link>
+        <updated>2019-04-30T10:41:18Z</updated>
+        <summary type="html"><![CDATA[<p>I am the person who posted this on reddit. However, I am not the person who made the image. One of my friends sent it to me a while back, but it said connect pi instead, so I just changed the symbol. I think I found the person who posted this originally on pinterest. <a href="https://pin.it/xcmg3fvhb6gzkj" rel="nofollow">https://pin.it/xcmg3fvhb6gzkj</a></p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10239</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10239">
+        </link>
+        <updated>2019-04-30T10:14:09Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks very much for this. I had come to essentially the same idea while walking to college this morning. It seems very difficult to set up your diagonal in a way that doesn&#8217;t also allow the opponent to build a diagonal at the same time.</p>
+<p>I think your final conclusion is not quite right, since it could be that the opponent has already won at an earlier stage, before you get set up to complete your diagonal. That is, couldn&#8217;t it be that before the penultimate points are played below the diagonal at which you are aimed, that your opponent has already won? (And yes, if both players succeed in building a row, column or diagonal, then it is a draw.) </p>
+<p>It isn&#8217;t clear to me whether we should look upon going first at limits as an advantage or a disadvantage. </p>
+<p>I would be very intrigued if it came out that one of the players could have a winning strategy. </p>
+<p>Meanwhile, one way to imagine arguing against this would be to diagonalize against all possible rows, columns and diagonals. There are only countably many ways to win, and any of them can be spoiled by a single well-placed coin. The rows and columns can be each easily refuted in finitely many moves each. For the diagonals, one wants to try to refute a given diagonal, perhaps in the way you describe, but one cannot allow that the play proceeds transfinitely, for then perhaps there is a win on another lower diagonal. Perhaps one can try to kill all the diagonals in such a way that if one doesn&#8217;t get a chance to kill a given diagonal, then it doesn&#8217;t matter, because it means that play hadn&#8217;t proceeded far enough for it to need to be killed.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10238</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10238">
+        </link>
+        <updated>2019-04-30T10:06:02Z</updated>
+        <summary type="html"><![CDATA[<p>I&#8217;m glad you enjoyed it. </p>
+<p>It would seem natural to suppose that the first player should still win for Connect-Four on a much larger board, even an infinite board; that is, where the winning goal is still just four-in-a-row. But I would need to think more about this. I think that the proof that the first player wins on the $7\times 6$ board is a finicky analysis. I don&#8217;t know of any abstract general argument.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10237</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10237">
+        </link>
+        <updated>2019-04-30T10:04:13Z</updated>
+        <summary type="html"><![CDATA[<p>Here&#8217;s an idea for the second player in the transfinite omega-by-omega game. It isn&#8217;t a full winning strategy, for reasons that I&#8217;ll make clear, but it is a strategy for getting a diagonal. The first player plays a point (n,1). Then the second player plays (n+1,1) and aims for the diagonal that goes up from that point. The strategy for doing so is as follows. If the first player ever places a piece down that allows the second player to fill a point in that diagonal, then the second player does so. Otherwise, the second player makes sure that everything is filled up to and including the diagonal that starts at (n+3,1) &#8212; that is, the one two below the target. That is easily done, and by the end of stage omega the result will be that all places will be filled up to that lower diagonal, and if ever there is a point above that diagonal, then the second player will occupy the position in that column in the target diagonal. Actually, let&#8217;s also add that the second player will make sure that all such columns are completely filled. Again, that&#8217;s easy to do.</p>
+<p>We now get to stage omega+1. If there are any empty spaces, then the first player is forced to play one below the target diagonal, and the second player can then add the corresponding target point. So basically the second player can do the same strategy and by the end of it will have gained at least one more point. </p>
+<p>So at each stage, the second player gets to place at least one more point in the target diagonal. The first player can spin this out up to an arbitrary countable ordinal (simply by bijecting that ordinal with the unfilled columns) but being forced to go first is a crippling disadvantage when it comes to trying to stop the second player adding points to the target diagonal.</p>
+<p>The reason this isn&#8217;t a winning strategy is that the first player might make some other diagonal that&#8217;s lower than the target one, but actually I think with a small modification to the above strategy one can stop that. We just choose in each diagonal below the target one an infinite set of target points and apply a similar strategy to ensure that the second player will occupy all of them.</p>
+<p>But now I&#8217;ve noticed a significant flaw with my proposed strategy above, which is that in order to get the target diagonal, the second player is forcing the first player to occupy the diagonal one below it. What&#8217;s interesting about that is that since the diagonal one below can be completed only at a limit ordinal, and since the second player will always occupy a point in the target diagonal when possible, it looks as though the two players will complete diagonals at the same limit ordinal.</p>
+<p>This is a kind of draw that doesn&#8217;t exist when the thing you are trying to make is finite, so it&#8217;s an added dimension to the infinite game. </p>
+<p>I <em>think</em> I&#8217;ve just proved that the second player has a strategy that stops the first player winning, assuming that getting diagonals at the same time counts as a draw. But I&#8217;d need to check the details to be sure.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Rineke Verbrugge]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10236</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10236">
+        </link>
+        <updated>2019-04-30T09:29:05Z</updated>
+        <summary type="html"><![CDATA[<p>In the original 7 x 6 version, the starting player has a winning strategy. I don&#8217;t know of any infinite ordinals \kappa, \lambda for which one of the players has a winning strategy.</p>
+<p>Nice article!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Jeanette Walter]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10227</id>
@@ -170,42 +237,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019 by Thomas Benjamin]]></title>
-        <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10106</id>
-        <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10106">
-        </link>
-        <updated>2019-02-20T22:20:08Z</updated>
-        <summary type="html"><![CDATA[<p>Very nice slide presentation.  I do have a question regarding a set-theoretic potentialist&#8217;s view of $V$, the universe of all sets and its relation to the Kunen Inconsistency in $ZFC$.  As is known, what Kunen proved in his paper, &#8220;Elementary embeddings and Infinitary Combinatorics&#8221;, is the following, for $j$: $V$ $\rightarrow$ $M$, assuming $AC$:</p>
-<p>$\mathscr P$($\lambda$) $nsubseteq$ $M$</p>
-<p>where $\lambda$ = { $j^n$($\kappa$): $n$ $\lt$ $\omega$}.</p>
-<p>My question is simply this:  If, for a set-theoretic potentialist, $V$ is the limit structure of all models of $ZFC$ (and it would seem that it would be, given your comments in the slide presentation regarding the limit structure), does the Kunen Inconsistency prove the set-theoretic potentialist&#8217;s point of view (since, according to what is written on the slide presentation, &#8220;the actual limit structure does not exist&#8221;) ?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10103</id>
-        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10103">
-        </link>
-        <updated>2019-02-20T14:48:42Z</updated>
-        <summary type="html"><![CDATA[<p>No, it was just a chalk talk, based on the (upcoming) paper for notes. I think the paper will be available on the arXiv before long.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Golshani]]></title>
-        <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10102</id>
-        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10102">
-        </link>
-        <updated>2019-02-20T12:05:39Z</updated>
-        <summary type="html"><![CDATA[<p>Are there any slides for your talk?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on An $S$-space from a Cohen real by The S-space problem, and the cardinal invariant $mathfrak p$ | Assaf Rinot]]></title>
         <id>http://blog.assafrinot.com/?p=2707#comment-647</id>
         <link href="http://blog.assafrinot.com/?p=2707#comment-647">
@@ -225,28 +256,6 @@
         <summary type="html"><![CDATA[<p>[&#8230;] This is joint work with Maxwell Levine. [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for nine-year-olds:  fold, punch and cut for symmetry! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-10017</id>
-        <link href="http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/#comment-10017">
-        </link>
-        <updated>2019-02-08T12:42:06Z</updated>
-        <summary type="html"><![CDATA[<p>Yes, indeed. I had said this in the post (toward the end), with the same link.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Inner-model reflection principles by Inner-model reflection principles | A kind of library]]></title>
-        <id>http://jdh.hamkins.org/inner-model-reflection-principles/#comment-9981</id>
-        <link href="http://jdh.hamkins.org/inner-model-reflection-principles/#comment-9981">
-        </link>
-        <updated>2019-02-02T21:35:54Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] also here. The paper will appear in Studia Logica. Meanwhile, it can be accessed on the arXiv, or in my [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
