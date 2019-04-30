@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-04-30T18:45:23Z</updated>
+    <updated>2019-04-30T22:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10251</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10251">
+        </link>
+        <updated>2019-04-30T22:29:18Z</updated>
+        <summary type="html"><![CDATA[<p>I spent a bit of time thinking about this, and it seems to me that one probably can&#8217;t formulate a sensible notion of fairness that survives once the ordinals stop being describable. (In particular, the game can go on way beyond the point where Cantor normal form doesn&#8217;t exist any more.) But it would be interesting to know whether this intuition is correct.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10250</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10250">
+        </link>
+        <updated>2019-04-30T22:26:17Z</updated>
+        <summary type="html"><![CDATA[<p>My comment was a bit of a stream of consciousness and I recommend ignoring everything up to &#8220;In fact I&#8217;ll be a bit more concrete.&#8221; From there I think what I offer, which doesn&#8217;t involve target diagonals, is a simple strategy for the second player to stop the first player obtaining any row (by which I mean final segment, but in fact not even more than three consecutive points I think), column or diagonal. At the moment I don&#8217;t see any way for the second player to win or for the first player to stop the second player winning, so the question is still interesting!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The connect-infinity game! by Zeno Rogue]]></title>
         <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10249</id>
@@ -177,29 +199,6 @@
 <p>But now I&#8217;ve noticed a significant flaw with my proposed strategy above, which is that in order to get the target diagonal, the second player is forcing the first player to occupy the diagonal one below it. What&#8217;s interesting about that is that since the diagonal one below can be completed only at a limit ordinal, and since the second player will always occupy a point in the target diagonal when possible, it looks as though the two players will complete diagonals at the same limit ordinal.</p>
 <p>This is a kind of draw that doesn&#8217;t exist when the thing you are trying to make is finite, so it&#8217;s an added dimension to the infinite game. </p>
 <p>I <em>think</em> I&#8217;ve just proved that the second player has a strategy that stops the first player winning, assuming that getting diagonals at the same time counts as a draw. But I&#8217;d need to check the details to be sure.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Rineke Verbrugge]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10236</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10236">
-        </link>
-        <updated>2019-04-30T09:29:05Z</updated>
-        <summary type="html"><![CDATA[<p>In the original 7 x 6 version, the starting player has a winning strategy. I don&#8217;t know of any infinite ordinals \kappa, \lambda for which one of the players has a winning strategy.</p>
-<p>Nice article!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Jeanette Walter]]></title>
-        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10227</id>
-        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10227">
-        </link>
-        <updated>2019-04-24T22:29:51Z</updated>
-        <summary type="html"><![CDATA[<p>Thank you.  Well earned appreciation, I&#8217;d say!  I&#8217;m a homeschooling mum with a virtually non-existent knowledge of maths and I&#8217;m determined that my sons do not suffer the same fate as me.  It is only by the willingness of mathematicians, like yourself, who share so freely that I can even begin to attempt this.  Luckily I feel like I am succeeding as they both enjoy maths and have even used the word &#8216;cool&#8217;, panic and fear do not enter into it!  I am learning right along with them.  I really cannot thank you enough!</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
