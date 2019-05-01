@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-05-01T02:45:24Z</updated>
+    <updated>2019-05-01T06:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,19 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10253</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10253">
+        </link>
+        <updated>2019-05-01T05:08:49Z</updated>
+        <summary type="html"><![CDATA[<p>Yes, I think the argument is right, and I have written about it in the main post.</p>
+<p>The strategy doesn&#8217;t seem, however, to prevent a column win for the first player, but rather ensures that any such winning configuration is duplicated for the second player, forcing the draw. If the first player always plays on one of the paired columns, and you copy on the other, then both will make the winning configuration. </p>
+<p>Incidentally, I think you probably mean $3m+1$, $3m+2$, instead of $2m+1$, etc. I&#8217;m not sure if users can edit comments here, but if you are not able to edit, I think I can change this for you. </p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
         <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10251</id>
@@ -182,23 +195,6 @@
         <updated>2019-04-30T10:06:02Z</updated>
         <summary type="html"><![CDATA[<p>I&#8217;m glad you enjoyed it. </p>
 <p>It would seem natural to suppose that the first player should still win for Connect-Four on a much larger board, even an infinite board; that is, where the winning goal is still just four-in-a-row. But I would need to think more about this. I think that the proof that the first player wins on the $7\times 6$ board is a finicky analysis. I don&#8217;t know of any abstract general argument.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10237</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10237">
-        </link>
-        <updated>2019-04-30T10:04:13Z</updated>
-        <summary type="html"><![CDATA[<p>Here&#8217;s an idea for the second player in the transfinite omega-by-omega game. It isn&#8217;t a full winning strategy, for reasons that I&#8217;ll make clear, but it is a strategy for getting a diagonal. The first player plays a point (n,1). Then the second player plays (n+1,1) and aims for the diagonal that goes up from that point. The strategy for doing so is as follows. If the first player ever places a piece down that allows the second player to fill a point in that diagonal, then the second player does so. Otherwise, the second player makes sure that everything is filled up to and including the diagonal that starts at (n+3,1) &#8212; that is, the one two below the target. That is easily done, and by the end of stage omega the result will be that all places will be filled up to that lower diagonal, and if ever there is a point above that diagonal, then the second player will occupy the position in that column in the target diagonal. Actually, let&#8217;s also add that the second player will make sure that all such columns are completely filled. Again, that&#8217;s easy to do.</p>
-<p>We now get to stage omega+1. If there are any empty spaces, then the first player is forced to play one below the target diagonal, and the second player can then add the corresponding target point. So basically the second player can do the same strategy and by the end of it will have gained at least one more point. </p>
-<p>So at each stage, the second player gets to place at least one more point in the target diagonal. The first player can spin this out up to an arbitrary countable ordinal (simply by bijecting that ordinal with the unfilled columns) but being forced to go first is a crippling disadvantage when it comes to trying to stop the second player adding points to the target diagonal.</p>
-<p>The reason this isn&#8217;t a winning strategy is that the first player might make some other diagonal that&#8217;s lower than the target one, but actually I think with a small modification to the above strategy one can stop that. We just choose in each diagonal below the target one an infinite set of target points and apply a similar strategy to ensure that the second player will occupy all of them.</p>
-<p>But now I&#8217;ve noticed a significant flaw with my proposed strategy above, which is that in order to get the target diagonal, the second player is forcing the first player to occupy the diagonal one below it. What&#8217;s interesting about that is that since the diagonal one below can be completed only at a limit ordinal, and since the second player will always occupy a point in the target diagonal when possible, it looks as though the two players will complete diagonals at the same limit ordinal.</p>
-<p>This is a kind of draw that doesn&#8217;t exist when the thing you are trying to make is finite, so it&#8217;s an added dimension to the infinite game. </p>
-<p>I <em>think</em> I&#8217;ve just proved that the second player has a strategy that stops the first player winning, assuming that getting diagonals at the same time counts as a draw. But I&#8217;d need to check the details to be sure.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

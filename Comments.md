@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by Joel David Hamkins](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10253)
 * **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by gowers](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10251)
 * **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by gowers](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10250)
 * **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by Zeno Rogue](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10249)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by Joel David Hamkins](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10245)
 * **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by gowers](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10244)
 * **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by Joel David Hamkins](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10243)
-* **Comments for Joel David Hamkins** [Comment on The connect-infinity game! by Tanner Struck](http://jdh.hamkins.org/the-connect-infinity-game/#comment-10242)
 
 [Grab the feed for all Comments!](Comments.xml)
