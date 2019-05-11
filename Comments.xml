@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-05-11T02:45:25Z</updated>
+    <updated>2019-05-11T06:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,18 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Golshani]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10276</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10276">
+        </link>
+        <updated>2019-05-11T03:46:09Z</updated>
+        <summary type="html"><![CDATA[<p>Might be interesting and related, in particular the book &#8220;Infinity and me&#8221;:</p>
+<p><a href="https://medium.com/however-mathematics/8-picture-mathematics-books-for-your-curious-children-552ac415e7f7?fbclid=IwAR2jsaCBYXE25-VKKwmjvnBHiL0TRFyv0RgzeRIqHi1ljk7GrYCX0I23iLk" rel="nofollow">https://medium.com/however-mathematics/8-picture-mathematics-books-for-your-curious-children-552ac415e7f7?fbclid=IwAR2jsaCBYXE25-VKKwmjvnBHiL0TRFyv0RgzeRIqHi1ljk7GrYCX0I23iLk</a></p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10254</id>
@@ -179,21 +191,6 @@
         </link>
         <updated>2019-04-30T10:41:18Z</updated>
         <summary type="html"><![CDATA[<p>I am the person who posted this on reddit. However, I am not the person who made the image. One of my friends sent it to me a while back, but it said connect pi instead, so I just changed the symbol. I think I found the person who posted this originally on pinterest. <a href="https://pin.it/xcmg3fvhb6gzkj" rel="nofollow">https://pin.it/xcmg3fvhb6gzkj</a></p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10239</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10239">
-        </link>
-        <updated>2019-04-30T10:14:09Z</updated>
-        <summary type="html"><![CDATA[<p>Thanks very much for this. I had come to essentially the same idea while walking to college this morning. It seems very difficult to set up your diagonal in a way that doesn&#8217;t also allow the opponent to build a diagonal at the same time.</p>
-<p>I think your final conclusion is not quite right, since it could be that the opponent has already won at an earlier stage, before you get set up to complete your diagonal. That is, couldn&#8217;t it be that before the penultimate points are played below the diagonal at which you are aimed, that your opponent has already won? (And yes, if both players succeed in building a row, column or diagonal, then it is a draw.) </p>
-<p>It isn&#8217;t clear to me whether we should look upon going first at limits as an advantage or a disadvantage. </p>
-<p>I would be very intrigued if it came out that one of the players could have a winning strategy. </p>
-<p>Meanwhile, one way to imagine arguing against this would be to diagonalize against all possible rows, columns and diagonals. There are only countably many ways to win, and any of them can be spoiled by a single well-placed coin. The rows and columns can be each easily refuted in finitely many moves each. For the diagonals, one wants to try to refute a given diagonal, perhaps in the way you describe, but one cannot allow that the play proceeds transfinitely, for then perhaps there is a win on another lower diagonal. Perhaps one can try to kill all the diagonals in such a way that if one doesn&#8217;t get a chance to kill a given diagonal, then it doesn&#8217;t matter, because it means that play hadn&#8217;t proceeded far enough for it to need to be killed.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
