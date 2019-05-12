@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-05-12T10:45:24Z</updated>
+    <updated>2019-05-12T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Modal principles of potentialism, Oxford, January 2018 by David Roberts]]></title>
+        <id>http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10282</id>
+        <link href="http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10282">
+        </link>
+        <updated>2019-05-12T12:16:24Z</updated>
+        <summary type="html"><![CDATA[<p>Sadly, G+ is gone: do you have a replacement for that link to it?</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Golshani]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10276</id>
@@ -180,17 +191,6 @@
         <updated>2019-04-30T10:48:44Z</updated>
         <summary type="html"><![CDATA[<p>Thanks very much for this information! I&#8217;m not on pinterest, but I&#8217;d like to contact that person about using this image. Is it alright with you that I have used your modified version? </p>
 <p>The Pi version seems to be: <a href="https://www.pinterest.com/pin/380413499768691503" rel="nofollow">https://www.pinterest.com/pin/380413499768691503</a>. </p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Tanner Struck]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10240</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10240">
-        </link>
-        <updated>2019-04-30T10:41:18Z</updated>
-        <summary type="html"><![CDATA[<p>I am the person who posted this on reddit. However, I am not the person who made the image. One of my friends sent it to me a while back, but it said connect pi instead, so I just changed the symbol. I think I found the person who posted this originally on pinterest. <a href="https://pin.it/xcmg3fvhb6gzkj" rel="nofollow">https://pin.it/xcmg3fvhb6gzkj</a></p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
