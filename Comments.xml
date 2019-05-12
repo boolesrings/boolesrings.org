@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-05-12T14:45:25Z</updated>
+    <updated>2019-05-12T18:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -15,11 +15,55 @@
     <generator>Feed for Node.js</generator>
     <entry>
         <title type="html"><![CDATA[Comment on Modal principles of potentialism, Oxford, January 2018 by David Roberts]]></title>
+        <id>http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10285</id>
+        <link href="http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10285">
+        </link>
+        <updated>2019-05-12T17:40:19Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks, much appreciated! Looking forward to the new result about buttons/switched.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Modal principles of potentialism, Oxford, January 2018 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10284</id>
+        <link href="http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10284">
+        </link>
+        <updated>2019-05-12T17:32:15Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks for the comment! I updated with a link to the photo gallery containing the notes.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10283</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10283">
+        </link>
+        <updated>2019-05-12T17:18:10Z</updated>
+        <summary type="html"><![CDATA[<p>Link is now updated to host the pdf file on this blog.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Modal principles of potentialism, Oxford, January 2018 by David Roberts]]></title>
         <id>http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10282</id>
         <link href="http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10282">
         </link>
         <updated>2019-05-12T12:16:24Z</updated>
         <summary type="html"><![CDATA[<p>Sadly, G+ is gone: do you have a replacement for that link to it?</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by ESR]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10279</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10279">
+        </link>
+        <updated>2019-05-11T17:31:16Z</updated>
+        <summary type="html"><![CDATA[<p>Just wanted to second the request for a updated pdf link since the G+ link no longer works. Thank you so much!</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
@@ -136,61 +180,6 @@
         <updated>2019-04-30T15:33:11Z</updated>
         <summary type="html"><![CDATA[<p>Thanks very much for this. I want to digest it further, but one issue to address at the start is that to win with a row, you don&#8217;t need the whole row, but only a final segment&#8212;a connected $\omega$-length piece of it. So you have to pay attention to blocking the rows beneath your target diagonal. </p>
 <p>But I think your blocking squares and mod 3 ideas are very good. Let me think more about it.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10244</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10244">
-        </link>
-        <updated>2019-04-30T13:19:06Z</updated>
-        <summary type="html"><![CDATA[<p>Let me try to flesh out what I was saying (with no guarantee of success). I want, as the second player, to stop you, as first player, from winning outright. So as above, after your first move I shall nominate a diagonal that I promise to occupy in its entirety. </p>
-<p>That means you won&#8217;t get a full row, and it will be easy for me to stop you getting one of the first few columns, so it remains for me to ensure that you don&#8217;t get any diagonals that are lower than my target diagonal, apart from the one directly below.</p>
-<p>To do this, I choose a fairly sparse set of points such that each of those lower diagonals contains at least one of those points, and there is only one point in each column. And I&#8217;ll make sure that each point from that set is at even height and is a lot lower than the target diagonal. Let&#8217;s call these blocking points.</p>
-<p>I will now apply the following strategy. Every time you play in a column below a blocking point, I will immediately play directly above you. That guarantees that I will get all blocking points, unless I am forced at some point to play directly above myself, before having reached the blocking point. Let&#8217;s call a column safe if I&#8217;m allowed to play there. Then if all columns are unsafe, there must be a first moment when that happened, and that can&#8217;t be at a successor ordinal because then there is a safe column somewhere and that takes infinitely many moves to fill up. So it&#8217;s at a limit ordinal, which means that you have to make the next move at that danger moment for me. </p>
-<p>So I think I can get all the blocking points.</p>
-<p>Ah but that doesn&#8217;t quite work, since if you fill up all columns apart from two that contain two blocking points for which the parities of the distances from the target diagonal are different, then you will end up occupying a point in my target diagonal if I apply the strategy.</p>
-<p>But I think I can at least stop you winning, by applying the same proof but to a set of points that blocks all rows, all columns and all diagonals. I think all I need is that all the blocking points in any column have even parity. </p>
-<p>OK here&#8217;s a quick version of the argument. I nominate an infinite set of columns where you will be the first to play and where the play thereafter will alternate between us (because whenever you play there I will go straight on top). Assuming I succeed, and choose the columns sensibly, I can rule out all diagonals this way, as well as all rows of even height. </p>
-<p>In fact, let me be a bit more concrete. My strategy is as follows. If you play in a column with x-coordinate zero mod 3, then I&#8217;ll play on top of you immediately afterwards. If you play in column with x-coordinate 2m+1, then the first time you do so I&#8217;ll play in the column 2m+2, and vice versa. Otherwise, whenever you play in one of those columns I&#8217;ll play on top immediately afterwards.</p>
-<p>I claim that at the end of the game, all the 0-mod-3 columns will be filled you-me-you-me-you-me etc., and for each m, at least one of the 2m+1 and the 2m+2 columns will be filled me-you-me-you etc.  (that one being the one you didn&#8217;t go in first), while the other will alternate either straight away or after starting you-you. Note that this stops you occupying any row, column or diagonal.</p>
-<p>If I fail in that objective, there will have to be a first moment when I fail. It can&#8217;t be at a successor ordinal, since all I have to do is stick to that strategy. And at a limit ordinal your options are to play above one of my pieces, in which case I can happily continue, or to occupy an unoccupied column. If the unoccupied column is 0-mod-3 I&#8217;m happy, and if it&#8217;s 1 or 2, then the other must also be unoccupied (or I would have contributed to the first one) so again I&#8217;m happy.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10243</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10243">
-        </link>
-        <updated>2019-04-30T11:16:35Z</updated>
-        <summary type="html"><![CDATA[<p>Thanks for the vote of confidence.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Tanner Struck]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10242</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10242">
-        </link>
-        <updated>2019-04-30T11:07:14Z</updated>
-        <summary type="html"><![CDATA[<p>It is perfectly fine that you used it. I actually think it&#8217;s really cool!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10241</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10241">
-        </link>
-        <updated>2019-04-30T10:48:44Z</updated>
-        <summary type="html"><![CDATA[<p>Thanks very much for this information! I&#8217;m not on pinterest, but I&#8217;d like to contact that person about using this image. Is it alright with you that I have used your modified version? </p>
-<p>The Pi version seems to be: <a href="https://www.pinterest.com/pin/380413499768691503" rel="nofollow">https://www.pinterest.com/pin/380413499768691503</a>. </p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
