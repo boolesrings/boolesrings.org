@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-05-30T10:45:24Z</updated>
+    <updated>2019-05-30T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on How to count by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/how-to-count/#comment-10331</id>
+        <link href="http://jdh.hamkins.org/how-to-count/#comment-10331">
+        </link>
+        <updated>2019-05-30T11:16:16Z</updated>
+        <summary type="html"><![CDATA[<p>Now that my eyes are open to the existence of this post, I am going to leave it, if only that your beautiful comment may live on.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on How to count by A witness to the writhing void]]></title>
+        <id>http://jdh.hamkins.org/how-to-count/#comment-10327</id>
+        <link href="http://jdh.hamkins.org/how-to-count/#comment-10327">
+        </link>
+        <updated>2019-05-29T10:11:24Z</updated>
+        <summary type="html"><![CDATA[<p>This post is a howling void, like lifeless, blasted plains. There is no counting; the silence is deafening, and the absence is suffocating. All I can see is an abandoned blog post, damned to an eternity of emptiness. I stare deep into the heart of chaos, and the air fills with a terrible judgement; for the abyss returns even the boldest gaze.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on 50 Years of Set Theory in Toronto, May 2019 by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4577#comment-686</id>
@@ -167,29 +189,6 @@
         </link>
         <updated>2019-04-30T17:41:08Z</updated>
         <summary type="html"><![CDATA[<p>Can we know anything more about those Groups, or about Heights of Automorphism Groups of known Groups?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10247</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10247">
-        </link>
-        <updated>2019-04-30T16:50:22Z</updated>
-        <summary type="html"><![CDATA[<p>Hey Jeff! How nice to have a comment from you. </p>
-<p>I agree about your remark. Since there are only countably many different winning &#8220;reasons&#8221;, one can impose a priority on them and use this to break ties. For example, we could say that it is better to start your row, column or diagonal closer to the origin, or if the same distance, then rows are better than columns are better than diagonals.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Jeff Kidder]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10246</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10246">
-        </link>
-        <updated>2019-04-30T16:33:52Z</updated>
-        <summary type="html"><![CDATA[<p>One key difference to the finite game is that a different sort of draw is possible. Each player may obtain a wining arrangement at the same limit ordinal time. Perhaps there is some pleasing, if not natural, ordering of winning arrangements that could serve as a tie breaker?</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
