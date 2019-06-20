@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Assaf Rinot** [Inclusion modulo nonstationary](http://blog.assafrinot.com/?p=4582)
 * **Nick Gill** [Tuna Altinel](https://nickpgill.github.io/tuna-altinel)
 * **Victoria Gitman** [Completely ineffable cardinals](https://victoriagitman.github.io/research/2019/06/05/completely-ineffable-cardinals.html)
 * **Victoria Gitman** [Some cute observations about computably saturated models](https://victoriagitman.github.io/research/2019/06/04/some-cute-observations-about-computably-saturated-models.html)
@@ -12,6 +13,5 @@ title: Blogs
 * **Assaf Rinot** [50 Years of Set Theory in Toronto, May 2019](http://blog.assafrinot.com/?p=4577)
 * **Joel David Hamkins** [The connect-infinity game!](http://jdh.hamkins.org/the-connect-infinity-game/)
 * **Victoria Gitman** [A model of second-order arithmetic satisfying ${\rm AC}$ but not ${\rm DC}$](https://victoriagitman.github.io/talks/2019/04/26/a-model-of-second-order-arithmetic-satisfying-ac-but-not-dc.html)
-* **Victoria Gitman** [Set theory in second-order](https://victoriagitman.github.io/talks/2019/04/19/set-theory-in-second-order.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)
