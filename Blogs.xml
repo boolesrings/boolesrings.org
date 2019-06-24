@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-06-24T18:45:33Z</updated>
+    <updated>2019-06-24T22:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -24,7 +24,7 @@
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 9"
+                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 10"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -695,48 +695,6 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Core Model Induction and Other Inner Model Theoretic Tools Rutgers - Tutorial: HOD Computations]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html">
-        </link>
-        <updated>2019-02-09T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>As a part of the workshop on “The Core Model Induction and Other Inner
-Model Theoretic Tools” in Rutgers I will give a tutorial on HOD
-Computations.</p>
-
-<p><em>Abstract:</em> An essential question regarding the theory of inner models is the
-analysis of the class of all hereditarily ordinal definable sets HOD
-inside various inner models $M$ of the set theoretic universe $V$
-under appropriate determinacy hypotheses. Examples for such inner
-models $M$ are $L(\mathbb{R})$ or $L[x]$ on a cone of reals $x$. We
-will outline Steel’s and Woodin’s analysis of
-$HOD^{L(\mathbb{R})}$. Moreover, we will discuss their analysis of
-$HOD^{L[x,G]}$ on a cone of reals $x$, where $G$ is
-$Col(\omega,\kappa)$-generic and $\kappa$ is the least inaccessible
-cardinal in $L[x]$. We will point out were the problems are when
-trying to adapt this to analyze $HOD^{L[x]}$.</p>
-
-<p><em>Reading List:</em></p>
-<ul>
-  <li>(Steel) An outline of inner model theory, Handbook of Set
-  Theory, Section 8.</li>  
-  <li>(Steel, Woodin) HOD as a core model, Cabal III.</li>
-</ul>
-
-<p><em>Necessary requirements:</em></p>
-
-<p>A good understanding of mice, the comparison process and genericity
-iterations, e.g. the fine structure tutorial given in the first week
-or the relevant parts of Steel’s handbook chapter (Sections 1-3 and
-7).</p>
-
-<p>See <a href="/conferences/CMI2019">here</a> for more information about
-the meeting.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A $\square(\kappa)$-like principle consistent with weak compactness]]></title>
         <id>https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html">
@@ -799,11 +757,53 @@ $\Pi^1_n$-indescribable sets. We let ${\rm Refl}_n(\kappa,\mu)$ denote the follo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Core Model Induction and Other Inner Model Theoretic Tools Rutgers - Tutorial: HOD Computations]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html">
+        </link>
+        <updated>2019-02-08T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>As a part of the workshop on “The Core Model Induction and Other Inner
+Model Theoretic Tools” in Rutgers I will give a tutorial on HOD
+Computations.</p>
+
+<p><em>Abstract:</em> An essential question regarding the theory of inner models is the
+analysis of the class of all hereditarily ordinal definable sets HOD
+inside various inner models $M$ of the set theoretic universe $V$
+under appropriate determinacy hypotheses. Examples for such inner
+models $M$ are $L(\mathbb{R})$ or $L[x]$ on a cone of reals $x$. We
+will outline Steel’s and Woodin’s analysis of
+$HOD^{L(\mathbb{R})}$. Moreover, we will discuss their analysis of
+$HOD^{L[x,G]}$ on a cone of reals $x$, where $G$ is
+$Col(\omega,\kappa)$-generic and $\kappa$ is the least inaccessible
+cardinal in $L[x]$. We will point out were the problems are when
+trying to adapt this to analyze $HOD^{L[x]}$.</p>
+
+<p><em>Reading List:</em></p>
+<ul>
+  <li>(Steel) An outline of inner model theory, Handbook of Set
+  Theory, Section 8.</li>  
+  <li>(Steel, Woodin) HOD as a core model, Cabal III.</li>
+</ul>
+
+<p><em>Necessary requirements:</em></p>
+
+<p>A good understanding of mice, the comparison process and genericity
+iterations, e.g. the fine structure tutorial given in the first week
+or the relevant parts of Steel’s handbook chapter (Sections 1-3 and
+7).</p>
+
+<p>See <a href="/conferences/CMI2019">here</a> for more information about
+the meeting.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Logic Fest in the Windy City - The interplay between inner model theory and descriptive set theory in a nutshell]]></title>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html">
         </link>
-        <updated>2019-02-08T05:00:00Z</updated>
+        <updated>2019-02-07T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On June 01, 2019 I am invited to give a talk at the <a href="https://homepages.math.uic.edu/~sinapova/Logic%20fest%202019.html">Logic
 Fest in the Windy City</a> in Chicago, USA.</p>
 
@@ -866,7 +866,7 @@ obtained from the determinacy of countable projective games.</p>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/01/25/TalkBarIlan.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/01/25/TalkBarIlan.html">
         </link>
-        <updated>2019-01-25T05:00:00Z</updated>
+        <updated>2019-01-24T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On February 25, 2019 I am invited to give a talk in the <a href="https://math.biu.ac.il/en/node/864">Set Theory Seminar</a> at
 Bar-Ilan University, Israel.</p>
 
@@ -1411,40 +1411,6 @@ and they became the standard Viennese gift from visitors to Jerusalem for me. Mo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(with P. Schlicht, D. Schrittesser and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
-        <id>https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html">
-        </link>
-        <updated>2018-11-15T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1811.06489.pdf">PDF.</a> <a href="https://arxiv.org/abs/1811.06489">arXiv.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMSSW18');" class="title">Bibtex.</a></p>
-
-<div style="display:none" id="bibMSSW18">
-<pre class="collapse"> @ARTICLE{MSSW18,
-   AUTHOR = {S. Müller, P. Schlicht, D. Schrittesser and T. Weinert},
-   TITLE = {Lebesgue's density theorem and definable selectors for ideals},
-   Note={Submitted},
-   EPRINT = {1811.06489} }</pre>
-</div>
-
-<!--more-->
-
-<p>We introduce a notion of density point and prove results analogous to
-Lebesgue’s density theorem for various well-known ideals on Cantor
-space and Baire space. In fact, we isolate a class of ideals for which
-our results hold.</p>
-
-<p>As a contrasting result of independent interest, we
-show that there is no reasonably definable selector that chooses
-representatives for the equivalence relation on the Borel sets of
-having countable symmetric difference. In other words, there is no
-notion of density which makes the ideal of countable sets satisfy an
-analogue to the density theorem.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Three interesting results from the AIM workshop]]></title>
         <id>https://www.peterkrautzberger.org/0208/</id>
         <link href="https://www.peterkrautzberger.org/0208/">
@@ -1489,11 +1455,45 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(with P. Schlicht, D. Schrittesser and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
+        <id>https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html</id>
+        <link href="https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html">
+        </link>
+        <updated>2018-11-14T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1811.06489.pdf">PDF.</a> <a href="https://arxiv.org/abs/1811.06489">arXiv.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibMSSW18');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibMSSW18">
+<pre class="collapse"> @ARTICLE{MSSW18,
+   AUTHOR = {S. Müller, P. Schlicht, D. Schrittesser and T. Weinert},
+   TITLE = {Lebesgue's density theorem and definable selectors for ideals},
+   Note={Submitted},
+   EPRINT = {1811.06489} }</pre>
+</div>
+
+<!--more-->
+
+<p>We introduce a notion of density point and prove results analogous to
+Lebesgue’s density theorem for various well-known ideals on Cantor
+space and Baire space. In fact, we isolate a class of ideals for which
+our results hold.</p>
+
+<p>As a contrasting result of independent interest, we
+show that there is no reasonably definable selector that chooses
+representatives for the equivalence relation on the Borel sets of
+having countable symmetric difference. In other words, there is no
+notion of density which makes the ideal of countable sets satisfy an
+analogue to the density theorem.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
         </link>
-        <updated>2018-11-07T05:00:00Z</updated>
+        <updated>2018-11-06T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/AguileraMuellerConStrengthLongProjDet.pdf">PDF.</a> 
 <a data-toggle="collapse" href="javascript:toggle('bibAM18');" class="title">Bibtex.</a></p>
 
@@ -1530,7 +1530,7 @@ analogue to the density theorem.</p>]]></summary>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
         </link>
-        <updated>2018-11-07T05:00:00Z</updated>
+        <updated>2018-11-06T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
 Theory Seminar in Bristol.</p>
 
@@ -1565,7 +1565,7 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
         </link>
-        <updated>2018-11-06T05:00:00Z</updated>
+        <updated>2018-11-05T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/MuellerADimpliesDCinMice.pdf">PDF.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
 
@@ -1596,10 +1596,10 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arctic Set Theory Workshop 4 - Homogeneous Spaces and Wadge Theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2018/11/06/TalkArctic.html">
+        <id>https://muellersandra.github.io/talk/invconftalk/2018/11/06/TalkArctic.html</id>
+        <link href="https://muellersandra.github.io/talk/invconftalk/2018/11/06/TalkArctic.html">
         </link>
-        <updated>2018-11-06T05:00:00Z</updated>
+        <updated>2018-11-05T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On January 22, 2019 I gave a talk at the (<a href="http://www.math.helsinki.fi/logic/arctic/2019/">Arctic Set
 Theory Workshop 4</a>) in Kilpisjärvi, Finland.</p>
 
@@ -1629,10 +1629,10 @@ every homogeneous space is in fact strongly homogeneous.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rutgers Logic Seminar - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/05/TalkRutgers.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/05/TalkRutgers.html">
+        <id>https://muellersandra.github.io/talk/invsemtalk/2018/11/05/TalkRutgers.html</id>
+        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/11/05/TalkRutgers.html">
         </link>
-        <updated>2018-11-05T05:00:00Z</updated>
+        <updated>2018-11-04T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On December 10, 2018 I gave a talk in the <a href="http://www.grigorsargis.net/seminar.html">Rutgers Logic
 Seminar</a>.</p>
 
@@ -1663,10 +1663,10 @@ determinacy of sufficiently long projective games.</p>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oberseminar mathematische Logik Bonn - Structural properties of the Stable Core]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/04/TalkBonn.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/04/TalkBonn.html">
+        <id>https://muellersandra.github.io/talk/invsemtalk/2018/11/04/TalkBonn.html</id>
+        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/11/04/TalkBonn.html">
         </link>
-        <updated>2018-11-04T04:00:00Z</updated>
+        <updated>2018-11-03T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On December 04, 2018 I gave a talk in the <a href="http://www.math.uni-bonn.de/ag/logik/teaching/2018WS/oberseminar.shtml">Oberseminar
 mathematische Logik</a> in Bonn.</p>
 
