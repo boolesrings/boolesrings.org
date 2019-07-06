@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-06T10:45:24Z</updated>
+    <updated>2019-07-06T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,29 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Modal model theory by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/modal-model-theory/#comment-10388</id>
+        <link href="http://jdh.hamkins.org/modal-model-theory/#comment-10388">
+        </link>
+        <updated>2019-07-06T12:54:06Z</updated>
+        <summary type="html"><![CDATA[<p>I&#8217;m glad you enjoy it. The painting is by<br />
+Eduard Hau  (1807–1888), and the digital image is public domain. There is a rich collection of paintings of art gallery interiors in the WikiMedia commons at <a href="https://commons.wikimedia.org/wiki/Category:Paintings_of_interiors_of_art_galleries" rel="nofollow">https://commons.wikimedia.org/wiki/Category:Paintings_of_interiors_of_art_galleries</a>.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Modal model theory by ekcarmody]]></title>
+        <id>http://jdh.hamkins.org/modal-model-theory/#comment-10387</id>
+        <link href="http://jdh.hamkins.org/modal-model-theory/#comment-10387">
+        </link>
+        <updated>2019-07-06T12:29:08Z</updated>
+        <summary type="html"><![CDATA[<p>I am so eager to read this, but I am compelled to comment first. This image is by far my favorite image/painting/drawing/dream/vision I have ever seen.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Ehrenfeucht’s lemma in set theory by Vladimir]]></title>
         <id>http://jdh.hamkins.org/ehrenfeuchts-lemma-in-set-theory/#comment-10352</id>
@@ -177,29 +200,6 @@ Vladimir</p>]]></summary>
         </link>
         <updated>2019-04-30T22:29:18Z</updated>
         <summary type="html"><![CDATA[<p>I spent a bit of time thinking about this, and it seems to me that one probably can&#8217;t formulate a sensible notion of fairness that survives once the ordinals stop being describable. (In particular, the game can go on way beyond the point where Cantor normal form doesn&#8217;t exist any more.) But it would be interesting to know whether this intuition is correct.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10250</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10250">
-        </link>
-        <updated>2019-04-30T22:26:17Z</updated>
-        <summary type="html"><![CDATA[<p>My comment was a bit of a stream of consciousness and I recommend ignoring everything up to &#8220;In fact I&#8217;ll be a bit more concrete.&#8221; From there I think what I offer, which doesn&#8217;t involve target diagonals, is a simple strategy for the second player to stop the first player obtaining any row (by which I mean final segment, but in fact not even more than three consecutive points I think), column or diagonal. At the moment I don&#8217;t see any way for the second player to win or for the first player to stop the second player winning, so the question is still interesting!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Zeno Rogue]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10249</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10249">
-        </link>
-        <updated>2019-04-30T17:41:16Z</updated>
-        <summary type="html"><![CDATA[<p>I think it would be nice to let the second player start a series of omega moves sometimes, to make the game more symmetric. I would write the move index in the Cantor normal form, and player 1 moves iff the sum of the coefficients is even.</p>
-<p>Maybe the players can force draw already when it is sufficient to arrange k number of coins in a row, where k is finite? If the board is Z^2 without gravity and the winning configuration is a 2&#215;2 square, there is an easy proof that both players can force a draw (arrange cells in pairs like bricks, if the first player plays X, the second player plays its pair). Similarly, if the winning configuration is a vertical or horizontal line of five. I think this is also the case for a vertical or horizontal or diagonal line for some k, but I do not remember the details. With gravity it could be similar.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

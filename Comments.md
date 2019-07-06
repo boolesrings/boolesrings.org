@@ -3,6 +3,8 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on Modal model theory by Joel David Hamkins](http://jdh.hamkins.org/modal-model-theory/#comment-10388)
+* **Comments for Joel David Hamkins** [Comment on Modal model theory by ekcarmody](http://jdh.hamkins.org/modal-model-theory/#comment-10387)
 * **Comments for Joel David Hamkins** [Comment on Ehrenfeucht’s lemma in set theory by Vladimir](http://jdh.hamkins.org/ehrenfeuchts-lemma-in-set-theory/#comment-10352)
 * **Comments for Joel David Hamkins** [Comment on How to count by Joel David Hamkins](http://jdh.hamkins.org/how-to-count/#comment-10331)
 * **Comments for Joel David Hamkins** [Comment on How to count by A witness to the writhing void](http://jdh.hamkins.org/how-to-count/#comment-10327)
@@ -11,7 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on Modal principles of potentialism, Oxford, January 2018 by David Roberts](http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10285)
 * **Comments for Joel David Hamkins** [Comment on Modal principles of potentialism, Oxford, January 2018 by Joel David Hamkins](http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10284)
 * **Comments for Joel David Hamkins** [Comment on Math for eight-year-olds: graph theory for kids! by Joel David Hamkins](http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10283)
-* **Comments for Joel David Hamkins** [Comment on Modal principles of potentialism, Oxford, January 2018 by David Roberts](http://jdh.hamkins.org/modal-principles-of-potentialism-oxford-january-2018/#comment-10282)
-* **Comments for Joel David Hamkins** [Comment on Math for eight-year-olds: graph theory for kids! by ESR](http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10279)
 
 [Grab the feed for all Comments!](Comments.xml)

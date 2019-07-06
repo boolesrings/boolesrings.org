@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [Modal model theory](http://jdh.hamkins.org/modal-model-theory/)
 * **Assaf Rinot** [Inclusion modulo nonstationary](http://blog.assafrinot.com/?p=4582)
 * **Nick Gill** [Tuna Altinel](https://nickpgill.github.io/tuna-altinel)
 * **Victoria Gitman** [Completely ineffable cardinals](https://victoriagitman.github.io/research/2019/06/05/completely-ineffable-cardinals.html)
@@ -12,6 +13,5 @@ title: Blogs
 * **Joel David Hamkins** [Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers](http://jdh.hamkins.org/representing-ordinal-numbers-with-arithmetically-interesting-sets-of-real-numbers/)
 * **Assaf Rinot** [50 Years of Set Theory in Toronto, May 2019](http://blog.assafrinot.com/?p=4577)
 * **Samuel Coskey** [Computable reducibility of equivalence relations](http://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/)
-* **Samuel Coskey** [The nametag problem](http://scoskey.org/senior-thesis/the-nametag-problem/)
 
 [Grab the feed for all Blogs!](Blogs.xml)
