@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-08T10:45:32Z</updated>
+    <updated>2019-07-08T14:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1591,14 +1591,15 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
         </link>
         <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/AguileraMuellerConStrengthLongProjDet.pdf">PDF.</a> 
+        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1906.11949.pdf">PDF.</a> <a href="https://arxiv.org/abs/1906.11949">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibAM18');" class="title">Bibtex.</a></p>
 
 <div style="display:none" id="bibAM18">
 <pre class="collapse"> @ARTICLE{AM18,
    AUTHOR= {J. Aguilera and S. Müller},
    TITLE= {The consistency strength of long projective determinacy},
-   Note={Submitted} }</pre>
+   Note={Submitted},
+   EPRINT ={1906.11949}}</pre>
    </div>
 
 <!--more-->
@@ -1628,14 +1629,15 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
         </link>
         <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="http://www.logic.univie.ac.at/~smueller/MuellerADimpliesDCinMice.pdf">PDF.</a>
+        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="https://arxiv.org/pdf/1907.02755.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.02755">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
 
 <div style="display:none" id="bibMu18">
 <pre class="collapse"> @ARTICLE{Mu18,
    AUTHOR= {S. Müller},
    TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
-   Note={Accepted at Mathematical Logic Quarterly} }</pre>
+   Note={Accepted at Mathematical Logic Quarterly},
+   EPRINT = {1907.02755}}</pre>
    </div>
 
 <!--more-->
