@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-08T02:45:34Z</updated>
+    <updated>2019-07-08T06:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1115,19 +1115,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -1214,6 +1201,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Groups with identical element counts]]></title>
         <id>https://nickpgill.github.io/groups-with-identical-element-counts</id>
         <link href="https://nickpgill.github.io/groups-with-identical-element-counts">
@@ -1288,19 +1288,6 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -1311,6 +1298,19 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1551,41 +1551,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -1623,34 +1588,36 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
-        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
         </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="http://www.logic.univie.ac.at/~smueller/MuellerADimpliesDCinMice.pdf">PDF.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
 
-<div style="display:none" id="bibMu18">
-<pre class="collapse"> @ARTICLE{Mu18,
-   AUTHOR= {S. Müller},
-   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
-   Note={Accepted at Mathematical Logic Quarterly} }</pre>
-   </div>
+<p><em>The consistency strength of long projective determinacy</em></p>
 
-<!--more-->
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
 
-<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
-  holds in countably iterable, passive premice $\mathcal{M}$
-  construced over their reals which satisfy the Axiom of Determinacy,
-  $\operatorname{AD}$, in a
-  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
-  background universe. This generalizes an argument of Kechris for
-  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
-  particular, we show that for any $n \leq \omega$ and any countable
-  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
-  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
-  \operatorname{DC}$.</p>]]></summary>
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1684,6 +1651,39 @@ every homogeneous space is in fact strongly homogeneous.</p>
 <p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
 
 <p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
+        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
+        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="http://www.logic.univie.ac.at/~smueller/MuellerADimpliesDCinMice.pdf">PDF.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibMu18">
+<pre class="collapse"> @ARTICLE{Mu18,
+   AUTHOR= {S. Müller},
+   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
+   Note={Accepted at Mathematical Logic Quarterly} }</pre>
+   </div>
+
+<!--more-->
+
+<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
+  holds in countably iterable, passive premice $\mathcal{M}$
+  construced over their reals which satisfy the Axiom of Determinacy,
+  $\operatorname{AD}$, in a
+  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
+  background universe. This generalizes an argument of Kechris for
+  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
+  particular, we show that for any $n \leq \omega$ and any countable
+  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
+  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
+  \operatorname{DC}$.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
