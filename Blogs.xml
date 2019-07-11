@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-11T10:45:31Z</updated>
+    <updated>2019-07-11T14:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,199 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Maximal tori of groups of Lie type]]></title>
+        <id>https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type</id>
+        <link href="https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type">
+        </link>
+        <updated>2019-07-11T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p>I’ve been re-reading parts of Carter’s “Finite groups of Lie type” and Malle-Testerman’s “Linear algebraic groups and finite groups of Lie type” with a view to understanding the theory of maximal tori in finite groups of Lie type.</p>
+
+<p>In this post I want to use the theory in those books to write down the orders of the maximal tori of $A_2(q)$, ${^2A_2(q)}$ and $G_2(q)$. I wanted to also do ${^2G_2(q)}$ but, so far, I haven’t managed to write things down properly for the Ree and Suzuki groups, so I’ll exclude these from what follows.</p>
+
+<p>The general set-up is as follows: $G$ is a simple linear algebraic groups, and $F:G\to G$ is a Steinberg endomorphism, i.e. some power $F^m:G\to G$ is a Frobenius endomorphism of $G$. (Some of this theory works more generally – for $G$ connected reductive – and, in particular, this can be important when one studies centralizers inside a simple LAG’s…. But I’m not going there just now.) Now a theorem of Steinberg asserts that $G^F$, the set of fixed-points of $F$, is a finite set [MT, Theorem 21.5] – such a group is an example of a <strong>finite group of Lie type</strong>.</p>
+
+<p>Now the Lang-Steinberg theorem asserts that the map $L:G\to G, \, g\mapsto F(g) g^{-1}$ is surjective [MT, Theorem 21.7]. This theorem then implies that $G$ contains an $F$-stable maximal torus $T$ inside an $F$-stable Borel subgroup $B$. Since $T$ is $F$-stable, $N_G(T)$ is also $F$-stable, and so $F$ naturally acts on the Weyl group $W=N_G(T)/T$ of $G$. Similarly, $F$ acts on the character group $X:=X(T)$ via</p>
+
+<script type="math/tex; mode=display">F(\chi(t)):= \chi(F(t)) \textrm{ for } \chi \in X, t\in T.</script>
+
+<p>We will need the notion of $F$-conjugacy in $W$: if $w_1, w_2\in W$, then $w_1$ is <strong>$F$-conjugate</strong> with $w_2$ if there exists $g\in W$ such that $w_1=F(g)w_2g^{-1}$.</p>
+
+<p>Let $\Phi\subset X$ be the root system of $G$ with positive system $\Phi^+$ with respect to $T$ and $B$. In what follows we write $X_\mathbb{R}:=X\otimes_{\mathbb{Z}}\mathbb{R}$.</p>
+
+<p>Now the first three results of [MT, Section 22.1] imply that</p>
+<ul>
+  <li>there exists a natural number $\delta$ such that $F^\delta=r.1$ in its action on $X$, where $r$ is some power of $p$;</li>
+  <li>there exists a permutation $\rho$ of $\Phi^+$ such that, for each $\alpha\in\Phi^+$, $F(\rho(\alpha)) = q_\alpha \alpha$ where $q_\alpha&gt;1$ is a power of $p$;</li>
+  <li>the parameter $q_\alpha$ is constant on root lengths; moreover, either $q_\alpha=q$ or else $(G,p)\in{(B_2,2), (G_2,3), (F_4,2)}$, $\rho$ interchanges long and short roots, and $q_{long}.q_{short}=q^2$ with $q_{short}/q_{long}=p$;</li>
+  <li>setting $q=r^{1/\delta}$, we have that $F=q\phi$, where $q$ is the Frobenius endomorphism, and $\phi\in {\rm Aut}(X_\mathbb{R})$ is of order $\delta$ inducing $\rho^{-1}$ on $\Phi^+$;</li>
+  <li>$T^F=X/(F-1)/X$.</li>
+</ul>
+
+<p>It is important to note that, in principle, $q$ is a fractional power of $p$ (although, in fact, it will be integral except when $G^F$ is Ree or Suzuki). Note, too, that this set-up clearly defines the real number $q$ to be associated to our finite group of Lie type – for certain families (e.g. the unitaries), the value of $q$ follows varying conventions whereas here it is clear cut.</p>
+
+<p>We have set-up all the necessary parameters associated with our group of Lie type. Now let’s study the maximal tori: we follow [MT, Chapter 25]. First off, we note that, since Frobenius endomorphism commute with elements of $W$ in their action on $T$, the notion of $F$-conjugacy is the same as $\phi$-conjugacy (where $F=q\phi$).</p>
+
+<p>The following principles are important:</p>
+<ul>
+  <li>[MT, Prop. 25.1] The $G^F$-classes of $F$-stable maximal tori of $G$ are in 1-1 correspondence with the $\phi$-conjugacy classes in $W$.</li>
+  <li>[MT, Exercise 30.5] The $G^F$-classes of subgroups of the form $T^F$ ($T$ an $F$-stable maximal torus of $G$) are in 1-1 correspondence with the two previous sets. (I’m slightly unsure of this… But it seems correct.)</li>
+</ul>
+
+<p>These correspondences follow from the Lang-Steinberg theorem. More precisely the first correspondence is as follows: if $gTg^{-1}$ is $F$-stable, then it corresponds to the element $w:=g^{-1}F(g)T\in N_g(T)/T=W$. We are then able to write $T_w$ for the conjugate $gTg^{-1}$. Note that $T_1$ corresponds to an $F$-stable maximal torus in an $F$-stable Borel subgroup. Now [MT, Prop. 25.3] asserts:</p>
+<ul>
+  <li>$T_w^F\cong X/(wF-1)X$;</li>
+  <li>$|T_w^F|=|\det_{X\otimes \mathbb{R}}(wF-1)|=\det_{X\otimes \mathbb{R}}(q-(w\phi)^{-1})$.</li>
+</ul>
+
+<p>Specific calculations now follow. These can be confirmed using Kantor-Seress “Prime power graphs for groups of Lie type”.</p>
+
+<hr />
+<h2 id="calculations-for-a_2q">Calculations for $A_2(q)$</h2>
+
+<p>We record the size of the maximal tori for $A_2(q)$. Note that, here and below, the isogeny class does not matter – so, in this case, these calculations are valid for ${\rm PGL}_3(q)$ and ${\rm SL}_3(q)$.</p>
+
+<p><img src="A2.png" alt="" /></p>
+
+<p>We use the fact that the fundamental roots of $A_2$ – labelled $\alpha$ and $\beta$ in the diagram – form a basis for $X\otimes\mathbb{R}$. With respect to this basis we have
+<script type="math/tex">% <![CDATA[
+q=\left(\begin{matrix} q & 0 \\ 0 & q \end{matrix}\right). %]]]]><![CDATA[></script>
+In this case $\phi$ is trivial, so we just need to write down $q-w^{-1}$. The possibilities are as follows:</p>
+<ul>
+  <li>$w=1$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\right) =(q-1)^2. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Ref_\alpha$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Rot_{\pi/3}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1. %]]]]><![CDATA[></script>
+
+<hr />
+
+<h2 id="calculations-for-2a_2q">Calculations for ${^2A_2}(q)$</h2>
+
+<p>We record the size of the maximal tori for ${^2A_2}(q)$. The root system is as before, and we have the same value for $q$, but this time time $\phi$ is non-trivial.</p>
+
+<p>Using the same basis as before – ${\alpha, \beta}$, we can write $\phi$ as <script type="math/tex">% <![CDATA[
+\left(\begin{matrix} 0 & 1 \\ 1 & 0 \end{matrix}\right) %]]]]><![CDATA[></script>. This is just taking $\phi$ acting on the Dynkin diagram. (Stupid comment: I’ve never cottoned on to the fact, hitherto, that $\phi$ is also an automorphism of the root system. In particular it normalizes the Weyl group which here is $W\cong D_6$. So we get $\langle W, \phi\rangle \cong D_{12}$. This is clearly true in general.)</p>
+
+<p>So now we need to write down $q-(\phi w)^{-1}$. The possibilities for $w$ are as before:</p>
+<ul>
+  <li>$w=1$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q & 1 \\ 1 & q\end{matrix}\right) = q^2-1. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Ref_\alpha$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q-1 & 1 \\ -1 & q\end{matrix}\right) = q^2-q+1. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Ref_{\alpha+\beta}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 0 & -1\\ -1 & 0\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q+1 & 0 \\ 0 & q+1\end{matrix}\right) = (q+1)^2. %]]]]><![CDATA[></script>
+
+<p>Note that we need to choose different elements $w$ because the $\phi$-conjugacy classes in $W$ are different to the usual conjugacy classes.</p>
+
+<hr />
+
+<h2 id="calculations-for-g_2q">Calculations for $G_2(q)$</h2>
+
+<p>Recall that $G_2(q)$ has order $q^6(q^2-1)(q^2-1)$.</p>
+
+<p><img src="G2.png" alt="" /></p>
+
+<p>As before, we take ${\alpha, \beta}$ as a basis for $X\otimes\mathbb{R}$, and we note that $\phi$ is trivial, and $q$ is as before. We must go through representatives for each of the conjugacy classes of $W=D_{12}$:</p>
+<ul>
+  <li>$w=1$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\right) =(q-1)^2. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=-1=Rot_{\pi/2}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} -1 & 0\\ 0 & -1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q+1 & 0 \\ 0 & q+1\end{matrix}\right) = (q+1)^2. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Rot_{\pi/3}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 1 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & -1 \\ 3 & q+2\end{matrix}\right) = q^2+q+1. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Rot_{\pi/6}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 2 & -3\\ 1 & -1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q-2 & 3 \\ -1 & q+1\end{matrix}\right) = q^2-q+1. %]]]]><![CDATA[></script>
+
+<ul>
+  <li>$w=Ref_{3\alpha+2\beta}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 1 & -3\\ 0 & -1\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 3 \\ 0 & q+1\end{matrix}\right) = q^2-1. %]]]]><![CDATA[></script>
+
+<p>This yields all of the maximal tori that are listed in Kantor-Seress. However note that there are two conjugacy classes of reflections in $D_{12}$ – here they correspond to reflections in long and short roots – and so we obtain another example:</p>
+
+<ul>
+  <li>$w=Ref_{\alpha+\beta}$. Then <script type="math/tex">% <![CDATA[
+w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></script> and</li>
+</ul>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\det(q-w^{-1})=\det\left(\begin{matrix} q-2 & 3 \\ -1 & q+2\end{matrix}\right) = q^2-1. %]]]]><![CDATA[></script>
+
+<p>Thus it appears that there are two conjugacy classes of maximal torus of order $q^2-1$ – I guess one occurs as a split torus in a Levi factor ${\rm GL}_2(q)=\langle U_\alpha, U_{-\alpha}\rangle$, while the other occurs in ${\rm GL}_2(q)=\langle U_\beta, U_{-\beta}\rangle$. I reconcile this to Kantor-Seress by noting that they do not necessarily claim to list all conjugacy classes of tori, although in some places they do note that there is more than one conjugacy class of a certain order.</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modal model theory]]></title>
         <id>http://jdh.hamkins.org/modal-model-theory/</id>
@@ -1102,19 +1295,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Foundations of analysis]]></title>
         <id>http://scoskey.org/course/1819s-314/</id>
         <link href="http://scoskey.org/course/1819s-314/">
@@ -1214,6 +1394,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Groups with identical element counts]]></title>
         <id>https://nickpgill.github.io/groups-with-identical-element-counts</id>
         <link href="https://nickpgill.github.io/groups-with-identical-element-counts">
@@ -1288,19 +1481,6 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -1311,6 +1491,19 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1551,41 +1744,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -1624,35 +1782,36 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
-        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
         </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="https://arxiv.org/pdf/1907.02755.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.02755">arXiv.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
 
-<div style="display:none" id="bibMu18">
-<pre class="collapse"> @ARTICLE{Mu18,
-   AUTHOR= {S. Müller},
-   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
-   Note={Accepted at Mathematical Logic Quarterly},
-   EPRINT = {1907.02755}}</pre>
-   </div>
+<p><em>The consistency strength of long projective determinacy</em></p>
 
-<!--more-->
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
 
-<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
-  holds in countably iterable, passive premice $\mathcal{M}$
-  construced over their reals which satisfy the Axiom of Determinacy,
-  $\operatorname{AD}$, in a
-  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
-  background universe. This generalizes an argument of Kechris for
-  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
-  particular, we show that for any $n \leq \omega$ and any countable
-  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
-  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
-  \operatorname{DC}$.</p>]]></summary>
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1686,6 +1845,40 @@ every homogeneous space is in fact strongly homogeneous.</p>
 <p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
 
 <p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
+        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
+        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="https://arxiv.org/pdf/1907.02755.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.02755">arXiv.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibMu18">
+<pre class="collapse"> @ARTICLE{Mu18,
+   AUTHOR= {S. Müller},
+   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
+   Note={Accepted at Mathematical Logic Quarterly},
+   EPRINT = {1907.02755}}</pre>
+   </div>
+
+<!--more-->
+
+<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
+  holds in countably iterable, passive premice $\mathcal{M}$
+  construced over their reals which satisfy the Axiom of Determinacy,
+  $\operatorname{AD}$, in a
+  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
+  background universe. This generalizes an argument of Kechris for
+  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
+  particular, we show that for any $n \leq \omega$ and any countable
+  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
+  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
+  \operatorname{DC}$.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -4540,62 +4733,6 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crecimiento en grupos y otras estructuras]]></title>
-        <id>https://nickpgill.github.io/2016/07/19/crecimiento-en-grupos-y-otras-estructuras/</id>
-        <link href="https://nickpgill.github.io/2016/07/19/crecimiento-en-grupos-y-otras-estructuras/">
-        </link>
-        <updated>2016-07-19T08:57:38Z</updated>
-        <summary type="html"><![CDATA[<p>Esta página contiene material para las escuelas de verano a la Universidad de Costa Rica (25 – 29 julio 2016) y a la Universidad National Autónoma de Nicaragua — Leon (1 – 5 agosto 2016) sobre <strong>crecimiento en grupos y otras estructuras</strong>.</p>
-
-<p>Los niveles de los dos cursos seran un poco differentes, pero mucho de la material sera similar.</p>
-
-<h2 id="lecturas">Lecturas</h2>
-
-<p>Las notas son <a href="/files/2016/07/crecimiento_all-1.pdf">aquí</a>. Los subjetos son como sigue:</p>
-
-<ul>
-  <li>introducción al crecimiento;</li>
-  <li>acciones de grupos;</li>
-  <li>grafos de Cayley;</li>
-  <li>una conjetura de Babai.</li>
-</ul>
-
-<h2 id="referencias-sobre-grupos">Referencias sobre grupos</h2>
-
-<p>Esta material es más clasica, entonces hay muchas referencias posibles. Si no ha estado la teoría de grupos antes, recomiendo el libro de Fraleigh.</p>
-
-<ul>
-  <li>Burness, <a href="http://seis.bristol.ac.uk/~tb13602/docs/permgroups_14.pdf">Topics in permutation group theory</a>, 2014.</li>
-  <li>Dixon and Mortimer, <em>Permutation groups,</em> 1996.</li>
-  <li>Fraleigh, <a href="https://cesarperezsite.files.wordpress.com/2015/04/algebra-abstracta-primer-curso-john-b-fralec3adgh-freelibros-org.pdf">Un primer curso en álgebra abstracta</a>.</li>
-  <li>Gill, <a href="/2014/03/11/topics-in-group-theory/">Topics in group theory</a>. (Las primeras cinco lecturas tienen material conectada a las acciones de grupos)</li>
-  <li>Wielandt, <em>Finite permutation groups,</em> 1964<em>.</em>&lt;/ul&gt;</li>
-</ul>
-
-<h2 id="referencias-sobre-crecimiento">Referencias sobre crecimiento</h2>
-
-<p>La mayoría de estas referencias estan un poco avanzadas. Yo he incluido dos referencias generales (por Tao y por Tao–Vu) que contienen mucho material fondamental — malafortunadamente, el libro de Tao y Vu no es disponible en una forma gratuita en la web.</p>
-
-<p>Mi primera recomendación es las lecturas de Helfgott, “_Crecimiento y espansión en SL2″. _Primeramente, son en español(!) pero también comenzan a un nivel bastante fácil y, rapidamente, presentan un resultado muy importante de Helfgott sí mismo, sobre crecimiento en el grupo SL(2,p).</p>
-
-<ul>
-  <li>Breuillard, <a href="/files/2016/07/Breuillard-Lectures-on-approximate-groups.pdf">Lectures on approximate groups</a>.</li>
-  <li>Green, <a href="/files/2016/07/Green-Notes-on-approximate-structures.pdf">Notes on approximate structures</a>.</li>
-  <li>Green, <a href="/files/2016/07/Green-Notes-on-Freimans-polynomial-conjecture.pdf">Notes on Freiman’s polynomial conjecture</a>.</li>
-  <li>Helfgott, <a href="/files/2016/07/Helfgott-Growth-in-groups.pdf">Growth in groups</a>.</li>
-  <li>Helfgott, <a href="/files/2016/07/Helfgott-Crecimiento-y-expansion-en-SL2.pdf">Crecimiento y expansión en SL2</a>.</li>
-  <li>Ruzsa, <a href="h/files/2016/07/Ruzsa-Sumsets-and-structure.pdf">Sumsets and structure</a>.</li>
-  <li>Tao, <a href="https://www.math.cmu.edu/~af1p/Teaching/AdditiveCombinatorics/Tao.pdf">Lecture notes on Additive Combinatorics</a>.
-    <ul>
-      <li>Tao, T. y Vu, V. <em>Additive Combinatorics</em>, CUP, 2006.</li>
-    </ul>
-  </li>
-</ul>]]></summary>
-        <author>
-            <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In praise of some history]]></title>
         <id>http://karagila.org/2016/in-praise-of-some-history/</id>
         <link href="http://karagila.org/2016/in-praise-of-some-history/">
@@ -4658,49 +4795,6 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
 <p>But those people forget that \(0=1\) is also very true in the ring with a single element; or you know, just in any structure for a language including the two constant symbols \(0\) and \(1\), where both constants are interpreted to be the same object. And hey, who even said that \(0\) and \(1\) have to denote constants? Why not ternary relations, or some other thing? <a href="http://karagila.org/2016/syntactic-t-rex-irregularized/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
-        <id>https://www.peterkrautzberger.org/0190/</id>
-        <link href="https://www.peterkrautzberger.org/0190/">
-        </link>
-        <updated>2016-06-16T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
-<p>Anyway.</p>
-<h2>O to be a query...</h2>
-<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
-<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
-<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
-<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
-<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
-<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
-<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
-<h2>... of silkworm size</h2>
-<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
-<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
-<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
-<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
-<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
-<h2>... or immense</h2>
-<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
-<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
-<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
-<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
-<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
-<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
-<h2>the 800 pound query</h2>
-<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
-<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
-<h3>fool me once, shame on you.</h3>
-<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
-<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
-<p>Either way, a media query for MathML is pointless.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
         </author>
     </entry>
     <entry>
@@ -4791,6 +4885,49 @@ similar to mathematics.&quot;</p>
 </blockquote>
 <p>In other words, math accessibility sucks bad. And no solution will really help you there. But <a href="https://www.mathjax.org/mathjax-accessibility-extensions-v1-now-available/">MathJax now does its best to make it suck less</a>.</p>
 <p>Oh, speaking of accessibility, I'm extremely disappointed that I won't make it to <a href="http://www.roledrinks.nl/">role=drinks</a> after all -- but if you're close by, why don't you drop by?</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
+        <id>https://www.peterkrautzberger.org/0190/</id>
+        <link href="https://www.peterkrautzberger.org/0190/">
+        </link>
+        <updated>2016-06-16T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
+<p>Anyway.</p>
+<h2>O to be a query...</h2>
+<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
+<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
+<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
+<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
+<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
+<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
+<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
+<h2>... of silkworm size</h2>
+<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
+<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
+<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
+<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
+<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
+<h2>... or immense</h2>
+<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
+<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
+<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
+<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
+<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
+<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
+<h2>the 800 pound query</h2>
+<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
+<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
+<h3>fool me once, shame on you.</h3>
+<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
+<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
+<p>Either way, a media query for MathML is pointless.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>

@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Nick Gill** [Maximal tori of groups of Lie type](https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type)
 * **Joel David Hamkins** [Modal model theory](http://jdh.hamkins.org/modal-model-theory/)
 * **Assaf Rinot** [Inclusion modulo nonstationary](http://blog.assafrinot.com/?p=4582)
 * **Nick Gill** [Tuna Altinel](https://nickpgill.github.io/tuna-altinel)
@@ -12,6 +13,5 @@ title: Blogs
 * **Joel David Hamkins** [Computational self-reference and the universal algorithm, Queen Mary University of London, June 2019](http://jdh.hamkins.org/computational-self-reference-and-the-universal-algorithm-queen-mary-university-of-london-june-2019/)
 * **Joel David Hamkins** [Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers](http://jdh.hamkins.org/representing-ordinal-numbers-with-arithmetically-interesting-sets-of-real-numbers/)
 * **Assaf Rinot** [50 Years of Set Theory in Toronto, May 2019](http://blog.assafrinot.com/?p=4577)
-* **Samuel Coskey** [Computable reducibility of equivalence relations](http://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/)
 
 [Grab the feed for all Blogs!](Blogs.xml)
