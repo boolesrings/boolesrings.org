@@ -3,6 +3,8 @@ layout: page
 title: Blogs
 ---
 
+* **Victoria Gitman** [Toy multiverses of set theory](https://victoriagitman.github.io/talks/2019/07/17/toy-multiverses-of-set-theory.html)
+* **Victoria Gitman** [Computably saturated models of ZFC](https://victoriagitman.github.io/research/2019/07/16/computably-saturated-models-of-zfc.html)
 * **Nick Gill** [Maximal tori of groups of Lie type](https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type)
 * **Sandra Müller** [(with J. Aguilera) Projective Games on the Reals](https://muellersandra.github.io/publication/2019/07/08/PaperGamesOnReals.html)
 * **Joel David Hamkins** [Modal model theory](http://jdh.hamkins.org/modal-model-theory/)
@@ -11,7 +13,5 @@ title: Blogs
 * **Victoria Gitman** [Completely ineffable cardinals](https://victoriagitman.github.io/research/2019/06/05/completely-ineffable-cardinals.html)
 * **Victoria Gitman** [Some cute observations about computably saturated models](https://victoriagitman.github.io/research/2019/06/04/some-cute-observations-about-computably-saturated-models.html)
 * **Joel David Hamkins** [Alan Turing’s theory of computation, Oxford and Cambridge Club, June 2019](http://jdh.hamkins.org/alan-turings-theory-of-computation-oxford-and-cambridge-club-june-2019/)
-* **Joel David Hamkins** [Computational self-reference and the universal algorithm, Queen Mary University of London, June 2019](http://jdh.hamkins.org/computational-self-reference-and-the-universal-algorithm-queen-mary-university-of-london-june-2019/)
-* **Joel David Hamkins** [Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers](http://jdh.hamkins.org/representing-ordinal-numbers-with-arithmetically-interesting-sets-of-real-numbers/)
 
 [Grab the feed for all Blogs!](Blogs.xml)

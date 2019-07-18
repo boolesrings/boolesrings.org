@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-18T14:45:33Z</updated>
+    <updated>2019-07-18T18:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,145 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/07/17/toy-multiverses-of-set-theory.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/07/17/toy-multiverses-of-set-theory.html">
+        </link>
+        <updated>2019-07-17T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://workshop2019.forcing-project.com/">Philosophy of Set Theory and Foundations workshop</a>, University of Konstanz, August 1, 2019.<br><strong><a href="">Slides</a></strong><!--more--></p>
+
+<p>In the early 20th century, optimism ran high that a formal development of mathematics through first-order logic within appropriate axiom systems would set up mathematical knowledge as incontrovertible truth. With the introdution of set theory, all mathematics could now be unified within a single field whose fundamental properties were codified by the Zermelo-Fraenkel axioms ${\rm ZFC}$. But already within a few decades, discoveries were made which suggested that the concept of set was prone to relativity. Löwenheim and Skolem showed that if there is a model of ${\rm ZFC}$, then there is a countable model of ${\rm ZFC}$. This countable model would, of course, think that its reals are uncountable, demonstrating the non-absoluteness of countability. Gödel proved the Completeness Theorem, an immediate consequences of which was the existence of nonstandard models of set theory, even with nonstandard natural numbers, demonstrating the non-absoluteness of well-foundedness. Soon afterwards, Gödel's First Incompleteness Theorem showed the general limitations inherent in formal method: no computable theory extending ${\rm ZFC}$ could decide the truth of all set theoretic assertions. In the next few decades came forcing, large cardinals, canonical inner models, and a model theoretic treatment of ${\rm ZFC}$. Set theory ever since has indisputably been the study of a multiverse of universes each instantiating its own concept of set. </p>
+
+<p>Cohen's technique of forcing showed how to extend a given universe of sets to a larger universe satisfying a desired list of properties. Forcing could be used to construct universes in which the continuum was any cardinal of uncountable cofinality (including singular cardinals), indeed the continuum function on the regular cardinals could be made to satisfy any desired pattern (modulo a few necessary restrictions). There could be universes with or without a Suslin line, universes with non-constructible reals, universes whose cardinal characteristics had different values and different relationships.</p>
+
+<p>At the same time, set theorists started exploring the consistency strength hierarchy of large cardinal axioms asserting existence of improbably large infinite objects. Other set theoretic assertions, no matter how unrelated to large cardinals, inevitably fell somewhere inside the hierarchy. Set theorists could now combine forcing with large cardinals to produce universes in which large cardinals were compatible with other desired properties. Many of the larger large cardinals implied that the universe had transitive sub-universes (inner models) into which it would elementarily embed. Such sub-universes, obtained from large cardinals or through other considerations, joined the menagerie of mathematical worlds populating the field.</p>
+
+<p>In yet another direction, motivated by Godel's construction of $L$, set theorists began exploring how to build ever more sophisticated canonical inner models, universes built bottom-up from a recipe specifying what kind of sets should exists. </p>
+
+
+<p>Finally, a model theoretic treatment of ${\rm ZFC}$ produced some unexpected results. Given two models $M$ and $N$ of ${\rm ZFC}$, let us say that $N$ is an <em>end-extension</em> of $M$ if $M$ is transitive in $N$, let us say that $N$ is a <em>top-extension</em> of $M$ if every element of $N\setminus M$ has higher rank than all ordinals of $M$. Keisler and Morley showed that every countable model of ${\rm ZFC}$ has a proper elementary top-extension (Keisler-Morley Extension Theorem <a href="#keislermorley:topextensions">[1]</a>). Thus, any countable model could be grown in height without changing its theory. Barwise showed that every countable model of ${\rm ZFC}$ has an end-extension to a model of $V=L$ (Barwise Extension Theorem <a href="#Barwise:extensionTheorem">[2]</a>). Thus, sets could become constructible in a larger universe.</p>
+
+<p>What does set theoretic practice tell us about the nature of sets? Is there the one true universe of sets, the mathematical world in which all mathematics lives, but our epistemic limitations have so far prevented us from understanding its structure? Or is there simply no one true universe, and instead the multiverse of universes encountered by set theorists is the true mathematical reality?
+</p>
+
+<p>The Universist position in the philosophy of set theory asserts that there is the one true universe of sets. Incompleteness is simply a by-product of formal methods we are forced to use to investigate mathematics, not an indication of some inherent relativity in the nature of sets. After all, in spite of a plethora of nonstandard models of arithmetic, most mathematicians would agree that the natural numbers is the only true model of arithmetic. The Peano Axioms, actually do a rather excellent job of capturing the fundamental properties of natural numbers, they are bound by the incompleteness phenomena but number theorists don't often run into statements independent of them. This certainty with regards to number theory comes from the deep intuition we believe we hold about the nature of natural numbers. The goal of set theory should then be to obtain the same deep intuition about the nature of sets so that ${\rm ZFC}$ can be extended to a theory deciding most of the more significant properties of sets. Woodin for instance believes that such a theory will come from a construction of a sufficiently sophisticated canonical inner model compatible with all known large cardinals.</p>
+
+<p>The Multiversist position in the philosophy of set theory asserts that there is simply no one true universe of sets. All universes of sets discovered by set theorists: forcing extensions, canonical and non-canonical inner models, models with and without large cardinals, have equal ontological status. They all populate the multiverse of mathematical worlds, each instantiating its own equally valid concept of set. The Multiversist position splits along the lines of just how non-absolute should the notion of set be under this view. Can the multiverse contain models of different heights? Are ill-founded models allowed? The Radical Multiversist position, espoused most notably by Hamkins, asserts that all these models belong in the multiverse. Indeed, once you adapt the position that there is no absolute set theoretic background, no background aught to be better than any other and in fact each should be as bad as the next in the following sense. In the Hamkins perspective each universe in the multiverse will be seen to be countable and ill-founded from the perspective of a <em>better</em> universe. In particular, under this view the universist is mistaken even about the nature of the natural numbers. The Hamkins position is captured by his <em>Multiverse Axioms</em>.</p>
+
+<p><strong>Realizability</strong>: If $M$ is a universe and $N$ is a definable class in $M$ such that $M$ believes that $N\models{\rm ZFC}$, then $N$ is a universe. (This includes set models, inner models, will-founded models, etc.)</p>
+<p><strong>Forcing Extension</strong>: If $M$ is a universe and $\mathbb P\in M$ is a forcing notion, then there is a universe $M[G]$ where $G\subseteq\mathbb P$ is $M$-generic.</p>
+<p><strong>Class Forcing Extension</strong>: If $M$ is a universe  and $\mathbb P$ is a definable ${\rm ZFC}$-preserving forcing notion in $M$, then there is a universe $M[G]$ where $G\subseteq \mathbb P$ is $V$-generic.</p>
+<p><strong>Reflection</strong>: If $M$ is a universe, then there is a universe $N$ such that $M\prec V^N_\theta\prec N$ for some rank initial segment $V^N_\theta$ of $N$. (Recall the Keisler-Morley Extension Theorem.)</p>
+<p><strong>Countability</strong>: Every universe $M$ is a countable set in another universe $N$.</p>
+<p><strong>Well-founded Mirage</strong>: Every universe $M$ is a set in another universe $N$ which thinks that $\mathbb N^M$ is ill-founded.</p>
+<p><strong>Reverse Embedding</strong>: If $M$ is a universe and $j:M\to N$ is an elementary embedding definable in $M$, then there is a universe $M^*$ and an elementary embedding $j^*:M^*\to M$ definable in $M^*$ such that $j=j^*(j^*)$. (Every elementary embedding has already been iterated many times.)</p>
+<p><strong>Absorbtion into $L$</strong>: Every universe $M$ is a transitive set in another universe $N$ satisfying $V=L$. (This is stronger than the Barwise Extension Theorem.)</p>
+
+<p>A way to investigate the viability of a collection of multiverse axioms, without coming up with a formal background beyond ${\rm ZFC}$, is by considering toy multiverses of ${\rm ZFC}$ models. Assuming that ${\rm ZFC}$ is consistent, a toy multiverse is some set collection of models of ${\rm ZFC}$. Does a given collection of multiverse axioms have a toy multiverse, does it have a <em>natural</em> toy multiverse? With Hamkins, we showed that his Multiverse Axioms, radical as their assertions may seem, have a very natural toy multiverse, namely the collection of all countable computably saturated models <a href="#multiverse:gitmanhamkins">[3]</a>. In fact, every model in any toy multiverse satisfying the Hamkins Multiverse Axioms must be computably saturated because every model of ${\rm ZFC}$ that is an element of a model of ${\rm ZFC}$ with an ill-founded $\omega$ is computably saturated (see the previous <a href="/research/2019/06/04/some-cute-observations-about-computably-saturated-models/">post</a>). </p>
+
+<p>In a recent joint work with Godziszewski, Meadows, and Williams, we consider various weakenings of the Hamkins Multiverse Axioms that have toy multiverses not consisting entirely of computably saturated models. First, we consider the Hamkins Multiverse Axioms with a weak version of well-founded mirage which asserts that every universe in the multiverse is merely ill-founded, not necessarily at $\omega$, from the perspective of a better universe. </p>
+
+<p><strong>Weak well-founded mirage</strong>: Every universe $M$ is a set in another universe which thinks that its membership relation is ill-founded.</p>
+
+<p>Recall that if there is a transitive model of ${\rm ZFC}$, then the <em>Cohen-Shepherdson model $L_\alpha$</em> is the minimum transitive model of ${\rm ZFC}$.</p>
+
+<p><strong>Theorem</strong>: (G., Godziszewki, Meadows, Williams) The collection in $L_\alpha$ of all models $M$ such that $L_\alpha$ thinks that $M$ is a countable model of ${\rm ZFC}$ satisfies:
+<ol>
+<li>Realizability</li>
+<li>Set Forcing and Class Forcing Extension</li>
+<li>Countability</li>
+<li>Weak Well-founded Mirage</li>
+</ol>
+
+<p>Next we consider weakening the axioms to the so-called covering versions, where instead of demanding that a universe be a set inside another universe, we ask that each universe has, a <em>cover</em>, an end-extension that is a set in a better universe.</p>
+
+<p><strong>Covering Countability</strong>: For every universe $M$, there is a universe $N$ and a countable set $A\in N$ with $M\subseteq A$.</p>
+
+<p><strong>Covering Well-founded Mirage</strong>: For every universe $M$, there is a universe $N$ and a model $M^*\in N$ end-extending $M$ such that $N$ thinks that $\mathbb N^{M^*}$ is ill-founded.</p>
+
+<p><strong>Covering Absorbtion into $L$</strong>: For every universe $M$, there is a universe $N\models{\rm ZFC}+V=L$ and a model $M^*\in N$ end-extending $M$.</p>
+<p><strong>Theorem</strong>: (G., Godziszewki, Meadows, Williams) There is a toy multiverse, not all of whose models are computably saturated, satisfying:
+<ol>
+<li>Realizability</li>
+<li>Forcing Extension</li>
+<li>Class Forcing Extension for ${\rm Ord}$-cc forcing</li>
+<li>Covering Countability</li>
+<li>Covering Well-founded Mirage</li>
+<li>Covering Absorbtion into $L$</li>
+</ol></p>
+<p>In this post, I purposely didn't tell you what my philosophical position is on all of this. I will leave it up to the reader to guess.</p>
+<h2>References</h2>
+<ol class="bibliography"><li><span id="keislermorley:topextensions">H. J. Keisler and M. Morley, “Elementary extensions of models of set theory,” <i>Israel J. Math.</i>, vol. 6, pp. 49–65, 1968. </span></li>
+<li><span id="Barwise:extensionTheorem">J. Barwise, “Infinitary methods in the model theory of set theory,” in <i>Logic Colloquium ’69 (Proc. Summer School and
+              Colloq., Manchester, 1969)</i>, North-Holland, Amsterdam, 1971, pp. 53–66. </span></li>
+<li><span id="multiverse:gitmanhamkins">V. Gitman and J. D. Hamkins, “A natural model of the multiverse axioms,” <i>Notre Dame J. Form. Log.</i>, vol. 51, no. 4, pp. 475–484, 2010. Available at: http://dx.doi.org/10.1215/00294527-2010-030</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computably saturated models of ZFC]]></title>
+        <id>https://victoriagitman.github.io/research/2019/07/16/computably-saturated-models-of-zfc.html</id>
+        <link href="https://victoriagitman.github.io/research/2019/07/16/computably-saturated-models-of-zfc.html">
+        </link>
+        <updated>2019-07-16T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>
+Let $\mathcal L$ be any computable first-order language. A type $p(\bar x,\bar y)$ in $\mathcal L$ is said to be <em>computable</em> if the collection of Gödel codes of the formulas in the type $$\{\ulcorner \varphi\urcorner\mid \varphi\in p(\bar x,\bar y)\}$$ is a computable set. A model $M$ of $\mathcal L$ is said to be <em>computably saturated</em> if for every tuple $\bar a\in M$ and every computable type $p(\bar x,\bar y)$, whenever $p(\bar x,\bar a)$ is finitely realizable in $M$, then $p(\bar x,\bar a)$ is realized: there is a tuple $\bar b\in M$ such that for every $\varphi\in p(\bar x,\bar y)$, $M\models\varphi(\bar b,\bar a)$. It is not difficult to see that any model $M$ of cardinality $\kappa$ has a computably saturated elementary extension of cardinality $\kappa$. We build the elementary extension in $\omega$-many steps, at each step realizing all finitely realizable computable types with parameters from the previous stage. Observe that any computably saturated model of ${\rm ZFC}$ must have nonstandard natural numbers because it realizes the computable type $$p(x)=\{x>\underbrace{1+\cdots+1}_{n\text{-times}}\mid n\in\mathbb N\}.$$ Computable saturation was introduced in <a href="#BarwiseSchlipf:recursiveSaturation">[1]</a>.</p>
+
+<p>
+Let's call a model of ${\rm ZFC}$ <em>$\omega$-nonstandard</em> if it has nonstandard natural numbers. In the model theory of $\omega$-nonstandard models of ${\rm ZFC}$ (as in the model theory of nonstandard models of ${\rm PA}$) one of the most important notions is the standard system introduced by Friedman in <a href="#friedman:countableModelsOfSetTheory">[2]</a>. The <em>standard system </em> of an $\omega$-nonstandard model of ${\rm ZFC}$ is a collection of subsets of $\mathbb N$ consisting of the traces of sets in $M$ on the natural numbers: $${\rm SSy}(M)=\{A\cap \mathbb N\mid A\in M\}.$$ Standard systems are clearly Boolean algebras. Standard systems are closed under computability: whenever $A$ is in it and $B$ is computable from $A$, then $B$ is in it. To see this, fix $A\in {\rm SSy}(M)$ and let $B$ be computed from $A$ by a program $p$. The set $A=A^*\cap \mathbb N$ for some $A^*\in M$ and we can assume without loss that $A^*\subseteq\mathbb N^M$. The computation of program $P$ with oracle $A^*$ inside $M$ agrees with the actual computation of $p$ with oracle $A$ on the standard part, which is $B$. In particular, it follows that a standard system has all computable sets, and so computable theories such as ${\rm PA}$ and ${\rm ZFC}$ are (coded) in the standard system. Finally, whenever a set $T$ in a standard system codes an infinite binary tree, the standard system must have some infinite branch through $T$. Such a set $T$ must have come from a set $T^*\in M$, which has to look like a binary tree up to some nonstandard level (because otherwise the true natural numbers would be definable in $M$). So we fix some node $c$ on a nonstandard level of $T^*$ and its predecessors in $T^*$ give a branch through $T$. Observe also if $M$ and $N$ are $\omega$-nonstandard models of ${\rm ZFC}$ such that $\mathbb N^M$ is an initial segment of $\mathbb N^N$, then ${\rm SSy}(M)\subseteq {\rm SSy}(N)$. The reason is that if a set $A\in {\rm SSy}(M)$, then there is a nonstandard natural number $a\in M$ such that the characteristic function of $A$ is coded on the standard part of the binary expansion of $a$, and indeed $M$ has such numbers arbitrarily low above the standard $\mathbb N$.</p>
+
+<p>An $\omega$-nonstandard model $M\models{\rm ZFC}$ is said to be <em>${\rm SSy}(M)$-saturated</em> if for every type $p(\bar x,\bar y)$ (coded) in ${\rm SSy}(M)$, whenever there is $\bar a\in M$ such that $p(\bar x,\bar a)$ is finitely realizable, then $p(\bar x,\bar a)$ is realized. Since ${\rm SSy}(M)$ has all the computable sets, ${\rm SSy}(M)$-saturated models are computably saturated. But the converse holds as well. To see this, fix a type $p(\bar x,\bar y)$ in ${\rm SSy}(M)$ and let $A\in M$ such that $A\cap\mathbb N=\{\ulcorner\varphi\urcorner\mid \varphi\in p(\bar x,\bar y)\}$. Suppose that for $\bar a\in M$, $p(\bar x,\bar a)$ is finitely realizable. Consider the computable type $$p^*(\bar x,\bar y,z)=\{\varphi(\bar x,\bar y)\leftrightarrow \ulcorner\varphi\urcorner\in z\mid \varphi\text{ is a formula}\}.$$ Since $p(\bar x,\bar a)$ is finitely realizable, then so is $p^*(\bar x,\bar a,A)$, but the realization of $p^*(\bar x,\bar a,A)$ also realizes $p(\bar x,\bar a)$. Standard system saturation was introduced by Wilmers in an unpublished 1975 thesis.</p>
+<p>
+We can use standard system saturation to show several key properties of computably saturated models. The standard system of a computably saturated model has all the types of its elements ($\text{tp}^M(\bar a)$ for $\bar a\in M$), and in particular its theory. Suppose $M$ is ${\rm SSy}(M)$-saturated and $\bar a\in M$. We need to show that there is $A\in M$ such that $A\cap \mathbb N=\{\ulcorner\varphi\urcorner\mid M\models\varphi(\bar a)\}$. Consider the computable type $$p(x,\bar y)=\{\varphi(\bar y)\leftrightarrow \ulcorner\varphi\urcorner\in\bar x\mid\varphi\text{ is a formula}\}.$$ Since $M$ has $\Sigma_n$-truth predicates for every true natural number $n$, $p(x,\bar a)$ is finitely realizable in $M$, and thus there is $A\in M$ realizing $p(\bar x,\bar a)$. Once we have that all types are in the standard system, we obtain a remarkable characterization of countable computably saturated models.</p>
+<p>
+<strong>Theorem</strong>: Countable computably saturated models $M$ and $N$ of ${\rm ZFC}$ are isomorphic if and only if they have the same theory and the same standard system. Indeed, if $\text{tp}^M(\bar a)=\text{tp}^N(\bar b)$, then there is an isomorphism taking $\bar a$ to $\bar b$.</p>
+<p>
+<strong>Proof</strong>: This is a back-and-forth argument. Let's extend the partial isomorphism taking $\bar a$ to $\bar b$ one more step. Fix $c\in M$. Then $\text{tp}(c,\bar a)\in {\rm SSy}(M)={\rm SSy}(N)$ and $p(x,\bar y)=\{\varphi(x,\bar y)\mid \varphi\in \text{tp}(x,\bar y)\}$ is finitely realizable in $N$. Thus, by standard system saturation, there is $d\in N$ such that $\text{tp}(c,\bar a)=\text{tp}(d,\bar b)$.</p>
+<p>
+<strong>Corollary</strong>: Countable computably saturated models $M\models{\rm ZFC}$ have many automorphisms. Whenever $a,b\in M$ are such that $\text{tp}(a)=\text{tp}(b)$, then there is an automorphism of $M$ taking $a$ to $b$.</p>
+<p>
+Computably saturated models of ${\rm ZFC}$ arise naturally as follows. If $M\models{\rm ZFC}$ is an element of an $\omega$-nonstandard model of ${\rm ZFC}$, then $M$ is computably saturated. To see this, fix a computable type $p(\bar x,\bar y)$ and a tuple $\bar a\in M$ such that $p(\bar x,\bar a)$ is finitely realizable. Also fix a set $A\in N$ such that $A\cap \mathbb N$ codes $p(\bar x,\bar y)$. Since $M$ is a set in $N$, $N$ has a truth predicate for $M$, which by absoluteness of satisfaction must be correct for standard formulas. The model $N$ sees, for every true natural number $n$, that $M$ realizes all $\varphi(\bar x,\bar a)$ such that $\ulcorner\varphi\urcorner\in A\cap n$. But then there must be some nonstandard $c\in N$ such that $N$ thinks that $M$ realizes all $\varphi(\bar x,\bar a)$ such that $\ulcorner\varphi\urcorner\in A\cap c$. Any such realization $\bar b$ realizes $p(\bar x,\bar a)$ because $A\cap c$ includes all standard assertions.</p>
+<p>
+Here are some other remarkable results about computably saturated models of ${\rm ZFC}$.</p>
+<p>
+<strong>Theorem:</strong>: Every computably saturated model $M\models{\rm ZFC}$ has an elementary rank initial segment $V_\alpha^M\prec M$ <a href="#Ressayre:recursiveSaturation">[3]</a>.</p>
+
+<p><strong>Proof</strong>: Consider the computable type $p(x)$ consisting of assertions $$\forall \ulcorner\varphi\urcorner\in\Sigma_n\,\text{Tr}_{\Sigma_n}(\ulcorner\varphi\urcorner)\leftrightarrow \text{Tr}_{\Delta_0}(\ulcorner x\models\varphi\urcorner)$$ for every $n$ (where $\text{Tr}_{\Sigma_n}$ is a $\Sigma_n$-truth predicate) together with the assertion 
+"$x$ is a rank initial segment".</p>
+<p>
+The following observation was the key to our theorem with Joel Hamkins that the collection of all countable computably saturated models satisfies the Hamkins Multiverse Axioms <a href="#multiverse:gitmanhamkins">[4]</a>. </p>
+<p><strong>Theorem:</strong> Every countable computably saturated model of ${\rm ZFC}$ has an isomorphic copy of itself as an element which it thinks is countable and $\omega$-nonstandard.</p>
+<p><strong>Proof:</strong> Suppose $N$ is countable and computably saturated. The theory $\mathcal T$ of $N$ is in ${\rm SSy}(N)$ and so we can fix a theory $\mathcal T^*\in N$ such that $\mathcal T^*\cap\mathbb N=\mathcal T$. The model $N$ sees that $\mathcal T^*\cap n$ is consistent for every true natural number $n$ and therefore $N$ has some nonstandard natural number $c$ such that it thinks that $\mathcal T^*\cap c$ is consistent. Thus, $N$ has a model of $\mathcal T^*\cap c$. But then $N$ also thinks that $\mathcal T^*\cap c$ also has an $\omega$-nonstandard model $M$. Since $\mathbb N^N$ is an initial segment of $\mathbb N^M$, the two models have the same standard system and by construction they have the same theory. Therefore $M\cong N$.</p>
+<p>
+For the final result I want to mention, let's recall that a <em>truth predicate</em> for an $\omega$-nonstandard model $M\models{\rm ZFC}$ is a subset $T\subseteq M$ such that in the structure $\langle M,\in,T\rangle$, $T$ satisfies the Tarskian truth conditions for $\langle M,\in\rangle$. In particular, $T$ must be a truth predicate for standard formulas. A set $T\subseteq M$ is a <em>partial truth predicate</em> if in $\langle M,\in,T\rangle$, there is a nonstandard number $c$ such that $T$ restricted to formulas of length less than $c$ satisfies Tarskian truth conditions.
+</p>
+<p>
+<strong>Theorem</strong>: The following are equivalent for a countable $\omega$-nonstandard $M\models{\rm ZFC}$.
+<ol>
+<li> $M$ is computably saturated.</li>
+<li> $M$ has a partial truth predicate $T$ such that $\langle M,\in,T\rangle$ satisfies ${\rm ZFC}$ in the extended language.</li>
+<li> $M$ has a truth predicate.</li>
+</ol></p>
+<p>
+The same result for models of ${\rm PA}$ was shown by Kotlarski, Krajewski, and Lachlan <a href="#KotlarskiKrajewskiLachlan:fullSatisfactionClass">[5]</a>, <a href="#Lachlan:fullSatisfactionClass">[6]</a>. In his dissertation Bartosz Wcisło showed that a truth predicate can be used to define a partial truth predicate preserving ${\rm PA}$ and Michał Godzisgewski observed that with this new result the theorem extends to models of ${\rm ZFC}$. Note that it is impossible to extend condition $(3)$ to say that $\langle M,\in,T\rangle\models{\rm ZFC}$ because any such $M$ would be a model of $\text{Con}({\rm ZFC})$.</p>
+
+
+<h2>References</h2>
+<ol class="bibliography"><li><span id="BarwiseSchlipf:recursiveSaturation">J. Barwise and J. Schlipf, “An introduction to recursively saturated and resplendent
+              models,” <i>J. Symbolic Logic</i>, vol. 41, no. 2, pp. 531–536, 1976. Available at: https://doi.org/10.2307/2272253</span></li>
+<li><span id="friedman:countableModelsOfSetTheory">H. Friedman, “Countable models of set theories,” in <i>Cambridge Summer School in Mathematical Logic
+              (Cambridge, 1971)</i>, Berlin: Springer, 1973, pp. 539–573. Lecture Notes in Math., Vol. 337. </span></li>
+<li><span id="Ressayre:recursiveSaturation">J. P. Ressayre, “Introduction aux modèles récursivement saturés,” in <i>Séminaire Général de Logique 1983–1984 (Paris,
+              1983–1984)</i>, vol. 27, Univ. Paris VII, Paris, 1986, pp. 53–72. </span></li>
+<li><span id="multiverse:gitmanhamkins">V. Gitman and J. D. Hamkins, “A natural model of the multiverse axioms,” <i>Notre Dame J. Form. Log.</i>, vol. 51, no. 4, pp. 475–484, 2010. Available at: http://dx.doi.org/10.1215/00294527-2010-030</span></li>
+<li><span id="KotlarskiKrajewskiLachlan:fullSatisfactionClass">H. Kotlarski, S. Krajewski, and A. H. and Lachlan, “Construction of satisfaction classes for non-standard models,” <i>Canad. Math. Bull.</i>, vol. 24, no. 3, pp. 283–293, 1981. </span></li>
+<li><span id="Lachlan:fullSatisfactionClass">A. H. Lachlan, “Full satisfaction classes and recursive saturation,” <i>Canad. Math. Bull.</i>, vol. 24, no. 3, pp. 295–297, 1981. Available at: https://doi.org/10.4153/CMB-1981-046-0</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximal tori of groups of Lie type]]></title>
         <id>https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type</id>
@@ -617,23 +756,6 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Set theories with classes]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
-
-<div class="figure">
-<img src="/images/asl2019.jpeg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
         <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
@@ -707,6 +829,23 @@ Let us conclude the introduction by mentioning the following easy negative insta
 <h2>References</h2>
 <ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
 <li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set theories with classes]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
+
+<div class="figure">
+<img src="/images/asl2019.jpeg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1325,32 +1464,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -1434,6 +1547,32 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -1774,41 +1913,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -1847,35 +1951,36 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
-        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
         </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="https://arxiv.org/pdf/1907.02755.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.02755">arXiv.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
 
-<div style="display:none" id="bibMu18">
-<pre class="collapse"> @ARTICLE{Mu18,
-   AUTHOR= {S. Müller},
-   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
-   Note={Accepted at Mathematical Logic Quarterly},
-   EPRINT = {1907.02755}}</pre>
-   </div>
+<p><em>The consistency strength of long projective determinacy</em></p>
 
-<!--more-->
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
 
-<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
-  holds in countably iterable, passive premice $\mathcal{M}$
-  construced over their reals which satisfy the Axiom of Determinacy,
-  $\operatorname{AD}$, in a
-  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
-  background universe. This generalizes an argument of Kechris for
-  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
-  particular, we show that for any $n \leq \omega$ and any countable
-  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
-  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
-  \operatorname{DC}$.</p>]]></summary>
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1909,6 +2014,40 @@ every homogeneous space is in fact strongly homogeneous.</p>
 <p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
 
 <p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
+        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
+        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
+        </link>
+        <updated>2018-11-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="https://arxiv.org/pdf/1907.02755.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.02755">arXiv.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibMu18">
+<pre class="collapse"> @ARTICLE{Mu18,
+   AUTHOR= {S. Müller},
+   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
+   Note={Accepted at Mathematical Logic Quarterly},
+   EPRINT = {1907.02755}}</pre>
+   </div>
+
+<!--more-->
+
+<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
+  holds in countably iterable, passive premice $\mathcal{M}$
+  construced over their reals which satisfy the Axiom of Determinacy,
+  $\operatorname{AD}$, in a
+  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
+  background universe. This generalizes an argument of Kechris for
+  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
+  particular, we show that for any $n \leq \omega$ and any countable
+  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
+  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
+  \operatorname{DC}$.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -2015,31 +2154,6 @@ from his work on set theory with atoms and permutation models. The two results, 
 Dedekind-finite set added is a set of reals. In particular, the reals cannot be well-ordered no more. <a href="http://karagila.org/2018/cohens-oddity/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Stable Core]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/10/15/the-stable-core-Barcelona.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/10/15/the-stable-core-Barcelona.html">
-        </link>
-        <updated>2018-10-15T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://www.ub.edu/RSTR2018/">Reflections on Set Theoretic Reflection Conference</a>, University of Barcelona, November 16-19, 2018.<!--more--></p>
-
-<p><strong>Abstract:</strong> Sy Friedman introduced an inner model, which he called the <em>stable core</em>, in order to study under what circumstances the universe $V$ is a class forcing extension of ${\rm HOD}$. He showed there is a definable predicate $S$, amenable to ${\rm HOD}$, such that $V$ is a class forcing extension of the structure $\langle {\rm HOD},\in,S\rangle$. Namely, there is an ${\rm ORD}$-cc class partial order $\mathbb P$ definable in $\langle {\rm HOD},\in,S\rangle$ and a generic filter $G\subseteq \mathbb P$ such that ${\rm HOD}[G]=V$, however the filter $G$ itself is not definable over $V$. The predicate $S$, consisting of triples $(\alpha,\beta,n)$ for $\alpha$ and $\beta$ strong limit cardinals and $n\geq 1$ such that $H_\alpha\prec_{\Sigma_n}H_\beta$ and $\Sigma_n$-collection holds in $H_\beta$, codes elementarity relations between nice enough initial segments $H_\alpha$ of $V$. Friedman's argument showed that the information necessary to define $\mathbb P$ is already contained in $S$ so that $V$ is already a class forcing extension of the stable core $\langle L[S],\in,S\rangle$.</p>
-
-<p>In a joint work with Friedman and Sandra Müller, we investigated the properties of the stable core. We were interested to see whether the stable core is in any sense a canonical inner model, whether it has regularity properties, whether it is consistent with large cardinals, and whether we can code information into it using forcing. We showed that the stable core of $L[\mu]$, the canonical model for a single measurable cardinal, is $L[\mu]$ and therefore measurable cardinals are consistent with the stable core. By coding generic sets into the stable core over $L$ or $L[\mu]$, we showed that there is a generic extension of $L$ in which the ${\rm GCH}$ fails at every regular cardinal in the stable core and there is a generic extension of $L[\mu]$ in which there is a measurable cardinal which is not even weakly compact in the stable core. Our work leaves numerous open questions about the structure of the stable core in the presence of large cardinals beyond a measurable cardinal.</p>
-
-<div class="figure">
-<img src="/images/barcelonaMushrooms.jpg" />
-<figcaption>Hunting for mushrooms</figcaption>
-</div>
-
-<div class="figure">
-<img src="/images/bagariaConfSmall.jpg" />
-
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -2243,43 +2357,6 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
 <p>This is two equations and two unknowns. Solving that gives us the desired formulas for D and n. Then we related D back to d.</p>]]></summary>
         <author>
             <name>Mike Pawliuk – Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Stable Core]]></title>
-        <id>https://victoriagitman.github.io/talks/2018/09/11/the-stable-core.html</id>
-        <link href="https://victoriagitman.github.io/talks/2018/09/11/the-stable-core.html">
-        </link>
-        <updated>2018-09-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://network2018.forcing-project.com/">Mathematical Philosophy and Mathematical Practice Conference</a>, University of Konstanz, September 20, 2018.<br><strong><a href="/files/stableCoreTalk.pdf">Slides</a></strong><!--more--></p>
-
-<p>Sy Friedman introduced an inner model, which he called the <em>Stable Core</em>, in the process of trying to understand how close the inner model ${\rm HOD}$ can be to the universe $V$ <a href="#Friedman:stableCore">[1]</a>. An <em>inner model</em> is a definable (possibly with parameters) transitive sub-model of the universe satisfying ${\rm ZF}({\rm C})$ and containing all the ordinals. It has long been the goal of the inner model theory program to construct a canonical inner model that is close to $V$ in the presence of very large large cardinals. Canonical inner models are built from the bottom up using absolute rules, and as a result of this construction process satisfy regularity properties, such as the ${\rm GCH}$ and $\square$, and are (generally) unaffected by enlargements of the universe via forcing. Each of these canonical inner models, for example, $L$, $K^{DJ}$, $L[U]$, are close to the universe $V$ in the absence of certain large cardinals, but are very far from a universe having those large cardinals. There are several ways in which we can request that an inner model is close to $V$. The inner model can have some form of covering, agree on large cardinals, or reach the universe $V$ by forcing, so that $V$ is a forcing extension of it.</p>
-
-<p>The canonical inner models ultimately attempt to generalize Gödel's constructible universe $L$, making it compatible with large cardinals. Another inner model introduced by Gödel, the collection ${\rm HOD}$ of all hereditarily ordinal definable sets, lacks the fine structure of the canonical inner models and therefore their absoluteness and regularity properties, but it makes up for it by being compatible with all known large cardinals and in fact all known set theoretic assertions. This is essentially because using coding any set or class can become ordinal definable in a forcing extension. Every set $A$ is coded by a set of ordinals because we can recover a set from its transitive closure, the transitive closure can be coded by a binary relation on some cardinal, which maps to it via the Mostowski collapse, and a set of pairs of ordinals can in turn be coded by a subset of the cardinal. Now given a subset $A$ of a cardinal $\kappa$, we use forcing to code it into the continuum pattern of the extension, thus making $A$ ordinal definable in the extension. Indeed, in this manner, we can code the entire universe $V$ into the continuum function of a class forcing extension, making $V$ be precisely the ${\rm HOD}$ of this extension $V[G]$ (this was apparently first shown by Roguski <a href="#Roguski:HOD">[2]</a>, the coding idea is due to McAloon). It follows that any universe is the ${\rm HOD}$ of some larger universe, so that ${\rm HOD}$ can satisfy any (believed to be) consistent set-theoretic assertion. It is known that ${\rm HOD}$ can be quite far from $V$. Cheng, Hamkins, and Friedman showed that it is consistent that every measurable cardinal is not even weakly compact in ${\rm HOD}$ and that there can be a supercompact cardinal that is not even weakly compact in ${\rm HOD}$ <a href="#ChengFriedmanHamkins:LargeCardinalsNeedNotBeLargeInHOD">[3]</a>. Cummings, Friedman, and Golshani showed that it is also consistent that $(\alpha^+)^{\rm{HOD}}<\alpha^+$ for every infinite cardinal $\alpha$ (missing reference). Woodin, however has conjectured that in the presence of very large large cardinals ${\rm HOD}$ will be much closer to $V$.</p>
-
-<p>In further trying to understand the relationship between ${\rm HOD}$ and $V$, Sy Friedman defined the ordinal definable <em>stability predicate</em> $S$ and showed that $V$ is a forcing extension of the structure $({\rm HOD},S)$, ${\rm HOD}$ together with a predicate for $S$ <a href="#Friedman:stableCore">[1]</a>. The stability predicate $S$ codes the elementarity relations between initial segments $H_\alpha$ of $V$. It consists of triples $(\alpha,\beta,n)$ where $\alpha$ and $\beta$ are strong limit cardinals such that $H_\alpha$ and $H_\beta$ satisfy $\Sigma_n$-Collection and $H_\alpha\prec_{\Sigma_n}H_\beta$. More precisely, Friedman showed that in the structure $({\rm HOD}, S)$, there is a definable class partial order $\mathbb P$ for which there is a generic filter $G\subseteq \mathbb P$ such that ${\rm HOD}[G]=V$. The result is quite subtle in that even though $(V,G)\models{\rm ZFC}$, $G$ is not definable over $V$. Hamkins and Reitz later showed that it is consistent for $V$ to not be a class forcing extension of ${\rm HOD}$, so some additional information is indeed required to make $V$ a forcing extension of ${\rm HOD}$ <a href="#HamkinsReitz:The-set-theoretic-universe-is-not-necessarily-a-forcing-extension-of-HOD">[4]</a>.</p>
-
-<p>Friedman's result showed that $V$ is already a class forcing extension of the structure $(L[S],S)$, which is the Stable Core of the title of the post. Because $S$ is ordinal definable, $L[S]\subseteq {\rm HOD}$, and Friedman showed that consistently $L[S]$ can be smaller than ${\rm HOD}$. It remained unknown whether the new inner model had any regularity properties or whether it was consistent with large cardinals. In a joint work with Sy Friedman and Sandra Müller we establish some further properties that are consistent with the Stable Core <a href="#FriedmanGitmanMuller:StableCore">[5]</a>.</p>
-
-<p>We generalized the recent work of Kennedy, Magidor, and Väänänen on the model $L[{\rm Card}]$ <a href="#KennedyMagidorVaananen:extendedLogics">[6]</a> to show that $K^{DJ}$ and $L[U]$ are always contained in the Stable Core. Recall that $K^{DJ}$ is the Dodd-Jensen core model below a measurable cardinal and $L[U]$ is the canonical inner model for one measurable cardinal. This shows, in particular, that the Stable Core of $L[U]$ is $L[U]$, so that the Stable Core can have a measurable cardinal. Same techniques, using Kunen's generalization of the $L[U]$ construction, can be used to show that the Stable Core can have a number of measurable cardinals. The next open question is whether the Stable Core can have a measurable limit of measurable cardinals. The question arises because Kennedy, Magidor, Väänänen and Welch (the result is still unpublished) showed that if the universe has a (little more than) a measurable limit of measurable cardinals, then $L[{\rm Card}]$ is a very simple model, in particular, it satisfies the ${\rm GCH}$ and has no measurable cardinals.</p>
-
-<p>It is relatively easy to code information into the Stable Core over canonical models ($L$, $K^{DJ}$, or $L[U]$) because we can use their definability inside the Stable Core to compare the changes we made to the elementarity relations between the $H_\alpha$ to the original relations. Using a coding along these lines, we show that any set which can be added generically to $L$ (or $L[U]$) can be coded into the Stable Core of a further forcing extension. From this it follows that the ${\rm GCH}$ can fail at every regular cardinal in the Stable Core, that ${\rm CH}$ can fail and Martin's Axiom can hold in the Stable Core, that any cardinal of $L$ can become countable in the Stable Core, etc. We also show that there is a forcing extension of $L[U]$ in which the measurable cardinal $\kappa$ remains measurable but $\kappa$ is not even weakly compact in the Stable Core. Thus, measurable cardinals are not downward absolute to the Stable Core. Because we don't know how to code information into the Stable Core over arbitrary models, these results leave open the general question about what does the Stable Core look like the presence of larger large cardinals such as a measurable limit of measurable cardinals.</p>
-
-<p>The open questions here are numerous! Here are a few. It is easy to see using coding that the ${\rm HOD}$ of ${\rm HOD}$ can be smaller than ${\rm HOD}$. Can the Stable Core of the Stable Core be smaller? Is there a bound on the large cardinals compatible with the Stable Core? Or are larger large cardinals downward absolute to the Stable Core? Is the Stable Core of $M_1$, the canonical model for one Woodin cardinal, $M_1$?</p>
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="Friedman:stableCore">S.-D. Friedman, “The stable core,” <i>Bull. Symbolic Logic</i>, vol. 18, no. 2, pp. 261–267, 2012. Available at: https://doi.org/10.2178/bsl/1333560807</span></li>
-<li><span id="Roguski:HOD">S. Roguski, “Cardinals and iterations of ${\rm HOD}$,” <i>Colloq. Math.</i>, vol. 58, no. 2, pp. 159–161, 1990. Available at: https://doi.org/10.4064/cm-58-2-159-161</span></li>
-<li><span id="ChengFriedmanHamkins:LargeCardinalsNeedNotBeLargeInHOD">Y. Cheng, S.-D. Friedman, and J. D. Hamkins, “Large cardinals need not be large in HOD,” <i>Ann. Pure Appl. Logic</i>, vol. 166, no. 11, pp. 1186–1198, 2015. Available at: https://doi.org/10.1016/j.apal.2015.07.004</span></li>
-<li><span id="HamkinsReitz:The-set-theoretic-universe-is-not-necessarily-a-forcing-extension-of-HOD">J. D. Hamkins and J. Reitz, “The set-theoretic universe $V$ is not necessarily a class-forcing extension of HOD,” <i>ArXiv e-prints</i>, Sep. 2017. Available at: http://jdh.hamkins.org/the-universe-need-not-be-a-class-forcing-extension-of-hod</span></li>
-<li><span id="FriedmanGitmanMuller:StableCore">S.-D. Friedman, V. Gitman, and S. Müller, “Some properties of the Stable Core,” <i>In preparation</i>. </span></li>
-<li><span id="KennedyMagidorVaananen:extendedLogics">J. Kennedy, M. Magidor, and J. Väänänen, “Inner models from extended logics,” <i>In preparation</i>. Available at: https://www.newton.ac.uk/files/preprints/ni16006.pdf</span></li></ol>
-
-<div class="figure">
-<img src="/images/vikaKonstanz.jpg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -8876,22 +8953,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8908,6 +8969,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
