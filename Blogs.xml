@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-19T10:45:30Z</updated>
+    <updated>2019-07-19T14:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -150,6 +150,43 @@ The same result for models of ${\rm PA}$ was shown by Kotlarski, Krajewski, and 
 <li><span id="Lachlan:fullSatisfactionClass">A. H. Lachlan, “Full satisfaction classes and recursive saturation,” <i>Canad. Math. Bull.</i>, vol. 24, no. 3, pp. 295–297, 1981. Available at: https://doi.org/10.4153/CMB-1981-046-0</span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rutgers MAMLS 2019 - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/15/TalkMAMLS.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/15/TalkMAMLS.html">
+        </link>
+        <updated>2019-07-14T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk at the 2019 edition of Rutgers MAMLS
+taking place Nov 1-3, 2019 at Rutgers University, USA. Title and
+abstract for the talk will be announced in due course.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(with R. Carroy and A. Medini) Constructing Wadge classes]]></title>
+        <id>https://muellersandra.github.io/publication/2019/07/12/PaperConstructingWadgeClasses.html</id>
+        <link href="https://muellersandra.github.io/publication/2019/07/12/PaperConstructingWadgeClasses.html">
+        </link>
+        <updated>2019-07-11T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1907.07612.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.07612">arXiv.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibCMM19');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibCMM19">
+<pre class="collapse"> @ARTICLE{CMM19,
+   AUTHOR= {R. Carroy, A. Medini and S. Müller},
+   TITLE= {Constructing Wadge classes},
+   Note={Submitted},
+   EPRINT ={1907.07612}}</pre>
+</div>
+
+<!--more-->
+
+<p>We show that, assuming the Axiom of Determinacy, every non-selfdual Wadge class can be constructed by starting with those of level $\omega_1$ (that is, the ones that are closed under Borel preimages) and iteratively applying the operations of expansion and separated differences. The proof is essentially due to Louveau, and it yields at the same time a new proof of a theorem of Van Wesep (namely, that every non-selfdual Wadge class can be expressed as the result of a Hausdorff operation applied to the open sets). The exposition is self-contained, except for facts from classical descriptive set theory.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
         </author>
     </entry>
     <entry>
@@ -626,19 +663,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -657,6 +681,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -743,19 +780,6 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
         <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
@@ -829,6 +853,19 @@ Let us conclude the introduction by mentioning the following easy negative insta
 <h2>References</h2>
 <ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
 <li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1198,7 +1235,7 @@ $\Pi^1_n$-indescribable sets. We let ${\rm Refl}_n(\kappa,\mu)$ denote the follo
         </link>
         <updated>2019-02-08T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>As a part of the workshop on “The Core Model Induction and Other Inner
-Model Theoretic Tools” in Rutgers I will give a tutorial on HOD
+Model Theoretic Tools” in Rutgers I gave a tutorial on HOD
 Computations.</p>
 
 <p><em>Abstract:</em> An essential question regarding the theory of inner models is the
@@ -1228,7 +1265,8 @@ or the relevant parts of Steel’s handbook chapter (Sections 1-3 and
 7).</p>
 
 <p>See <a href="/conferences/CMI2019">here</a> for more information about
-the meeting.</p>]]></summary>
+the meeting and <a href="http://www.logic.univie.ac.at/~smueller/CMI2019/HODComputationNotes.pdf">here</a>
+for lecture notes typed by James Holland.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1298,11 +1336,11 @@ obtained from the determinacy of countable projective games.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Set Theory Seminar Bar-Ilan University - Projective determinacy for games of length omega^2 and longer]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/01/25/TalkBarIlan.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/01/25/TalkBarIlan.html">
+        <id>https://muellersandra.github.io/talk/invsemtalk/2019/01/25/TalkBarIlan.html</id>
+        <link href="https://muellersandra.github.io/talk/invsemtalk/2019/01/25/TalkBarIlan.html">
         </link>
         <updated>2019-01-24T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 25, 2019 I am invited to give a talk in the <a href="https://math.biu.ac.il/en/node/864">Set Theory Seminar</a> at
+        <summary type="html"><![CDATA[<p>On February 25, 2019 I was invited to give a talk in the <a href="https://math.biu.ac.il/en/node/864">Set Theory Seminar</a> at
 Bar-Ilan University, Israel.</p>
 
 <p><em>Projective determinacy for games of length $\omega^2$ and longer</em></p>
@@ -1550,19 +1588,6 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Foundations of analysis]]></title>
         <id>http://scoskey.org/course/1819s-314/</id>
         <link href="http://scoskey.org/course/1819s-314/">
@@ -1571,6 +1596,19 @@ g=\begin{pmatrix}
         <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1952,8 +1990,8 @@ analogue to the density theorem.</p>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2018/11/07/TalkBristol.html">
+        <id>https://muellersandra.github.io/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/11/07/TalkBristol.html">
         </link>
         <updated>2018-11-06T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
@@ -2014,74 +2052,6 @@ every homogeneous space is in fact strongly homogeneous.</p>
 <p>This is joint work with Raphaël Carroy and Andrea Medini.</p>
 
 <p>Slides can be found <a href="http://www.math.helsinki.fi/logic/arctic/2019/Slides/Mueller.pdf">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Axiom of Determinacy implies Dependent Choices in mice]]></title>
-        <id>https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/11/06/PaperADImpliesDCinMice.html">
-        </link>
-        <updated>2018-11-05T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Accepted at Mathematical Logic Quarterly. <a href="https://arxiv.org/pdf/1907.02755.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.02755">arXiv.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMu18');" class="title">Bibtex.</a></p>
-
-<div style="display:none" id="bibMu18">
-<pre class="collapse"> @ARTICLE{Mu18,
-   AUTHOR= {S. Müller},
-   TITLE= {The Axiom of Determinacy implies Dependent Choices in mice},
-   Note={Accepted at Mathematical Logic Quarterly},
-   EPRINT = {1907.02755}}</pre>
-   </div>
-
-<!--more-->
-
-<p>We show that the Axiom of Dependent Choices, $\operatorname{DC}$,
-  holds in countably iterable, passive premice $\mathcal{M}$
-  construced over their reals which satisfy the Axiom of Determinacy,
-  $\operatorname{AD}$, in a
-  $\operatorname{ZF}+\operatorname{DC}_{\mathbb{R}^{\mathcal{M}}}$
-  background universe. This generalizes an argument of Kechris for
-  $L(\mathbb{R})$ using Steel’s analysis of scales in mice. In
-  particular, we show that for any $n \leq \omega$ and any countable
-  set of reals $A$ so that $M_n(A) \cap \mathbb{R} = A$ and $M_n(A)
-  \vDash \operatorname{AD}$, we have that $M_n(A) \vDash
-  \operatorname{DC}$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rutgers Logic Seminar - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/talk/invsemtalk/2018/11/05/TalkRutgers.html</id>
-        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/11/05/TalkRutgers.html">
-        </link>
-        <updated>2018-11-04T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On December 10, 2018 I gave a talk in the <a href="http://www.grigorsargis.net/seminar.html">Rutgers Logic
-Seminar</a>.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to obtain for example $\omega^2+n$ Woodin cardinals from the
-determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -8953,6 +8923,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -8969,22 +8955,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -14966,33 +14936,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -15015,6 +14958,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
