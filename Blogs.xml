@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-22T18:45:31Z</updated>
+    <updated>2019-07-22T22:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1148,7 +1148,7 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
 <p><strong>Abstract.</strong> We address the question of whether a reflecting stationary set may be partitioned into two or more reflecting stationary subsets, providing various affirmative answers in ZFC. As an application to singular cardinals combinatorics, we infer that it is never the case that there exists a singular cardinal all of whose scales are very good.</p>
 <p><span id="more-4559"></span></p>
 <p><strong>Downloads:</strong></p>
-<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4559, '')"  href="http://www.assafrinot.com/files/paper38.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4559, '')" href="http://arxiv.org/abs/1907.08581" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4559, '')" href="http://www.assafrinot.com/talk/arctic2019" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/29" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper38" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/38" class="billet_perm"></a></td></tr></table></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4559, '')"  href="http://www.assafrinot.com/files/paper38.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4559, '')" href="http://arxiv.org/abs/1907.08581" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4559, '')" href="http://www.assafrinot.com/talk/arctic2019" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/29" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper38" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/38" class="billet_perm"></a></td></tr></table></p>
 <p><!--more--></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
