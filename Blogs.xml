@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-07-23T18:45:33Z</updated>
+    <updated>2019-07-23T22:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,66 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[How to organize an equitable pre-CUMC conference for students]]></title>
+        <id>https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/</id>
+        <link href="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/">
+        </link>
+        <updated>2019-07-23T19:10:31Z</updated>
+        <summary type="html"><![CDATA[<p>Every summer, Canadian undergraduate students in mathematics meet at the <a href="https://cumc.math.ca/2019/home">Canadian Undergraduate Mathematics Conference (CUMC)</a>. Hundreds of students attend, and it gives them a chance to meet other people excited by mathematics. Students are also encouraged to give a short presentation on a math topic that interests them.</p>
+<p>I attended the 2007 CUMC at <a href="http://www.sfu.ca/math.html">Simon Fraser university</a> and the 2008 CUMC at the <a href="https://www.math.toronto.edu/cms/">University of Toronto</a> (where I would go on to complete my PhD and then eventually work at).</p>
+<p>In the summer of 2018, while I was a Post Doc at the <a href="https://math.ucalgary.ca/">University of Calgary</a>, we hosted a &#8220;mini pre-CUMC conference&#8221; for undergrads to give their presentations ahead of time. It was so successful that I ran an expanded version of this at the University of Toronto for CUMC 2019.</p>
+<p>I think these events and workshops are important for all students, but in particular it helps break down barriers to entry for marginalized students. With that in mind, I&#8217;m sharing my resources, thoughts and experiences about our pre-CUMC conference with the hope that other universities and colleges in Canada will benefit.</p>
+<p><img data-attachment-id="1876" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/exercise-86200_640/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg" data-orig-size="640,426" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="exercise-86200_640" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg?w=640" class=" size-full wp-image-1876 aligncenter" src="https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg?w=660" alt="exercise-86200_640" srcset="https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg 640w, https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/exercise-86200_640.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px"   /></p>
+<p><span id="more-1858"></span></p>
+<h2>Events</h2>
+<p class="biz-page-title embossed-text-white">We had four main events to support students before the CUMC. All of the events were open to students from all three U of T campuses (and we even had a participant from the <a href="https://uoit.ca/">University of Ontario Institute of Technology</a> in Oshawa).</p>
+<h3>1: Workshopping appropriate topics &#8211; (two months before CUMC)</h3>
+<p>About two months before the conference, the Undergraduate Math union at the University of Toronto announced that they would help some students with funding for the CUMC. Since the funding required a proposal of the talk that would be given, I volunteered to help anyone (especially beginners) who had questions or wanted advice.</p>
+<figure data-shortcode="caption" id="attachment_1862" aria-describedby="caption-attachment-1862" style="width: 700px" class="wp-caption alignnone"><img data-attachment-id="1862" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/fb_pre_cumc/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png" data-orig-size="700,243" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="FB_pre_cumc" data-image-description="&lt;p&gt;Screenshot of Facebook post by me encouraging students to participate in the CUMC.&lt;/p&gt;
+" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png?w=660" class="alignnone size-full wp-image-1862" src="https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png?w=660" alt="If anyone is looking for feedback or advice about their presentation, please feel free to email me m.pawliuk@utoronto.ca . Especially if you've never done this before, or maybe you feel intimidated by presenting, or don't know what to expect. This conference is perfect for first-timers. I'm currently faculty at UTM, I presented at the CUMC in 2008 and 2009, and I've helped send many undergrads to the CUMC." srcset="https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png?w=660 660w, https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png?w=300 300w, https://mikepawliuk.files.wordpress.com/2019/07/fb_pre_cumc.png 700w" sizes="(max-width: 660px) 100vw, 660px"   /><figcaption id="caption-attachment-1862" class="wp-caption-text">Actually, I attended the 2007 and 2008 conferences. Oops!</figcaption></figure>
+<p>Four students took me up on the offer.</p>
+<p>It&#8217;s important to make sure that support and funding is accessible to those who need it, and that we remove any obstacles to participation. Students have many anxieties about presenting math outside their comfort zone, and those of us with experience can help by answering questions and setting people up for success.</p>
+<p><img data-attachment-id="1872" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/sport-2264825_640/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg" data-orig-size="640,426" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 6D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="sport-2264825_640" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg?w=640" class=" size-full wp-image-1872 aligncenter" src="https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg?w=660" alt="sport-2264825_640" srcset="https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg 640w, https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/sport-2264825_640.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px"   /></p>
+<h3>2: Panel + Workshop with past participants &#8211; (two weeks before CUMC)</h3>
+<p>Despite being a trained improvisor, and a reasonably outgoing person, I&#8217;ve always had challenges networking at conferences. We held a one-hour panel followed by a one-hour workshop to help students with networking and the challenges of attending a conference.</p>
+<p>Here is the <a href="https://gist.github.com/mpawliuk/c98f869011ec6eb7250ad1e978779cef">list of activities together with the learning objectives for each hour</a>.</p>
+<p>The panel was made up of undergrads with previous experience at math conferences. The math union helped recruit four panelists from the University of Toronto, and I got testimonials from two former students from the University of Calgary. One of the testimonials was a written document, and one was a 3 minute video.</p>
+<p>The format of the panel worked quite nicely. We used <a href="https://www.mentimeter.com/">Mentimeter</a> to gather anonymous questions from the audience (through their devices).</p>
+<figure data-shortcode="caption" id="attachment_1866" aria-describedby="caption-attachment-1866" style="width: 2137px" class="wp-caption alignnone"><img data-attachment-id="1866" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/menti_cumc/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png" data-orig-size="2137,621" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Menti_CUMC" data-image-description="&lt;p&gt;A screenshot of the list of questions the students asked.&lt;/p&gt;
+" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=660" class="alignnone size-full wp-image-1866" src="https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=660" alt="Menti_CUMC" srcset="https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=660 660w, https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=1320 1320w, https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=300 300w, https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=768 768w, https://mikepawliuk.files.wordpress.com/2019/07/menti_cumc.png?w=1024 1024w" sizes="(max-width: 660px) 100vw, 660px"   /><figcaption id="caption-attachment-1866" class="wp-caption-text">In total we had 13 questions (some not shown).</figcaption></figure>
+<p>Each panelist chose one of the questions to answer, then in order each other panelist could give their take on it. We went through two full rounds of this (so we got to discuss 8 questions). This allowed the panelists to speak on topics they felt they had the most expertise in, and allowed all of the panelists equal time. After the two rounds we did a final &#8220;lightning round&#8221; for any outstanding questions the audience had that didn&#8217;t get answered.</p>
+<p>Cross-cohort bonds are important for students new to math. It demystifies the experience, and makes the &#8220;rules&#8221; explicit rather than implicit. Senior students develop their mentorship and leadership. Plus, it was fun and social, and people made new friends. Universities can be isolating places!</p>
+<p>The workshop had lots of social interaction and discussion built into it. In particular we allowed students to practice introducing themselves to (math) strangers in a way that imitated what a real conference would be like. This gave them a low(er) stakes way to practice their social interactions. The sharing afterwards was especially valuable.</p>
+<p><img data-attachment-id="1874" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/zumba-4333580_640/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg" data-orig-size="640,425" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D700&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;80&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="zumba-4333580_640" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg?w=640" class=" size-full wp-image-1874 aligncenter" src="https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg?w=660" alt="zumba-4333580_640" srcset="https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg 640w, https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/zumba-4333580_640.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px"   /></p>
+<p>&nbsp;</p>
+<h3>3: Practice talks &#8211; (one week before CUMC)</h3>
+<p>The math union organized time and space for students to give practice talks ahead of our mock conference. In the words of the organizer:</p>
+<blockquote><p><span dir="ltr"><span class="_3l3x">&#8220;[These are] raw practice talks, we&#8217;re doing it in small groups and you&#8217;ll get a chance to run through your talk several times and get feedback. [At the mock conference], you get a chance to present a &#8220;good copy&#8221; of your talk to a more open audience in a mock conference setting.&#8221;</span></span></p></blockquote>
+<p>These had six or so participants, and gave students a low stakes way to experiment with their presentations.</p>
+<p><img data-attachment-id="1873" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/running-2375066_640/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SP590UZ&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;31.67&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="running-2375066_640" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg?w=640" class=" size-full wp-image-1873 aligncenter" src="https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg?w=660" alt="running-2375066_640" srcset="https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg 640w, https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/running-2375066_640.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px"   /></p>
+<h3>4: Mock conference &#8211; (Friday before CUMC)</h3>
+<p>The culmination of these events was the mock conference held the Friday before the CUMC. We had 8 presentations and needed two rooms.</p>
+<p>Here are <a title="Feedback_Rubric" href="https://mikepawliuk.files.wordpress.com/2019/07/feedback_rubric.pdf">the feedback forms</a> I made for the event, and the <a href="https://gist.github.com/mpawliuk/68c75de95fad5724ad93e9b78bfecf0a">TeX source files</a>. Both of these are open access; please use them! Each audience member filled out an anonymous feedback form for each presenter. The feedback forms are structured to help the presenter find the strongest parts of their presentation. There&#8217;s also blank section at the bottom in which we encouraged each presenter to ask the audience for targeted feedback. For example, one presenter asked about the technical intensity of their talk.</p>
+<p>It&#8217;s important to give presenters agency in their own feedback. Presenting in front of peers makes you vulnerable to criticism. Giving the presenter choices allows them to determine <em>for themselves</em> how vulnerable they would like to be.</p>
+<h2>Takeaways and Future Goals</h2>
+<p>Overall, I was very happy with how the events went, and students seemed to share in this impression. They were well attended, and the mock conference even drew in some faculty and other members of the math department.</p>
+<p><img data-attachment-id="1875" data-permalink="https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/mountain-3850166_640/" data-orig-file="https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg" data-orig-size="640,425" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D3200&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;55&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mountain-3850166_640" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg?w=640" class=" size-full wp-image-1875 aligncenter" src="https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg?w=660" alt="mountain-3850166_640" srcset="https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg 640w, https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg?w=150 150w, https://mikepawliuk.files.wordpress.com/2019/07/mountain-3850166_640.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px"   /></p>
+<p>I will definitely run this event in future years. Some goals for next time:</p>
+<ol>
+<li><strong>Start earlier next year</strong>! This is my biggest goal. I want to make sure that anyone who wants to participate can, and that means getting details firmer up sooner than I did this year.</li>
+<li><strong>Increase participation from the satellite campuses (Scarborough and UTM)</strong>. We had faculty and students from UTM participate, but that was a bit easier because that&#8217;s my home faculty. This can be set up by me getting to know the department at Scarborough better in the coming year.</li>
+<li><strong>Connect with other universities across Canada</strong>. I would love to run workshops in conjunction with other universities in Canada. This would align with the goals of the workshop because it would require participants to introduce themselves to math strangers. Writing this post, and making the feedback forms available and open access is a step towards achieving this goal.</li>
+</ol>
+<p>If you&#8217;re interested in running one of these workshops or mock-conferences and would like to connect with us, please <a href="https://mikepawliuk.ca/contact/">let me know</a>.</p>
+<p>What&#8217;s your <em>one simple trick</em><span class="st"><img src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> for networking at conferences? What does your university do to help students prepare for conferences? What could I be doing to improve equity and accessibility to these events?</p>
+<p><strong>Special thanks</strong> to Alex Karapetyan (and the math union), Parker Glyn-Adey, Lyra Qian, Jordyn Dyck, and Kristine Bauer for your help in making these events happen.</p>
+<p>All photos <a href="https://pixabay.com/service/faq/">used with permission</a> from <a href="https://pixabay.com/">Pixabay</a>.</p>
+<p>&nbsp;</p>]]></summary>
+        <author>
+            <name>Mike Pawliuk – Mathematics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New notes online!]]></title>
         <id>http://karagila.org/2019/new-notes/</id>
@@ -447,7 +507,7 @@ As consequences of the proof, we see that determinacy of all projective games wi
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 20"
+                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 21"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -676,19 +736,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -707,6 +754,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1515,19 +1575,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and set theory]]></title>
-        <id>http://scoskey.org/course/1819s-502/</id>
-        <link href="http://scoskey.org/course/1819s-502/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -1622,6 +1669,19 @@ g=\begin{pmatrix}
         <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and set theory]]></title>
+        <id>http://scoskey.org/course/1819s-502/</id>
+        <link href="http://scoskey.org/course/1819s-502/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1964,41 +2024,6 @@ analogue to the density theorem.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
-        <id>https://muellersandra.github.io/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
-        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/11/07/TalkBristol.html">
-        </link>
-        <updated>2018-11-06T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
-Theory Seminar in Bristol.</p>
-
-<p><em>The consistency strength of long projective determinacy</em></p>
-
-<p><em>Abstract:</em> We will study infinite two player games and the large
- cardinal strength corresponding to their determinacy. For games of
- length $\omega$ this is well understood and there is a tight
- connection between the determinacy of projective games and the
- existence of canonical inner models with Woodin cardinals. For games
- of arbitrary countable length, Itay Neeman proved the determinacy of
- analytic games of length $\omega \cdot \theta$ for countable $\theta
- &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
-
-<p>We aim for a converse at successor ordinals. In joint work with Juan
- P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
- games of length $\omega^2$ implies the existence of a premouse with
- $\omega+n$ Woodin cardinals. This generalizes to a premouse with
- $\omega+\omega$ Woodin cardinals from the determinacy of games of length
- $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
-
-<p>If time allows, we will also sketch how these methods can be adapted
-to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
-cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
-the determinacy of sufficiently long projective games.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with J. Aguilera) The consistency strength of long projective determinacy]]></title>
         <id>https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html</id>
         <link href="https://muellersandra.github.io/publication/2018/11/07/PaperMiceFromLongGames.html">
@@ -2032,6 +2057,41 @@ the determinacy of sufficiently long projective games.</p>]]></summary>
   consistency strength of determinacy for games of length $\omega^2$
   with payoff in $\Game^{\mathbb{R}} \boldsymbol\Pi^1_1$ or with
   $\sigma$-projective payoff.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic and Set Theory Seminar Bristol - The consistency strength of long projective determinacy]]></title>
+        <id>https://muellersandra.github.io/talk/invsemtalk/2018/11/07/TalkBristol.html</id>
+        <link href="https://muellersandra.github.io/talk/invsemtalk/2018/11/07/TalkBristol.html">
+        </link>
+        <updated>2018-11-06T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>On February 05, 2019 I was invited to give a talk in the Logic and Set
+Theory Seminar in Bristol.</p>
+
+<p><em>The consistency strength of long projective determinacy</em></p>
+
+<p><em>Abstract:</em> We will study infinite two player games and the large
+ cardinal strength corresponding to their determinacy. For games of
+ length $\omega$ this is well understood and there is a tight
+ connection between the determinacy of projective games and the
+ existence of canonical inner models with Woodin cardinals. For games
+ of arbitrary countable length, Itay Neeman proved the determinacy of
+ analytic games of length $\omega \cdot \theta$ for countable $\theta
+ &gt; \omega$ from a sharp for $\theta$ Woodin cardinals.</p>
+
+<p>We aim for a converse at successor ordinals. In joint work with Juan
+ P. Aguilera we showed that determinacy of $\boldsymbol\Pi^1_{n+1}$
+ games of length $\omega^2$ implies the existence of a premouse with
+ $\omega+n$ Woodin cardinals. This generalizes to a premouse with
+ $\omega+\omega$ Woodin cardinals from the determinacy of games of length
+ $\omega^2$ with $\Game^{\mathbb{R}}\boldsymbol\Pi^1_1$ payoff.</p>
+
+<p>If time allows, we will also sketch how these methods can be adapted
+to, in combination with results of Nam Trang, obtain $\omega^\alpha+n$ Woodin 
+cardinals for countable ordinals $\alpha$ and natural numbers $n$ from 
+the determinacy of sufficiently long projective games.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -2167,7 +2227,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 56"
+                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 57"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4550_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -3116,7 +3176,7 @@ It is known that for many transcendental entire functions the escaping set has a
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4456_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4456_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4456_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4456, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 74"
+                <input type="button" onclick="thankYouButtonClick(4456, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 75"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4456_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -4577,18 +4637,6 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
 <li>Kechris, Pestov, Todorcevic. <a href="http://www.ams.org/mathscinet-getitem?mr=2140630">&#8220;Fraïssé limits, Ramsey theory, and topological dynamics of automorphism groups&#8221;</a>. 2005.</li>
 <li>Pestov. <a href="http://www.ams.org/mathscinet-getitem?mr=2277969">&#8220;Dynamics of infinite-dimensional groups. The Ramsey-Dvoretzky-Milman phenomenon.&#8221;</a>. 2006.</li>
 </ul>]]></summary>
-        <author>
-            <name>Mike Pawliuk – Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hrushovski extension property – Ramsey DocCourse Prague 2016]]></title>
-        <id>https://mikepawliuk.ca/2016/12/07/the-hrushovski-extension-property-ramsey-doccourse-prague-2016/</id>
-        <link href="https://mikepawliuk.ca/2016/12/07/the-hrushovski-extension-property-ramsey-doccourse-prague-2016/">
-        </link>
-        <updated>2016-12-07T08:48:36Z</updated>
-        <summary type="html"><![CDATA[<p>[This is just a placeholder for the moment. I&#8217;ll update it a bit more later.]</p>
-<p><a href="https://boolesrings.org/mpawliuk/files/2016/12/Prague-Dec-2016.pdf">My slides.</a></p>]]></summary>
         <author>
             <name>Mike Pawliuk – Mathematics</name>
         </author>
