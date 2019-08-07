@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-08-06T22:45:27Z</updated>
+    <updated>2019-08-07T02:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Jeanette Walter]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10473</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10473">
+        </link>
+        <updated>2019-08-07T00:54:31Z</updated>
+        <summary type="html"><![CDATA[<p>Thank you!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Partitioning a reflecting stationary set by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4559#comment-707</id>
@@ -201,17 +212,6 @@ Vladimir</p>]]></summary>
         <summary type="html"><![CDATA[<p>Yes, I think the argument is right, and I have written about it in the main post.</p>
 <p>The strategy doesn&#8217;t seem, however, to prevent a column win for the first player, but rather ensures that any such winning configuration is duplicated for the second player, forcing the draw. If the first player always plays on one of the paired columns, and you copy on the other, then both will make the winning configuration. </p>
 <p>Incidentally, I think you probably mean $3m+1$, $3m+2$, instead of $2m+1$, etc. I&#8217;m not sure if users can edit comments here, but if you are not able to edit, I think I can change this for you. </p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by gowers]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10251</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10251">
-        </link>
-        <updated>2019-04-30T22:29:18Z</updated>
-        <summary type="html"><![CDATA[<p>I spent a bit of time thinking about this, and it seems to me that one probably can&#8217;t formulate a sensible notion of fairness that survives once the ordinals stop being describable. (In particular, the game can go on way beyond the point where Cantor normal form doesn&#8217;t exist any more.) But it would be interesting to know whether this intuition is correct.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
