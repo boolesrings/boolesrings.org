@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-08-09T10:45:25Z</updated>
+    <updated>2019-08-09T14:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The inclusion relations of the countable models of set theory are all isomorphic by Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/inclusion-relations-are-all-isomorphic/#comment-10481</id>
+        <link href="http://jdh.hamkins.org/inclusion-relations-are-all-isomorphic/#comment-10481">
+        </link>
+        <updated>2019-08-09T13:15:18Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] <a href="http://jdh.hamkins.org/inclusion-relations-are-all-isomorphic/" rel="nofollow">http://jdh.hamkins.org/inclusion-relations-are-all-isomorphic/</a> [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Set-theoretic mereology by Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/set-theoretic-mereology/#comment-10480</id>
+        <link href="http://jdh.hamkins.org/set-theoretic-mereology/#comment-10480">
+        </link>
+        <updated>2019-08-09T13:12:34Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] <a href="http://jdh.hamkins.org/set-theoretic-mereology/" rel="nofollow">http://jdh.hamkins.org/set-theoretic-mereology/</a> [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Jeanette Walter]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10473</id>
@@ -201,29 +223,6 @@ Vladimir</p>]]></summary>
         </link>
         <updated>2019-05-11T17:31:16Z</updated>
         <summary type="html"><![CDATA[<p>Just wanted to second the request for a updated pdf link since the G+ link no longer works. Thank you so much!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Golshani]]></title>
-        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10276</id>
-        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10276">
-        </link>
-        <updated>2019-05-11T03:46:09Z</updated>
-        <summary type="html"><![CDATA[<p>Might be interesting and related, in particular the book &#8220;Infinity and me&#8221;:</p>
-<p><a href="https://medium.com/however-mathematics/8-picture-mathematics-books-for-your-curious-children-552ac415e7f7?fbclid=IwAR2jsaCBYXE25-VKKwmjvnBHiL0TRFyv0RgzeRIqHi1ljk7GrYCX0I23iLk" rel="nofollow">https://medium.com/however-mathematics/8-picture-mathematics-books-for-your-curious-children-552ac415e7f7?fbclid=IwAR2jsaCBYXE25-VKKwmjvnBHiL0TRFyv0RgzeRIqHi1ljk7GrYCX0I23iLk</a></p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10254</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10254">
-        </link>
-        <updated>2019-05-01T10:55:06Z</updated>
-        <summary type="html"><![CDATA[<p>I am wondering whether we might be able to make a drawing strategy for the first player using a similar idea. My proposal is that player one will aim to complete the board by time $\omega^2$, which means he has $\omega$ many limits at which he must go first, and he will use these to ensure that the board becomes filled in some systematic manner, while on the rest of the moves trying to undertake a version of the copying strategy we described for the second player. At any limit before $\omega^2$, there will have been only finitely many extraneous limit moves, and so we might hope that they&#8217;ve been fairly harmless. And then the copying strategy will rule out row, column and diagonal wins for the opponent. I don&#8217;t quite see all the details, but perhaps something like this can work.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
