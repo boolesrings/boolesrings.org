@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-08-09T02:45:24Z</updated>
+    <updated>2019-08-09T06:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -20,6 +20,31 @@
         </link>
         <updated>2019-08-07T00:54:31Z</updated>
         <summary type="html"><![CDATA[<p>Thank you!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The foundation axiom and elementary self-embeddings of the universe by Ember Edison]]></title>
+        <id>http://jdh.hamkins.org/foundation-axiom-and-self-embeddings-of-the-universe/#comment-10451</id>
+        <link href="http://jdh.hamkins.org/foundation-axiom-and-self-embeddings-of-the-universe/#comment-10451">
+        </link>
+        <updated>2019-07-31T15:18:39Z</updated>
+        <summary type="html"><![CDATA[<p>Hi,<br />
+The article say is no nontrivial embedding j: WF-&gt; WF in ZFC^-f, and the post in mathoverflow say is no X-&gt;X in ZFC^-f, so you mean is no Reinhardt and Berkeley cardinal in ZFC^-f?<br />
+And I want to know more existence for nontrivial embedding about Kunen inconsistency in ZFC^-f:<br />
+M-&gt;WF,<br />
+WF-&gt;M,<br />
+M-&gt;HOD,<br />
+HOD-&gt;M and V≠HOD(M),<br />
+HOD-&gt;HOD,<br />
+WF-&gt;HOD,<br />
+HOD-&gt;WF<br />
+M-&gt;X,<br />
+X-&gt;M</p>
+<p>X: The proper class of all sets<br />
+M: Any definable class</p>
+<p>Thank you.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
@@ -199,19 +224,6 @@ Vladimir</p>]]></summary>
         </link>
         <updated>2019-05-01T10:55:06Z</updated>
         <summary type="html"><![CDATA[<p>I am wondering whether we might be able to make a drawing strategy for the first player using a similar idea. My proposal is that player one will aim to complete the board by time $\omega^2$, which means he has $\omega$ many limits at which he must go first, and he will use these to ensure that the board becomes filled in some systematic manner, while on the rest of the moves trying to undertake a version of the copying strategy we described for the second player. At any limit before $\omega^2$, there will have been only finitely many extraneous limit moves, and so we might hope that they&#8217;ve been fairly harmless. And then the copying strategy will rule out row, column and diagonal wins for the opponent. I don&#8217;t quite see all the details, but perhaps something like this can work.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The connect-infinity game! by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10253</id>
-        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10253">
-        </link>
-        <updated>2019-05-01T05:08:49Z</updated>
-        <summary type="html"><![CDATA[<p>Yes, I think the argument is right, and I have written about it in the main post.</p>
-<p>The strategy doesn&#8217;t seem, however, to prevent a column win for the first player, but rather ensures that any such winning configuration is duplicated for the second player, forcing the draw. If the first player always plays on one of the paired columns, and you copy on the other, then both will make the winning configuration. </p>
-<p>Incidentally, I think you probably mean $3m+1$, $3m+2$, instead of $2m+1$, etc. I&#8217;m not sure if users can edit comments here, but if you are not able to edit, I think I can change this for you. </p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
