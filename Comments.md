@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by gentzen](http://jdh.hamkins.org/clmpst-2019-prague/#comment-10502)
 * **Comments for Joel David Hamkins** [Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by Joel David Hamkins](http://jdh.hamkins.org/clmpst-2019-prague/#comment-10501)
 * **Comments for Joel David Hamkins** [Comment on The foundation axiom and elementary self-embeddings of the universe by Ember Edison](http://jdh.hamkins.org/foundation-axiom-and-self-embeddings-of-the-universe/#comment-10499)
 * **Comments for Joel David Hamkins** [Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by gentzen](http://jdh.hamkins.org/clmpst-2019-prague/#comment-10492)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on Math for eight-year-olds: graph theory for kids! by Jeanette Walter](http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10473)
 * **Comments for Joel David Hamkins** [Comment on The foundation axiom and elementary self-embeddings of the universe by Ember Edison](http://jdh.hamkins.org/foundation-axiom-and-self-embeddings-of-the-universe/#comment-10451)
 * **Comments for Assaf Rinot** [Comment on Partitioning a reflecting stationary set by saf](http://blog.assafrinot.com/?p=4559#comment-707)
-* **Comments for Joel David Hamkins** [Comment on Modal model theory by Joel David Hamkins](http://jdh.hamkins.org/modal-model-theory/#comment-10388)
 
 [Grab the feed for all Comments!](Comments.xml)
