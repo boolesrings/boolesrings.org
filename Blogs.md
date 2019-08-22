@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Asaf Karagila** [7 Easy Hacks to Improve Your Math Skills](http://karagila.org/2019/quick-hacks/)
 * **Mike Pawliuk – Mathematics** [How to organize an equitable pre-CUMC conference for students](https://mikepawliuk.ca/2019/07/23/how-to-organize-an-equitable-pre-cumc-conference-for-students/)
 * **Asaf Karagila** [New notes online!](http://karagila.org/2019/new-notes/)
 * **Victoria Gitman** [Toy multiverses of set theory](https://victoriagitman.github.io/talks/2019/07/17/toy-multiverses-of-set-theory.html)
@@ -12,6 +13,5 @@ title: Blogs
 * **Nick Gill** [Maximal tori of groups of Lie type](https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type)
 * **Sandra Müller** [(with J. Aguilera) Projective Games on the Reals](https://muellersandra.github.io/publication/2019/07/08/PaperGamesOnReals.html)
 * **Joel David Hamkins** [Modal model theory](http://jdh.hamkins.org/modal-model-theory/)
-* **Assaf Rinot** [Inclusion modulo nonstationary](http://blog.assafrinot.com/?p=4582)
 
 [Grab the feed for all Blogs!](Blogs.xml)
