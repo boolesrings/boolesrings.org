@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-03T02:45:31Z</updated>
+    <updated>2019-09-03T06:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,32 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Sigma-Prikry I: The Axioms]]></title>
+        <id>http://blog.assafrinot.com/?p=4596</id>
+        <link href="http://blog.assafrinot.com/?p=4596">
+        </link>
+        <updated>2019-09-02T14:34:33Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4596_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4596, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 1"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4596_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4596_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
+<p><strong>Abstract. </strong>We introduce a class of notions of forcing which we call $\Sigma$-Prikry, and show that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We show that given a $\Sigma$-Prikry poset $\mathbb P$ and a name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$. Then, in a sequel to this paper, we develop an iteration scheme for $\Sigma$-Prikry posets. Putting the two works together, we obtain a proof of the following.</p>
+<p><em><strong>Theorem. </strong></em>Suppose $\kappa$ is the limit of a countable increasing sequence of supercompact cardinals. For every cardinal $\lambda=\lambda^{&lt;\lambda}$ greater than $\kappa^+$, there exists a cofinality-preserving forcing extension in which $\kappa$ remains a strong limit, every finite collection of stationary subsets of $\kappa^+$ reflects simultaneously, and $2^\kappa=\lambda$.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4596, '')"  href="http://www.assafrinot.com/files/paper41.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><img src="/design/005_slides_dis.png"    class="opacity_icons"  height=90 width=64 border=1  alt="[No related presentations]" title="No related presentations"  /><a href="http://www.assafrinot.com/paper/42" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper41" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/41" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4596"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
@@ -1812,6 +1838,19 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
+        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
+        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
+        </link>
+        <updated>2018-12-17T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
+
+<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
         <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
         <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
@@ -1822,19 +1861,6 @@ g=\begin{pmatrix}
 <p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
 
 <p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -3208,40 +3234,6 @@ Here we show that if $\mu^{cf(\lambda)}&lt;\lambda$ for all $\mu&lt;\lambda$, th
 <p>Six months after I had turned in my dissertation, I have finally received the approval on the damn thing. <a href="http://karagila.org/2017/trust-me-im-a-doctor/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A strong form of König’s lemma]]></title>
-        <id>http://blog.assafrinot.com/?p=4433</id>
-        <link href="http://blog.assafrinot.com/?p=4433">
-        </link>
-        <updated>2017-10-21T15:32:15Z</updated>
-        <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4433_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
-                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4433_2', true);" 
-                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4433_2', false);"
-                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4433_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4433, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 2"
-                  class="thanks_button thanks_compact thanks_brown"
-                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
-                  id="thanksButton_4433_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4433_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>A student proposed to me the following strong form of <a href="https://en.wikipedia.org/wiki/K%C3%B6nig%27s_lemma">König&#8217;s lemma</a>:</p>
-<p><strong>Conjecture.</strong> Suppose that $G=(V,E)$ is a countable a <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)">graph</a>, and there is a partition of $V$ into countably many pieces $V=\bigcup_{n&lt;\omega}V_n$, such that:</p>
-<ul>
-<li>for all $n&lt;\omega$, $V_n$ is finite (but nonempty);</li>
-<li>for all two distinct $n,m&lt;\omega$, for each $x\in V_n$, there is $y\in V_m$ with $\{x,y\}\in E$.</li>
-</ul>
-<p>Then there exists an infinite $K\subseteq V$ such that $[K]^2\subseteq E$.</p>
-<p>In this post, I will quickly address this &#8220;conjecture&#8221;. Thus, if you prefer to think about it by yourself, read no more.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Refutation.</strong> Consider the graph $G=(\mathbb N,E)$ where $\{n,m\}\in E$ iff $n+m=1\pmod2$. It is easy to see that for every 3-sized set $\{n,m,l\}$, we have $\{n,m,l\}^2\nsubseteq E$. On the other hand, letting $V_n:=\{2n,2n+1\}$ for all $n&lt;\omega$ yields a partition satisfying the above-mentioned properties.</p>
-<p><span id="more-4433"></span></p>]]></summary>
-        <author>
-            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>
