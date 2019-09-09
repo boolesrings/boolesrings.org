@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-09T18:45:31Z</updated>
+    <updated>2019-09-09T22:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -24,6 +24,19 @@
 <p>The idea is to have a workshop, where we actually work. This is contrary to the normal use of &quot;workshop&quot; (in set theory, at least, but I believe in most mathematical areas) which means a very small conference where almost all the participants are also speaking. <a href="http://karagila.org/2019/mehifox/">Continue reading...</a></p>]]></summary>
         <author>
             <name>Asaf Karagila</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumps of equivalence relations and scattered linear orders]]></title>
+        <id>http://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/</id>
+        <link href="http://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/">
+        </link>
+        <updated>2019-09-09T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>CUNY Set Theory Seminar, September 2019<!--more--></p>
+
+<p>Abstract: This is joint work with John Clemens. We will begin this talk by discussing the problem of classifying the countable scattered linear orders. Here a linear order is called scattered if the rational order doesn’t embed into it. The class of such orders admits a ranking function valued in the ordinals; we will study the corresponding classification problem for each fixed rank. We will show that each increase in rank results in a “jump” in the complexity of the classification problem. In the second part of the talk we will define a family of jump operators on equivalence relations, each associated with a fixed countable group. The jump in the case of scattered linear orders is that associated with the group Z of integers. We will discuss the basic theory of these jump operators. Finally, we will discuss the question of when such a jump operator is proper, in the sense that the jump of E is strictly above E in the Borel reducibility order.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -95,18 +108,6 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019. Title and
-abstract for the talk will be announced in due course.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -126,6 +127,18 @@ abstract for the talk will be announced in due course.</p>]]></summary>
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019. Title and
+abstract for the talk will be announced in due course.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -868,19 +881,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -899,6 +899,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -935,6 +948,19 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
 </div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borel morphisms between cardinal characteristics, parts 1 and 2]]></title>
+        <id>http://scoskey.org/presentation/borel-morphisms-between-cardinal-characteristics/</id>
+        <link href="http://scoskey.org/presentation/borel-morphisms-between-cardinal-characteristics/">
+        </link>
+        <updated>2019-04-26T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Boise Set Theory Seminar, April 2019<!--more--></p>
+
+<p>Abstract: A cardinal characteristic is the cardinality of some special subset of the continuum. Vojtas introduced a categorical framework in which to study cardinal characteristics and their relationships. In this talk we introduce the objects and morphisms of this framework. We then consider a variation of this framework where the objects are morphisms are Borel definable.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -985,18 +1011,14 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Set theories with classes]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
+        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
         </link>
         <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
 
-<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
-
-<div class="figure">
-<img src="/images/asl2019.jpeg" />
-</div>]]></summary>
+<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1080,14 +1102,18 @@ Let us conclude the introduction by mentioning the following easy negative insta
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
+        <title type="html"><![CDATA[Set theories with classes]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
         </link>
         <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
+        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
 
-<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
+<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
+
+<div class="figure">
+<img src="/images/asl2019.jpeg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1300,7 +1326,7 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to continuous logic and model theory for metric structures.]]></title>
+        <title type="html"><![CDATA[Introduction to continuous logic and model theory for metric structures]]></title>
         <id>http://scoskey.org/presentation/introduction-to-continuous-logic-and-model-theory-for-metric-structures/</id>
         <link href="http://scoskey.org/presentation/introduction-to-continuous-logic-and-model-theory-for-metric-structures/">
         </link>
@@ -1890,34 +1916,6 @@ g=\begin{pmatrix}
 <p> </p>]]></summary>
         <author>
             <name>Mike Pawliuk – Mathematics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythagorean theorem area proofs]]></title>
-        <id>http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/</id>
-        <link href="http://scoskey.org/senior-thesis/pythagorean-theorem-area-proofs/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Rachel Morley, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: This composition is intended to walk the reader through four proofs of the pythagorean theorem that are based on area. It could be used in a classroom to solidify the pythagorean theorem after studying Neutral and Euclidean Geometries.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euclidian geometry proposed lesson plans]]></title>
-        <id>http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/</id>
-        <link href="http://scoskey.org/senior-thesis/euclidean-geometry-lesson-plans/">
-        </link>
-        <updated>2018-12-17T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Joe Willert, Fall 2018<!--more--></p>
-
-<p><em>Abstract</em>: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.</p>
-
-<p>These lessons are laid out as individual lessons that could be taught at any given point of a class that was dealing with the topic of the lesson at the time. These lessons are snapshots of what would be happening in a classroom and the idea is that lessons and teaching happen in-between each of the individual lessons and ideas presented here. Each chapter will begin with a summary of the main concepts and big ideas to be addressed in the chapter. I then offer the general structure of the lesson and how it could be taught. This includes what the teacher would say in the lesson and student misconceptions and questions. My hope is that this document would act as a teaching resource for teachers looking for individual lesson plans to be implemented in their own classroom during moments that they feel are appropriate. A lesson in this paper should take one class period to teach, which I have timed out at an hour. Being that most class periods are about 45 to 50 minutes this can be shortened or it could be spread out over several days as needed and appropriate.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
