@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-11T06:45:32Z</updated>
+    <updated>2019-09-11T10:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,25 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Being a refugee]]></title>
+        <id>https://sixsmith2017.wordpress.com/2019/09/11/being-a-refugee/</id>
+        <link href="https://sixsmith2017.wordpress.com/2019/09/11/being-a-refugee/">
+        </link>
+        <updated>2019-09-11T09:19:47Z</updated>
+        <summary type="html"><![CDATA[<p>This is kind of an addendum to Anne&#8217;s post <a href="https://annesixsmith.wordpress.com/2019/09/03/the-new-country">https://annesixsmith.wordpress.com/2019/09/03/the-new-country</a>. Hers is better, of course.</p>
+<p>This summer we were moved to a new country. Its hard to put an exact time or date on it. Let&#8217;s say it was the evening Anne had really bad indigestion and we didn&#8217;t have any Rennies, so secretly I cycled up to Sainsbury&#8217;s and was back in 20 minutes to surprise her. We laughed. It was funny. But that&#8217;s when we were moved, without realising it.</p>
+<p>We looked around for some weeks, without appreciating what had happened. You peer through the mist and think you recognise familiar landmarks. Familiar features. Probably its just a short walk home. Or worst case a short bus ride. Nothing too bothersome. Nothing dramatic. This is just a visit, and we&#8217;ll be home by Christmas.</p>
+<p>But no. It turns out we&#8217;ve changed country, and there is no way back. We&#8217;re refugees here. Trying to make the best of it, trying to make something work out. There are lots of people happy to help, and they&#8217;ve sorted us out with stuff, and that&#8217;s great. It turns out there are a couple of old friends also here, who have already settled in.</p>
+<p>We&#8217;re beginning to find our way round, though there are only a few road signs so its easy to get lost. The weather is very changeable; you&#8217;re out in the sun and feeling good and suddenly the rain starts and its cold and miserable. It can be very cold. I&#8217;ve not found a weather forecasting app.</p>
+<p>Sometimes we wander down to the beach and look out at the ocean. Somewhere over there is the old country, where life was very different. Its hard not to think about that life, and wonder. But its not really helpful. Its best to wander back up the beach, wander back into the new country, wander back to our new life as refugees. We&#8217;re going to make this work.</p>
+<p>(I probably talk in cliches, and just murdered a perfectly good metaphor. But this will have to do.)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></summary>
+        <author>
+            <name>Dave Sixsmith – I am a mathematician, not a calculator</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Methods in Higher Forcing Axioms]]></title>
         <id>http://karagila.org/2019/mehifox/</id>
@@ -108,6 +127,18 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019. Title and
+abstract for the talk will be announced in due course.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -127,18 +158,6 @@ groups with large relational complexity, and we explain how this statistic relat
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019. Title and
-abstract for the talk will be announced in due course.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -868,19 +887,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -912,6 +918,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
 
 <p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1024,6 +1043,23 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Set theories with classes]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
+
+<div class="figure">
+<img src="/images/asl2019.jpeg" />
+</div>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
         <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
@@ -1097,23 +1133,6 @@ Let us conclude the introduction by mentioning the following easy negative insta
 <h2>References</h2>
 <ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
 <li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set theories with classes]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
-
-<div class="figure">
-<img src="/images/asl2019.jpeg" />
-</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -5644,19 +5663,6 @@ Awesome! Thanks for sharing. At least I know I am not crazy!</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Periodic domains of quasiregular maps]]></title>
-        <id>https://sixsmith2017.wordpress.com/2015/09/28/periodic-domains-of-quasiregular-maps/</id>
-        <link href="https://sixsmith2017.wordpress.com/2015/09/28/periodic-domains-of-quasiregular-maps/">
-        </link>
-        <updated>2015-09-28T10:27:13Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/div-classtitleperiodic-domains-of-quasiregular-mapsdiv/22A2C10D6415782810D8904515341212">Ergodic Theory and Dynamical Systems (2017), 1–24.</a> Also available on the <a href="http://arxiv.org/abs/1509.06723">arXiv.</a> This is a joint work with <a href="https://www.maths.nottingham.ac.uk/personal/pmzdn/">Dan Nicks</a>.<span id="more-132"></span>We consider the iteration of quasiregular maps of transcendental type from <img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BR%7D%5Ed&#038;bg=ffffff&#038;fg=111111&#038;s=0" alt="&#92;mathbb{R}^d" title="&#92;mathbb{R}^d" class="latex" /> to <img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BR%7D%5Ed&#038;bg=ffffff&#038;fg=111111&#038;s=0" alt="&#92;mathbb{R}^d" title="&#92;mathbb{R}^d" class="latex" />. We give a bound on the rate at which the iterates of such a map can escape to infinity in a periodic component of the quasi-Fatou set. We give examples which show that this result is best possible. Under an additional hypothesis, which is satisfied by all uniformly quasiregular maps, this bound can be improved to be the same as those in a Baker domain of a transcendental entire function.</p>
-<p>We construct a quasiregular map of transcendental type from <img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BR%7D%5E3&#038;bg=ffffff&#038;fg=111111&#038;s=0" alt="&#92;mathbb{R}^3" title="&#92;mathbb{R}^3" class="latex" /> to <img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BR%7D%5E3&#038;bg=ffffff&#038;fg=111111&#038;s=0" alt="&#92;mathbb{R}^3" title="&#92;mathbb{R}^3" class="latex" /> with a periodic domain in which all iterates tend locally uniformly to infinity. This is the first example of such behaviour in a dimension greater than two.</p>
-<p>Our construction uses a general result regarding the extension of biLipschitz maps. In addition, we show that there is a quasiregular map of transcendental type  from <img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BR%7D%5E3&#038;bg=ffffff&#038;fg=111111&#038;s=0" alt="&#92;mathbb{R}^3" title="&#92;mathbb{R}^3" class="latex" /> to <img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BR%7D%5E3&#038;bg=ffffff&#038;fg=111111&#038;s=0" alt="&#92;mathbb{R}^3" title="&#92;mathbb{R}^3" class="latex" /> which is equal to the identity map in a half-space.</p>]]></summary>
-        <author>
-            <name>Dave Sixsmith – I am a mathematician, not a calculator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Thing Explainer Challenge]]></title>
         <id>http://karagila.org/2015/the-thing-explainer-challenge/</id>
         <link href="http://karagila.org/2015/the-thing-explainer-challenge/">
@@ -8986,22 +8992,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -9018,6 +9008,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
