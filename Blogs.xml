@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-12T18:45:31Z</updated>
+    <updated>2019-09-12T22:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,41 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Carnival of Math No. 173]]></title>
+        <id>https://www.peterkrautzberger.org/0210/</id>
+        <link href="https://www.peterkrautzberger.org/0210/">
+        </link>
+        <updated>2019-09-12T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This year I <a href="https://www.peterkrautzberger.org/0194/">once again</a> have the pleasure to host the now <strong>173th Carnival of Mathematics</strong>, the moveable feast of mathematical blogging shepherded by <a href="http://aperiodical.com/carnival-of-mathematics/">The Aperiodical</a>, the best math blogging collective on this little blue ball in space. Be sure to <a href="https://leeyieng.wordpress.com/2019/08/04/carnival-of-mathematics-172/">visit the previous Carnival (No. 172) at Cassandra Lee Yieng's blog</a> and keep an eye on <a href="https://aperiodical.com/carnival-of-mathematics/">all Carnivals</a>.</p>
+<p>As tradition will have it, we begin our show by taking a closer look at our number.</p>
+<p><strong>173</strong> is not just a prime, the sum of two squares of primes (2²+13²) <em>and</em> the sum of three primes (53+59+61). No, it is also a <a href="https://en.wikipedia.org/wiki/Balanced_prime">balanced prime</a> (same gap to previous and following prime) and the 13<sup>th</sup>(!) <a href="https://en.wikipedia.org/wiki/Sophie_Germain_prime">Sopie Germain prime</a> (since 2×173+1=347 is also prime).</p>
+<figure>
+<img width="256" style="margin: 0 auto;" alt="Sophie Germain" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Germain.jpeg">
+<figcaption>Portrait of <a href="https://en.wikipedia.org/wiki/Sophie_Germain">Sophie Germain</a> (April 1, 1776 - June 27, 1831), <a href="https://commons.wikimedia.org/wiki/File:Germain.jpeg">[Public domain], via Wikimedia Commons</a></figcaption>
+</figure>
+<p>Alas, 173 is also an <a href="https://en.wikipedia.org/wiki/Odious_number">odious number</a>, which may sound rather bad but just means it has an odd number of 1's in binary (10101101).</p>
+<p>Now that you've warmed up, let us once again enter the decidely wonderful, balanced madness of the mathematical blogging carnival.</p>
+<hr>
+<p>Likely most people (or at least the most people) will already have seen the NYT's Kenneth Chang looking into <a href="https://www.nytimes.com/2019/08/06/science/math-equation-pemdas.html">Why Mathematicians hate that viral equation</a>; but really who needs 8÷2(2+2) when you can so easily have drama with the Oxford Comma.</p>
+<p>In any case, make sure you head over to Over at the Art of Research where Vi Hart shared <a href="https://theartofresearch.org/computation-for-hands-systems-for-humans/">Computation for Hands, Systems for Humans</a>, taking you on the magic carpet ride that's Vi's hands &quot;craving computation&quot;, combining hardware, software, systems thinking, VR and a ton of other ideas.</p>
+<p>Before you continue to Ari Rubinsztejn explains <a href="https://gereshes.com/2019/05/27/why-tracking-space-debris-is-so-hard/">Why Tracking Space Debris is so Hard</a> (thanks, nonlinear dynamics!), step under the cover of the Undercover economist Tim Harford who wrote on <a href="http://timharford.com/2019/08/the-strange-power-of-the-idea-of-average/">the strange power of the idea of average</a>, both good and bad.</p>
+<p>Of course any mathematically topic is worth a deep dive into, so head into the magical depths of the Math Vault for an extensive article on <a href="https://mathvault.ca/long-division/">Long Division and Its Variants (for Integers)</a> Once you're ready, jump out and get yourself back into Cantor's Paradise where Jørgen Veisdal will let you in on <a href="https://medium.com/cantors-paradise/the-mathematics-of-elo-ratings-b6bfc9ca1dba">the mathematics of Elo ratings</a>, a glimpse at the history of the famous ranking system.</p>
+<p>Before you lose your king or queen, let Richard Elwes ask you a question befit Carol's Red Queen: <a href="https://richardelwes.co.uk/2019/09/06/how-many-sides-does-a-circle-have/">How Many Sides Does A Circle Have?</a> and be sure to follow him off on a tanget or two. If all those tangents twirled you around too much, switch to a classical, sold blog post by the amazing John Cook who will help you <a href="https://www.johndcook.com/blog/2019/08/27/heaps-law/">estimate vocabulary size with Heaps’ law</a> just in case you need to verify a post-humously discovered manuscript by Jane Austen.</p>
+<p>To ease your way out of those particular mazes, take a sip and mingle over at <a href="https://ima.org.uk/12133/editorial-august-2019/">this month's IMA editorial</a>, if only to catch up on the Queen’s Birthday Honours List for 2019. And if you are one of those people who frequent the always dramatic birdsite, here are a two math-focused threads for you:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Oh no, I&#39;ve deliberately obscured large portions of this ruler and I need to make sure these vegetables are whole numbers of inches long or my toddler will eat me instead: a <a href="https://twitter.com/hashtag/RealWorldMaths?src=hash&amp;ref_src=twsrc%5Etfw">#RealWorldMaths</a> thread <a href="https://t.co/GWuZMry6Ti">pic.twitter.com/GWuZMry6Ti</a></p>&mdash; Christian Lawson-Perfect (@christianp) <a href="https://twitter.com/christianp/status/1169651584416079872?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Unpopular take: As someone with a Master&#39;s degree in statistics and who teaches data science, I&#39;m very much over the &quot;data scientists are incompetent fools who just throw data in and get results from a computer with no critical thinking&quot; takes. 1/</p>&mdash; Matt Brems (@matthewbrems) <a href="https://twitter.com/matthewbrems/status/1163224585644511233?ref_src=twsrc%5Etfw">August 18, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><a href="https://twitter.com/mathyawp/status/1162462128441139201?s=19">Also via twitter</a>, Francis Su shared his handout with <a href="https://www.math.hmc.edu/~su/math131/good-math-writing.pdf">Guildelines for good mathematical writing (PDF)</a> which he says you should feel free to share with your students.</p>
+<p>To wrap things up, take a carousel of math blogging perfection at Math Off The Grid where Benjamin Leis's post on <a href="https://blog.mathoffthegrid.com/2019/08/cardanos-method.html">Cardano's Method</a> starts from a new video from Mathologer (below), picks up <a href="https://twitter.com/MrHonner/status/1165417359764533248?ref_src=twsrc%5Etfw">a tweet by Patrick Honner</a> throws in <a href="https://artofproblemsolving.com/news/aftermath/aftermath-running-a-school-for-math-lovers-with-sam-vandervelde">a podcast with Sam Vandervelde</a> and tops it off with a pointer to <a href="https://en.wikipedia.org/wiki/Marden%27s_theorem">Marden's Theorem</a> to drag you into the carnival that is Wikipedia's mathematics articles.</p>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen=""></iframe></div>
+<hr>
+<p>That’s it for the beautiful month of September. Thanks to everyone who submitted a post! After almost 9 years of running</p>
+<p>Be sure to stop by next month’s Carnival. You should <a href="http://aperiodical.com/carnival-of-mathematics/">submit your favorite blog posts/videos/content</a> from the month of September. If you’d like to host an upcoming show, please get in touch with <a href="mailto:katie@aperiodical.com">Katie</a>.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Being a refugee]]></title>
         <id>https://sixsmith2017.wordpress.com/2019/09/11/being-a-refugee/</id>
@@ -127,18 +162,6 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019. Title and
-abstract for the talk will be announced in due course.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -158,6 +181,18 @@ abstract for the talk will be announced in due course.</p>]]></summary>
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019. Title and
+abstract for the talk will be announced in due course.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1030,36 +1065,6 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set theories with classes]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
-
-<div class="figure">
-<img src="/images/asl2019.jpeg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
         <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
@@ -1133,6 +1138,36 @@ Let us conclude the introduction by mentioning the following easy negative insta
 <h2>References</h2>
 <ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
 <li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set theories with classes]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
+
+<div class="figure">
+<img src="/images/asl2019.jpeg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1838,19 +1873,6 @@ g=\begin{pmatrix}
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Logic and set theory]]></title>
         <id>http://scoskey.org/course/1819s-502/</id>
         <link href="http://scoskey.org/course/1819s-502/">
@@ -1859,6 +1881,19 @@ g=\begin{pmatrix}
         <summary type="html"><![CDATA[<p>Math 502, Spring 2019<!--more--></p>
 
 <p><em>Catalog description</em>: Structured as three five-week components: formal logic, set theory, and topics to be determined by the instructor. The logic component includes formalization of language and proofs, the completeness theorem, and the Lowenheim-Skolem theorem. The set theory component includes orderings, ordinals, the transfinite recursion theorem, and the Axiom of Choice and some of its equivalents.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -15005,33 +15040,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
-        <id>https://www.peterkrautzberger.org/0061/</id>
-        <link href="https://www.peterkrautzberger.org/0061/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 6: properness ctd.</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 2)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
-    <img alt="screenshot of page 6" src="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
         <id>https://www.peterkrautzberger.org/0060/</id>
         <link href="https://www.peterkrautzberger.org/0060/">
@@ -15054,6 +15062,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
+        <id>https://www.peterkrautzberger.org/0061/</id>
+        <link href="https://www.peterkrautzberger.org/0061/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 6: properness ctd.</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 2)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
+    <img alt="screenshot of page 6" src="https://www.peterkrautzberger.org/assets/2011/pg_0006.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
