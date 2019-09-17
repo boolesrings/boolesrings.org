@@ -1,0 +1,32 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run boolesrings-base and update site
+      run: |
+        git checkout master
+        git config user.name "${GITHUB_ACTOR}"
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git remote rm origin || true
+        git remote add origin "${remote_repo}"
+        git clone https://github.com/boolesrings/boolesrings-base.git
+        cd boolesrings-base
+        mkdir boolesrings.org
+        mkdir feeds
+        npm i
+        node ./app2.js
+        node ./app.js
+        cp boolesrings.org/* ..
+        cd ..
+        git add -u
+        git commit -m'update site'
+        git push origin master
+        
