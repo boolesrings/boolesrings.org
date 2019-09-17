@@ -19,8 +19,7 @@ jobs:
         git remote add origin "${remote_repo}"
         git clone https://github.com/boolesrings/boolesrings-base.git
         cd boolesrings-base
-        mkdir boolesrings.org
-        mkdir feeds
+        mkdir -p boolesrings.org
         npm i
         node ./app2.js
         node ./app.js
