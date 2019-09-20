@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [Lectures on the philosophy of mathematics, Oxford, Michaelmas term 2019](http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/)
 * **Asaf Karagila** [Methods in Higher Forcing Axioms: The inevitable conclusion](http://karagila.org/2019/mehifox-conclusions/)
 * **Peter Krautzberger** [Weeknote 2019/37](https://www.peterkrautzberger.org/0211/)
 * **Peter Krautzberger** [Carnival of Math No. 173](https://www.peterkrautzberger.org/0210/)
@@ -12,6 +13,5 @@ title: Blogs
 * **Nick Gill** [Groups and Geometries 2019](https://nickpgill.github.io/groups-and-geometries-2019)
 * **Assaf Rinot** [Sigma-Prikry I: The Axioms](http://blog.assafrinot.com/?p=4596)
 * **Sandra Müller** [(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order](https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html)
-* **Sandra Müller** [CUNY Logic Workshop - TBA](https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)

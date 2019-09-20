@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-20T14:45:27Z</updated>
+    <updated>2019-09-20T18:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Hugh R Thomas]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10601</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10601">
+        </link>
+        <updated>2019-09-13T22:05:49Z</updated>
+        <summary type="html"><![CDATA[<p>Downloaded for a niece. Thanks!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Modal model theory by ecarmody2@fordham.edu]]></title>
+        <id>http://jdh.hamkins.org/modal-model-theory/#comment-10579</id>
+        <link href="http://jdh.hamkins.org/modal-model-theory/#comment-10579">
+        </link>
+        <updated>2019-09-06T17:15:18Z</updated>
+        <summary type="html"><![CDATA[<p>Ah thanks!  That is a great site.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by gentzen]]></title>
         <id>http://jdh.hamkins.org/clmpst-2019-prague/#comment-10502</id>
@@ -198,17 +220,6 @@ Vladimir</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on How to count by A witness to the writhing void]]></title>
-        <id>http://jdh.hamkins.org/how-to-count/#comment-10327</id>
-        <link href="http://jdh.hamkins.org/how-to-count/#comment-10327">
-        </link>
-        <updated>2019-05-29T10:11:24Z</updated>
-        <summary type="html"><![CDATA[<p>This post is a howling void, like lifeless, blasted plains. There is no counting; the silence is deafening, and the absence is suffocating. All I can see is an abandoned blog post, damned to an eternity of emptiness. I stare deep into the heart of chaos, and the air fills with a terrible judgement; for the abyss returns even the boldest gaze.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on 50 Years of Set Theory in Toronto, May 2019 by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4577#comment-686</id>
         <link href="http://blog.assafrinot.com/?p=4577#comment-686">
@@ -217,17 +228,6 @@ Vladimir</p>]]></summary>
         <summary type="html"><![CDATA[<p>The <a href="http://www.fields.utoronto.ca/video-archive/static/2019/05/2686-20448/mergedvideo.ogv" rel="nofollow">video</a> of this talk is now available.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The multiverse view in set theory, Singapore 2011 by A multiverse perspective on the axiom of constructiblity | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/multiverse-view-singapore-july2011/#comment-10304</id>
-        <link href="http://jdh.hamkins.org/multiverse-view-singapore-july2011/#comment-10304">
-        </link>
-        <updated>2019-05-20T14:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] article expands on an argument that I made during my talk at the Asian Initiative for Infinity: Workshop on Infinity and Truth, held July 25&#8211;29, 2011 at the Institute for Mathematical Sciences, National University of [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
