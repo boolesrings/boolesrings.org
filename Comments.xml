@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-21T06:45:27Z</updated>
+    <updated>2019-09-21T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10626</id>
+        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10626">
+        </link>
+        <updated>2019-09-21T10:18:43Z</updated>
+        <summary type="html"><![CDATA[<p>The paper is basically ready; we are just finalizing some things. Sorry for the delay, but it should be posted soon. I&#8217;ll make a blog post about the paper when it is available and link here.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Pablo Trautmann.]]></title>
+        <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10621</id>
+        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10621">
+        </link>
+        <updated>2019-09-20T20:50:37Z</updated>
+        <summary type="html"><![CDATA[<p>Hello, very sorry for bothering, any chance it may come out soon?  Appreciate, thanks.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Hugh R Thomas]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10601</id>
@@ -182,39 +204,6 @@ Eduard Hau  (1807–1888), and the digital image is public domain. There is a ri
         </link>
         <updated>2019-07-06T12:29:08Z</updated>
         <summary type="html"><![CDATA[<p>I am so eager to read this, but I am compelled to comment first. This image is by far my favorite image/painting/drawing/dream/vision I have ever seen.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Ehrenfeucht’s lemma in set theory by Vladimir]]></title>
-        <id>http://jdh.hamkins.org/ehrenfeuchts-lemma-in-set-theory/#comment-10352</id>
-        <link href="http://jdh.hamkins.org/ehrenfeuchts-lemma-in-set-theory/#comment-10352">
-        </link>
-        <updated>2019-06-23T11:05:48Z</updated>
-        <summary type="html"><![CDATA[<p>Dear Joel,<br />
-this is just a couple of words related to this profound study.<br />
-Sorry for taking your time.<br />
-I don&#8217;t have in hands the ND paper, so whatever follows is related only to the 1501.01918 version.<br />
-1. Theorem 4.6 (perhaps by Groszek and/or Laver) was somewhat sharpened in Golshani-K-Lyubetsky, MLQ, 63, No. 1–2, 19–31 (2017): there is a CCC extension<br />
-$L[a,b]$ of $L$ by a pair of reals $a,b$, such that 1) the Vitali (or $E_0$) classes A of a<br />
-and B of b are different (countable) sets, 2) A and B are OD-indiscernible in $L[a,b]$,<br />
-and 3) $A\cup B$ is lightface $\Pi^1_2$ (the lowest possible).<br />
-2. Question 4.12 on p 12, its meaning is somewhat elusive. We assume that any OD-algebraic set is OD, and we want to know whether for any two OD sets $x\ne y$, if<br />
-$y$ is parameter-free algebraic wrt $x$ then $x$, $y$ are necessarily parameter-free discernible. Is this the idea or I am taking it wrong?<br />
-Best<br />
-Vladimir</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on How to count by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/how-to-count/#comment-10331</id>
-        <link href="http://jdh.hamkins.org/how-to-count/#comment-10331">
-        </link>
-        <updated>2019-05-30T11:16:16Z</updated>
-        <summary type="html"><![CDATA[<p>Now that my eyes are open to the existence of this post, I am going to leave it, if only that your beautiful comment may live on.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
