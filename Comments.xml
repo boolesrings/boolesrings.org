@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-25T10:45:27Z</updated>
+    <updated>2019-09-25T14:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,39 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on I know that you know that I know that you know…., CSI Undergraduate Conference on Research, Scholarship, and Performance, April 2015 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/i-know-that-you-know-that-i-know-that-you-know-csi-undergraduate-conference-april-2015/#comment-10641</id>
+        <link href="http://jdh.hamkins.org/i-know-that-you-know-that-i-know-that-you-know-csi-undergraduate-conference-april-2015/#comment-10641">
+        </link>
+        <updated>2019-09-25T13:41:48Z</updated>
+        <summary type="html"><![CDATA[<p>July 17th isn&#8217;t one of the allowed birthdays, so the situation you&#8217;re describing isn&#8217;t possible.  Cheryl had given the actual month to Albert and the actual date number to Bernard, and it is known to be one of the dates on the list. And if you had meant that Albert had been given August and Bernard 17, so the birthday would be August 17th, then although the first two statements would be right, nevertheless Albert&#8217;s final remarks would not be right, and so this date doesn&#8217;t fulfill the puzzle. </p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10640</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10640">
+        </link>
+        <updated>2019-09-25T13:10:01Z</updated>
+        <summary type="html"><![CDATA[<p>I&#8217;m glad your daughter enjoyed the first one. To my way of thinking, the main puzzle of the Euler characteristic is why it should always be 2? Why is that? The puzzle is to figure out why it is always the same. But a secondary puzzle is to look into the three-dimensional cases, and to figure out how to count faces etc. in that case.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Margaret Royzen]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10638</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10638">
+        </link>
+        <updated>2019-09-24T20:32:07Z</updated>
+        <summary type="html"><![CDATA[<p>I gave your talk for seven year olds to my 8 years old granddaughter and it was a huge success.  She commented that it was such fun to challenge your brain!  However, graph theory for eight years old did not impress her.  She said, &#8220;O, its 2.  Than what?&#8221;  There was no puzzle in it like Konigsberg bridge problem.  Thank you for publishing it..</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Forcing as a computational process, Cambridge, Februrary 2019 by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/forcing-as-a-computational-process-cambridge-februrary-2019/#comment-10626</id>
@@ -149,31 +182,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on The foundation axiom and elementary self-embeddings of the universe by Ember Edison]]></title>
-        <id>http://jdh.hamkins.org/foundation-axiom-and-self-embeddings-of-the-universe/#comment-10451</id>
-        <link href="http://jdh.hamkins.org/foundation-axiom-and-self-embeddings-of-the-universe/#comment-10451">
-        </link>
-        <updated>2019-07-31T15:18:39Z</updated>
-        <summary type="html"><![CDATA[<p>Hi,<br />
-The article say is no nontrivial embedding j: WF-&gt; WF in ZFC^-f, and the post in mathoverflow say is no X-&gt;X in ZFC^-f, so you mean is no Reinhardt and Berkeley cardinal in ZFC^-f?<br />
-And I want to know more existence for nontrivial embedding about Kunen inconsistency in ZFC^-f:<br />
-M-&gt;WF,<br />
-WF-&gt;M,<br />
-M-&gt;HOD,<br />
-HOD-&gt;M and V≠HOD(M),<br />
-HOD-&gt;HOD,<br />
-WF-&gt;HOD,<br />
-HOD-&gt;WF<br />
-M-&gt;X,<br />
-X-&gt;M</p>
-<p>X: The proper class of all sets<br />
-M: Any definable class</p>
-<p>Thank you.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on Partitioning a reflecting stationary set by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4559#comment-707</id>
         <link href="http://blog.assafrinot.com/?p=4559#comment-707">
@@ -183,29 +191,6 @@ M: Any definable class</p>
 Accepted, July 2019.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Modal model theory by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/modal-model-theory/#comment-10388</id>
-        <link href="http://jdh.hamkins.org/modal-model-theory/#comment-10388">
-        </link>
-        <updated>2019-07-06T12:54:06Z</updated>
-        <summary type="html"><![CDATA[<p>I&#8217;m glad you enjoy it. The painting is by<br />
-Eduard Hau  (1807–1888), and the digital image is public domain. There is a rich collection of paintings of art gallery interiors in the WikiMedia commons at <a href="https://commons.wikimedia.org/wiki/Category:Paintings_of_interiors_of_art_galleries" rel="nofollow">https://commons.wikimedia.org/wiki/Category:Paintings_of_interiors_of_art_galleries</a>.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Modal model theory by ekcarmody]]></title>
-        <id>http://jdh.hamkins.org/modal-model-theory/#comment-10387</id>
-        <link href="http://jdh.hamkins.org/modal-model-theory/#comment-10387">
-        </link>
-        <updated>2019-07-06T12:29:08Z</updated>
-        <summary type="html"><![CDATA[<p>I am so eager to read this, but I am compelled to comment first. This image is by far my favorite image/painting/drawing/dream/vision I have ever seen.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
