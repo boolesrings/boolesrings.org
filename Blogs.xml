@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-28T14:45:38Z</updated>
+    <updated>2019-09-28T18:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,38 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[The 15th International Workshop on Set Theory in Luminy, September 2019]]></title>
+        <id>http://blog.assafrinot.com/?p=4602</id>
+        <link href="http://blog.assafrinot.com/?p=4602">
+        </link>
+        <updated>2019-09-28T15:02:37Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4602_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4602, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 1"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4602_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4602_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="https://conferences.cirm-math.fr/2052.html">15th International Workshop on Set Theory in Luminy</a> in Marseille, September 2019.</p>
+<p><strong>Talk Title: </strong>Chain conditions, unbounded colorings and the C-sequence spectrum.</p>
+<p><strong>Abstract: </strong>The productivity of the $\kappa$-chain condition, where $\kappa$ is a regular, uncountable cardinal, has been the focus of a great deal of set-theoretic research.</p>
+<p>In the 1970&#8217;s, consistent examples of $\kappa$-cc posets whose squares are not $\kappa$-cc were constructed by Laver, Galvin, Roitman and Fleissner. Later, ZFC examples were constructed by Todorcevic, Shelah, and others. The most difficult case, that in which $\kappa = \aleph_2$, was resolved by Shelah in 1997.</p>
+<p>In the first part of this talk, we shall present analogous results regarding the infinite productivity of chain conditions stronger than $\kappa$-cc. In particular, for any successor cardinal $\kappa$, we produce a ZFC example of a poset with precaliber $\kappa$ whose $\omega^{\mathrm{th}}$ power is not $\kappa$-cc. To do so, we introduce and study the principle $\textrm{U}(\kappa,\mu,\theta,\chi)$ asserting the existence of a coloring $c:[\kappa]^2\rightarrow\theta$ satisfying a strong unboundedness condition.</p>
+<p>In the second part of this talk, we shall introduce and study a new cardinal invariant $\chi(\kappa)$ for a regular uncountable cardinal $\kappa$. For inaccessible $\kappa$, $\chi(\kappa)$ may be seen as a measure of how far away $\kappa$ is from being weakly compact. We shall prove that if $\chi(\kappa)&gt;1$, then $\chi(\kappa)=\max(\mathrm{Cspec}(\kappa))$, where:</p>
+<p>1. $\textrm{Cspec}(\kappa) := \{\chi(\vec{C}) \mid \vec{C}$ is a $C$-sequence over $\kappa\} \setminus \omega$, and</p>
+<p>2. $\chi(\vec{C})$ is the least cardinal $\chi \leq \kappa$ such that there exist $\Delta \in [\kappa]^\kappa$ and $b:\kappa\rightarrow[\kappa]^\chi$ with $\Delta\cap\alpha\subseteq\bigcup_{\beta\in b(\alpha)}C_\beta$ for every $\alpha&lt;\kappa$.</p>
+<p>We shall also prove that if $\chi(\kappa)=1$, then $\kappa$ is greatly Mahlo, prove the consistency (modulo the existence of a supercompact) of $\chi(\aleph_{\omega+1})=\aleph_0$, and carry a systematic study of the effect of square principles on the $C$-sequence spectrum.</p>
+<p>In the last part of this talk, we shall unveil an unexpected connection between the two principles discussed in the previous parts, proving that, for infinite regular cardinals $\theta&lt;\kappa$, $\theta\in\mathrm{Cspec}(\kappa)$ iff there is a closed witness to $\mathrm{U}(\kappa,\kappa,\theta,\theta)$.</p>
+<p>This is joint work with <a href="http://blog.assafrinot.com/?persons=chris-lambie-hanson">Chris Lambie-Hanson</a>.</p>
+<p><strong>Downloads:</strong></p>
+<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4602, '')" href="http://www.assafrinot.com/files/rinot_luminy2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/34" class="billet_further"></a><a href="http://www.assafrinot.com/talk/luminy2019" class="billet_perm"></a></td></tr></table></p><span id="more-4602"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The $\Sigma_1$-definable universal finite sequence]]></title>
         <id>http://jdh.hamkins.org/the-sigma_1-definable-universal-finite-sequence/</id>
@@ -1033,19 +1065,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -1077,6 +1096,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
 
 <p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1887,6 +1919,19 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -1970,19 +2015,6 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -3321,34 +3353,6 @@ It is known that for many transcendental entire functions the escaping set has a
 As a bonus, the outcome $\lambda^+$-Souslin tree is moreover <em>free</em>.</p>
 <p><strong>Downloads:</strong></p>
 <p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4456, '')"  href="http://www.assafrinot.com/files/paper32.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><a onclick="thankYouButtonClick(4456, '')" href="http://doi.org/10.1007/s11083-019-09482-7" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4456, '')" href="http://www.assafrinot.com/talk/luminy2017" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/26" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper32" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/32" class="billet_perm"></a></td></tr></table></p><span id="more-4456"></span></p>]]></summary>
-        <author>
-            <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weak square and stationary reflection]]></title>
-        <id>http://blog.assafrinot.com/?p=4450</id>
-        <link href="http://blog.assafrinot.com/?p=4450">
-        </link>
-        <updated>2017-11-08T21:48:01Z</updated>
-        <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4450_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
-                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4450_2', true);" 
-                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4450_2', false);"
-                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4450_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4450, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 36"
-                  class="thanks_button thanks_compact thanks_brown"
-                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
-                  id="thanksButton_4450_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4450_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.math.csi.cuny.edu/~fuchs/">Gunter Fuchs</a>.</p>
-<p><strong>Abstract.</strong> It is well-known that the square principle $\square_\lambda$ entails the existence of a non-reflecting stationary subset of $\lambda^+$, whereas the weak square principle $\square^*_\lambda$ does not.<br />
-Here we show that if $\mu^{cf(\lambda)}&lt;\lambda$ for all $\mu&lt;\lambda$, then $\square^*_\lambda$ entails the existence of a non-reflecting stationary subset of $E^{\lambda^+}_{cf(\lambda)}$ in the forcing extension for adding a single Cohen subset of $\lambda^+$.</p>
-<p>It follows that indestructible forms of simultaneous stationary reflection entail the failure of weak square. We demonstrate this by settling a question concerning the subcomplete forcing axiom (SCFA), proving that SCFA entails the failure of $\square^*_\lambda$ for every singular cardinal $\lambda$ of countable cofinality.</p>
-<p><strong>Downloads:</strong></p>
-<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4450, '')"  href="http://www.assafrinot.com/files/paper33.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4450, '')" href="http://arxiv.org/abs/1711.06213" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4450, '')" href="https://link.springer.com/article/10.1007/s10474-018-0789-8" class="billet_publish"></a><a href="http://www.ams.org/mathscinet-getitem?mr=3831305" class="billet_review"></a><a onclick="thankYouButtonClick(4450, '')" href="https://settheory.mathtalks.org/wp-content/uploads/2017/08/SCForcingPrinciples.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/07" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper33" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/33" class="billet_perm"></a></td></tr></table></p>
-<p><strong>Citation information:</strong></p>
-<p>G. Fuchs and A. Rinot, <em>Weak square and stationary reflection</em>, Acta. Math. Hungar., 155(2): 393-405, 2018.</p>
-<p><span id="more-4450"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
         </author>
