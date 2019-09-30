@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-09-30T14:45:27Z</updated>
+    <updated>2019-09-30T18:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The modal logic of arithmetic potentialism and the universal algorithm by The $Sigma_1$-definable universal finite sequence | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/arithmetic-potentialism-and-the-universal-algorithm/#comment-10660</id>
+        <link href="http://jdh.hamkins.org/arithmetic-potentialism-and-the-universal-algorithm/#comment-10660">
+        </link>
+        <updated>2019-09-30T16:03:39Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] The modal logic of arithmetic potentialism, [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on I know that you know that I know that you know…. Oxford, October 2019 by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/i-know-that-you-know-that-i-know-that-you-know-oxford-october-2019/#comment-10644</id>
@@ -166,18 +177,6 @@
         </link>
         <updated>2019-08-11T14:24:29Z</updated>
         <summary type="html"><![CDATA[<p>My correction of the typo above was still insufficient. In addition, the case |s \cap t| \geq n must also be added to the disjunction over the cases, since it is no longer included in the other cases after fixing the typo.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by gentzen]]></title>
-        <id>http://jdh.hamkins.org/clmpst-2019-prague/#comment-10491</id>
-        <link href="http://jdh.hamkins.org/clmpst-2019-prague/#comment-10491">
-        </link>
-        <updated>2019-08-11T14:01:12Z</updated>
-        <summary type="html"><![CDATA[<p>The formula for |s \cup t| \geq n on slide 30 (or 71 of 134) has a typo: It should read |s \cap t| \leq j instead of |s \cap t| \geq j. The same typo is also present in the corresponding paper from 2016. The link to the blog entry for that paper above also has a typo: the jdh.hamkins.org prefix is missing.</p>
-<p>Thanks for the slides. So far (have not read part slide 30 yet), I really enjoyed reading them.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
