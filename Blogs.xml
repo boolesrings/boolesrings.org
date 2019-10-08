@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-10-08T18:45:33Z</updated>
+    <updated>2019-10-08T22:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,30 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[(with S.-D. Friedman and V. Gitman) Structural Properties of the Stable Core]]></title>
+        <id>https://muellersandra.github.io/publication/2019/10/05/PaperStableCore.html</id>
+        <link href="https://muellersandra.github.io/publication/2019/10/05/PaperStableCore.html">
+        </link>
+        <updated>2019-10-04T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1910.02265.pdf">PDF.</a> <a href="https://arxiv.org/abs/1910.02265">arXiv.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibFGM19');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibFGM19">
+<pre class="collapse"> @ARTICLE{FGM19,
+   AUTHOR= {S.-D. Friedman and V. Gitman},
+   TITLE= {Structural Properties of the Stable Core},
+   Note={Submitted},
+   EPRINT ={1910.02265}}</pre>
+</div>
+
+<!--more-->
+
+<p>The stable core, an inner model of the form $\langle L[S],\in, S\rangle$ for a simply definable predicate $S$, was introduced by the first author in [Fri12], where he showed that $V$ is a class forcing extension of its stable core. We study the structural properties of the stable core and its interactions with large cardinals. We show that the $\operatorname{GCH}$ can fail at all regular cardinals in the stable core, that the stable core can have a discrete proper class of measurable cardinals, but that measurable cardinals need not be downward absolute to the stable core. Moreover, we show that, if large cardinals exist in $V$, then the stable core has inner models with a proper class of measurable limits of measurables, with a proper class of measurable limits of measurable limits of measurables, and so forth. We show this by providing a characterization of natural inner models $L[C_1, \dots, C_n]$ for specially nested class clubs $C_1, \dots, C_n$, like those arising in the stable core, generalizing recent results of Welch [Wel19].</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 15th International Workshop on Set Theory in Luminy, September 2019]]></title>
         <id>http://blog.assafrinot.com/?p=4602</id>
@@ -295,14 +319,14 @@ groups with large relational complexity, and we explain how this statistic relat
         <link href="https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
         </link>
         <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://arxiv.org/pdf/1908.10224.pdf">PDF.</a> <a href="https://arxiv.org/abs/1908.10224">arXiv.</a>
+        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1908.10224.pdf">PDF.</a> <a href="https://arxiv.org/abs/1908.10224">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibBNM19');" class="title">Bibtex.</a></p>
 
 <div style="display:none" id="bibBNM19">
 <pre class="collapse"> @ARTICLE{BNM19,
    AUTHOR= {O. Ben-Neria and S. Müller},
    TITLE= {Infinite decreasing chains in the Mitchell order},
-   Note={Preprint},
+   Note={Submitted},
    EPRINT ={1908.10224}}</pre>
 </div>
 
@@ -1065,24 +1089,14 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
-        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
-        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
         </link>
         <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
 
-<table>
-  <tbody>
-    <tr>
-      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
-      <td>x</td>
-      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
-      <td>x</td>
-      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
-    </tr>
-  </tbody>
-</table>]]></summary>
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1101,14 +1115,24 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
+        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
+        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
         </link>
         <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
 
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
+<table>
+  <tbody>
+    <tr>
+      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
+      <td>x</td>
+      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
+      <td>x</td>
+      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
+    </tr>
+  </tbody>
+</table>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2281,40 +2305,6 @@ and they became the standard Viennese gift from visitors to Jerusalem for me. Mo
 <p>If we can continue these workshops, things will move faster for everyone. And maybe, just maybe, we can even finally move on to actual mathematics (and other STEM content) on the web.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(with P. Schlicht, D. Schrittesser and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
-        <id>https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html</id>
-        <link href="https://muellersandra.github.io/publication/2018/11/15/PaperLebesgueDensity.html">
-        </link>
-        <updated>2018-11-14T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1811.06489.pdf">PDF.</a> <a href="https://arxiv.org/abs/1811.06489">arXiv.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibMSSW18');" class="title">Bibtex.</a></p>
-
-<div style="display:none" id="bibMSSW18">
-<pre class="collapse"> @ARTICLE{MSSW18,
-   AUTHOR = {S. Müller, P. Schlicht, D. Schrittesser and T. Weinert},
-   TITLE = {Lebesgue's density theorem and definable selectors for ideals},
-   Note={Submitted},
-   EPRINT = {1811.06489} }</pre>
-</div>
-
-<!--more-->
-
-<p>We introduce a notion of density point and prove results analogous to
-Lebesgue’s density theorem for various well-known ideals on Cantor
-space and Baire space. In fact, we isolate a class of ideals for which
-our results hold.</p>
-
-<p>As a contrasting result of independent interest, we
-show that there is no reasonably definable selector that chooses
-representatives for the equivalence relation on the Borel sets of
-having countable symmetric difference. In other words, there is no
-notion of density which makes the ideal of countable sets satisfy an
-analogue to the density theorem.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
         </author>
     </entry>
     <entry>
