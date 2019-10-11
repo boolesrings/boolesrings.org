@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-10-10T22:45:31Z</updated>
+    <updated>2019-10-11T02:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,224 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Structural properties of the stable core]]></title>
+        <id>https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html</id>
+        <link href="https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html">
+        </link>
+        <updated>2019-10-10T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p><span id="FriedmanGitmanMuller:StableCore">S.-D. Friedman, V. Gitman, and S. Müller, “Some properties of the Stable Core,” <i>Manuscript</i>. </span></p>
+
+<p>The first author introduced the inner model <em>stable core</em> while investigating under what
+circumstances the universe $V$ is a class forcing extension of the
+inner model ${\rm HOD}$, the collection of all hereditarily ordinal
+definable sets (missing reference). He showed in (missing reference) that there is a robust $\Delta_2$-definable
+class $S$ contained in ${\rm HOD}$ such that $V$ is a class-forcing extension of the structure $\langle L[S],\in, S\rangle$, which he called the stable core, by an ${\rm Ord}$-cc class partial order $\mathbb P$ definable from $S$. Indeed, for any inner model $M$, $V$ is a $\mathbb P$-forcing extension of $\langle M[S],\in,S\rangle$, so that in particular, since ${\rm HOD}[S]={\rm HOD}$, $V$ is a $\mathbb P$-forcing extension of $\langle {\rm HOD},\in,S\rangle$.</p>
+
+<p>Let's explain the result in more detail for the stable core $L[S]$, noting that exactly the same analysis applies to ${\rm HOD}$. The partial order $\mathbb P$ is definable in $\langle L[S],\in,S\rangle$ and there is a generic filter $G$, meeting all dense sub-classes of $\mathbb P$ definable in $\langle L[S],\in,S\rangle$,
+such that $V=L[S][G]$. All standard forcing theorems hold for $\mathbb P$ since it has the ${\rm Ord}$-cc. Thus, we get that the forcing relation for $\mathbb P$ is definable in $\langle L[S],\in,S\rangle$ and the forcing extension $\langle V,\in,G\rangle\models{\rm ZFC}$. However, this particular generic filter $G$ is not definable in $V$. To obtain $G$, we first force with an auxiliary forcing $\mathbb Q$ to add a particular class $F$, without adding sets, such that $V=L[F]$. We then show that $G$ is definable from $F$ and $F$ is in turn definable in the structure $\langle L[S][G], \in, S,G\rangle$, so that $L[S][G]=V$. This gives a formulation of the result as a ${\rm ZFC}$-theorem because we can say (using the definitions of $\mathbb P$ and $\mathbb Q$) that it is forced by $\mathbb Q$ that $V=L[F]$, where $F$ is $V$-generic for $\mathbb Q$, and (the definition of) $G$ is $\langle L[S],\in,S\rangle$-generic, and finally that $F$ is definable in $\langle L[S][G],\in,S,G\rangle$. Of course, a careful formulation would say that the result holds for all sufficiently large natural numbers $n$, where $n$ bounds the complexity of the formulas used.</p>
+<p>
+Without the niceness requirement on $\mathbb P$ that it has the ${\rm Ord}$-cc, there is a much easier construction of a class forcing notion $\mathbb P$, suggested by Woodin, such that $V$ is a class forcing extension of $\langle {\rm HOD},\in, \mathbb P\rangle$. At the same time, some additional predicate must be added to ${\rm HOD}$ in
+order to realize all of $V$ as a class-forcing extension because, as
+Hamkins and Reitz observed in
+<a href="#HamkinsReitz:The-set-theoretic-universe-is-not-necessarily-a-forcing-extension-of-HOD">[1]</a>,
+it is consistent that $V$ is not a class-forcing extension of ${\rm HOD}$. To construct such a counterexample, we suppose that $\kappa$ is inaccessible in $L$ and force over the Kelley-Morse model $\mathcal L=\langle L_\kappa,\in, L_{\kappa+1}\rangle$ to code the truth predicate of $L_\kappa$ (which is an element of $L_{\kappa+1}$) into the continuum pattern below $\kappa$. The first-order part $L_\kappa[G]$ of this extension cannot be a forcing extension of ${\rm HOD}^{L_\kappa[G]}=L_\kappa$ (by the weak homogeneity of the coding forcing), because the truth predicate of $L_\kappa$ is definable there and this can be recovered via the forcing relation.</p>
+<p>
+While the definition of the partial order $\mathbb P$ is fairly involved, the
+<em>stability predicate</em> $S$ simply codes the elementarity relations
+between sufficiently nice initial segments $H_\alpha$ (the collection of all sets with transitive closure of size less than $\alpha$) of $V$. Given a
+natural number $n\geq 1$, call a cardinal $\alpha$ $n$-<em>good</em> if
+it is a strong limit cardinal and $H_\alpha$ satisfies
+$\Sigma_n$-collection. The predicate $S$ consists of
+triples $(n,\alpha,\beta)$ such that $n\geq 1$, $\alpha$ and $\beta$
+are $n$-good cardinals and $H_\alpha\prec_{\Sigma_n}H_\beta$. We will denote by $S_n$ the $n$-th slice of the stability predicate $S$, namely $S_n=\{(\alpha,\beta)\mid (n,\alpha,\beta)\in S\}$.</p>
+
+<p>
+Clearly the stable core $L[S]\subseteq{\rm HOD}$, and the first author showed in (missing reference) that
+it is consistent that $L[S]$ is smaller than ${\rm HOD}$. The stable core has several nice properties which fail for ${\rm HOD}$ such as that it is partially forcing absolute and, assuming ${\rm GCH}$, is preserved by forcing to code the universe into a real (missing reference)</p>
+
+<p>
+In order to
+motivate the many questions which arise about the stable core let us
+briefly discuss the set-theoretic goals of studying inner models.</p>
+
+<p>The study of canonical inner models has proved to be one of the most
+fruitful directions of modern set-theoretic research. The canonical
+inner models, of which Gödel's constructible universe $L$ was the first
+example, are built bottom-up by a canonical procedure. The resulting
+fine structure of the models leads to regularity properties, such as
+the ${\rm GCH}$ and $\square$, and sometimes even absoluteness
+properties. But all known canonical inner models are incompatible with
+sufficiently large large cardinals, and indeed each such inner model
+is very far from the universe in the presence of sufficiently large
+large cardinals in the sense, for example, that covering fails and the
+large cardinals are not downward absolute.</p>
+<p>
+The inner model ${\rm HOD}$ was introduced by Gödel, who showed that in a
+universe of ${\rm ZF}$ it is always a model of ${\rm ZFC}$. But unlike the
+constructible universe which also shares this property, ${\rm HOD}$ has
+turned out to be highly non-canonical. While $L$ cannot be modified by
+forcing, ${\rm HOD}$ can be easily changed by forcing because we can use
+forcing to code information into ${\rm HOD}$. For instance, any subset of
+the ordinals from $V$ can be made ordinal definable in a set-forcing extension
+by coding its characteristic function into the continuum pattern, so
+that it becomes an element of the ${\rm HOD}$ of the extension. Indeed, by
+coding all of $V$ into the continuum pattern of a class-forcing
+extension, Roguski showed that every universe $V$ is the ${\rm HOD}$ of one
+of its class-forcing extensions <a href="#Roguski:HOD">[2]</a>. Thus, any
+consistent set-theoretic property, including all known large cardinals, consistently holds in ${\rm HOD}$. At the same time, the
+${\rm HOD}$ of a given universe can be very far from it. It is consistent
+that every measurable cardinal is not even weakly compact in ${\rm HOD}$
+and that a universe can have a supercompact cardinal which is not even
+weakly compact in ${\rm HOD}$
+<a href="#ChengFriedmanHamkins:LargeCardinalsNeedNotBeLargeInHOD">[3]</a>. It is
+also consistent that ${\rm HOD}$ is wrong about all successor cardinals
+<a href="#CummingsFriedmanGolshani:CollapsingCardinalsHOD">[4]</a>.</p>
+<p>
+Does the stable core behave more like the canonical inner models or
+more like ${\rm HOD}$? Is there a fine structural version of the stable
+core, does it satisfy regularity properties such as the ${\rm GCH}$? Is
+there a bound on the large cardinals that are compatible with the stable core? Or, on the other hand, are the large cardinals
+downward absolute to the stable core? Can we code information into the
+stable core using forcing?</p><p>
+
+In this article, we show the following results about the structure of
+the stable core, which answer some of the aforementioned questions as
+well as motivate further questions about the structure of the stable
+core in the presence of sufficiently large large cardinals.</p>
+<p>
+Measurable cardinals are consistent with the stable core.</p><p>
+<strong>Theorem</strong>:
+<ol>
+<li> The stable core of $L[\mu]$, the canonical model for one measurable
+  cardinal, is $L[\mu]$. In particular, the stable core can have a measurable cardinal.</li>
+<li> If $\vec U=\langle U_\alpha\mid\alpha\in{\rm Ord}\rangle$ is a discrete collection of normal measures, then the stable core of $L[\vec U]$ is $L[\vec U]$. In particular, the stable core can have a discrete proper class of measurable cardinals.
+</li>
+</ol></p>
+<p>
+We can code information into the stable core over $L$ or $L[\mu]$
+using forcing.</p><p>
+<strong>Theorem</strong>:
+  Suppose $\mathbb P\in L$ is a forcing notion and $G\subseteq \mathbb P$ is
+  $L$-generic. Then there is a further forcing extension $L[G][H]$
+  such that $G\in L[S^{L[G][H]}]$ (the universe of the stable core). An analogous result holds for
+  $L[\mu]$.</p>
+<p>
+An extension of the coding results shows that the ${\rm GCH}$ can fail
+badly in the stable core.</p>
+<p>
+<strong>Theorem</strong>:
+<ol>
+<li>There is a class-forcing extension of $L$ such that in its stable core the ${\rm GCH}$
+  fails at every regular cardinal.</li>
+<li> There is a class-forcing extension of $L[\mu]$ such that in its stable core there is
+  a measurable cardinal and the ${\rm GCH}$ fails on a tail of regular
+  cardinals.</li>
+</ol>
+</p>
+<p>
+Measurable cardinals need not be downward absolute to the stable core.</p>
+<p><strong>Theorem</strong>:
+  There is a forcing extension of $L[\mu]$ in which the measurable
+  cardinal $\kappa$ of $L[\mu]$ remains measurable, but it is not even
+  weakly compact in the stable core.</p>
+<p>
+
+Although we don't know whether the stable core can have a measurable limit of measurables, the stable core has inner models with measurable limits of measurables, and much more. Say that a cardinal $\kappa$ is $1$-<em>measurable</em>
+if it is measurable, and, for $n < \omega$, $(n+1)$-<em>measurable</em> if it
+is measurable and a limit of $n$-measurable cardinals. Write $m_0^\#$ for $0^\#$ and $m_n^\#$ for the minimal mouse which is a sharp for a proper class of $n$-measurable cardinals, namely, an active mouse $\mathcal M$ such that the critical point of the top extender is a limit of $n$-measurable cardinals in $\mathcal M$. Here we mean <em>mouse</em> in the sense of <a href="#Mitchell:BeginningInnerModelTheory">[5]</a> (Sections 1 and 2), i.e., a mouse has only total measures on its sequence. The mouse $m_n^{\#}$ can also be construed as a fine structural
+mouse with both total and partial extenders (see <a href="#Zeman:InnerModelsLargeCardinals">[6]</a>, Section 4).</p>
+<p><strong>Theorem</strong>:
+  For all $n<\omega$, if $m_{n+1}^\#$ exists, then $m_n^\#$ is in the
+  stable core.
+</p>
+<p>
+Moreover, we obtain the following characterization of natural inner
+models of the stable core.
+</p>
+<p>
+<strong>Theorem</strong>:
+  Let $n < \omega$ and suppose that $m_n^\#$ exists. Then whenever
+  $$C_1\supseteq C_2\supseteq\ldots\supseteq C_n$$ are class clubs of
+  uncountable cardinals such that for every $1 < i\leq n$ and every
+  $\gamma \in C_i$,
+\[\langle H_\gamma,\in, C_1,\ldots,C_{i-1}\rangle\prec_{\Sigma_1} \langle V,\in,
+  C_1,\ldots,C_{i-1}\rangle,\] then $L[C_1,\ldots,C_n]$ is a hyperclass-forcing extension of a (truncated) iterate of $m_n^\#$.
+</p>
+
+
+<h2>References</h2>
+<ol class="bibliography"><li><span id="HamkinsReitz:The-set-theoretic-universe-is-not-necessarily-a-forcing-extension-of-HOD">J. D. Hamkins and J. Reitz, “The set-theoretic universe $V$ is not necessarily a class-forcing extension of HOD,” <i>ArXiv e-prints</i>, Sep. 2017. Available at: http://jdh.hamkins.org/the-universe-need-not-be-a-class-forcing-extension-of-hod</span></li>
+<li><span id="Roguski:HOD">S. Roguski, “Cardinals and iterations of ${\rm HOD}$,” <i>Colloq. Math.</i>, vol. 58, no. 2, pp. 159–161, 1990. Available at: https://doi.org/10.4064/cm-58-2-159-161</span></li>
+<li><span id="ChengFriedmanHamkins:LargeCardinalsNeedNotBeLargeInHOD">Y. Cheng, S.-D. Friedman, and J. D. Hamkins, “Large cardinals need not be large in HOD,” <i>Ann. Pure Appl. Logic</i>, vol. 166, no. 11, pp. 1186–1198, 2015. Available at: https://doi.org/10.1016/j.apal.2015.07.004</span></li>
+<li><span id="CummingsFriedmanGolshani:CollapsingCardinalsHOD">J. Cummings, S. D. Friedman, and M. Golshani, “Collapsing the cardinals of HOD,” <i>J. Math. Log.</i>, vol. 15, no. 2, pp. 1550007, 32, 2015. Available at: https://doi.org/10.1142/S0219061315500075</span></li>
+<li><span id="Mitchell:BeginningInnerModelTheory">W. J. Mitchell, “Beginning inner model theory,” in <i>Handbook of set theory. Vols. 1, 2, 3</i>, Springer, Dordrecht, 2010, pp. 1449–1495. Available at: https://doi.org/10.1007/978-1-4020-5764-9_18</span></li>
+<li><span id="Zeman:InnerModelsLargeCardinals">M. Zeman, <i>Inner Models and Large Cardinals</i>. Walter de Gruyter, 2002. Available at: https://books.google.at/books?id=V0bLReBbRDEC</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ground model definability in ${\rm ZF}$]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html">
+        </link>
+        <updated>2019-10-10T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://jointmathematicsmeetings.org/jmm">Joint Mathematics Meeting</a>, special session on 'Choiceless Set Theory and related areas', University of Denver, January 15-16, 2020.<br><strong><a href="">Slides</a></strong><!--more--></p>
+<p>
+Laver, and independently Woodin, showed that a ground model is always definable (with a ground model parameter) in its set-forcing extensions <a href="#laver:groundmodel">[1]</a>, <a href="#woodin:groundmodel">[2]</a>. More so, the definition is uniform for all ${\rm ZFC}$-universes: there is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZFC}$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V$ of size $|\mathbb P|^V=\gamma$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$ with $\delta=(\gamma^+)^V(=(\gamma^+)^{V[G]})$. Let's explain what the formula $\varphi(x,P^V(\delta))$ says. Let ${\rm Z}^*$ be a certain finite fragment of ${\rm ZFC}$. We will say that a transitive model $M\in V[G]$ is <em>good</em> if $M\models {\rm Z}^*$, $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$. The formula $\varphi(x,P^V(\delta))$ then holds of a set $x$ if $x$ is an element of a good model $M$ of height $\lambda\gg\delta$ such that $V[G]_\lambda\models {\rm Z}^*$ and the pair $M\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties (we will explain what those are in a moment). Here is the reason the formula works. Any forcing extension by a poset of size less than a regular cardinal $\delta$ has the property that there are unboundedly many ordinals $\lambda$ such that both $V_\lambda$ and $V[G]_\lambda$ satisfy ${\rm Z}^*$ and the pair $V_\lambda\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties. Also, if there is a good model $M$ of height $\lambda$ with $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$ such that that pair $M\subseteq V[G]_\delta\models {\rm Z}^*$ has the the $\delta$-cover and $\delta$-approximation properties, then the model is unique. Hence such a model $M$ of height $\lambda$ can only be $V_\lambda$.</p>
+<p>
+The notions of $\delta$-cover and $\delta$-approximation properties are due to Hamkins <a href="#hamkins:coverandapproximations">[3]</a>. Suppose that $V\subseteq W$ are transitive models of (some fragment of) ${\rm ZFC}$ and $\delta$ is a cardinal in $W$.
+<ol>
+<li>
+The pair $V\subseteq W$ satisfies the <em>$\delta$-cover property</em> if for every $A\in W$ with $A\subseteq V$ and $|A|^W<\delta$, there is $B\in V$ with $A\subseteq B$ and $|B|^V<\delta$.</li>
+<li>The pair $V\subseteq W$ satisfies the <em>$\delta$-approximation property</em> if whenever $A\in W$ with $A\subseteq V$ and $A\cap a\in V$ for every $a$ of size less than $\delta$ in $V$, then $A\in V$.</li>
+</ol>
+</p>
+<p>
+Because the existence of cardinalities is fundamental to the definition of the cover and approximation properties, these notions appear to rely  essentially on the axiom of choice. Therefore proofs of ground model definability based on these properties cannot be easily modified to work in the absence of choice. It is not known yet whether ground definability holds in ${\rm ZF}$. There are partial positive results and no known counterexamples.</p>
+
+<p>With Tom Johnstone, we adapted the approximation and cover properties arguments to show that for a cardinal $\delta$, uniform ground model definability holds in models of ${\rm ZF}+{\rm DC}_\delta$ for posets admitting a gap at $\delta$.</p>
+<p>
+<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZF}+{\rm DC}_\delta$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P$ admitting a gap at $\delta$ in $V$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$.
+</p><p>
+A poset is said to <em>admit a gap at $\delta$</em> if it has the form $\mathbb R*\dot{\mathbb Q}$ where $\mathbb R$ is a non-trivial forcing of size less than $\delta$ and it is forced by $\mathbb R$ that is $\dot{\mathbb Q}$ is $\leq\delta$-strategically closed. The $\delta$-dependent choice principle ${\rm DC}_\delta$, introduced by Lévy, allows us to make $\delta$-many dependent choices along any relation without terminal nodes. It asserts that for any non-empty set $S$ and any binary relation  $R$, if for each sequence $s\in S^{\lt\delta}$ there is a $y\in S$ such that $s$ is $R$ related $y$, then there is a function $f:\delta\to S$ such that $f\upharpoonright\alpha \,R\, f(\alpha)$ for all $\alpha<\delta$. The principle ${\rm DC}_\delta$ is robust for forcing with posets admitting a gap at $\delta$ because they preserve it to the forcing extension (see <a href="#gitmanjohnstone:groundmodels">[4]</a>).</p>
+<p>
+A very different recent partial result on ${\rm ZF}$-ground model definability is due to Usuba <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Usuba showed that if a ${\rm ZF}$-universe has a proper class of Löwenheim-Skolem cardinals, a notion which he introduces, then uniform ground model definability holds for it.</p><p>
+<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V$ is a model of ${\rm ZF}$ with a proper class of Löwenheim-Skolem cardinals and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V_\kappa$ for a Lowenheim-Skolem cardinal $\kappa$, then $V$ is defined in the extension $V[G]$ by $\varphi(x,V_\kappa)$.</p><p>
+
+Usuba's proof is another modification of the arguments using cover and approximation, where he replaces the notion of cardinality by a rough measure on sets, defining for a set $x$ that the measure $|\!|x|\!|$ is the least ordinal $\alpha$ such that there is a surjection from $V_\alpha$ onto $x$.
+</p><p>
+An uncountable cardinal $\kappa$ is a <em>Löwenheim-Skolem</em> (${\rm LS}$) <em>cardinal</em> if for every $\gamma<\kappa\leq\alpha$ and $x\in V_\alpha$, there is $\beta>\alpha$ and an elementary $X\prec V_\beta$ such that
+<ol>
+<li>$V_\gamma\subseteq X$,</li>
+<li>$x\in X$,</li>
+<li>the transitive collapse of $X$ belongs to $V_\kappa$,</li>
+<li>$(X\cap V_\alpha)^{V_\gamma}\subseteq X$.</li>
+</ol>
+In a model of ${\rm ZFC}$, the ${\rm LS}$ cardinals are precisely the $\beth$-fixed point cardinals, and so in particular there are proper class many ${\rm LS}$ cardinals. Let us say, following Woodin, that an uncountable cardinal $\kappa$ is <em>supercompact</em> in a model of ${\rm ZF}$ if for every $\alpha\geq\kappa$, there is $\beta\geq\alpha$, a transitive set $N$ and an elementary embedding $j:V_\beta\to N$ such that the critical point of $j$ is $\kappa$, $\alpha < j(\kappa)$, and $N^{V_\alpha}\subseteq N$. It is not difficult to see that every supercompact cardinal is an ${\rm LS}$ cardinal. So, for example, models of ${\rm ZF}$ with a proper class of supercompact cardinals satisfy uniform ground model definability. </p>
+<p>
+The existence of ${\rm LS}$ cardinals is absolute throughout the generic multiverse <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. It follows that if we can force choice over a ${\rm ZF}$-universe, then since its forcing extension has a proper class of ${\rm LS}$ cardinals, it must have a proper class of ${\rm LS}$ cardinals as well. Thus, in particular, ground model definability holds for any ${\rm ZF}$-universe, such as $L(\mathbb R)$, over which we can force the axiom of choice.</p>
+<p>
+At the same time, it is known that there are ${\rm ZF}$ universes without any ${\rm LS}$-cardinals. Let's explain how. Usuba showed that if $\kappa$ is an ${\rm LS}$-cardinal, then the club filter on $\kappa^+$ must be $\kappa$-complete <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Asaf Karagila showed that every model $V$ of ${\rm ZFC}$ has an extension to a model of ${\rm ZF}$ with the same cofinalities in which the club filter is not $\sigma$-complete on every regular cardinal $\kappa$ <a href="#karagila:Fodor">[6]</a>. This model cannot have any ${\rm LS}$ cardinals because if $\kappa$ in it was an ${\rm LS}$-cardinal, then $\kappa^+$ would be a regular cardinal (since cofinalities from $V$ are preserved) with a $\kappa$-complete club filter.</p>
+<p>
+One important consequence of uniform ground model definability is that it makes it possible to define in a first-order way the collection of all grounds of a ${\rm ZFC}$-universe. A priori this is a collection of classes, a second-order notion, but using ground model definability we can write down a first-order formula $\psi(x,y)$ such that for every set $a$, the class $W_a=\{x\mid \psi(x,a)\}$ is a ground of $V$ and for every $W$ ground of $V$, there is a set $a$ such that $W=W_a$. The first-order definability of the collection of grounds makes it possible to study their structure in ${\rm ZFC}$. This has led to the very fruitful subject of set-theoretic geology, initiated by Fuchs, Hamkins, and Reitz, which explores the structure of grounds of a set-theoretic universe. Ground model definability for ${\rm ZF}$ would allow us to extend the same analysis to ${\rm ZF}$-universes, and Usuba's theorem has now made such an analysis possible for a large collection of models, namely those with a proper class of ${\rm LS}$ cardinals. 
+
+We will have to wait to find out whether ground definability holds fully in ${\rm ZF}$.
+
+<h2>References</h2>
+<ol class="bibliography"><li><span id="laver:groundmodel">R. Laver, “Certain very large cardinals are not created in small forcing
+              extensions,” <i>Ann. Pure Appl. Logic</i>, vol. 149, no. 1-3, pp. 1–6, 2007. Available at: http://dx.doi.org/10.1016/j.apal.2007.07.002</span></li>
+<li><span id="woodin:groundmodel">H. Woodin, “Recent developments on Cantor’s Continuum Hypothesis,” in <i>Proceedings of the continuum in Philosophy and Mathematics</i>, 2004. </span></li>
+<li><span id="hamkins:coverandapproximations">J. D. Hamkins, “Extensions with the approximation and cover properties have no
+              new large cardinals,” <i>Fund. Math.</i>, vol. 180, no. 3, pp. 257–277, 2003. Available at: http://dx.doi.org/10.4064/fm180-3-4</span></li>
+<li><span id="gitmanjohnstone:groundmodels">V. Gitman and T. A. Johnstone, “On ground model definability,” in <i>Infinity, Computability, and Metamathematics: Festschrift in honour of the 60th birthdays of Peter Koepke and Philip Welch</i>, London, GB: College publications, 2014. </span></li>
+<li><span id="Usuba:ZFGroundModelDefinability">T. Usuba, “Choiceless Löwenheim-Skolem property and uniform definability of grounds,” <i>Manuscript</i>. </span></li>
+<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(with S.-D. Friedman and V. Gitman) Structural Properties of the Stable Core]]></title>
         <id>https://muellersandra.github.io/publication/2019/10/05/PaperStableCore.html</id>
@@ -1089,32 +1307,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -1133,6 +1325,32 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1232,36 +1450,6 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Set theories with classes]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
-
-<div class="figure">
-<img src="/images/asl2019.jpeg" />
-</div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A primer on the set-theoretic multiverse]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/04/11/a-primer-on-the-set-theoretic-multiverse.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="https://sites.google.com/a/vcu.edu/alps/">ALPS Seminar</a>, Virginia Commonwealth University , April 12, 2019.<br><strong><a href="/files/ModernSetTheory.pdf">Slides</a></strong><!--more--></p>
-
-<p><strong>Abstract:</strong> Set Theory is the study of properties of sets, which are the building blocks of all mathematical objects. It is a fairly young discipline that, in the early 19th century, arose out of attempts by mathematicians to provide a formal foundation for their work. Building on pioneering work of Georg Cantor, mathematicians codified elementary properties of sets by the Zermelo-Fraenkel axioms ZFC, but establishing even such basic properties of sets as the size of the continuum from the ZFC axioms proved difficult. This was soon partially explained by Godel's Incompleteness Theorem, which showed that no sufficiently complex axiomatic system can decide the truth of all assertions. Sophisticated techniques, such as forcing, developed by set theorists over the course of the 20th century showed that most interesting properties of sets are not decided by ZFC, so that we can equally well consider both ZFC augmented by such a  property or by its negation. At the same time, set theorists introduced a hierarchy of strong axiomatic systems extending ZFC that impose an elegant structure on the mathematical universe. If we believe that to each of these various axiomatic systems corresponds a mathematical universe satisfying them, then there is a multiverse of mathematical universes, each with its own version of mathematics. In this talk, I will give an overview of modern set theoretic research and argue that it leads naturally to the conception of set theory as the study of the multiverse of mathematical universes, and that this view in turn leads to fruitful avenues of mathematical research.</p>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
         <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
@@ -1335,6 +1523,23 @@ Let us conclude the introduction by mentioning the following easy negative insta
 <h2>References</h2>
 <ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
 <li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set theories with classes]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/04/11/set-theories-with-classes.html">
+        </link>
+        <updated>2019-04-11T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the special set theory session, <a href="https://asl2019.commons.gc.cuny.edu/">Association for Symbolic Logic 2019 Annual North American Meeting</a>, CUNY Graduate Center, May 20-23, 2019.<br><strong><a href="/files/secondOrderSetTheoryCUNY.pdf">Slides</a></strong><!--more--></p>
+
+<p><strong>Abstract</strong>: Second-order set theory is the set-theoretic cousin of the extensively studied field of second-order arithmetic. It is formalized in a two-sorted logic with separate objects for sets and classes. Second-order set theory removes the limitation imposed by ${\rm ZFC}$ of having to work only with definable collections, and allows us to formally consider interesting never definable classes such as truth predicates. With this formal background, we can study properties of class forcing and understand how and why it fails to share many of the nice properties of set forcing. In this talk, I will discuss the hierarchy of second-order set theories from Gödel-Bernays set theory ${\rm GBC}$ to beyond Kelley-Morse theory ${\rm KM}$. Along the way, I will establish some unexpected connections between models of second-order set theories and models of ${\rm ZFC}$ without the powerset axiom. I will also introduce an incipient program of reverse mathematics of second-order set theory which aims to place in the hierarchy various natural class set-theoretic principles such as the class forcing theorem, transfinite recursion with classes, and determinacy of games on the ordinals.</p>
+
+<div class="figure">
+<img src="/images/asl2019.jpeg" />
+</div>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1616,68 +1821,6 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
 <p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4556, '')" href="http://www.assafrinot.com/files/rinot_arctic2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/38" class="billet_further"></a><a href="http://www.assafrinot.com/talk/arctic2019" class="billet_perm"></a></td></tr></table></p><span id="more-4556"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A $\square(\kappa)$-like principle consistent with weak compactness]]></title>
-        <id>https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html</id>
-        <link href="https://victoriagitman.github.io/publications/2019/02/09/square-like-principle-consistent-with-weak-compactness.html">
-        </link>
-        <updated>2019-02-09T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><span id="CodyGitmanLambieHanson:SquarePrinciple">B. Cody, V. Gitman, and C. Lambie-Hanson, “A $\square(κ)$-like principle consistent with weak compactness,” <i>Submitted</i>. </span></p>
-<p>In this paper, we introduce and investigate an incompactness principle we call $\square_1(\kappa)$, which is closely related to $\square(\kappa)$ but is consistent with weak compactness. Let us begin by recalling the basic facts about $\square(\kappa)$. </p>
-
-<p>The principle $\square(\kappa)$ asserts that there is a $\kappa$-length coherent sequence of clubs $\vec{C}=\langle C_\alpha\mid\alpha\in\text{lim}(\kappa)\rangle$ that cannot be threaded. For an uncountable cardinal $\kappa$, a sequence $\vec{C}=\langle C_\alpha\mid\alpha\in\text{lim}(\kappa)\rangle$ of clubs $C_\alpha\subseteq\alpha$ is called <em>coherent</em> if whenever $\beta$ is a limit point of $C_\alpha$ we have $C_\beta=C_\alpha\cap\beta$. Given a coherent sequence $\vec{C}$, we say that $C$ is a <em>thread</em> through $\vec{C}$ if $C$ is a club subset of $\kappa$ and $C\cap\alpha=C_\alpha$ for every limit point $\alpha$ of $C$. A coherent sequence $\vec{C}$ is called a $\square(\kappa)$-sequence if it cannot be threaded, and $\square(\kappa)$ holds if there is a $\square(\kappa)$-sequence. It is easy to see that $\square(\kappa)$ implies that $\kappa$ is not weakly compact, and thus $\square(\kappa)$ can be viewed as asserting that $\kappa$ exhibits a certain amount of incompactness. The principle $\square(\kappa)$ was isolated by Todorčević <a href="#Todorcevic:squareKappa">[1]</a>, building on work of Jensen <a href="#Jensen:FineStructure">[2]</a>, who showed that, if $V = L$, then $\square(\kappa)$ holds for every regular uncountable $\kappa$ that is not weakly compact.</p>
-<p>
-The natural ${\leq}\kappa$-strategically closed forcing to add a $\square(\kappa)$-sequence (<a href="#LambieHanson:SquaresAndCoveringMatrices">[3]</a>, Lemma 35) preserves the inaccessibility as well as the Mahloness of $\kappa$, but kills the weak compactness of $\kappa$ and indeed adds a non-reflecting stationary set. However, if $\kappa$ is weakly compact, there is a forcing <a href="#HayutLambieHanson:SimultaneousStationaryReflectionAndSquareSequences">[4]</a> which adds a $\square(\kappa)$-sequence and also preserves the fact that every stationary subset of $\kappa$ reflects. Thus, relative to the existence of a weakly compact cardinal, $\square(\kappa)$ is consistent with ${\rm Refl}(\kappa)$, the principle that every stationary set reflects. However, $\square(\kappa)$ implies the failure of the simultaneous stationary reflection principle ${\rm Refl}(\kappa,2)$ which states that if $S$ and $T$ are any two stationary subsets of $\kappa$, then there is some $\alpha<\kappa$ with ${\rm cf}(\alpha)>\omega$ such that $S\cap \alpha$ and $T\cap\alpha$ are both stationary in $\alpha$. In fact, $\square(\kappa)$ implies that every stationary subset of $\kappa$ can be partitioned into two stationary sets that do not simultaneously reflect (<a href="#HayutLambieHanson:SimultaneousStationaryReflectionAndSquareSequences">[4]</a>, Theorem 2.1).</p>
-
-<p>If $\kappa$ is a weakly compact cardinal, then the collection of non-$\Pi^1_1$-indescribable subsets of $\kappa$ forms a natural normal ideal called the $\Pi^1_1$-indescribability ideal:
-$$\Pi^1_1(\kappa)=\{X\subseteq\kappa\mid \text{$X$ is not $\Pi^1_1$-indescribable}\}.$$
-A set $S\subseteq\kappa$ is <em>$\Pi^1_1$-indescribable</em> if for every $A\subseteq V_\kappa$ and every $\Pi^1_1$-sentence $\varphi$, whenever $(V_\kappa,\in,A)\models\varphi$ there is an $\alpha\in S$ such that $(V_\alpha,\in,A\cap V_\alpha)\models\varphi$. More generally, a $\Pi^1_n$-indescribable cardinal $\kappa$ carries the analogously defined $\Pi^1_n$-indescribability ideal. It is natural to ask the question: which results concerning the nonstationary ideal can be generalized to the various ideals associated to large cardinals, such as the $\Pi^1_n$-indescribability ideals? The work of Sun <a href="#Sun:StationaryCardinals">[5]</a> and Hellsten <a href="#Hellsten:DiamondsOnLargeCardinals">[6]</a> showed that when $\kappa$ is $\Pi^1_n$-indescribable the collection of \emph{$n$-club} subsets of $\kappa$ is a filter-base for the filter $\Pi^1_n(\kappa)^*$ dual to the $\Pi^1_n$-indescribability ideal, yielding a characterization of $\Pi^1_n$-indescribable sets that resembles the definition of stationarity: when $\kappa$ is $\Pi^1_n$-indescribable, a set $S\subseteq\kappa$ is $\Pi^1_n$-indescribable if and only if $S\cap C\neq\emptyset$ for every $n$-club $C\subseteq\kappa$. Several recent results have used this characterization (<a href="#Hellsten:OrdersOfIndescribableSets">[7]</a>, <a href="#Hellsten:SaturationOfTheWeaklyCompactIdeal">[8]</a>, <a href="#Cody:AddingANonReflectingWeaklyCompactSet">[9]</a> and <a href="#CodySakai:WeaklyCompactAtLeastOmegaWeaklyCompact">[10]</a>) to generalize theorems concerning the nonstationary ideal to the $\Pi^1_1$-indescribability ideal. For technical reasons, there has been less success with the $\Pi^1_n$-indescribability ideals for $n>1$. In this article we continue this line of research: by replacing "clubs" with "$1$-clubs" we obtain a $\square(\kappa)$-like principle $\square_1(\kappa)$ that is consistent with weak compactness but not with $\Pi^1_2$-indescribability.</p>
-
-<p>We will see that the principle $\square_1(\kappa)$ holds trivially at weakly compact cardinals $\kappa$ below which stationary reflection fails. (This is analogous to the fact that $\square(\kappa)$ holds trivially for every $\kappa$ of cofinality $\omega_1$.) Thus, the task at hand is not just to show that $\square_1(\kappa)$ is consistent with the weak compactness of $\kappa$, but to show that it is consistent with the weak compactness of $\kappa$ even when stationary reflection holds at many cardinals below $\kappa$, so that nontrivial coherence of the sequence is obtained. Recall that when $\kappa$ is $\kappa^+$-weakly compact, the set of weakly compact cardinals below $\kappa$ is weakly compact and much more, so, in particular, the set of inaccessible $\alpha<\kappa$ at which stationary reflection holds is weakly compact.</p>
-
-<p><strong>Theorem:</strong>
-If $\kappa$ is $\kappa^+$-weakly compact and the ${\rm GCH}$ holds, then there is a cofinality-preserving forcing extension in which
-<ul>
-<li>$\kappa$ remains $\kappa^+$-weakly compact</li>
-<li> and $\square_1(\kappa)$ holds.</li>
-</ul>
-</p>
-
-<p>We will also investigate the relationship between $\square_1(\kappa)$ and weakly compact reflection principles. The <em>weakly compact reflection principle</em> ${\rm Refl}_1(\kappa)$ states that $\kappa$ is weakly compact and for every weakly compact $S\subseteq \kappa$ there is an $\alpha<\kappa$ such that $S\cap\alpha$ is weakly compact. It is straightforward to see that if $\kappa$ is $\Pi^1_2$-indescribable, then ${\rm Refl}_1(\kappa)$ holds, and if ${\rm Refl}_1(\kappa)$ holds, then $\kappa$ is $\omega$-weakly compact (see <a href="#Cody:AddingANonReflectingWeaklyCompactSet">[9]</a>). However, the following results show that neither of these implications can be reversed. The first author <a href="#Cody:AddingANonReflectingWeaklyCompactSet">[9]</a> showed that if ${\rm Refl}_1(\kappa)$ holds then there is a forcing which adds a non-reflecting weakly compact subset of $\kappa$ and preserves the $\omega$-weak compactness of $\kappa$, hence the $\omega$-weak compactness of $\kappa$ does not imply ${\rm Refl}_1(\kappa)$. The first author and Hiroshi Sakai <a href="#CodySakai:WeaklyCompactAtLeastOmegaWeaklyCompact">[10]</a> showed that ${\rm Refl}_1(\kappa)$ can hold at the least $\omega$-weakly compact cardinal, and hence ${\rm Refl}_1(\kappa)$ does not imply the $\Pi^1_2$-indescribability of $\kappa$. Just as $\square(\kappa)$ and ${\rm Refl}(\kappa)$ can hold simultaneously relative to a weakly compact cardinal, we will prove that $\square_1(\kappa)$ and ${\rm Refl}_1(\kappa)$ can hold simultaneously relative to a $\Pi^1_2$-indescribable cardinal.</p>
-
-
-<p><strong>Theorem:</strong>
-Suppose that $\kappa$ is $\Pi^1_2$-indescribable and the ${\rm GCH}$ holds. Then there is a cofinality-preserving forcing extension in which
-<ul>
-<li> $\square_1(\kappa)$ holds,</li>
-<li> ${\rm Refl}_1(\kappa)$ holds and</li>
-<li> $\kappa$ is $\kappa^+$-weakly compact.</li>
-</ul>
-</p>
-
-Using $n$-club subsets of $\kappa$, we formulate a generalization of $\square_1(\kappa)$ to higher degrees of indescribability. It is easily seen that $\square_n(\kappa)$ implies that $\kappa$ is not $\Pi^1_{n+1}$-indescribable. However, for technical reasons  our methods do not seem to show that $\square_n(\kappa)$ can hold nontrivially when $\kappa$ is $\Pi^1_n$-indescribable. Our methods do allow for a generalization of Hellsten's $1$-club shooting forcing to $n$-club shooting, and we also show that, if $S$ is a $\Pi^1_n$-indescribable set, a $1$-club can be shot through
-$S$ while preserving the $\Pi^1_n$-indescribability of all $\Pi^1_n$-indescribable subsets of $S$.
-
-Finally, we consider the influence of $\square_n(\kappa)$ on \emph{simultaneous} reflection of
-$\Pi^1_n$-indescribable sets. We let ${\rm Refl}_n(\kappa,\mu)$ denote the following simultaneous reflection principle: $\kappa$ is $\Pi^1_n$-indescribable and whenever $\{S_\alpha\mid\alpha<\mu\}$ is a collection of $\Pi^1_n$-indescribable sets, there is a $\beta<\kappa$ such that $S_\alpha\cap\beta$ is $\Pi^1_n$-indescribable for all $\alpha < \mu$. We show that for $n\geq 1$, if $\square_n(\kappa)$ holds at a $\Pi^1_n$-indescribable cardinal, then the simultaneous reflection principle ${\rm Refl}_n(\kappa,2)$ fails. As a consequence, we show that relative to a $\Pi^1_2$-indescribable cardinal, it is consistent that ${\rm Refl}_1(\kappa)$ holds and ${\rm Refl}_1(\kappa,2)$ fails.
-
-
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="Todorcevic:squareKappa">S. Todorčević, “Partitioning pairs of countable ordinals,” <i>Acta Math.</i>, vol. 159, no. 3-4, pp. 261–294, 1987. Available at: https://doi.org/10.1007/BF02392561</span></li>
-<li><span id="Jensen:FineStructure">R. B. Jensen, “The fine structure of the constructible hierarchy,” <i>Ann. Math. Logic</i>, vol. 4, pp. 229–308; erratum, ibid. 4 (1972), 443, 1972. Available at: http://dx.doi.org/10.1016/0003-4843(72)90001-0</span></li>
-<li><span id="LambieHanson:SquaresAndCoveringMatrices">C. Lambie-Hanson, “Squares and covering matrices,” <i>Ann. Pure Appl. Logic</i>, vol. 165, no. 2, pp. 673–694, 2014. Available at: https://doi.org/10.1016/j.apal.2013.10.001</span></li>
-<li><span id="HayutLambieHanson:SimultaneousStationaryReflectionAndSquareSequences">Y. Hayut and C. Lambie-Hanson, “Simultaneous stationary reflection and square sequences,” <i>J. Math. Log.</i>, vol. 17, no. 2, pp. 1750010, 27, 2017. Available at: https://doi-org.proxy.library.vcu.edu/10.1142/S0219061317500106</span></li>
-<li><span id="Sun:StationaryCardinals">W. Z. Sun, “Stationary cardinals,” <i>Arch. Math. Logic</i>, vol. 32, no. 6, pp. 429–442, 1993. Available at: http://dx.doi.org/10.1007/BF01270466</span></li>
-<li><span id="Hellsten:DiamondsOnLargeCardinals">A. Hellsten, “Diamonds on large cardinals,” <i>Ann. Acad. Sci. Fenn. Math. Diss.</i>, no. 134, p. 48, 2003. </span></li>
-<li><span id="Hellsten:OrdersOfIndescribableSets">A. Hellsten, “Orders of indescribable sets,” <i>Arch. Math. Logic</i>, vol. 45, no. 6, pp. 705–714, 2006. Available at: http://dx.doi.org/10.1007/s00153-006-0015-1</span></li>
-<li><span id="Hellsten:SaturationOfTheWeaklyCompactIdeal">A. Hellsten, “Saturation of the weakly compact ideal,” <i>Proc. Amer. Math. Soc.</i>, vol. 138, no. 9, pp. 3323–3334, 2010. Available at: http://dx.doi.org/10.1090/S0002-9939-2010-10399-4</span></li>
-<li><span id="Cody:AddingANonReflectingWeaklyCompactSet">B. Cody, “Adding a non-reflecting weakly compact set,” <i>Accepted at Notre Dame Journal of Formal Logic</i>. Available at: https://arxiv.org/abs/1701.04358</span></li>
-<li><span id="CodySakai:WeaklyCompactAtLeastOmegaWeaklyCompact">B. Cody and H. Sakai, “The weakly compact reflection principle need not imply a high order of weak compactness,” <i>Submitted</i>. Available at: https://arxiv.org/abs/1707.08506</span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
