@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-10-15T10:45:36Z</updated>
+    <updated>2019-10-15T14:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -32,14 +32,15 @@
         <link href="https://muellersandra.github.io/publication/2019/10/11/PaperPSPweaklycompact.html">
         </link>
         <updated>2019-10-10T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="http://www.logic.univie.ac.at/~smueller/HayutMuellerPSPwc.pdf">PDF.</a> 
+        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1910.05159.pdf">PDF.</a> <a href="https://arxiv.org/abs/1910.05159">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibHM19');" class="title">Bibtex.</a></p>
 
 <div style="display:none" id="bibHM19">
 <pre class="collapse"> @ARTICLE{HM19,
    AUTHOR= {Y. Hayut and S. Müller},
    TITLE= {Perfect Subtree Property for Weakly Compact Cardinals},
-   Note={Submitted} }</pre>
+   Note={Submitted},
+    EPRINT ={1910.05159}}</pre>
 </div>
 
 <!--more-->
@@ -831,14 +832,17 @@ The same result for models of ${\rm PA}$ was shown by Kotlarski, Krajewski, and 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rutgers MAMLS 2019 - TBA]]></title>
+        <title type="html"><![CDATA[Rutgers MAMLS 2019 - Sealed Trees and the Perfect Subtree Property for Weakly Compact Cardinals]]></title>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/15/TalkMAMLS.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/15/TalkMAMLS.html">
         </link>
         <updated>2019-07-14T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>I am invited to give a talk at the 2019 edition of <a href="http://www.grigorsargis.net/RutgersMamls2019.html">Rutgers MAMLS</a>
-taking place Nov 1-3, 2019 at Rutgers University, USA. Title and
-abstract for the talk will be announced in due course.</p>]]></summary>
+taking place Nov 1-3, 2019 at Rutgers University, USA.</p>
+
+<p><em>Sealed Trees and the Perfect Subtree Property for Weakly Compact Cardinals</em></p>
+
+<p><em>Abstract:</em> We investigate the consistency strength of the statement: $\kappa$ is weakly compact and there is no tree on $\kappa$ with exactly $\kappa^{+}$ many branches. We show that this property fails strongly (there is a <em>sealed tree</em>) if there is no inner model with a Woodin cardinal. On the other hand, we show that this property as well as the related Perfect Subtree Property for $\kappa$, implies the consistency of $\operatorname{AD}_{\mathbb{R}}$. This is joint work with Yair Hayut.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -849,11 +853,17 @@ abstract for the talk will be announced in due course.</p>]]></summary>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/14/TalkLuminy.html">
         </link>
         <updated>2019-07-13T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>During the week of September 23 - 27, 2019 I will attend the <a href="https://conferences.cirm-math.fr/2052.html">15th International Luminy Workshop in Set Theory</a> and give a talk.</p>
+        <summary type="html"><![CDATA[<p>During the week of September 23 - 27, 2019 I attended the <a href="https://conferences.cirm-math.fr/2052.html">15th International Luminy Workshop in Set Theory</a> and gave a talk.</p>
 
 <p><em>Lower bounds for the perfect subtree property at weakly compact cardinals</em></p>
 
-<p><em>Abstract:</em> By the Cantor-Bendixson theorem, subtrees of the binary tree on $\omega$ satisfy a dichotomy - either the tree has countably many branches or there is a perfect subtree (and in particular, the tree has continuum many branches, regardless of the size of the continuum). We generalize this to arbitrary regular cardinals $\kappa$ and ask whether every $\kappa$-tree with more than $\kappa$ branches has a perfect subtree. From large cardinals, this statement is consistent at a weakly compact cardinal $\kappa$. We show using stacking mice that the existence of a non-domestic mouse (which yields a model with a proper class of Woodin cardinals and strong cardinals) is a lower bound. Moreover, we study variants of this statement involving sealed trees, i.e. trees with the property that their set of branches cannot be changed by certain forcings, and obtain lower bounds for these as well. This is joint work with Yair Hayut.</p>]]></summary>
+<p><em>Abstract:</em> By the Cantor-Bendixson theorem, subtrees of the binary tree on $\omega$ satisfy a dichotomy - either the tree has countably many branches or there is a perfect subtree (and in particular, the tree has continuum many branches, regardless of the size of the continuum). We generalize this to arbitrary regular cardinals $\kappa$ and ask whether every $\kappa$-tree with more than $\kappa$ branches has a perfect subtree. From large cardinals, this statement is consistent at a weakly compact cardinal $\kappa$. We show using stacking mice that the existence of a non-domestic mouse (which yields a model with a proper class of Woodin cardinals and strong cardinals) is a lower bound. Moreover, we study variants of this statement involving sealed trees, i.e. trees with the property that their set of branches cannot be changed by certain forcings, and obtain lower bounds for these as well. This is joint work with Yair Hayut.</p>
+
+<p><a href="https://www.cirm-math.fr/RepOrga/2052/Slides/MuellerLuminy.pdf">Slides</a>.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/155ofO_EZg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Click <a href="https://library.cirm-math.fr/Record.htm?idlist=127&amp;record=19286559124910047319">here</a> to go to the video in the CIRM library.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
