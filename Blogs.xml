@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-02T07:45:33Z</updated>
+    <updated>2019-11-02T11:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -30,7 +30,7 @@
                   id="thanksButton_4607_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
              </div><div id="ajax_loader_4607_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://people.vcu.edu/~cblambiehanso/">Chris Lambie-Hanson</a>.</p>
 <p><strong>Abstract. </strong>Motivated by a characterization of weakly compact cardinals due to Todorcevic,<br />
-we introduce a new cardinal characteristic, <em>the C-sequence number</em>, which can be seen as a measure of the compactness of a regular uncountable cardinal. We prove a number of ZFC and independence results about the C-sequence number and its relationship with large cardinals, stationary reflection, and square principles.<br />
+we introduce a new cardinal characteristic, <em>the C-sequence number</em>, which can be seen as a measure of the compactness of a regular uncountable cardinal. We prove a number of <strong>ZFC</strong> and independence results about the C-sequence number and its relationship with large cardinals, stationary reflection, and square principles.<br />
 We then introduce and study the more general C-sequence spectrum and uncover some tight<br />
 connections between the C-sequence spectrum and the strong coloring principle introduced in <a href="http://www.assafrinot.com/paper/34">Part I</a> of this series.</p>
 <p><span id="more-4607"></span></p>

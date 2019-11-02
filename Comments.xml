@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-02T07:45:25Z</updated>
+    <updated>2019-11-02T11:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,19 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Knaster and friends I: Closed colorings and precalibers by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4530#comment-744</id>
+        <link href="http://blog.assafrinot.com/?p=4530#comment-744">
+        </link>
+        <updated>2019-11-02T11:05:13Z</updated>
+        <summary type="html"><![CDATA[<p>Correction of two typos:<br />
+1. At the opening of the proof of Theorem 4.23, where it says &#8220;By Corollary 4.19&#8221;, it should have been &#8220;By Corollary 4.12&#8221;.<br />
+2. Later in the proof of Theorem 4.23, where defining the ordinal $\Lambda$, the function $\lambda_2^k$ should have been $\lambda_2$ (the extra superscript is only relevant to the proof of Case 2 of Theorem 4.21, and is redundant here).</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Solution to my transfinite epistemic logic puzzle, Cheryl’s Rational Gifts by Cheryl’s Rational Gifts: transfinite epistemic logic puzzle challenge! | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/solution-transfinite-epistemic-logic-puzzle/#comment-10708</id>
@@ -280,18 +293,6 @@ Accepted, January 2019.</p>]]></summary>
         <updated>2018-12-19T06:12:10Z</updated>
         <summary type="html"><![CDATA[<p>Submitted to Mathematical Logic Quarterly, October 2018.<br />
 Accepted, December 2018.</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Knaster and friends I: Closed colorings and precalibers by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4530#comment-613</id>
-        <link href="http://blog.assafrinot.com/?p=4530#comment-613">
-        </link>
-        <updated>2018-09-28T23:23:40Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted to Algebra Universalis, June 2018.<br />
-Accepted, September 2018.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
