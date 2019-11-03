@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-03T19:45:33Z</updated>
+    <updated>2019-11-03T23:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -870,7 +870,9 @@ taking place Nov 1-3, 2019 at Rutgers University, USA.</p>
 
 <p><em>Sealed Trees and the Perfect Subtree Property for Weakly Compact Cardinals</em></p>
 
-<p><em>Abstract:</em> We investigate the consistency strength of the statement: $\kappa$ is weakly compact and there is no tree on $\kappa$ with exactly $\kappa^{+}$ many branches. We show that this property fails strongly (there is a <em>sealed tree</em>) if there is no inner model with a Woodin cardinal. On the other hand, we show that this property as well as the related Perfect Subtree Property for $\kappa$, implies the consistency of $\operatorname{AD}_{\mathbb{R}}$. This is joint work with Yair Hayut.</p>]]></summary>
+<p><em>Abstract:</em> We investigate the consistency strength of the statement: $\kappa$ is weakly compact and there is no tree on $\kappa$ with exactly $\kappa^{+}$ many branches. We show that this property fails strongly (there is a <em>sealed tree</em>) if there is no inner model with a Woodin cardinal. On the other hand, we show that this property as well as the related Perfect Subtree Property for $\kappa$, implies the consistency of $\operatorname{AD}_{\mathbb{R}}$. This is joint work with Yair Hayut.</p>
+
+<p><a href="http://www.logic.univie.ac.at/~smueller/Slides/201911RutgersMAMLS/MuellerMAMLS.pdf">Slides.</a></p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
