@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-09T11:45:33Z</updated>
+    <updated>2019-11-09T15:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -3266,7 +3266,7 @@ How did you know you were doing well at the game?</p></blockquote>
         <id>https://mikepawliuk.ca/2018/03/11/the-journey-begins/</id>
         <link href="https://mikepawliuk.ca/2018/03/11/the-journey-begins/">
         </link>
-        <updated>2018-03-11T21:42:46Z</updated>
+        <updated>2018-03-12T03:42:46Z</updated>
         <summary type="html"><![CDATA[<p>I&#8217;m in the process of changing domains, so please bear with me during this transition. I&#8217;m working on fixing the bugs and making everything look pretty.</p>
 <p>In the mean time, <a href="https://cocalc.com/blobs//home/user/.sage/temp/project-fbeb3d9c-3251-4e88-9e27-82a1c37642e1/270/tmp_uijHct.svg?uuid=3877e5a6-2b20-41df-b57d-9d862c4d7394" target="_blank" rel="noopener">here&#8217;s a nice graph</a>. It answers <a href="https://www.reddit.com/r/math/comments/82yzln/if_i_had_a_sequence_of_16_actors_some_recurring/dve2bb8/?context=10000">a question posed on Reddit</a> that uses Chromatic numbers to solve a real life problem!</p>
 <p>Here&#8217;s another irrelevant picture.</p>
@@ -3948,7 +3948,7 @@ See if you can spot the two mistakes!
         <id>https://mikepawliuk.ca/2017/05/23/euclidean-ramsey-theory-2-ramsey-doccourse-prague-2016/</id>
         <link href="https://mikepawliuk.ca/2017/05/23/euclidean-ramsey-theory-2-ramsey-doccourse-prague-2016/">
         </link>
-        <updated>2017-05-24T00:22:44Z</updated>
+        <updated>2017-05-24T02:22:44Z</updated>
         <summary type="html"><![CDATA[<p>The following notes are from the <a href="http://iuuk.mff.cuni.cz/events/doccourse/">Ramsey DocCourse in Prague 2016</a>. The notes are taken by me and I have edited them. In the process I may have introduced some errors; email me or comment below and I will happily fix them.</p>
 <div class="summary">
 <p style="padding-left:30px;"><strong>Title</strong>: Euclidean Ramsey Theory 2 (of 3).</p>
@@ -4620,7 +4620,7 @@ Passion can also be a problem, as well as being a driver. Without that passion a
         <id>https://mikepawliuk.ca/2016/12/12/dual-ramsey-an-introduction-ramsey-doccourse-prague-2016/</id>
         <link href="https://mikepawliuk.ca/2016/12/12/dual-ramsey-an-introduction-ramsey-doccourse-prague-2016/">
         </link>
-        <updated>2016-12-13T00:02:28Z</updated>
+        <updated>2016-12-13T02:02:28Z</updated>
         <summary type="html"><![CDATA[<p>The following notes are from the <a href="http://iuuk.mff.cuni.cz/events/doccourse/">Ramsey DocCourse in Prague 2016</a>. The notes are taken by me and I have edited them. In the process I may have introduced some errors; email me or comment below and I will happily fix them.</p>
 <div class="summary">
 <p style="padding-left:30px;"><strong>Title</strong>: Dual Ramsey, the Gurarij space and the Poulsen simplex 1 (of 3).</p>
