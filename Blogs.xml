@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-13T23:46:34Z</updated>
+    <updated>2019-11-14T03:46:35Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,32 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Modern class forcing]]></title>
+        <id>https://victoriagitman.github.io/publications/2019/11/13/modern-class-forcing.html</id>
+        <link href="https://victoriagitman.github.io/publications/2019/11/13/modern-class-forcing.html">
+        </link>
+        <updated>2019-11-13T05:00:00Z</updated>
+        <summary type="html"><![CDATA[<p><span id="AntosGitman:ModernClassForcing">C. Antos and V. Gitman, “Modern Class Forcing,” <i>Submitted</i>. </span></p>
+<p>Set theorists started forcing with class partial orders to modify global properties of the universe very soon after general forcing techniques were developed. Once Cohen showed that ${\rm CH}$ could fail, and that indeed the continuum could assume any reasonable value, it was natural to ask whether, for instance, the ${\rm GCH}$ can fail unboundedly often, or more generally what global patterns were possible for the continuum function. Since a set partial order can only affect a set-sized chunk of the continuum function, a class partial order was required to modify the ${\rm GCH}$ pattern unboundedly. Easton used a class product of set-forcing notions, with what became known as Easton support, to show that the ${\rm GCH}$ can fail at every regular cardinal, and that, in fact, any reasonable pattern on the continuum function was consistent with ${\rm ZFC}$ <a href="#easton:gch">[1]</a>. Since then class products and iterations, usually with Easton support, have been used, for example, to globally kill large cardinals, to make all supercompact cardinals indestructible, or to code the universe into the continuum function.</p>
+
+<p>There are two approaches to handling class forcing in first-order set theory. We can use a generic filter $G$ for a class forcing notion $\mathbb P$ to interpret the $\mathbb P$-names and obtain the forcing extension $V[G]$, and then throw $G$ away. We can also work in the structure $(V[G],\in,G)$ with a predicate for $G$. While both approaches were used by set theorists to handle specific instances of class forcing, neither approach could provide a robust framework for the study of general properties of class forcing because it relegated properties of classes to the meta-theory.</p>
+
+<p>Important early results on class forcing, due to Friedman and Stanley, showed that class partial orders satisfying `niceness' conditions, such as pretameness, behave like set partial orders. But despite the pervasive use of class forcing in set theoretic constructions, a general theory of class forcing was not fully developed until recently. These recent results demonstrated that properties of class forcing depend on what other classes exist around them, establishing that the theory of class forcing can only be properly investigated in a second-order set theoretic setting. The mathematical framework of second-order set theory has objects for both sets and classes, and allows us to move the study of classes out of the meta-theory.</p>
+
+<p>Class forcing becomes even more important in the context of second-order set theory, where it can be used to modify the structure of classes. With class forcing, we can, for instances, add a global well-order or shoot class clubs with desirable properties. Both these forcing notions leave the first-order part of the model intact because they do not add sets. Such forcing constructions over models of second-order set theory can actually be used to prove theorems about models of ${\rm ZFC}$. One of the most important results in the model theory of set theory is the Keisler-Morley extension theorem asserting that every countable model of ${\rm ZFC}$ has an elementary top-extension (adding only sets of rank above the ordinals of the model) <a href="#keislermorley:topextensions">[2]</a>. Given a countable model $M$ of ${\rm ZFC}$, the top-extension is built as an ultrapower of $M$ by a special ultrafilter, which we can construct provided that $M$ can be expanded to a model of ${\rm GBC}$. If $M$ doesn't already have a definable global well-order, we use class forcing to add it without altering $M$ itself.
+</p>
+
+<p>In many ways class forcing does not behave as nicely as set forcing. Class forcing can destroy ${\rm ZFC}$; even the atomic forcing relation may fail to be definable for a class forcing notion; densely embedded class forcing notions need not be forcing equivalent; most class forcing notions don't have Boolean completions; the intermediate model theorem fails badly for class forcing, etc. At the same time, conditions on class forcing, such as pretameness, guarantee that these pathologies are avoided, and these conditions hold for most familiar class forcing notions used by set theorists, such as progressively closed Easton support products and iterations.</p>
+
+<p>In this article, we survey most of the recent results developing a general theory of class forcing in the second-order setting and establishing surprising connections between properties of class forcing and the structure of second-order set theories.</p>
+<h2>References</h2>
+<ol class="bibliography"><li><span id="easton:gch">W. B. Easton, “Powers of regular cardinals,” <i>Ann. Math. Logic</i>, vol. 1, pp. 139–178, 1970. </span></li>
+<li><span id="keislermorley:topextensions">H. J. Keisler and M. Morley, “Elementary extensions of models of set theory,” <i>Israel J. Math.</i>, vol. 6, pp. 49–65, 1968. </span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knaster and friends II: The C-sequence number]]></title>
         <id>http://blog.assafrinot.com/?p=4607</id>
@@ -1388,14 +1414,14 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
         </link>
         <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
 
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1424,14 +1450,14 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
         </link>
         <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
 
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1543,84 +1569,6 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
 <div class="figure">
 <img src="/images/asl2019.jpeg" />
 </div>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor principle]]></title>
-        <id>https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html</id>
-        <link href="https://victoriagitman.github.io/publications/2019/04/11/kelley-morse-theory-does-not-prove-the-class-fodor-principle.html">
-        </link>
-        <updated>2019-04-11T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><span id="GitmanHamkinsKaragila:KM-set-theory-does-not-prove-the-class-Fodor-theorem">V. Gitman, J. D. Hamkins, and A. Karagila, “Kelley-Morse set theory does not prove the class Fodor theorem,” <i>Submitted</i>. </span></p>
-
-<p>The <em>class Fodor principle</em> is the assertion that every regressive class function $F:S\to{\rm Ord}$ defined on a stationary class $S$ is constant on a stationary subclass of $S$. This statement can be expressed in the usual second-order language of set theory, and the principle can therefore be sensibly considered in the context of any of the various second-order set-theoretic systems, such as Gödel-Bernays ${\rm GBC}$ set theory or Kelley-Morse ${\rm KM}$ set theory. Just as with the classical Fodor's lemma in first-order set theory, the class Fodor principle is equivalent, over a weak base theory, to the assertion that the class club filter is normal. We shall investigate the strength of the class Fodor principle and try to find its place within the natural hierarchy of second-order set theories. We shall also define and study weaker versions of the class Fodor principle.</p>
-
-<p>If one tries to prove the class Fodor principle by adapting one of the classical proofs of the first-order Fodor's lemma, then one inevitably finds oneself needing to appeal to a certain second-order class-choice principle, which goes beyond the axiom of choice and the global choice principle, but which is not available in Kelley-Morse set theory <a href="#GitmanHamkins:KMplus">[1]</a>. For example, in one standard proof, we would want for a given ${\rm Ord}$-indexed sequence of non-stationary classes to be able to choose for each member of it a class club that it misses. This would be an instance of class-choice, since we seek to choose classes here, rather than sets. The class choice principle ${\rm CC}(\Pi^0_1)$, it turns out, is sufficient for us to make these choices, for this principle states that if every ordinal $\alpha$ admits a class $A$ witnessing a $\Pi^0_1$-assertion $\varphi(\alpha,A)$, allowing class parameters, then there is a single class $B\subseteq {\rm Ord}\times V$, whose slices $B_\alpha$ witness $\varphi(\alpha,B_\alpha)$; and the property of being a class club avoiding a given class is $\Pi^0_1$ expressible.</p>
-
-<p>Thus, the class Fodor principle, and consequently also the normality of the class club filter, is provable in the relatively weak second-order set theory ${\rm GBC}+{\rm CC}(\Pi^0_1)$. This theory is known to be weaker in consistency strength than the theory ${\rm GBC}+\Pi^1_1$-comprehension, which is itself strictly weaker in consistency strength than ${\rm KM}$.</p>
-
-<p>But meanwhile, although the class choice principle is weak in consistency strength, it is not actually provable in ${\rm KM}$; indeed, even the weak fragment ${\rm CC}(\Pi^0_1)$ is not provable in ${\rm KM}$. Those results were proved several years ago by the first two authors <a href="#GitmanHamkins:KMplus">[1]</a>, but they can now be seen as  consequences of the main result of this article. In light of that result, however, one should perhaps not have expected to be able to prove the class Fodor principle in ${\rm KM}$.</p>
-
-<p>Indeed, it follows similarly from arguments of the third author in <a href="#karagila:Fodor">[2]</a> that if $\kappa$ is an inaccessible cardinal, then there is a forcing extension $V[G]$ with a symmetric submodel $M$ such that $V_\kappa^M=V_\kappa$, which implies that $\mathcal M=(V_\kappa,\in, V^M_{\kappa+1})$ is a model of Kelley-Morse, and in $\mathcal M$, the class Fodor principle fails in a very strong sense.</p>
-
-<p>In this article, adapting the ideas of <a href="#karagila:Fodor">[2]</a> to the second-order set-theoretic context and using similar methods as in  <a href="#GitmanHamkins:KMplus">[1]</a>, we shall prove that every model of ${\rm KM}$ has an extension in which the class Fodor principle fails in that strong sense: there can be a class function $F:{\rm Ord}\to\omega$, which is not constant on any stationary class. In particular, in these models, the class club filter is not $\sigma$-closed: there is a class $B\subseteq\omega\times{\rm Ord}$, each of whose vertical slices $B_n$ contains a class club, but $\bigcap B_n$ is empty.
-</p>
-
-<p><strong>Main Theorem</strong>
-Kelley-Morse set theory ${\rm KM}$, if consistent, does not prove the class Fodor principle. Indeed, if there is a model of ${\rm KM}$, then there is a model of ${\rm KM}$ with a class function $F:{\rm Ord}\to \omega$, which is not constant on any stationary class; in this model, therefore, the class club filter is not $\sigma$-closed.
-</p>
-
-<p>We shall also investigate various weak versions of the class Fodor principle.</p>
-
-<p><strong>Definition</strong>:
-<ol>
-<li>
-For a cardinal $\kappa$, the <em>class $\kappa$-Fodor principle</em> asserts that every class function $F:S\to\kappa$ defined on a stationary class $S\subseteq{\rm Ord}$ is constant on a stationary subclass of $S$.
-</li>
-<li>
-The <em>class $<{\rm Ord}$-Fodor principle</em> is the assertion that the $\kappa$-class Fodor principle holds for every cardinal $\kappa$.
-</li>
-<li>
-The <em>bounded class Fodor principle</em> asserts that every regressive class function $F:S\to{\rm Ord}$ on a stationary class $S\subseteq{\rm Ord}$ is bounded on a stationary subclass of $S$.
-</li>
-<li>
-The <em>very weak class Fodor principle</em> asserts that every regressive class function $F:S\to{\rm Ord}$ on a stationary class $S\subseteq{\rm Ord}$ is constant on an unbounded subclass of $S$.
-</li>
-</ol>
-</p>
-
-<p>We shall separate these principles as follows.</p>
-
-<p>
-<strong>Theorem</strong>: Suppose ${\rm KM}$ is consistent.
-<ol>
-<li>
-There is a model of ${\rm KM}$ in which the class Fodor principle fails, but the class $<{\rm Ord}$-Fodor principle holds.
-</li>
-<li>
-There is a model of ${\rm KM}$ in which the class $\omega$-Fodor principle fails, but the bounded class Fodor principle holds.
-</li>
-<li>
-There is a model of ${\rm KM}$ in which the class $\omega$-Fodor principle holds, but the bounded class Fodor principle fails.
-</li>
-<li>
-${\rm GB}^-$ proves the very weak class Fodor principle.
-</li>
-</ol>
-</p>
-
-<p>Finally, we show that the class Fodor principle can neither be created nor destroyed by set forcing.</p>
-
-<p><strong>Theorem</strong>:
- The class Fodor principle is invariant by set forcing over models of ${\rm GBC}^-$. That is, it holds in an extension if and only if it holds in the ground model.
-</p>
-<p>
-Let us conclude the introduction by mentioning the following easy negative instance of the class Fodor principle for certain ${\rm GBC}$ models. This argument seems to be a part of set-theoretic folklore. Namely, consider an $\omega$-standard model of ${\rm GBC}$ set theory $M$ having no $V_\kappa^M$ that is a model of ${\rm ZFC}$. A minimal transitive model of ${\rm ZFC}$, for example, has this property. Inside $M$, let $F(\kappa)$ be the least $n$ such that $V_\kappa^M$ fails to satisfy $\Sigma_n$-collection. This is a definable class function $F:{\rm Ord}^M\to\omega$ in $M$, but it cannot be constant on any stationary class in $M$, because by the reflection theorem there is a class club of cardinals $\kappa$ such that $V_\kappa^M$ satisfies $\Sigma_n$-collection.</p>
-<h2>References</h2>
-<ol class="bibliography"><li><span id="GitmanHamkins:KMplus">V. Gitman and J. D. Hamkins, “Kelley-Morse set theory and choice principles for classes.” </span></li>
-<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -2132,19 +2080,6 @@ By <a rel="nofollow" class="external text" href="http://openclipart.org/media/pe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrices for classical groups]]></title>
         <id>https://nickpgill.github.io/matrices-for-classical-groups</id>
         <link href="https://nickpgill.github.io/matrices-for-classical-groups">
@@ -2228,6 +2163,19 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <id>http://scoskey.org/course/1819s-314/</id>
+        <link href="http://scoskey.org/course/1819s-314/">
+        </link>
+        <updated>2019-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
+
+<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -5152,49 +5100,6 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
-        <id>https://www.peterkrautzberger.org/0190/</id>
-        <link href="https://www.peterkrautzberger.org/0190/">
-        </link>
-        <updated>2016-06-16T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
-<p>Anyway.</p>
-<h2>O to be a query...</h2>
-<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
-<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
-<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
-<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
-<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
-<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
-<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
-<h2>... of silkworm size</h2>
-<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
-<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
-<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
-<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
-<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
-<h2>... or immense</h2>
-<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
-<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
-<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
-<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
-<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
-<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
-<h2>the 800 pound query</h2>
-<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
-<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
-<h3>fool me once, shame on you.</h3>
-<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
-<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
-<p>Either way, a media query for MathML is pointless.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Written elsewhere]]></title>
         <id>https://www.peterkrautzberger.org/0189/</id>
         <link href="https://www.peterkrautzberger.org/0189/">
@@ -5282,6 +5187,49 @@ similar to mathematics.&quot;</p>
 </blockquote>
 <p>In other words, math accessibility sucks bad. And no solution will really help you there. But <a href="https://www.mathjax.org/mathjax-accessibility-extensions-v1-now-available/">MathJax now does its best to make it suck less</a>.</p>
 <p>Oh, speaking of accessibility, I'm extremely disappointed that I won't make it to <a href="http://www.roledrinks.nl/">role=drinks</a> after all -- but if you're close by, why don't you drop by?</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
+        <id>https://www.peterkrautzberger.org/0190/</id>
+        <link href="https://www.peterkrautzberger.org/0190/">
+        </link>
+        <updated>2016-06-16T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
+<p>Anyway.</p>
+<h2>O to be a query...</h2>
+<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
+<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
+<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
+<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
+<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
+<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
+<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
+<h2>... of silkworm size</h2>
+<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
+<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
+<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
+<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
+<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
+<h2>... or immense</h2>
+<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
+<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
+<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
+<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
+<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
+<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
+<h2>the 800 pound query</h2>
+<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
+<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
+<h3>fool me once, shame on you.</h3>
+<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
+<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
+<p>Either way, a media query for MathML is pointless.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
