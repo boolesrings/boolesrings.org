@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-21T07:45:32Z</updated>
+    <updated>2019-11-21T11:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -68,11 +68,24 @@ connections between the C-sequence spectrum and the strong coloring principle in
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On conjugacy problems for graphs and trees]]></title>
+        <id>http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/</id>
+        <link href="http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/">
+        </link>
+        <updated>2019-10-11T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Boise Set Theory and Logic Seminar, October 2019<!--more--></p>
+
+<p>Abstract: Given a graph or tree G, the conjugacy problem for G is the conjugacy equivalence relation on the group Aut(G) of automorphisms of G. In this talk we will introduce the basic framework for studying the complexity of the conjugacy problem for G, and then use it to examine a series of examples of graphs and trees G. In particular we will demonstrate that a variety of complexities can occur, from trivial (smooth), up to maximally complex (Borel complete), and in between.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with Y. Hayut) Perfect Subtree Property for Weakly Compact Cardinals]]></title>
         <id>https://muellersandra.github.io/publication/2019/10/11/PaperPSPweaklycompact.html</id>
         <link href="https://muellersandra.github.io/publication/2019/10/11/PaperPSPweaklycompact.html">
         </link>
-        <updated>2019-10-11T04:00:00Z</updated>
+        <updated>2019-10-10T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1910.05159.pdf">PDF.</a> <a href="https://arxiv.org/abs/1910.05159">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibHM19');" class="title">Bibtex.</a></p>
 
@@ -89,19 +102,6 @@ connections between the C-sequence spectrum and the strong coloring principle in
 <p>In this paper we investigate the consistency strength of the statement: $\kappa$ is weakly compact and there is no tree on $\kappa$ with exactly $\kappa^{+}$ many branches. We show that this property fails strongly (there is a sealed tree) if there is no inner model with a Woodin cardinal. On the other hand, we show that this property as well as the related Perfect Subtree Property for $\kappa$, implies the consistency of $\operatorname{AD}_{\mathbb{R}}$.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On conjugacy problems for graphs and trees]]></title>
-        <id>http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/</id>
-        <link href="http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/">
-        </link>
-        <updated>2019-10-11T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Boise Set Theory and Logic Seminar, October 2019<!--more--></p>
-
-<p>Abstract: Given a graph or tree G, the conjugacy problem for G is the conjugacy equivalence relation on the group Aut(G) of automorphisms of G. In this talk we will introduce the basic framework for studying the complexity of the conjugacy problem for G, and then use it to examine a series of examples of graphs and trees G. In particular we will demonstrate that a variety of complexities can occur, from trivial (smooth), up to maximally complex (Borel complete), and in between.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -327,7 +327,7 @@ models of the stable core.
         <id>https://muellersandra.github.io/publication/2019/10/05/PaperStableCore.html</id>
         <link href="https://muellersandra.github.io/publication/2019/10/05/PaperStableCore.html">
         </link>
-        <updated>2019-10-05T04:00:00Z</updated>
+        <updated>2019-10-04T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1910.02265.pdf">PDF.</a> <a href="https://arxiv.org/abs/1910.02265">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibFGM19');" class="title">Bibtex.</a></p>
 
@@ -627,8 +627,8 @@ groups with large relational complexity, and we explain how this statistic relat
         <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
         </link>
-        <updated>2019-08-28T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
 
 <p><em>Infinite decreasing chains in the Mitchell order</em></p>
 
@@ -644,7 +644,7 @@ groups with large relational complexity, and we explain how this statistic relat
         <id>https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
         </link>
-        <updated>2019-08-28T04:00:00Z</updated>
+        <updated>2019-08-27T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1908.10224.pdf">PDF.</a> <a href="https://arxiv.org/abs/1908.10224">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibBNM19');" class="title">Bibtex.</a></p>
 
@@ -895,8 +895,8 @@ The same result for models of ${\rm PA}$ was shown by Kotlarski, Krajewski, and 
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/15/TalkMAMLS.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/15/TalkMAMLS.html">
         </link>
-        <updated>2019-07-15T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I gave a talk at the 2019 edition of <a href="http://www.grigorsargis.net/RutgersMamls2019.html">Rutgers MAMLS</a>
+        <updated>2019-07-14T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk at the 2019 edition of <a href="http://www.grigorsargis.net/RutgersMamls2019.html">Rutgers MAMLS</a>
 taking place Nov 1-3, 2019 at Rutgers University, USA.</p>
 
 <p><em>Sealed Trees and the Perfect Subtree Property for Weakly Compact Cardinals</em></p>
@@ -913,7 +913,7 @@ taking place Nov 1-3, 2019 at Rutgers University, USA.</p>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/14/TalkLuminy.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/14/TalkLuminy.html">
         </link>
-        <updated>2019-07-14T04:00:00Z</updated>
+        <updated>2019-07-13T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>During the week of September 23 - 27, 2019 I attended the <a href="https://conferences.cirm-math.fr/2052.html">15th International Luminy Workshop in Set Theory</a> and gave a talk.</p>
 
 <p><em>Lower bounds for the perfect subtree property at weakly compact cardinals</em></p>
@@ -934,7 +934,7 @@ taking place Nov 1-3, 2019 at Rutgers University, USA.</p>
         <id>https://muellersandra.github.io/publication/2019/07/12/PaperConstructingWadgeClasses.html</id>
         <link href="https://muellersandra.github.io/publication/2019/07/12/PaperConstructingWadgeClasses.html">
         </link>
-        <updated>2019-07-12T04:00:00Z</updated>
+        <updated>2019-07-11T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1907.07612.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.07612">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibCMM19');" class="title">Bibtex.</a></p>
 
@@ -1151,7 +1151,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
         <id>https://muellersandra.github.io/publication/2019/07/08/PaperGamesOnReals.html</id>
         <link href="https://muellersandra.github.io/publication/2019/07/08/PaperGamesOnReals.html">
         </link>
-        <updated>2019-07-08T04:00:00Z</updated>
+        <updated>2019-07-07T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1907.03583.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.03583">arXiv.</a>
 <a data-toggle="collapse" href="javascript:toggle('bibAM19');" class="title">Bibtex.</a></p>
 
@@ -1857,7 +1857,7 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/09/TalkCMIworkshop.html">
         </link>
-        <updated>2019-02-09T05:00:00Z</updated>
+        <updated>2019-02-08T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>As a part of the workshop on “The Core Model Induction and Other Inner
 Model Theoretic Tools” in Rutgers I gave a tutorial on HOD
 Computations.</p>
@@ -1900,7 +1900,7 @@ for lecture notes typed by James Holland.</p>]]></summary>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/02/08/TalkChicago.html">
         </link>
-        <updated>2019-02-08T05:00:00Z</updated>
+        <updated>2019-02-07T23:00:00Z</updated>
         <summary type="html"><![CDATA[<p>On June 01, 2019 I was invited to give a talk at the <a href="https://homepages.math.uic.edu/~sinapova/Logic%20fest%202019.html">Logic
 Fest in the Windy City</a> in Chicago, USA.</p>
 
