@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-11-23T07:45:33Z</updated>
+    <updated>2019-11-23T11:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -646,7 +646,7 @@ groups with large relational complexity, and we explain how this statistic relat
                   id="thanksButton_4596_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
              </div><div id="ajax_loader_4596_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
 <p><strong>Abstract. </strong>We introduce a class of notions of forcing which we call $\Sigma$-Prikry, and show that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We show that given a $\Sigma$-Prikry poset $\mathbb P$ and a name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$. Then, in a sequel to this paper, we develop an iteration scheme for $\Sigma$-Prikry posets. Putting the two works together, we obtain a proof of the following.</p>
-<p><em><strong>Theorem. </strong></em>Suppose $\kappa$ is the limit of a countable increasing sequence of supercompact cardinals. For every cardinal $\lambda=\lambda^{&lt;\lambda}$ greater than $\kappa^+$, there exists a cofinality-preserving forcing extension in which $\kappa$ remains a strong limit, every finite collection of stationary subsets of $\kappa^+$ reflects simultaneously, and $2^\kappa=\lambda$.</p>
+<p><em><strong>Theorem. </strong></em>If $\kappa$ is the limit of a countable increasing sequence of supercompact cardinals, then there exists a cofinality-preserving forcing extension in which $\kappa$ remains a strong limit, every finite collection of stationary subsets of $\kappa^+$ reflects simultaneously, and $2^\kappa=\kappa^{++}$.</p>
 <p><strong>Downloads:</strong></p>
 <p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4596, '')"  href="http://www.assafrinot.com/files/paper41.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><img src="/design/005_slides_dis.png"    class="opacity_icons"  height=90 width=64 border=1  alt="[No related presentations]" title="No related presentations"  /><a href="http://www.assafrinot.com/paper/42" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper41" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/41" class="billet_perm"></a></td></tr></table></p>
 <p>&nbsp;</p>
@@ -2852,7 +2852,7 @@ of the site to see if it's been published or whatnot.</p>
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4530_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4530_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4530_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4530, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 32"
+                <input type="button" onclick="thankYouButtonClick(4530, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 33"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4530_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
