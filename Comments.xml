@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-12-01T07:45:24Z</updated>
+    <updated>2019-12-01T11:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -22,6 +22,17 @@
         <summary type="html"><![CDATA[<p>Correction of two typos:<br />
 1. At the opening of the proof of Theorem 4.23, where it says &#8220;By Corollary 4.19&#8221;, it should have been &#8220;By Corollary 4.12&#8221;.<br />
 2. Later in the proof of Theorem 4.23, where defining the ordinal $\Lambda$, the function $\lambda_2^k$ should have been $\lambda_2$ (the extra superscript is only relevant to the proof of Case 2 of Theorem 4.21, and is redundant here).</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on A relative of the approachability ideal, diamond and non-saturation by On guessing generalized clubs at the successors of regulars | Assaf Rinot]]></title>
+        <id>http://blog.assafrinot.com/?p=244#comment-737</id>
+        <link href="http://blog.assafrinot.com/?p=244#comment-737">
+        </link>
+        <updated>2019-10-24T04:22:31Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] to the author&#8217;s work on the validity of diamond and non-saturation at the successor of singulars, we deal here with [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
@@ -281,18 +292,6 @@ Accepted, July 2019.</p>]]></summary>
         <updated>2019-01-24T00:10:11Z</updated>
         <summary type="html"><![CDATA[<p>Submitted to Order, November 2017.<br />
 Accepted, January 2019.</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Souslin trees at successors of regular cardinals by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4550#comment-635</id>
-        <link href="http://blog.assafrinot.com/?p=4550#comment-635">
-        </link>
-        <updated>2018-12-19T06:12:10Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted to Mathematical Logic Quarterly, October 2018.<br />
-Accepted, December 2018.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
