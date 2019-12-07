@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-12-07T15:45:32Z</updated>
+    <updated>2019-12-07T19:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Modal model theory, STUK 4, Oxford, December 2019]]></title>
+        <id>http://jdh.hamkins.org/modal-model-theory-stuk-4-oxford-december-2019/</id>
+        <link href="http://jdh.hamkins.org/modal-model-theory-stuk-4-oxford-december-2019/">
+        </link>
+        <updated>2019-12-07T16:46:32Z</updated>
+        <summary type="html"><![CDATA[This will be my talk for the Set Theory in the United Kingdom 4, a conference to be held in Oxford on 14 December 2019. I am organizing the conference with Sam Adam-Day.  Modal model theory Abstract. I shall introduce &#8230; <a href="http://jdh.hamkins.org/modal-model-theory-stuk-4-oxford-december-2019/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sigma-Prikry II: Iteration Scheme]]></title>
         <id>http://blog.assafrinot.com/?p=4620</id>
@@ -683,6 +694,23 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
+
+<p><em>Infinite decreasing chains in the Mitchell order</em></p>
+
+<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
+
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="http://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -702,23 +730,6 @@ groups with large relational complexity, and we explain how this statistic relat
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
-
-<p><em>Infinite decreasing chains in the Mitchell order</em></p>
-
-<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
-
-<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="http://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1444,19 +1455,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -1488,6 +1486,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
 
 <p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1880,17 +1891,6 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
 <p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4556, '')" href="http://www.assafrinot.com/files/rinot_arctic2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/38" class="billet_further"></a><a href="http://www.assafrinot.com/talk/arctic2019" class="billet_perm"></a></td></tr></table></p><span id="more-4556"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019]]></title>
-        <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/</id>
-        <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/">
-        </link>
-        <updated>2019-01-26T14:34:53Z</updated>
-        <summary type="html"><![CDATA[This will be a talk for the Jowett Society on 8 February, 2019. The talk will take place in the Oxford Faculty of Philosophy, 3:30 &#8211; 5:30pm, in the Lecture Room of the Radcliffe Humanities building. Abstract. Potentialism is the view, &#8230; <a href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
@@ -2464,7 +2464,7 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 66"
+                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 67"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4550_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>

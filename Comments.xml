@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-12-07T15:45:24Z</updated>
+    <updated>2019-12-07T19:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,51 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Comment Board by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/comment-board/#comment-10783</id>
+        <link href="http://jdh.hamkins.org/comment-board/#comment-10783">
+        </link>
+        <updated>2019-12-07T16:40:05Z</updated>
+        <summary type="html"><![CDATA[<p>I&#8217;m so sorry, and I&#8217;ll try to get it back up as soon as possible.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by Macguzel Macguzel]]></title>
+        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10782</id>
+        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10782">
+        </link>
+        <updated>2019-12-05T19:44:58Z</updated>
+        <summary type="html"><![CDATA[<p>Mr. Hamkins, I can’t get to the site since November. I see only the &#8220;Internal Error&#8221; page. Other users around the world have the same problem. The site is excellent and it’s a pity that it is not working at present.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Comment Board by Keith Millar]]></title>
+        <id>http://jdh.hamkins.org/comment-board/#comment-10779</id>
+        <link href="http://jdh.hamkins.org/comment-board/#comment-10779">
+        </link>
+        <updated>2019-11-29T04:19:07Z</updated>
+        <summary type="html"><![CDATA[<p>Hello there! I&#8217;m an amateur-ish pure mathematician who specializes in set theory. A pressing matter is that it seems that Cantor&#8217;s Attic is down! There&#8217;s some sort of internal error going on, and it&#8217;s preventing me from adding to the website. For the functional part of this comment, I&#8217;m done! Just letting you know.</p>
+<p>Also, I&#8217;d just like to say I contributed a lot to the website, being the first to add many fundamental large cardinal notions such as indescribable cardinals and silver indiscernibles. I feel a strong personal connection to it, as it was really the bridge that got me into higher mathematics, and eventually led me to finding the online math communities of which I am a part today. I&#8217;m very grateful that this place exists. Without it, I might&#8217;ve dropped what seemed to be a momentary infatuation with mathematics in favor of something else. This website is a big part of who I am today. So, thank you!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The connect-infinity game! by Keith Millar]]></title>
+        <id>http://jdh.hamkins.org/the-connect-infinity-game/#comment-10777</id>
+        <link href="http://jdh.hamkins.org/the-connect-infinity-game/#comment-10777">
+        </link>
+        <updated>2019-11-26T02:39:47Z</updated>
+        <summary type="html"><![CDATA[<p>I don&#8217;t have much to say about math that wasn&#8217;t already said but I will say I very much appreciate your choice in memes.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Knaster and friends I: Closed colorings and precalibers by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4530#comment-744</id>
@@ -155,52 +200,6 @@
         </link>
         <updated>2019-09-20T20:50:37Z</updated>
         <summary type="html"><![CDATA[<p>Hello, very sorry for bothering, any chance it may come out soon?  Appreciate, thanks.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Hugh R Thomas]]></title>
-        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10601</id>
-        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10601">
-        </link>
-        <updated>2019-09-13T22:05:49Z</updated>
-        <summary type="html"><![CDATA[<p>Downloaded for a niece. Thanks!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Modal model theory by ecarmody2@fordham.edu]]></title>
-        <id>http://jdh.hamkins.org/modal-model-theory/#comment-10579</id>
-        <link href="http://jdh.hamkins.org/modal-model-theory/#comment-10579">
-        </link>
-        <updated>2019-09-06T17:15:18Z</updated>
-        <summary type="html"><![CDATA[<p>Ah thanks!  That is a great site.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by gentzen]]></title>
-        <id>http://jdh.hamkins.org/clmpst-2019-prague/#comment-10502</id>
-        <link href="http://jdh.hamkins.org/clmpst-2019-prague/#comment-10502">
-        </link>
-        <updated>2019-08-13T18:14:18Z</updated>
-        <summary type="html"><![CDATA[<p>But what happens in your original formula, if s = t = s \cap t and |s| = n-1? In this case, we have s = s \cup t, hence |s \cup t| = n-1, so the condition on the left side is not satisfied. But with i = 1, j = n-2 and k = 1, the corresponding term of the disjunction on the right side is satisfied.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Plenary talk, 16th International Congress of Logic, Methodology and Philosophy of Science and Technology, CLMPST 2019, Prague by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/clmpst-2019-prague/#comment-10501</id>
-        <link href="http://jdh.hamkins.org/clmpst-2019-prague/#comment-10501">
-        </link>
-        <updated>2019-08-13T14:38:53Z</updated>
-        <summary type="html"><![CDATA[<p>Could you explain your reasons? I think my slides and paper are correct, and that your proposed change would be wrong. The point is that (s union t) has size at least n, just in case there is a way of allocating the three parts of the Venn diagram with i,j,k so as to realize the three clauses. Certainly, if the right-hand side holds as I&#8217;ve described it, then of course, (s union t) will have at least size n, and conversely, if s union t has size at least n, then there will be some i+j+k=n realizing the desired pattern. </p>
-<p>So I don&#8217;t regard this as a &#8220;typo&#8221;. But perhaps I&#8217;m missing something?</p>
-<p>(Meanwhile, I have corrected the link; thanks very much for that.)</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>

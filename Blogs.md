@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [Modal model theory, STUK 4, Oxford, December 2019](http://jdh.hamkins.org/modal-model-theory-stuk-4-oxford-december-2019/)
 * **Assaf Rinot** [Sigma-Prikry II: Iteration Scheme](http://blog.assafrinot.com/?p=4620)
 * **Sandra Müller** [Logic Colloquium Poznan - TBA](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2019/11/21/TalkLogicColloquiumPoznan.html)
 * **Sandra Müller** [North American Annual Meeting of the ASL - TBA](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/draft/2019/11/20/TalkASLIrvine.html)
@@ -12,6 +13,5 @@ title: Blogs
 * **Samuel Coskey** [On conjugacy problems for graphs and trees](http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/)
 * **Sandra Müller** [(with Y. Hayut) Perfect Subtree Property for Weakly Compact Cardinals](https://muellersandra.github.io/publication/submitted/2019/10/11/PaperPSPweaklycompact.html)
 * **Victoria Gitman** [Ground model definability in ${\rm ZF}$](https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html)
-* **Victoria Gitman** [Structural properties of the stable core](https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)
