@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2019-12-10T15:45:34Z</updated>
+    <updated>2019-12-10T19:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,19 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Locally finite groups and automorphisms]]></title>
+        <id>http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</id>
+        <link href="http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/">
+        </link>
+        <updated>2019-12-10T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Boise Set Theory and Logic Seminar, December 2019<!--more--></p>
+
+<p>Abstract: The class of finite groups is an amalgamation class, which means that they admit a “Fraisse limit” - a countable structure which contains all the finite groups and which is highly self-symmetric. The limit group is called Hall’s group, it is locally finite, and has the property that any isomorphic finite subgroups are conjugate. In this talk we will give background on Hall’s group and discuss constructing automorphisms of Hall’s group.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modal model theory, STUK 4, Oxford, December 2019]]></title>
         <id>http://jdh.hamkins.org/modal-model-theory-stuk-4-oxford-december-2019/</id>
@@ -694,23 +707,6 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
-
-<p><em>Infinite decreasing chains in the Mitchell order</em></p>
-
-<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
-
-<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="http://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -730,6 +726,23 @@ groups with large relational complexity, and we explain how this statistic relat
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
+
+<p><em>Infinite decreasing chains in the Mitchell order</em></p>
+
+<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
+
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="http://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1455,29 +1468,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
-        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
-        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
-      <td>x</td>
-      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
-      <td>x</td>
-      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
-    </tr>
-  </tbody>
-</table>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The nametag problem]]></title>
         <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
         <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
@@ -1499,6 +1489,29 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
 
 <p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
+        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
+        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
+      <td>x</td>
+      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
+      <td>x</td>
+      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
+    </tr>
+  </tbody>
+</table>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2098,19 +2111,6 @@ g=\begin{pmatrix}
 <p>One can do this more generally for larger $n$ – one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$. There are two sorts of root group here: the first already ocur in $\Omega_{n-2}^+(q)$ and so are easy to write down in $\Omega_n^+(q)$; the second all take the form given above.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1819s-314/</id>
-        <link href="http://scoskey.org/course/1819s-314/">
-        </link>
-        <updated>2019-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2019<!--more--></p>
-
-<p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -9072,22 +9072,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -9104,6 +9088,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
