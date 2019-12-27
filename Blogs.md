@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Asaf Karagila** [Looking Back at the 2010s](http://karagila.org/2019/looking-back-at-2010s/)
 * **Samuel Coskey** [Locally finite groups and automorphisms](http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/)
 * **Joel David Hamkins** [Modal model theory, STUK 4, Oxford, December 2019](http://jdh.hamkins.org/modal-model-theory-stuk-4-oxford-december-2019/)
 * **Assaf Rinot** [Sigma-Prikry II: Iteration Scheme](http://blog.assafrinot.com/?p=4620)
@@ -12,6 +13,5 @@ title: Blogs
 * **Victoria Gitman** [Modern class forcing](https://victoriagitman.github.io/publications/2019/11/13/modern-class-forcing.html)
 * **Assaf Rinot** [Knaster and friends II: The C-sequence number](http://blog.assafrinot.com/?p=4607)
 * **Samuel Coskey** [On conjugacy problems for graphs and trees](http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/)
-* **Sandra Müller** [(with Y. Hayut) Perfect Subtree Property for Weakly Compact Cardinals](https://muellersandra.github.io/publication/submitted/2019/10/11/PaperPSPweaklycompact.html)
 
 [Grab the feed for all Blogs!](Blogs.xml)
