@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [Philosophy meets maths, Oxford, January 2020](http://jdh.hamkins.org/philosophy-meets-maths-oxford-january-2020/)
 * **Peter Krautzberger** [Using grid to split a table cell](https://www.peterkrautzberger.org/0213/)
 * **Asaf Karagila** [Looking Back at the 2010s](http://karagila.org/2019/looking-back-at-2010s/)
 * **Samuel Coskey** [Locally finite groups and automorphisms](http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/)
@@ -12,6 +13,5 @@ title: Blogs
 * **Sandra Müller** [North American Annual Meeting of the ASL - TBA](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/draft/2019/11/20/TalkASLIrvine.html)
 * **Sandra Müller** [Oberseminar mathematische Logik, Bonn - TBA](https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2019/11/19/TalkBonn.html)
 * **Victoria Gitman** [Modern class forcing](https://victoriagitman.github.io/publications/2019/11/13/modern-class-forcing.html)
-* **Assaf Rinot** [Knaster and friends II: The C-sequence number](http://blog.assafrinot.com/?p=4607)
 
 [Grab the feed for all Blogs!](Blogs.xml)
