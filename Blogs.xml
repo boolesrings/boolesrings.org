@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-01-08T19:45:33Z</updated>
+    <updated>2020-01-08T23:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -24,7 +24,7 @@
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4631, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 6"
+                <input type="button" onclick="thankYouButtonClick(4631, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 7"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4631_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -203,23 +203,37 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[North American Annual Meeting of the ASL - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/draft/2019/11/20/TalkASLIrvine.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/draft/2019/11/20/TalkASLIrvine.html">
+        <title type="html"><![CDATA[North American Annual Meeting of the ASL - How to obtain lower bounds in set theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2019/11/20/TalkASLIrvine.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2019/11/20/TalkASLIrvine.html">
         </link>
         <updated>2019-11-19T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a plenary talk at the <a href="https://sites.uci.edu/asl2020/">2020 North American Annual Meeting of the Association for Symbolic Logic</a> taking place at UC Irvine March 25-28, 2020. Title and abstract for this talk will be announced in due course.</p>]]></summary>
+        <summary type="html"><![CDATA[<p>I am invited to give a plenary talk at the <a href="https://sites.uci.edu/asl2020/">2020 North American Annual Meeting of the Association for Symbolic Logic</a> taking place at UC Irvine March 25-28, 2020.</p>
+
+<p><em>How to obtain lower bounds in set theory</em></p>
+
+<p>Computing the large cardinal strength of a given statement is one of the key research directions in set theory. Fruitful tools to tackle such questions are given by inner model theory. The study of inner models was initiated by Gödel’s analysis of the constructible universe $L$. Later, it was extended to canonical inner models with large cardinals, e.g. measurable cardinals, strong cardinals or Woodin cardinals, which were introduced by Jensen, Mitchell, Steel, and others.</p>
+
+<p>We will outline three recent applications where inner model theory is used to obtain lower bounds in large cardinal strength for statements that do not involve inner models. The first result, in part joint with J. Aguilera, is an analysis of the strength of determinacy for certain infinite two player games of fixed countable length, the second result studies the strength of a model of determinacy in which all sets of reals are universally Baire, and the third result, joint with Y. Hayut, involves combinatorics of infinite trees and the perfect subtree property for weakly compact cardinals $\kappa$.</p>
+
+<p>Slides will be uploaded here after the talk.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oberseminar mathematische Logik, Bonn - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2019/11/19/TalkBonn.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2019/11/19/TalkBonn.html">
+        <title type="html"><![CDATA[Oberseminar mathematische Logik, Bonn - Infinite decreasing chains in the Mitchell order]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/11/19/TalkBonn.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/11/19/TalkBonn.html">
         </link>
         <updated>2019-11-18T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="http://www.math.uni-bonn.de/ag/logik/teaching/2019WS/oberseminar.shtml">Oberseminar mathematische Logik</a> at the University of Bonn on January 14, 2020. Title and abstract for this talk will be announced in due course.</p>]]></summary>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the <a href="http://www.math.uni-bonn.de/ag/logik/teaching/2019WS/oberseminar.shtml">Oberseminar mathematische Logik</a> at the University of Bonn on January 14, 2020.</p>
+
+<p><em>Infinite decreasing chains in the Mitchell order</em></p>
+
+<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
+
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -845,7 +859,7 @@ groups with large relational complexity, and we explain how this statistic relat
 
 <p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
 
-<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="http://muellersandra.github.io/publication/2019/08/28/PaperInfiniteDecreasingChainsMO.html">here</a>.</p>]]></summary>
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
