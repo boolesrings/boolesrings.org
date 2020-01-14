@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-01-14T15:45:32Z</updated>
+    <updated>2020-01-14T19:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -605,11 +605,11 @@ models of the stable core.
     </entry>
     <entry>
         <title type="html"><![CDATA[The $\Sigma_1$-definable universal finite sequence]]></title>
-        <id>http://jdh.hamkins.org/the-sigma_1-definable-universal-finite-sequence/</id>
-        <link href="http://jdh.hamkins.org/the-sigma_1-definable-universal-finite-sequence/">
+        <id>http://jdh.hamkins.org/the-sigma-1-definable-universal-finite-sequence/</id>
+        <link href="http://jdh.hamkins.org/the-sigma-1-definable-universal-finite-sequence/">
         </link>
         <updated>2019-09-25T16:38:13Z</updated>
-        <summary type="html"><![CDATA[J. D. Hamkins and K. J. Williams, &#8220;The $\Sigma_1$-definable universal finite sequence,&#8221; ArXiv e-prints, 2019. (undeer review) &#160; Citation ar&#967;iv @ARTICLE{HamkinsWilliams:The-universal-finite-sequence, author = {Joel David Hamkins and Kameryn J. Williams}, title = {The $\Sigma_1$-definable universal finite sequence}, journal = {ArXiv &#8230; <a href="http://jdh.hamkins.org/the-sigma_1-definable-universal-finite-sequence/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <summary type="html"><![CDATA[[bibtex key="HamkinsWilliams:The-universal-finite-sequence"]  <a href="http://jdh.hamkins.org/the-sigma-1-definable-universal-finite-sequence/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
         </author>
@@ -1393,7 +1393,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 31"
+                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 32"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
