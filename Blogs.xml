@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-01-16T03:45:32Z</updated>
+    <updated>2020-01-16T07:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Bi-interpretation in weak set theories]]></title>
+        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/</id>
+        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/">
+        </link>
+        <updated>2020-01-16T07:41:47Z</updated>
+        <summary type="html"><![CDATA[[bibtex key="HamkinsFreire:Bi-interpretation-in-weak-set-theories"] <a href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Microscopic approach to Souslin-tree constructions. Part II]]></title>
         <id>http://blog.assafrinot.com/?p=4631</id>
@@ -1932,17 +1943,6 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
 <p>Let me finish this post by thanking my two co-authors, Laci and Bandi. I have worked with these two guys on a previous paper, and they are both brilliant and generous with their many ideas. I hope to have the privilege of working with them more in the future.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kelley-Morse set theory does not prove the class Fodor Principle, CUNY Set Theory Seminar, March, 2019]]></title>
-        <id>http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/</id>
-        <link href="http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/">
-        </link>
-        <updated>2019-03-20T23:29:18Z</updated>
-        <summary type="html"><![CDATA[This will be talk for the CUNY Set Theory seminar, Friday, March 22, 2019, 10 am in room 6417 at the CUNY Graduate Center. Abstract. I shall discuss recent joint work with Victoria Gitman and Asaf Karagila, in which we &#8230; <a href="http://jdh.hamkins.org/kelley-morse-set-theory-does-not-prove-the-class-fodor-principle-cuny-set-theory-seminar-march-2019/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
