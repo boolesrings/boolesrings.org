@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-01-20T19:45:33Z</updated>
+    <updated>2020-01-20T23:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,31 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Fake Reflection]]></title>
+        <id>http://blog.assafrinot.com/?p=4636</id>
+        <link href="http://blog.assafrinot.com/?p=4636">
+        </link>
+        <updated>2020-01-20T19:50:07Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4636_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4636, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 0"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4636_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4636_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
+<p><strong>Abstract. </strong>We introduce a generalization of stationary set reflection which we call <em>filter reflection</em>, and show it is compatible with the axiom of constructibility as well as with strong forcing axioms. We prove the independence of filter reflection from ZFC, and present applications of filter reflection to the study of canonical equivalence relations of the generalized Cantor and Baire spaces.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4636, '')"  href="http://www.assafrinot.com/files/paper40.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4636, '')" href="http://www.assafrinot.com/talk/toronto50" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/39" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper40" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/40" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4636"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bi-interpretation in weak set theories]]></title>
         <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/</id>
@@ -859,23 +884,6 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
-
-<p><em>Infinite decreasing chains in the Mitchell order</em></p>
-
-<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
-
-<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -895,6 +903,23 @@ groups with large relational complexity, and we explain how this statistic relat
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
+
+<p><em>Infinite decreasing chains in the Mitchell order</em></p>
+
+<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
+
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1620,24 +1645,14 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
-        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
-        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
         </link>
         <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
 
-<table>
-  <tbody>
-    <tr>
-      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
-      <td>x</td>
-      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
-      <td>x</td>
-      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
-    </tr>
-  </tbody>
-</table>]]></summary>
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1656,14 +1671,24 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
+        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
+        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
         </link>
         <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
 
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+<table>
+  <tbody>
+    <tr>
+      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
+      <td>x</td>
+      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
+      <td>x</td>
+      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
+    </tr>
+  </tbody>
+</table>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2553,31 +2578,6 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
 <p>I should note that, in the end, Ian and I removed ourselves from the list of Victor’s official supervisors, as Moi University regulations only allowed for two supervisors on an MSc thesis. Nonetheless we are very proud to be associated with Victor’s excellent work.</p>]]></summary>
         <author>
             <name>Nick Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Souslin trees at successors of regular cardinals]]></title>
-        <id>http://blog.assafrinot.com/?p=4550</id>
-        <link href="http://blog.assafrinot.com/?p=4550">
-        </link>
-        <updated>2018-10-01T13:49:23Z</updated>
-        <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4550_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
-                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', true);" 
-                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);"
-                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4550_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4550, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 71"
-                  class="thanks_button thanks_compact thanks_brown"
-                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
-                  id="thanksButton_4550_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4550_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p><strong>Abstract.</strong> We present a weak sufficient condition for the existence of Souslin trees at successor of regular cardinals. The result is optimal and simultaneously improves an old theorem of Gregory and a more recent theorem of the author.</p>
-<p><strong>Downloads:</strong></p>
-<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4550, '')"  href="http://www.assafrinot.com/files/paper37.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4550, '')" href="https://arxiv.org/abs/1812.08743" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4550, '')" href="https://doi.org/10.1002/malq.201800065" class="billet_publish"></a><a href="http://www.ams.org/mathscinet-getitem?mr=4019621" class="billet_review"></a><a onclick="thankYouButtonClick(4550, '')" href="http://www.assafrinot.com/talk/asl2017" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/23" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper37" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/37" class="billet_perm"></a></td></tr></table></p>
-<p><strong>Citation information:</strong></p>
-<p>A. Rinot, <em>Souslin trees at successors of regular cardinals</em>, Math. Log. Q., 65(2): 200-204, 2019.</p>
-<p><span id="more-4550"></span></p>]]></summary>
-        <author>
-            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>
