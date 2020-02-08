@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-02-08T15:45:32Z</updated>
+    <updated>2020-02-08T19:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Bi-interpretation of weak set theories, Oberwolfach, April 2020]]></title>
+        <id>http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/</id>
+        <link href="http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/">
+        </link>
+        <updated>2020-02-08T18:04:42Z</updated>
+        <summary type="html"><![CDATA[This will be a talk for the workshop in Set Theory at the Mathematisches Forschungsinstitute Oberwolfach, April 5-11, 2020.&#160; Abstract: Set theory exhibits a truly robust mutual interpretability phenomenon: in any model of one set theory we can define models &#8230; <a href="http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jumps and the classification of scattered linear orders]]></title>
         <id>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</id>
@@ -48,7 +59,7 @@
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4636, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 15"
+                <input type="button" onclick="thankYouButtonClick(4636, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 16"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4636_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -455,6 +466,67 @@ connections between the C-sequence spectrum and the strong coloring principle in
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ground model definability in ${\rm ZF}$]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html">
+        </link>
+        <updated>2019-10-10T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://jointmathematicsmeetings.org/jmm">Joint Mathematics Meeting</a>, special session on 'Choiceless Set Theory and related areas', University of Denver, January 15-16, 2020.<br><strong><a href="/files/ZFGroundModelDefinability.pdf">Slides</a></strong><!--more--></p>
+<p>
+Laver, and independently Woodin, showed that a ground model is always definable (with a ground model parameter) in its set-forcing extensions <a href="#laver:groundmodel">[1]</a>, <a href="#woodin:groundmodel">[2]</a>. More so, the definition is uniform for all ${\rm ZFC}$-universes: there is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZFC}$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V$ of size $|\mathbb P|^V=\gamma$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$ with $\delta=(\gamma^+)^V(=(\gamma^+)^{V[G]})$. Let's explain what the formula $\varphi(x,P^V(\delta))$ says. Let ${\rm Z}^*$ be a certain finite fragment of ${\rm ZFC}$. We will say that a transitive model $M\in V[G]$ is <em>good</em> if $M\models {\rm Z}^*$, $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$. The formula $\varphi(x,P^V(\delta))$ then holds of a set $x$ if $x$ is an element of a good model $M$ of height $\lambda\gg\delta$ such that $V[G]_\lambda\models {\rm Z}^*$ and the pair $M\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties (we will explain what those are in a moment). Here is the reason the formula works. Any forcing extension by a poset of size less than a regular cardinal $\delta$ has the property that there are unboundedly many ordinals $\lambda$ such that both $V_\lambda$ and $V[G]_\lambda$ satisfy ${\rm Z}^*$ and the pair $V_\lambda\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties. Also, if there is a good model $M$ of height $\lambda$ with $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$ such that that pair $M\subseteq V[G]_\delta\models {\rm Z}^*$ has the the $\delta$-cover and $\delta$-approximation properties, then the model is unique. Hence such a model $M$ of height $\lambda$ can only be $V_\lambda$.</p>
+<p>
+The notions of $\delta$-cover and $\delta$-approximation properties are due to Hamkins <a href="#hamkins:coverandapproximations">[3]</a>. Suppose that $V\subseteq W$ are transitive models of (some fragment of) ${\rm ZFC}$ and $\delta$ is a cardinal in $W$.
+<ol>
+<li>
+The pair $V\subseteq W$ satisfies the <em>$\delta$-cover property</em> if for every $A\in W$ with $A\subseteq V$ and $|A|^W<\delta$, there is $B\in V$ with $A\subseteq B$ and $|B|^V<\delta$.</li>
+<li>The pair $V\subseteq W$ satisfies the <em>$\delta$-approximation property</em> if whenever $A\in W$ with $A\subseteq V$ and $A\cap a\in V$ for every $a$ of size less than $\delta$ in $V$, then $A\in V$.</li>
+</ol>
+</p>
+<p>
+Because the existence of cardinalities is fundamental to the definition of the cover and approximation properties, these notions appear to rely  essentially on the axiom of choice. Therefore proofs of ground model definability based on these properties cannot be easily modified to work in the absence of choice. It is not known yet whether ground definability holds in ${\rm ZF}$. There are partial positive results and no known counterexamples.</p>
+
+<p>With Tom Johnstone, we adapted the approximation and cover properties arguments to show that for a cardinal $\delta$, uniform ground model definability holds in models of ${\rm ZF}+{\rm DC}_\delta$ for posets admitting a gap at $\delta$.</p>
+<p>
+<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZF}+{\rm DC}_\delta$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P$ admitting a gap at $\delta$ in $V$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$.
+</p><p>
+A poset is said to <em>admit a gap at $\delta$</em> if it has the form $\mathbb R*\dot{\mathbb Q}$ where $\mathbb R$ is a non-trivial forcing of size less than $\delta$ and it is forced by $\mathbb R$ that is $\dot{\mathbb Q}$ is $\leq\delta$-strategically closed. The $\delta$-dependent choice principle ${\rm DC}_\delta$, introduced by Lévy, allows us to make $\delta$-many dependent choices along any relation without terminal nodes. It asserts that for any non-empty set $S$ and any binary relation  $R$, if for each sequence $s\in S^{\lt\delta}$ there is a $y\in S$ such that $s$ is $R$ related $y$, then there is a function $f:\delta\to S$ such that $f\upharpoonright\alpha \,R\, f(\alpha)$ for all $\alpha<\delta$. The principle ${\rm DC}_\delta$ is robust for forcing with posets admitting a gap at $\delta$ because they preserve it to the forcing extension (see <a href="#gitmanjohnstone:groundmodels">[4]</a>).</p>
+<p>
+A very different recent partial result on ${\rm ZF}$-ground model definability is due to Usuba <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Usuba showed that if a ${\rm ZF}$-universe has a proper class of Löwenheim-Skolem cardinals, a notion which he introduces, then uniform ground model definability holds for it.</p><p>
+<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V$ is a model of ${\rm ZF}$ with a proper class of Löwenheim-Skolem cardinals and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V_\kappa$ for a Lowenheim-Skolem cardinal $\kappa$, then $V$ is defined in the extension $V[G]$ by $\varphi(x,V_\kappa)$.</p><p>
+
+Usuba's proof is another modification of the arguments using cover and approximation, where he replaces the notion of cardinality by a rough measure on sets, defining for a set $x$ that the measure $|\!|x|\!|$ is the least ordinal $\alpha$ such that there is a surjection from $V_\alpha$ onto $x$.
+</p><p>
+An uncountable cardinal $\kappa$ is a <em>Löwenheim-Skolem</em> (${\rm LS}$) <em>cardinal</em> if for every $\gamma<\kappa\leq\alpha$ and $x\in V_\alpha$, there is $\beta>\alpha$ and an elementary $X\prec V_\beta$ such that
+<ol>
+<li>$V_\gamma\subseteq X$,</li>
+<li>$x\in X$,</li>
+<li>the transitive collapse of $X$ belongs to $V_\kappa$,</li>
+<li>$(X\cap V_\alpha)^{V_\gamma}\subseteq X$.</li>
+</ol>
+In a model of ${\rm ZFC}$, the ${\rm LS}$ cardinals are precisely the $\beth$-fixed point cardinals, and so in particular there are proper class many ${\rm LS}$ cardinals. Let us say, following Woodin, that an uncountable cardinal $\kappa$ is <em>supercompact</em> in a model of ${\rm ZF}$ if for every $\alpha\geq\kappa$, there is $\beta\geq\alpha$, a transitive set $N$ and an elementary embedding $j:V_\beta\to N$ such that the critical point of $j$ is $\kappa$, $\alpha < j(\kappa)$, and $N^{V_\alpha}\subseteq N$. It is not difficult to see that every supercompact cardinal is an ${\rm LS}$ cardinal. So, for example, models of ${\rm ZF}$ with a proper class of supercompact cardinals satisfy uniform ground model definability. </p>
+<p>
+The existence of ${\rm LS}$ cardinals is absolute throughout the generic multiverse <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. It follows that if we can force choice over a ${\rm ZF}$-universe, then since its forcing extension has a proper class of ${\rm LS}$ cardinals, it must have a proper class of ${\rm LS}$ cardinals as well. Thus, in particular, ground model definability holds for any ${\rm ZF}$-universe, such as $L(\mathbb R)$, over which we can force the axiom of choice.</p>
+<p>
+At the same time, it is known that there are ${\rm ZF}$ universes without any ${\rm LS}$-cardinals. Let's explain how. Usuba showed that if $\kappa$ is an ${\rm LS}$-cardinal, then the club filter on $\kappa^+$ must be $\kappa$-complete <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Asaf Karagila showed that every model $V$ of ${\rm ZFC}$ satisfying ${\rm GCH}$ has an extension to a model of ${\rm ZF}$ with the same cofinalities in which the club filter is not $\sigma$-complete on every regular cardinal $\kappa$ <a href="#karagila:Fodor">[6]</a>. This model cannot have any ${\rm LS}$ cardinals because if $\kappa$ in it was an ${\rm LS}$-cardinal, then $\kappa^+$ would be a regular cardinal (since cofinalities from $V$ are preserved) with a $\kappa$-complete club filter.</p>
+<p>
+One important consequence of uniform ground model definability is that it makes it possible to define in a first-order way the collection of all grounds of a ${\rm ZFC}$-universe. A priori this is a collection of classes, a second-order notion, but using ground model definability we can write down a first-order formula $\psi(x,y)$ such that for every set $a$, the class $W_a=\{x\mid \psi(x,a)\}$ is a ground of $V$ and for every $W$ ground of $V$, there is a set $a$ such that $W=W_a$. The first-order definability of the collection of grounds makes it possible to study their structure in ${\rm ZFC}$. This has led to the very fruitful subject of set-theoretic geology, initiated by Fuchs, Hamkins, and Reitz, which explores the structure of grounds of a set-theoretic universe. Ground model definability for ${\rm ZF}$ would allow us to extend the same analysis to ${\rm ZF}$-universes, and Usuba's theorem has now made such an analysis possible for a large collection of models, namely those with a proper class of ${\rm LS}$ cardinals. 
+
+We will have to wait to find out whether ground definability holds fully in ${\rm ZF}$.
+
+<h2>References</h2>
+<ol class="bibliography"><li><span id="laver:groundmodel">R. Laver, “Certain very large cardinals are not created in small forcing
+              extensions,” <i>Ann. Pure Appl. Logic</i>, vol. 149, no. 1-3, pp. 1–6, 2007. Available at: http://dx.doi.org/10.1016/j.apal.2007.07.002</span></li>
+<li><span id="woodin:groundmodel">H. Woodin, “Recent developments on Cantor’s Continuum Hypothesis,” in <i>Proceedings of the continuum in Philosophy and Mathematics</i>, 2004. </span></li>
+<li><span id="hamkins:coverandapproximations">J. D. Hamkins, “Extensions with the approximation and cover properties have no
+              new large cardinals,” <i>Fund. Math.</i>, vol. 180, no. 3, pp. 257–277, 2003. Available at: http://dx.doi.org/10.4064/fm180-3-4</span></li>
+<li><span id="gitmanjohnstone:groundmodels">V. Gitman and T. A. Johnstone, “On ground model definability,” in <i>Infinity, Computability, and Metamathematics: Festschrift in honour of the 60th birthdays of Peter Koepke and Philip Welch</i>, London, GB: College publications, 2014. </span></li>
+<li><span id="Usuba:ZFGroundModelDefinability">T. Usuba, “Choiceless Löwenheim-Skolem property and uniform definability of grounds,” <i>Manuscript</i>. </span></li>
+<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Structural properties of the stable core]]></title>
         <id>https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html">
@@ -607,67 +679,6 @@ models of the stable core.
 <li><span id="CummingsFriedmanGolshani:CollapsingCardinalsHOD">J. Cummings, S. D. Friedman, and M. Golshani, “Collapsing the cardinals of HOD,” <i>J. Math. Log.</i>, vol. 15, no. 2, pp. 1550007, 32, 2015. Available at: https://doi.org/10.1142/S0219061315500075</span></li>
 <li><span id="Mitchell:BeginningInnerModelTheory">W. J. Mitchell, “Beginning inner model theory,” in <i>Handbook of set theory. Vols. 1, 2, 3</i>, Springer, Dordrecht, 2010, pp. 1449–1495. Available at: https://doi.org/10.1007/978-1-4020-5764-9_18</span></li>
 <li><span id="Zeman:InnerModelsLargeCardinals">M. Zeman, <i>Inner Models and Large Cardinals</i>. Walter de Gruyter, 2002. Available at: https://books.google.at/books?id=V0bLReBbRDEC</span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ground model definability in ${\rm ZF}$]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html">
-        </link>
-        <updated>2019-10-10T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://jointmathematicsmeetings.org/jmm">Joint Mathematics Meeting</a>, special session on 'Choiceless Set Theory and related areas', University of Denver, January 15-16, 2020.<br><strong><a href="/files/ZFGroundModelDefinability.pdf">Slides</a></strong><!--more--></p>
-<p>
-Laver, and independently Woodin, showed that a ground model is always definable (with a ground model parameter) in its set-forcing extensions <a href="#laver:groundmodel">[1]</a>, <a href="#woodin:groundmodel">[2]</a>. More so, the definition is uniform for all ${\rm ZFC}$-universes: there is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZFC}$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V$ of size $|\mathbb P|^V=\gamma$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$ with $\delta=(\gamma^+)^V(=(\gamma^+)^{V[G]})$. Let's explain what the formula $\varphi(x,P^V(\delta))$ says. Let ${\rm Z}^*$ be a certain finite fragment of ${\rm ZFC}$. We will say that a transitive model $M\in V[G]$ is <em>good</em> if $M\models {\rm Z}^*$, $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$. The formula $\varphi(x,P^V(\delta))$ then holds of a set $x$ if $x$ is an element of a good model $M$ of height $\lambda\gg\delta$ such that $V[G]_\lambda\models {\rm Z}^*$ and the pair $M\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties (we will explain what those are in a moment). Here is the reason the formula works. Any forcing extension by a poset of size less than a regular cardinal $\delta$ has the property that there are unboundedly many ordinals $\lambda$ such that both $V_\lambda$ and $V[G]_\lambda$ satisfy ${\rm Z}^*$ and the pair $V_\lambda\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties. Also, if there is a good model $M$ of height $\lambda$ with $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$ such that that pair $M\subseteq V[G]_\delta\models {\rm Z}^*$ has the the $\delta$-cover and $\delta$-approximation properties, then the model is unique. Hence such a model $M$ of height $\lambda$ can only be $V_\lambda$.</p>
-<p>
-The notions of $\delta$-cover and $\delta$-approximation properties are due to Hamkins <a href="#hamkins:coverandapproximations">[3]</a>. Suppose that $V\subseteq W$ are transitive models of (some fragment of) ${\rm ZFC}$ and $\delta$ is a cardinal in $W$.
-<ol>
-<li>
-The pair $V\subseteq W$ satisfies the <em>$\delta$-cover property</em> if for every $A\in W$ with $A\subseteq V$ and $|A|^W<\delta$, there is $B\in V$ with $A\subseteq B$ and $|B|^V<\delta$.</li>
-<li>The pair $V\subseteq W$ satisfies the <em>$\delta$-approximation property</em> if whenever $A\in W$ with $A\subseteq V$ and $A\cap a\in V$ for every $a$ of size less than $\delta$ in $V$, then $A\in V$.</li>
-</ol>
-</p>
-<p>
-Because the existence of cardinalities is fundamental to the definition of the cover and approximation properties, these notions appear to rely  essentially on the axiom of choice. Therefore proofs of ground model definability based on these properties cannot be easily modified to work in the absence of choice. It is not known yet whether ground definability holds in ${\rm ZF}$. There are partial positive results and no known counterexamples.</p>
-
-<p>With Tom Johnstone, we adapted the approximation and cover properties arguments to show that for a cardinal $\delta$, uniform ground model definability holds in models of ${\rm ZF}+{\rm DC}_\delta$ for posets admitting a gap at $\delta$.</p>
-<p>
-<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZF}+{\rm DC}_\delta$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P$ admitting a gap at $\delta$ in $V$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$.
-</p><p>
-A poset is said to <em>admit a gap at $\delta$</em> if it has the form $\mathbb R*\dot{\mathbb Q}$ where $\mathbb R$ is a non-trivial forcing of size less than $\delta$ and it is forced by $\mathbb R$ that is $\dot{\mathbb Q}$ is $\leq\delta$-strategically closed. The $\delta$-dependent choice principle ${\rm DC}_\delta$, introduced by Lévy, allows us to make $\delta$-many dependent choices along any relation without terminal nodes. It asserts that for any non-empty set $S$ and any binary relation  $R$, if for each sequence $s\in S^{\lt\delta}$ there is a $y\in S$ such that $s$ is $R$ related $y$, then there is a function $f:\delta\to S$ such that $f\upharpoonright\alpha \,R\, f(\alpha)$ for all $\alpha<\delta$. The principle ${\rm DC}_\delta$ is robust for forcing with posets admitting a gap at $\delta$ because they preserve it to the forcing extension (see <a href="#gitmanjohnstone:groundmodels">[4]</a>).</p>
-<p>
-A very different recent partial result on ${\rm ZF}$-ground model definability is due to Usuba <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Usuba showed that if a ${\rm ZF}$-universe has a proper class of Löwenheim-Skolem cardinals, a notion which he introduces, then uniform ground model definability holds for it.</p><p>
-<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V$ is a model of ${\rm ZF}$ with a proper class of Löwenheim-Skolem cardinals and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V_\kappa$ for a Lowenheim-Skolem cardinal $\kappa$, then $V$ is defined in the extension $V[G]$ by $\varphi(x,V_\kappa)$.</p><p>
-
-Usuba's proof is another modification of the arguments using cover and approximation, where he replaces the notion of cardinality by a rough measure on sets, defining for a set $x$ that the measure $|\!|x|\!|$ is the least ordinal $\alpha$ such that there is a surjection from $V_\alpha$ onto $x$.
-</p><p>
-An uncountable cardinal $\kappa$ is a <em>Löwenheim-Skolem</em> (${\rm LS}$) <em>cardinal</em> if for every $\gamma<\kappa\leq\alpha$ and $x\in V_\alpha$, there is $\beta>\alpha$ and an elementary $X\prec V_\beta$ such that
-<ol>
-<li>$V_\gamma\subseteq X$,</li>
-<li>$x\in X$,</li>
-<li>the transitive collapse of $X$ belongs to $V_\kappa$,</li>
-<li>$(X\cap V_\alpha)^{V_\gamma}\subseteq X$.</li>
-</ol>
-In a model of ${\rm ZFC}$, the ${\rm LS}$ cardinals are precisely the $\beth$-fixed point cardinals, and so in particular there are proper class many ${\rm LS}$ cardinals. Let us say, following Woodin, that an uncountable cardinal $\kappa$ is <em>supercompact</em> in a model of ${\rm ZF}$ if for every $\alpha\geq\kappa$, there is $\beta\geq\alpha$, a transitive set $N$ and an elementary embedding $j:V_\beta\to N$ such that the critical point of $j$ is $\kappa$, $\alpha < j(\kappa)$, and $N^{V_\alpha}\subseteq N$. It is not difficult to see that every supercompact cardinal is an ${\rm LS}$ cardinal. So, for example, models of ${\rm ZF}$ with a proper class of supercompact cardinals satisfy uniform ground model definability. </p>
-<p>
-The existence of ${\rm LS}$ cardinals is absolute throughout the generic multiverse <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. It follows that if we can force choice over a ${\rm ZF}$-universe, then since its forcing extension has a proper class of ${\rm LS}$ cardinals, it must have a proper class of ${\rm LS}$ cardinals as well. Thus, in particular, ground model definability holds for any ${\rm ZF}$-universe, such as $L(\mathbb R)$, over which we can force the axiom of choice.</p>
-<p>
-At the same time, it is known that there are ${\rm ZF}$ universes without any ${\rm LS}$-cardinals. Let's explain how. Usuba showed that if $\kappa$ is an ${\rm LS}$-cardinal, then the club filter on $\kappa^+$ must be $\kappa$-complete <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Asaf Karagila showed that every model $V$ of ${\rm ZFC}$ satisfying ${\rm GCH}$ has an extension to a model of ${\rm ZF}$ with the same cofinalities in which the club filter is not $\sigma$-complete on every regular cardinal $\kappa$ <a href="#karagila:Fodor">[6]</a>. This model cannot have any ${\rm LS}$ cardinals because if $\kappa$ in it was an ${\rm LS}$-cardinal, then $\kappa^+$ would be a regular cardinal (since cofinalities from $V$ are preserved) with a $\kappa$-complete club filter.</p>
-<p>
-One important consequence of uniform ground model definability is that it makes it possible to define in a first-order way the collection of all grounds of a ${\rm ZFC}$-universe. A priori this is a collection of classes, a second-order notion, but using ground model definability we can write down a first-order formula $\psi(x,y)$ such that for every set $a$, the class $W_a=\{x\mid \psi(x,a)\}$ is a ground of $V$ and for every $W$ ground of $V$, there is a set $a$ such that $W=W_a$. The first-order definability of the collection of grounds makes it possible to study their structure in ${\rm ZFC}$. This has led to the very fruitful subject of set-theoretic geology, initiated by Fuchs, Hamkins, and Reitz, which explores the structure of grounds of a set-theoretic universe. Ground model definability for ${\rm ZF}$ would allow us to extend the same analysis to ${\rm ZF}$-universes, and Usuba's theorem has now made such an analysis possible for a large collection of models, namely those with a proper class of ${\rm LS}$ cardinals. 
-
-We will have to wait to find out whether ground definability holds fully in ${\rm ZF}$.
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="laver:groundmodel">R. Laver, “Certain very large cardinals are not created in small forcing
-              extensions,” <i>Ann. Pure Appl. Logic</i>, vol. 149, no. 1-3, pp. 1–6, 2007. Available at: http://dx.doi.org/10.1016/j.apal.2007.07.002</span></li>
-<li><span id="woodin:groundmodel">H. Woodin, “Recent developments on Cantor’s Continuum Hypothesis,” in <i>Proceedings of the continuum in Philosophy and Mathematics</i>, 2004. </span></li>
-<li><span id="hamkins:coverandapproximations">J. D. Hamkins, “Extensions with the approximation and cover properties have no
-              new large cardinals,” <i>Fund. Math.</i>, vol. 180, no. 3, pp. 257–277, 2003. Available at: http://dx.doi.org/10.4064/fm180-3-4</span></li>
-<li><span id="gitmanjohnstone:groundmodels">V. Gitman and T. A. Johnstone, “On ground model definability,” in <i>Infinity, Computability, and Metamathematics: Festschrift in honour of the 60th birthdays of Peter Koepke and Philip Welch</i>, London, GB: College publications, 2014. </span></li>
-<li><span id="Usuba:ZFGroundModelDefinability">T. Usuba, “Choiceless Löwenheim-Skolem property and uniform definability of grounds,” <i>Manuscript</i>. </span></li>
-<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -973,6 +984,23 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
+
+<p><em>Infinite decreasing chains in the Mitchell order</em></p>
+
+<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
+
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -992,23 +1020,6 @@ groups with large relational complexity, and we explain how this statistic relat
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
-
-<p><em>Infinite decreasing chains in the Mitchell order</em></p>
-
-<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
-
-<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1747,19 +1758,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -1778,6 +1776,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1834,17 +1845,6 @@ We construct a model of ${\rm ZF}+{\rm AC}_\omega$ whose reals give a model of $
         </link>
         <updated>2019-04-14T13:19:04Z</updated>
         <summary type="html"><![CDATA[This will be a talk for the Wijsgerig Festival DRIFT 2019, held in Amsterdam May 11, 2019. The theme of the conference is: Ontology. Abstract. What does it mean to make existence assertions in mathematics? Is there a mathematical universe, &#8230; <a href="http://jdh.hamkins.org/is-there-just-one-mathematical-universe-amsterdam-may-2019/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2019]]></title>
-        <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/</id>
-        <link href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/">
-        </link>
-        <updated>2019-04-11T14:05:30Z</updated>
-        <summary type="html"><![CDATA[This will be a graduate-level lecture seminar on the Philosophy of Mathematics, run jointly by Professor Timothy Williamson and myself, held during Trinity term 2019 at Oxford University. We shall meet every Tuesday 2-4 pm during term in the Ryle &#8230; <a href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt19/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
         </author>
@@ -5115,6 +5115,49 @@ The embedding distance, for <img src="https://s0.wp.com/latex.php?latex=f%2Cg+%5
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
+        <id>https://www.peterkrautzberger.org/0190/</id>
+        <link href="https://www.peterkrautzberger.org/0190/">
+        </link>
+        <updated>2016-06-16T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
+<p>Anyway.</p>
+<h2>O to be a query...</h2>
+<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
+<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
+<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
+<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
+<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
+<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
+<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
+<h2>... of silkworm size</h2>
+<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
+<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
+<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
+<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
+<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
+<h2>... or immense</h2>
+<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
+<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
+<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
+<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
+<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
+<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
+<h2>the 800 pound query</h2>
+<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
+<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
+<h3>fool me once, shame on you.</h3>
+<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
+<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
+<p>Either way, a media query for MathML is pointless.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Written elsewhere]]></title>
         <id>https://www.peterkrautzberger.org/0189/</id>
         <link href="https://www.peterkrautzberger.org/0189/">
@@ -5202,49 +5245,6 @@ similar to mathematics.&quot;</p>
 </blockquote>
 <p>In other words, math accessibility sucks bad. And no solution will really help you there. But <a href="https://www.mathjax.org/mathjax-accessibility-extensions-v1-now-available/">MathJax now does its best to make it suck less</a>.</p>
 <p>Oh, speaking of accessibility, I'm extremely disappointed that I won't make it to <a href="http://www.roledrinks.nl/">role=drinks</a> after all -- but if you're close by, why don't you drop by?</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A media query for MathML is pointless]]></title>
-        <id>https://www.peterkrautzberger.org/0190/</id>
-        <link href="https://www.peterkrautzberger.org/0190/">
-        </link>
-        <updated>2016-06-16T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>So I attended <a href="https://www.w3.org/2016/09/TPAC/">TPAC</a> for the first time. TPAC has that oddly familiar conference feeling -- a bunch of specialists crowded in a relatively small space, most of them pretty weird people (and slightly more diverse than a math conference, not that that's a compliment). But it also had a very unfamiliar feeling: web standards invariably mean politics more directly.</p>
-<p>Anyway.</p>
-<h2>O to be a query...</h2>
-<p>There was a joint meeting of CSSWG and DPUB IG on Monday and I was running late (discussing math-on-web things with Daniel Marques actually), so I missed the first 15 minutes. My mind was blown when, within 2 minutes of me sitting down, a motion was accepted to task Florian with spec'ing (specing? speccing?) out a media query for MathML support (as well as an API to flip it). I didn't feel I was in a position to speak up, so I just sat there wondering what just happened.</p>
-<p>The motivation seems rather natural, I suppose. As long as there's no universal browser support for MathML, people are still stuck with providing fallbacks. In situation where they cannot load a JS library themselves (e.g., in ebooks), they have to use a fallback even if they could provide MathML.</p>
-<p>If there was a media query, people could add both fallbacks and MathML in a standardized fashion, hiding one or the other depending on the result of that media query. In addition, an API would enable JS libraries to leverage a universal way to progressively enhance content; it wasn't quite clear in the end, but some people seemed to hope that API could additionally be triggered by assistive technology.</p>
-<p>This discussion started (I think) on the epub3 end, where the IDPF is currently discussing epub 3.1 and best practices; as usual, MathML features in a painfully prominent role. In epub land, the dream seems to be: you create an epub3 file once and some day down the line, when a user's reading system finally picks up MathML support, the old content will magically improve -- progressive enhancements so to speak.</p>
-<p>Naturally, <code>@supports</code> is already very helpful in all sorts of ways today which probably made it a no-brainer (and thus the quick decision). Unfortunately, I think a &quot;media query for MathML&quot; does not solve a single problem.</p>
-<p>I was so late to the meeting so when the question for &quot;any objections&quot; came out, I did not feel I was in a position to do so. Still, in a breakout meeting later that day (about epub specifically), I voiced my criticisms to both epub, accessibility, and CSS people.</p>
-<p>So this is, if you will, the written version of my opinion. (In case you missed that you are on my personal website, please note the use of &quot;my&quot; here.)</p>
-<h2>... of silkworm size</h2>
-<p>A single media query for MathML won't help me as content provider (author, publisher, technology specialist); I also find it generally unhelpful for the web as a whole.</p>
-<p>The problem with a single query is simple: when would a browser respond positively? When should a browser legitimately claim to have MathML support? I honestly don't know.</p>
-<p>MathML is a huge (and pretty vague) spec. There's not a single browser or library that could claim complete support. MathJax is the <a href="https://www.w3.org/Math/testsuite/results/tests.html">top scorer with 85%</a> on the MathML test suite (since MathPlayer was kicked out by IE) but that's not saying much since the test suite is highly biased -- whoever feels like it can submit the data, and in MathJax's case that was me (who is obviously biased).</p>
-<p>I can't see how a single media query for all of MathML could provide people with any kind of reliable information on the front-end. Most likely, Gecko and WebKit implementations will immediately turn it on which does not help one bit -- people will still have to test their content on those engines in detail.</p>
-<p>Personally, I have already done that too many times (and keep a close eye on them) and I always come to the same conclusion: I cannot recommend using them to anyone since they are too unreliable. So I'm still stuck the same way I was before. Similarly, any publicly available crawler data I've seen indicates that nobody is using native MathML on Gecko and WebKit in the wild, so my position does not seem to be unique.</p>
-<h2>... or immense</h2>
-<p>Of course, the CSSWG might spec out a whole set of individual media queries for every single MathML features. As unlikely as that seems, we'd just end up deeper in the rabbit hole: MathML is still extremely vague so few features are specified in enough detail (compared to CSS or SVG anyway). To take a simple example, while Gecko and WebKit might claim support for <code>mfrac</code> (fractions), it's not helping me if those fractions are laid out badly as soon as I put something mildly complex in them. So again, I'll end up not using it.</p>
-<p>In terms of accessibility, it seemed an API that assitive technology could trigger would not be as easy to implement in browsers (yet &quot;easy&quot; seemed a pre-requisite given the comments from browser reps in the CSSWG). Since AT tends not to inject scripts (JAWS craziness notwithstanding), they'd need a more sophisticated feature (which is, I think, also being discussed by CSSWG, but considered much harder, i.e., unlikely).</p>
-<p>Besides, this assumes that MathML significantly benefits accessibility. After MathJax getting deeply involved in building a suitable tool, I find this argument questionable. Talking to a11y folks, it usually comes down to &quot;but MathPlayer!&quot; and while MathPlayer was pretty good (albeit dead in the water now) it didn't actually use MathML but a proprietary internal format representing the result of semantic heuristics; this makes it kind of hard to use it as an example for how great MathML is for accessibility.</p>
-<p>I think it's unrealistic to expect every single assistive technology to invest as much in a niche like math. I'd estimate that, at any one point in time over the past 18 years, the number of actively maintained accessibility tools with MathML support was 1 (no, neither JAWS nor VoiceOver count as &quot;maintained&quot; when it comes to MathML).</p>
-<p>Further, not a single tool has ever used MathML as an internal format because it is <em>simply insufficient</em> -- it is a XML document language for layout and is grossly unsemantic (and don't say &quot;but ContentMathML&quot; now).</p>
-<p>If people feel like exposing MathML to AT, then they can use one of the many standard tricks to ARIA-hide the fallback content and visually hide the MathML. Again, in my opinion, that's a disservice for your readers, but nobody stops you.</p>
-<h2>the 800 pound query</h2>
-<p>For me, the weirdest thing about this whole decision was its speed: that the CSSWG signed off on this idea in under 20 minutes just makes me a teeny tiny bit skeptical. It feels a lot like one big &quot;whatevs&quot; -- browsers don't really care but, hey, a media query is little work and if it keeps these math people off our backs, all the more reason.</p>
-<p>The real problem remains with or without a media query: where is MathML going? As Romain commented on twitter:</p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pkrautz">@pkrautz</a> it&#39;s real progress going on<br>1999 → hope MathML gets implemented<br>2016 → hope a declaration of non-implementation gets implemented</p>&mdash; Romain Deltour (@rdeltour) <a href="https://twitter.com/rdeltour/status/777895491719852033">September 19, 2016</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Browser vendors have never worked on MathML support, MathML is no longer maintained as a spec, the MathWG is no more (<a href="https://www.peterkrautzberger.org/0186/">did you notice?</a>), and MathML is a bad web standard for both layout (another post) and <a href="https://www.peterkrautzberger.org/0185/">accessibility</a>.</p>
-<h3>fool me once, shame on you.</h3>
-<p>I think it's time to realize that after 18 years of not succeeding on the web, the problem might just lie with MathML itself. We don't need it on the web (CSS and SVG are better for layout and ARIA better for accessibility) and we should stop giving browser vendors an excuse not to do anything that actually helps those developers who realize math on the web in its myriad forms today. (And the XML document world, where MathML succeeded, would be better off as well.)</p>
-<p>Don't get me wrong, there are many problems left for math on the web but MathML is not a silver bullet, in fact, it solves none of them. Even if it was implemented widely, we'd still need CSS and ARIA features to match. Instead of waiting for others (i.e., browsers) to solve their problems by magic, the few people with an interest (and the resources to match) will have to solve this niche problems on their own and in a way that moves the web forward as a whole.</p>
-<p>Either way, a media query for MathML is pointless.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
