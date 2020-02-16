@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-02-16T15:45:33Z</updated>
+    <updated>2020-02-16T19:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -20,7 +20,7 @@
         </link>
         <updated>2020-02-16T06:49:27Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4639_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4639_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', false);" >
@@ -28,7 +28,7 @@
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4639_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4639_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="https://academy.ac.il/RichText/GeneralPage.aspx?nodeId=1461">Jing Zhang</a>.</p>
+             </div><div id="ajax_loader_4639_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="https://academy.ac.il/RichText/GeneralPage.aspx?nodeId=1461">Jing Zhang</a>.</p>
 <p><strong>Abstract. </strong>We study the existence of transformations of the transfinite plane that allow to reduce Ramsey-theoretic statements concerning uncountable Abelian groups into classic partition relations for uncountable cardinals.</p>
 <p>To exemplify: we prove that for every inaccessible cardinal $\kappa$, if $\kappa$ admits a stationary set that does not reflect at inaccessibles, then the classic negative partition relation $\kappa\nrightarrow[\kappa]^2_\kappa$ implies that for every Abelian group $(G,+)$ of size $\kappa$, there exists a map $f:G\rightarrow G$ such that, for every $X\subseteq G$ of size $\kappa$ and every $g\in G$, there exist $x\neq y$ in $X$ such that $f(x+y)=g$.</p>
 <p><strong>Downloads:</strong></p>
@@ -81,7 +81,7 @@
         </link>
         <updated>2020-01-20T19:50:07Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4636_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4636_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);" >
@@ -89,7 +89,7 @@
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4636_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4636_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
+             </div><div id="ajax_loader_4636_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
 <p><strong>Abstract. </strong>We introduce a generalization of stationary set reflection which we call <em>filter reflection</em>, and show it is compatible with the axiom of constructibility as well as with strong forcing axioms. We prove the independence of filter reflection from ZFC, and present applications of filter reflection to the study of canonical equivalence relations of the generalized Cantor and Baire spaces.</p>
 <p><strong>Downloads:</strong></p>
 <p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4636, '')"  href="http://www.assafrinot.com/files/paper40.pdf" class="billet_author"></a><img src="/design/002_arxiv_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No arXiv entry]" title="No arXiv entry"  /><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4636, '')" href="http://www.assafrinot.com/talk/toronto50" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/39" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper40" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/40" class="billet_perm"></a></td></tr></table></p>
@@ -182,15 +182,15 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </link>
         <updated>2020-01-07T18:52:56Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4631_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4631_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4631, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 33"
+                <input type="button" onclick="thankYouButtonClick(4631, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 34"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4631_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4631_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~brodska/">Ari Meir Brodsky</a>.</p>
+             </div><div id="ajax_loader_4631_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~brodska/">Ari Meir Brodsky</a>.</p>
 <p><strong>Abstract.</strong> In <a href="http://blog.assafrinot.com/?p=4059">Part I</a> of this series, we presented the microscopic approach to Souslin-tree constructions, and argued that all known $\diamondsuit$-based constructions of Souslin trees with various additional properties may be rendered as applications of our approach. In this paper, we show that constructions following the same approach may be carried out even in the absence of $\diamondsuit$. In particular, we obtain a new weak sufficient condition for the existence of Souslin trees at the level of a strongly inaccessible cardinal.</p>
 <p>We also present a new construction of a Souslin tree with an ascent path, along the way increasing the consistency strength of such a tree&#8217;s nonexistence from a Mahlo cardinal to a weakly compact cardinal.</p>
 <p>This paper also offers a comprehensive introduction to the subject of constructing Souslin trees and the challenges involved; this introduction is targeted at newcomers with minimal background.</p>
@@ -333,7 +333,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
         </link>
         <updated>2019-12-04T08:49:23Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4620_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4620_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', false);" >
@@ -341,7 +341,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4620_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4620_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
+             </div><div id="ajax_loader_4620_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
 <p><strong>Abstract. </strong>In <a href="http://www.assafrinot.com/paper/41">Part I</a> of this series, we introduced a class of notions of forcing which we call $\Sigma$-Prikry, and showed that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We proved that given a $\Sigma$-Prikry poset $\mathbb P$ and a $\mathbb{P}$-name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$.</p>
 <p>In this paper, we develop a general scheme for iterating $\Sigma$-Prikry posets, as well as verify that the Extender Based Prikry Forcing is $\Sigma$-Prikry.</p>
 <p>As an application, we blow up the power of a countable limit of Laver-indestructible supercompact cardinals, and then iteratively kill all non-reflecting stationary subsets of its successor, yielding a model in which the singular cardinal hypothesis fails and simultaneous reflection of finite families of stationary sets holds.</p>
@@ -433,7 +433,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
         </link>
         <updated>2019-10-23T02:58:05Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4607_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4607_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);" >
@@ -441,7 +441,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4607_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4607_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://people.vcu.edu/~cblambiehanso/">Chris Lambie-Hanson</a>.</p>
+             </div><div id="ajax_loader_4607_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://people.vcu.edu/~cblambiehanso/">Chris Lambie-Hanson</a>.</p>
 <p><strong>Abstract. </strong>Motivated by a characterization of weakly compact cardinals due to Todorcevic,<br />
 we introduce a new cardinal characteristic, <em>the C-sequence number</em>, which can be seen as a measure of the compactness of a regular uncountable cardinal. We prove a number of <strong>ZFC</strong> and independence results about the C-sequence number and its relationship with large cardinals, stationary reflection, and square principles.<br />
 We then introduce and study the more general C-sequence spectrum and uncover some tight<br />
@@ -740,7 +740,7 @@ models of the stable core.
         </link>
         <updated>2019-09-28T15:02:37Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4602_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4602_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', false);" >
@@ -748,7 +748,7 @@ models of the stable core.
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4602_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4602_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="https://conferences.cirm-math.fr/2052.html">15th International Workshop on Set Theory in Luminy</a> in Marseille, September 2019.</p>
+             </div><div id="ajax_loader_4602_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="https://conferences.cirm-math.fr/2052.html">15th International Workshop on Set Theory in Luminy</a> in Marseille, September 2019.</p>
 <p><strong>Talk Title: </strong>Chain conditions, unbounded colorings and the C-sequence spectrum.</p>
 <p><strong>Abstract: </strong>The productivity of the $\kappa$-chain condition, where $\kappa$ is a regular, uncountable cardinal, has been the focus of a great deal of set-theoretic research.</p>
 <p>In the 1970&#8217;s, consistent examples of $\kappa$-cc posets whose squares are not $\kappa$-cc were constructed by Laver, Galvin, Roitman and Fleissner. Later, ZFC examples were constructed by Todorcevic, Shelah, and others. The most difficult case, that in which $\kappa = \aleph_2$, was resolved by Shelah in 1997.</p>
@@ -990,7 +990,7 @@ groups with large relational complexity, and we explain how this statistic relat
         </link>
         <updated>2019-09-02T14:34:33Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4596_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4596_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);" >
@@ -998,7 +998,7 @@ groups with large relational complexity, and we explain how this statistic relat
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4596_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4596_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
+             </div><div id="ajax_loader_4596_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
 <p><strong>Abstract. </strong>We introduce a class of notions of forcing which we call $\Sigma$-Prikry, and show that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We show that given a $\Sigma$-Prikry poset $\mathbb P$ and a name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$. Then, in <a href="http://www.assafrinot.com/paper/42">a sequel</a> to this paper, we develop an iteration scheme for $\Sigma$-Prikry posets. Putting the two works together, we obtain a proof of the following.</p>
 <p><em><strong>Theorem. </strong></em>If $\kappa$ is the limit of a countable increasing sequence of supercompact cardinals, then there exists a cofinality-preserving forcing extension in which $\kappa$ remains a strong limit, every finite collection of stationary subsets of $\kappa^+$ reflects simultaneously, and $2^\kappa=\kappa^{++}$.</p>
 <p><strong>Downloads:</strong></p>
@@ -1551,7 +1551,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
         </link>
         <updated>2019-06-20T15:37:16Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4582_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4582_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
@@ -1559,7 +1559,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4582_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
+             </div><div id="ajax_loader_4582_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
 <p><strong>Abstract. </strong>A classical theorem of Hechler asserts that the structure $\left(\omega^\omega,\le^*\right)$ is universal in the sense that for any $\sigma$-directed poset $\mathbb P$ with no maximal element, there is a ccc forcing extension in which $\left(\omega^\omega,\le^*\right)$ contains a cofinal order-isomorphic copy of $\mathbb P$.</p>
 <p>In this paper, we prove a consistency result concerning the universality of the higher analogue $(\kappa^\kappa,\le^S)$.</p>
 <p><em><strong>Theorem.</strong></em> Assume GCH. For every regular uncountable cardinal $\kappa$, there is a cofinality-preserving GCH-preserving forcing extension in which for every analytic quasi-order $\mathbb Q$ over $\kappa^\kappa$ and every stationary subset $S$ of $\kappa$, there is a Lipschitz map reducing $\mathbb Q$ to $(\kappa^\kappa,\le^S)$.</p>
@@ -1738,7 +1738,7 @@ An excellent source on everything you need to know about computably saturated mo
         </link>
         <updated>2019-05-19T15:47:41Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4577_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4577_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4577_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4577_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4577_2', false);" >
@@ -1746,7 +1746,7 @@ An excellent source on everything you need to know about computably saturated mo
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4577_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4577_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="http://www.fields.utoronto.ca/activities/18-19/set-theory">50 Years of Set Theory in Toronto</a> meeting,<br />
+             </div><div id="ajax_loader_4577_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="http://www.fields.utoronto.ca/activities/18-19/set-theory">50 Years of Set Theory in Toronto</a> meeting,<br />
 Fields Institute for Research in Mathematical Sciences, May 2019.</p>
 <p><strong>Talk Title: </strong>Analytic quasi-orders and two forms of diamond</p>
 <p><strong>Abstract:</strong> We study Borel reduction of equivalence relations (more generally: quasi-orders) in the generalized Baire and Cantor spaces, and connect it with the study of two diamond-type principles. One of these principles holds for all ineffable sets, and the other fails on all ineffable sets, but, in L, holds for all stationary non-ineffable sets.</p>
@@ -2050,7 +2050,7 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
         </link>
         <updated>2019-02-15T06:58:14Z</updated>
         <summary type="html"><![CDATA[<div class="thanks_button_div" 
-                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4559_2" style="background-image:url(http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4559_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4559_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4559_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4559_2', false);" >
@@ -2058,7 +2058,7 @@ $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such tha
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4559_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
-             </div><div id="ajax_loader_4559_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="http://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.logic.univie.ac.at/~levinem85/">Maxwell Levine</a>.</p>
+             </div><div id="ajax_loader_4559_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.logic.univie.ac.at/~levinem85/">Maxwell Levine</a>.</p>
 <p><strong>Abstract.</strong> We address the question of whether a reflecting stationary set may be partitioned into two or more reflecting stationary subsets, providing various affirmative answers in ZFC. As an application to singular cardinals combinatorics, we infer that it is never the case that there exists a singular cardinal all of whose scales are very good.</p>
 <p><span id="more-4559"></span></p>
 <p><strong>Downloads:</strong></p>
