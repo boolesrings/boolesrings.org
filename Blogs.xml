@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-02-23T15:45:32Z</updated>
+    <updated>2020-02-23T19:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1771,6 +1771,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The nametag problem]]></title>
+        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
+        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -1789,19 +1802,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The nametag problem]]></title>
-        <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
-        <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2326,7 +2326,7 @@ g=\begin{pmatrix}
 <p>LaTeX (pronounced &#8220;Lay-Tech&#8221; or &#8220;Laa-Tech&#8221; ) is a computer language used by mathematicians and physicists to nicely format mathematical expressions. Every math student will eventually need to know how to write in LaTeX, since all math journals are written using LaTeX. It is also used in every online platform that supports math writting, such as D2L discussion posts, Github, WordPress blogs, and Mathoverflow.</p>
 <p><img data-attachment-id="1807" data-permalink="https://mikepawliuk.ca/2018/12/16/learning-latex-in-jupyter-notebooks/latex_a09588720c5d1e3a1948e857b5e99c51/" data-orig-file="https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png" data-orig-size="726,195" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="latex_a09588720c5d1e3a1948e857b5e99c51" data-image-description="" data-medium-file="https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png?w=300" data-large-file="https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png?w=660" class="alignnone size-full wp-image-1807" src="https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png?w=660" alt="latex_a09588720c5d1e3a1948e857b5e99c51" srcset="https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png?w=660 660w, https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png?w=150 150w, https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png?w=300 300w, https://mikepawliuk.files.wordpress.com/2018/12/latex_a09588720c5d1e3a1948e857b5e99c51.png 726w" sizes="(max-width: 660px) 100vw, 660px"   /></p>
 <p>Jupyter notebooks are a file type that blends HTML, formatted text (markdown), formatted mathematical formulas (LaTeX) and runnable code (Python). It is the standard way that data scientists communicate with each other online.</p>
-<p><img style="display:block;margin-left:auto;margin-right:auto;" title="" src="https://i2.wp.com/community.datacamp.com.s3.amazonaws.com/community/production/ckeditor_assets/pictures/202/content_jupyternotebook7.gif" alt="" /></p>
+<p><img style="display:block;margin-left:auto;margin-right:auto;" title="" src="https://i0.wp.com/community.datacamp.com.s3.amazonaws.com/community/production/ckeditor_assets/pictures/202/content_jupyternotebook7.gif" alt="" /></p>
 <p style="text-align:center;">Source: <a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook" rel="noopener">https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook</a></p>
 <h2>3. Description</h2>
 <p>My resource is an interactive guide to properly typing LaTeX. The format is a Jupyter notebook which is an authentic way in which LaTeX is used by data scientists. The resource could be used in any first-year course at the University of Calgary that requires written mathematics (such as MATH 265 &#8211; Calculus 1 or MATH 311 &#8211; Linear Algebra 2). The examples are geared towards students in those courses.</p>
@@ -3230,7 +3230,7 @@ How did you know you were doing well at the game?</p></blockquote>
         <id>https://mikepawliuk.ca/2018/03/11/the-journey-begins/</id>
         <link href="https://mikepawliuk.ca/2018/03/11/the-journey-begins/">
         </link>
-        <updated>2018-03-11T21:42:46Z</updated>
+        <updated>2018-03-12T03:42:46Z</updated>
         <summary type="html"><![CDATA[<p>I&#8217;m in the process of changing domains, so please bear with me during this transition. I&#8217;m working on fixing the bugs and making everything look pretty.</p>
 <p>In the mean time, <a href="https://cocalc.com/blobs//home/user/.sage/temp/project-fbeb3d9c-3251-4e88-9e27-82a1c37642e1/270/tmp_uijHct.svg?uuid=3877e5a6-2b20-41df-b57d-9d862c4d7394" target="_blank" rel="noopener">here&#8217;s a nice graph</a>. It answers <a href="https://www.reddit.com/r/math/comments/82yzln/if_i_had_a_sequence_of_16_actors_some_recurring/dve2bb8/?context=10000">a question posed on Reddit</a> that uses Chromatic numbers to solve a real life problem!</p>
 <p>Here&#8217;s another irrelevant picture.</p>
@@ -3912,7 +3912,7 @@ See if you can spot the two mistakes!
         <id>https://mikepawliuk.ca/2017/05/23/euclidean-ramsey-theory-2-ramsey-doccourse-prague-2016/</id>
         <link href="https://mikepawliuk.ca/2017/05/23/euclidean-ramsey-theory-2-ramsey-doccourse-prague-2016/">
         </link>
-        <updated>2017-05-24T00:22:44Z</updated>
+        <updated>2017-05-24T02:22:44Z</updated>
         <summary type="html"><![CDATA[<p>The following notes are from the <a href="http://iuuk.mff.cuni.cz/events/doccourse/">Ramsey DocCourse in Prague 2016</a>. The notes are taken by me and I have edited them. In the process I may have introduced some errors; email me or comment below and I will happily fix them.</p>
 <div class="summary">
 <p style="padding-left:30px;"><strong>Title</strong>: Euclidean Ramsey Theory 2 (of 3).</p>
@@ -4584,7 +4584,7 @@ Passion can also be a problem, as well as being a driver. Without that passion a
         <id>https://mikepawliuk.ca/2016/12/12/dual-ramsey-an-introduction-ramsey-doccourse-prague-2016/</id>
         <link href="https://mikepawliuk.ca/2016/12/12/dual-ramsey-an-introduction-ramsey-doccourse-prague-2016/">
         </link>
-        <updated>2016-12-13T00:02:28Z</updated>
+        <updated>2016-12-13T02:02:28Z</updated>
         <summary type="html"><![CDATA[<p>The following notes are from the <a href="http://iuuk.mff.cuni.cz/events/doccourse/">Ramsey DocCourse in Prague 2016</a>. The notes are taken by me and I have edited them. In the process I may have introduced some errors; email me or comment below and I will happily fix them.</p>
 <div class="summary">
 <p style="padding-left:30px;"><strong>Title</strong>: Dual Ramsey, the Gurarij space and the Poulsen simplex 1 (of 3).</p>
