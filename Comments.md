@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on Climb into Cantor's attic by Z](http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10797)
 * **Comments for Joel David Hamkins** [Comment on Bi-interpretation in weak set theories by Bi-interpretation of weak set theories, Oberwolfach, April 2020 \| Joel David Hamkins](http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10796)
 * **Comments for Joel David Hamkins** [Comment on Win at Nim! The secret mathematical strategy for kids (with challange problems in transfinite Nim for the rest of us) by Joel David Hamkins](http://jdh.hamkins.org/win-at-nim-the-secret-mathematical-strategy/#comment-10795)
 * **Comments for Joel David Hamkins** [Comment on Win at Nim! The secret mathematical strategy for kids (with challange problems in transfinite Nim for the rest of us) by Anna](http://jdh.hamkins.org/win-at-nim-the-secret-mathematical-strategy/#comment-10794)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on Lectures on the philosophy of mathematics, Oxford, Michaelmas term 2019 by Joel David Hamkins](http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/#comment-10790)
 * **Comments for Joel David Hamkins** [Comment on Lectures on the philosophy of mathematics, Oxford, Michaelmas term 2019 by Klaus Loehnert](http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/#comment-10789)
 * **Comments for Joel David Hamkins** [Comment on Climb into Cantor's attic by Joel David Hamkins](http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10788)
-* **Comments for Joel David Hamkins** [Comment on Climb into Cantor's attic by Johan](http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10786)
 
 [Grab the feed for all Comments!](Comments.xml)
