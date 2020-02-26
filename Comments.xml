@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-02-25T23:45:25Z</updated>
+    <updated>2020-02-26T03:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The real numbers are not interpretable in the complex field by Ali Enayat]]></title>
+        <id>http://jdh.hamkins.org/the-real-numbers-are-not-interpretable-in-the-complex-field/#comment-10799</id>
+        <link href="http://jdh.hamkins.org/the-real-numbers-are-not-interpretable-in-the-complex-field/#comment-10799">
+        </link>
+        <updated>2020-02-26T03:30:54Z</updated>
+        <summary type="html"><![CDATA[<p>Nice argument.  Amusingly, your proof makes an essential use of the axiom of choice since it is known that ZF + &#8220;conjugation is the only nontrivial automorphism of the complex field&#8221; is consistent (if ZF is consistent).</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Climb into Cantor's attic by Z]]></title>
         <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10797</id>
@@ -163,17 +174,6 @@
         </link>
         <updated>2019-12-07T16:40:05Z</updated>
         <summary type="html"><![CDATA[<p>I&#8217;m so sorry, and I&#8217;ll try to get it back up as soon as possible.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by Macguzel Macguzel]]></title>
-        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10782</id>
-        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10782">
-        </link>
-        <updated>2019-12-05T19:44:58Z</updated>
-        <summary type="html"><![CDATA[<p>Mr. Hamkins, I can’t get to the site since November. I see only the &#8220;Internal Error&#8221; page. Other users around the world have the same problem. The site is excellent and it’s a pity that it is not working at present.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
