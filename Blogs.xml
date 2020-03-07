@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-03-07T15:45:35Z</updated>
+    <updated>2020-03-07T19:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,78 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Consistency strength lower bounds for the proper forcing axiom via the core model induction]]></title>
+        <id>https://muellersandra.github.io/review/2020/03/06/ReviewCoreModelInductionPFA.html</id>
+        <link href="https://muellersandra.github.io/review/2020/03/06/ReviewCoreModelInductionPFA.html">
+        </link>
+        <updated>2020-03-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Bulletin of Symbolic Logic. <a href="http://www.logic.univie.ac.at/~smueller/MuellerReviewConStrengthPFA.pdf">PDF.</a>
+<a data-toggle="collapse" href="javascript:toggle('bibMrev');" class="title">Bibtex.</a></p>
+
+<div style="display:none" id="bibMrev">
+<pre class="collapse"> @ARTICLE{MuReview,
+   AUTHOR= {S. Müller},
+   TITLE= {Consistency strength lower bounds for the proper forcing axiom via the core model induction},
+   JOURNAL = {Bulletin of Symbolic Logic},
+   NOTE = {Review of four papers by G.\ Sargsyan, J.\ Steel and N.\ Trang on consistency strength lower bounds for the proper forcing axiom via the core model induction. To appear.},
+   YEAR = 2019}</pre>
+</div>
+
+<!--more-->
+
+<p>This is an invited review of four papers by G. Sargsyan, J. Steel and N. Trang on consistency strength lower bounds for the proper forcing axiom via the core model induction.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic Colloquium Poznan - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/03/06/TalkLogicColloquiumPoznan.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/03/06/TalkLogicColloquiumPoznan.html">
+        </link>
+        <updated>2020-03-05T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the Logic Colloquium 2020 taking place at the Adam Mickiewicz University, Poznan, Poland, July 13-17, 2020. Title and abstract for this talk will be announced in due course.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North American Annual Meeting of the ASL - How to obtain lower bounds in set theory]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2020/03/05/TalkASLIrvine.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2020/03/05/TalkASLIrvine.html">
+        </link>
+        <updated>2020-03-04T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a plenary talk at the <a href="https://sites.uci.edu/asl2020/">2020 North American Annual Meeting of the Association for Symbolic Logic</a> taking place at UC Irvine March 25-28, 2020.</p>
+
+<p><em>How to obtain lower bounds in set theory</em></p>
+
+<p>Computing the large cardinal strength of a given statement is one of the key research directions in set theory. Fruitful tools to tackle such questions are given by inner model theory. The study of inner models was initiated by Gödel’s analysis of the constructible universe $L$. Later, it was extended to canonical inner models with large cardinals, e.g. measurable cardinals, strong cardinals or Woodin cardinals, which were introduced by Jensen, Mitchell, Steel, and others.</p>
+
+<p>We will outline three recent applications where inner model theory is used to obtain lower bounds in large cardinal strength for statements that do not involve inner models. The first result, in part joint with J. Aguilera, is an analysis of the strength of determinacy for certain infinite two player games of fixed countable length, the second result studies the strength of a model of determinacy in which all sets of reals are universally Baire, and the third result, joint with Y. Hayut, involves combinatorics of infinite trees and the perfect subtree property for weakly compact cardinals $\kappa$.</p>
+
+<p>Slides will be uploaded here after the talk.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Day of Mathematics, Vienna - Das Unbegreifliche verstehen - die Faszination Unendlichkeit]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/generalaudience/2020/03/04/TalkIDMVienna.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/generalaudience/2020/03/04/TalkIDMVienna.html">
+        </link>
+        <updated>2020-03-03T23:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk for a general audience at the celebration of the <a href="https://idm2020.univie.ac.at">International Day of Mathematics</a> taking place at the TU Wien on March 14, 2020. This talk will be in German.</p>
+
+<p><em>Das Unbegreifliche verstehen - die Faszination Unendlichkeit</em></p>
+
+<p>Jeder kennt sie, sie ist immer da, aber nie so richtig - die Unendlichkeit. Aber was meinen wir eigentlich, wenn wir sagen, dass etwas unendlich groß ist? Gibt es nur die eine Unendlichkeit oder zwei oder vielleicht sogar ganz viele?</p>
+
+<p>Wir werden diese Fragen und natürlich auch die dazugehörigen Antworten etwas genauer unter die Lupe nehmen. Dabei wird sich nicht nur zeigen, wozu Mathematik in der Lage ist, sondern wir werden uns auch auf den Weg zu den Grenzen der Mathematik machen, wie sie zum Beispiel von Cantor und Gödel aufgezeigt wurden. Diese Grenzen besser zu verstehen - getreu nach dem Spruch von Oliver Tietze „Wer mit dem Feuer spielen will, muss wissen, wo das Wasser steht.“ - ist noch heute Gegenstand mathematischer Spitzenforschung.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The real numbers are not interpretable in the complex field]]></title>
         <id>http://jdh.hamkins.org/the-real-numbers-are-not-interpretable-in-the-complex-field/</id>
@@ -362,36 +434,6 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
 <p><span id="more-4620"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic Colloquium Poznan - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2019/11/21/TalkLogicColloquiumPoznan.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2019/11/21/TalkLogicColloquiumPoznan.html">
-        </link>
-        <updated>2019-11-20T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the Logic Colloquium 2020 taking place at the Adam Mickiewicz University, Poznan, Poland, July 13-17, 2020. Title and abstract for this talk will be announced in due course.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North American Annual Meeting of the ASL - How to obtain lower bounds in set theory]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2019/11/20/TalkASLIrvine.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2019/11/20/TalkASLIrvine.html">
-        </link>
-        <updated>2019-11-19T23:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a plenary talk at the <a href="https://sites.uci.edu/asl2020/">2020 North American Annual Meeting of the Association for Symbolic Logic</a> taking place at UC Irvine March 25-28, 2020.</p>
-
-<p><em>How to obtain lower bounds in set theory</em></p>
-
-<p>Computing the large cardinal strength of a given statement is one of the key research directions in set theory. Fruitful tools to tackle such questions are given by inner model theory. The study of inner models was initiated by Gödel’s analysis of the constructible universe $L$. Later, it was extended to canonical inner models with large cardinals, e.g. measurable cardinals, strong cardinals or Woodin cardinals, which were introduced by Jensen, Mitchell, Steel, and others.</p>
-
-<p>We will outline three recent applications where inner model theory is used to obtain lower bounds in large cardinal strength for statements that do not involve inner models. The first result, in part joint with J. Aguilera, is an analysis of the strength of determinacy for certain infinite two player games of fixed countable length, the second result studies the strength of a model of determinacy in which all sets of reals are universally Baire, and the third result, joint with Y. Hayut, involves combinatorics of infinite trees and the perfect subtree property for weakly compact cardinals $\kappa$.</p>
-
-<p>Slides will be uploaded here after the talk.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
         </author>
     </entry>
     <entry>
@@ -1307,51 +1349,6 @@ taking place Nov 1-3, 2019 at Rutgers University, USA.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15th International Luminy Workshop in Set Theory - Lower bounds for the perfect subtree property at weakly compact cardinals]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/14/TalkLuminy.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2019/07/14/TalkLuminy.html">
-        </link>
-        <updated>2019-07-13T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>During the week of September 23 - 27, 2019 I attended the <a href="https://conferences.cirm-math.fr/2052.html">15th International Luminy Workshop in Set Theory</a> and gave a talk.</p>
-
-<p><em>Lower bounds for the perfect subtree property at weakly compact cardinals</em></p>
-
-<p><em>Abstract:</em> By the Cantor-Bendixson theorem, subtrees of the binary tree on $\omega$ satisfy a dichotomy - either the tree has countably many branches or there is a perfect subtree (and in particular, the tree has continuum many branches, regardless of the size of the continuum). We generalize this to arbitrary regular cardinals $\kappa$ and ask whether every $\kappa$-tree with more than $\kappa$ branches has a perfect subtree. From large cardinals, this statement is consistent at a weakly compact cardinal $\kappa$. We show using stacking mice that the existence of a non-domestic mouse (which yields a model with a proper class of Woodin cardinals and strong cardinals) is a lower bound. Moreover, we study variants of this statement involving sealed trees, i.e. trees with the property that their set of branches cannot be changed by certain forcings, and obtain lower bounds for these as well. This is joint work with Yair Hayut.</p>
-
-<p><a href="https://www.cirm-math.fr/RepOrga/2052/Slides/MuellerLuminy.pdf">Slides</a>.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/155ofO_EZg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<p>Click <a href="https://library.cirm-math.fr/Record.htm?idlist=127&amp;record=19286559124910047319">here</a> to go to the video in the CIRM library.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(with R. Carroy and A. Medini) Constructing Wadge classes]]></title>
-        <id>https://muellersandra.github.io/publication/submitted/2019/07/12/PaperConstructingWadgeClasses.html</id>
-        <link href="https://muellersandra.github.io/publication/submitted/2019/07/12/PaperConstructingWadgeClasses.html">
-        </link>
-        <updated>2019-07-11T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted. <a href="https://arxiv.org/pdf/1907.07612.pdf">PDF.</a> <a href="https://arxiv.org/abs/1907.07612">arXiv.</a>
-<a data-toggle="collapse" href="javascript:toggle('bibCMM19');" class="title">Bibtex.</a></p>
-
-<div style="display:none" id="bibCMM19">
-<pre class="collapse"> @ARTICLE{CMM19,
-   AUTHOR= {R. Carroy, A. Medini and S. Müller},
-   TITLE= {Constructing Wadge classes},
-   Note={Submitted},
-   EPRINT ={1907.07612}}</pre>
-</div>
-
-<!--more-->
-
-<p>We show that, assuming the Axiom of Determinacy, every non-selfdual Wadge class can be constructed by starting with those of level $\omega_1$ (that is, the ones that are closed under Borel preimages) and iteratively applying the operations of expansion and separated differences. The proof is essentially due to Louveau, and it yields at the same time a new proof of a theorem of Van Wesep (namely, that every non-selfdual Wadge class can be expressed as the result of a Hausdorff operation applied to the open sets). The exposition is self-contained, except for facts from classical descriptive set theory.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maximal tori of groups of Lie type]]></title>
         <id>https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type</id>
         <link href="https://nickpgill.github.io/maximal-tori-of-groups-of-Lie-type">
@@ -1782,19 +1779,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The nametag problem]]></title>
         <id>http://scoskey.org/senior-thesis/the-nametag-problem/</id>
         <link href="http://scoskey.org/senior-thesis/the-nametag-problem/">
@@ -1826,6 +1810,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -9183,6 +9180,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -9199,22 +9212,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -15196,33 +15193,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -15245,6 +15215,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
