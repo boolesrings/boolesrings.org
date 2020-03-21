@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-03-21T19:45:26Z</updated>
+    <updated>2020-03-21T23:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Set-theoretic geology by A tutorial in set-theoretic geology, London 2011 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/set-theoreticgeology/#comment-10802</id>
+        <link href="http://jdh.hamkins.org/set-theoreticgeology/#comment-10802">
+        </link>
+        <updated>2020-03-21T20:42:49Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;]   Article [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The real numbers are not interpretable in the complex field by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/the-real-numbers-are-not-interpretable-in-the-complex-field/#comment-10800</id>
@@ -163,17 +174,6 @@
         </link>
         <updated>2019-12-08T11:23:08Z</updated>
         <summary type="html"><![CDATA[<p>Mr. Hamkins, I also can&#8217;t get to the site. Is there any trouble need help? Cantor&#8217;s attic is a excellent place to learn about set theory.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Comment Board by Keith Millar]]></title>
-        <id>http://jdh.hamkins.org/comment-board/#comment-10784</id>
-        <link href="http://jdh.hamkins.org/comment-board/#comment-10784">
-        </link>
-        <updated>2019-12-07T21:12:29Z</updated>
-        <summary type="html"><![CDATA[<p>Oh don&#8217;t worry! I know you are a busy guy. It&#8217;ll get back up when it gets back up, and until then I can still even use the wayback machine to view pretty much any article I want, I just can&#8217;t make edits. Thank you for taking notice though, I really appreciate it.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
