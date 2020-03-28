@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-03-28T11:45:25Z</updated>
+    <updated>2020-03-28T15:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,39 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by graph theory for children - Oxford Blog]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10806</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10806">
+        </link>
+        <updated>2020-03-28T06:41:33Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] to tackle next? One obvious candidate is Hamkin&#039;s other pamphlet, on Euler&#039;s formula. Then there are Hamiltonian paths and tours. And the concepts of distance and diameter are not [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for seven-year-olds:  graph coloring, chromatic numbers, and Eulerian paths and circuits by graph theory for children - Oxford Blog]]></title>
+        <id>http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/#comment-10805</id>
+        <link href="http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/#comment-10805">
+        </link>
+        <updated>2020-03-28T06:41:16Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] I scrambled to put together a (not used in the end) workshop, based around Joel Hamkin&#039;s pamphlet &quot;Graph Coloring and Chromatic Numbers&quot;. Helen had no trouble with that, and seems comfortable with chromatic numbers (the smallest number [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for kids: fun with orthoprojections! by Marco]]></title>
+        <id>http://jdh.hamkins.org/fun-with-orthoprojections/#comment-10804</id>
+        <link href="http://jdh.hamkins.org/fun-with-orthoprojections/#comment-10804">
+        </link>
+        <updated>2020-03-27T12:10:27Z</updated>
+        <summary type="html"><![CDATA[<p>Thank you so much! This is so funny! I don&#8217;t have blocks at home, so I draw everything in perspective (with good old pen and paper). I think I&#8217;m also going to try this with OpenSCAD ( cube([1,2,4], 0, 0) )&#8230;</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Set-theoretic geology by A tutorial in set-theoretic geology, London 2011 | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/set-theoreticgeology/#comment-10802</id>
@@ -141,39 +174,6 @@
         </link>
         <updated>2020-01-08T10:43:13Z</updated>
         <summary type="html"><![CDATA[<p>Are there scripts for these lectures, if yes, can I copies of them?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10788</id>
-        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10788">
-        </link>
-        <updated>2020-01-04T17:51:41Z</updated>
-        <summary type="html"><![CDATA[<p>It hasn&#8217;t been discontinued; its just that I&#8217;ve been too busy to give it the time it needs.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by Johan]]></title>
-        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10786</id>
-        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10786">
-        </link>
-        <updated>2019-12-20T12:06:32Z</updated>
-        <summary type="html"><![CDATA[<p>Has this project been discontinued, moved or something else? I&#8217;m still interested in the site. Thank you!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by G]]></title>
-        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10785</id>
-        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10785">
-        </link>
-        <updated>2019-12-08T11:23:08Z</updated>
-        <summary type="html"><![CDATA[<p>Mr. Hamkins, I also can&#8217;t get to the site. Is there any trouble need help? Cantor&#8217;s attic is a excellent place to learn about set theory.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
