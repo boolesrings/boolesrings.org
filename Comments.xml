@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-03-31T10:45:25Z</updated>
+    <updated>2020-03-31T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,30 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10808</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10808">
+        </link>
+        <updated>2020-03-31T13:18:23Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks for the vote of confidence! I&#8217;m glad that you enjoyed it with your kids.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Fabian]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10807</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10807">
+        </link>
+        <updated>2020-03-31T11:36:55Z</updated>
+        <summary type="html"><![CDATA[<p>Great ressource. Just used it to keep the kids entertained during Corona virus lockdown here in Germany! Thanks so much.</p>
+<p>Our kids enjoyed both graph coloring and the Euler characteristic. I totally appreciate the sketch of the inductive prove. Really easy for the kids to follow!</p>
+<p>Keep up the great work and to inspire kids.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by graph theory for children - Oxford Blog]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10806</id>
@@ -152,28 +176,6 @@
         </link>
         <updated>2020-01-14T18:44:06Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] A new proof of the Barwise extension theorem [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Lectures on the philosophy of mathematics, Oxford, Michaelmas term 2019 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/#comment-10790</id>
-        <link href="http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/#comment-10790">
-        </link>
-        <updated>2020-01-08T11:31:33Z</updated>
-        <summary type="html"><![CDATA[<p>There is no separate script available, but the book is currently going into production and will be available from MIT Press. I&#8217;ll post announcements here when it is available.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Lectures on the philosophy of mathematics, Oxford, Michaelmas term 2019 by Klaus Loehnert]]></title>
-        <id>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/#comment-10789</id>
-        <link href="http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-michaelmas-2019/#comment-10789">
-        </link>
-        <updated>2020-01-08T10:43:13Z</updated>
-        <summary type="html"><![CDATA[<p>Are there scripts for these lectures, if yes, can I copies of them?</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
