@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-04-03T10:45:25Z</updated>
+    <updated>2020-04-03T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,39 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Set-theoretic potentialism, Winter School in Abstract Analysis 2018, Hejnice, Czech Republic by Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/set-theoretic-potentialism-ws2018/#comment-10811</id>
+        <link href="http://jdh.hamkins.org/set-theoretic-potentialism-ws2018/#comment-10811">
+        </link>
+        <updated>2020-04-03T14:39:18Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] workshop I gave on potentialism at the Hejnice Winter School in 2018; the slides are available at <a href="http://jdh.hamkins.org/set-theoretic-potentialism-ws2018" rel="nofollow ugc">http://jdh.hamkins.org/set-theoretic-potentialism-ws2018</a>. My intent is to concentrate on the nature and significance of control statements, such as buttons, [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The modal logic of arithmetic potentialism and the universal algorithm by Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/arithmetic-potentialism-and-the-universal-algorithm/#comment-10810</id>
+        <link href="http://jdh.hamkins.org/arithmetic-potentialism-and-the-universal-algorithm/#comment-10810">
+        </link>
+        <updated>2020-04-03T14:39:01Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Hamkins, “Arithmetic potentialism and the universal algorithm,” arxiv: 1801.04599, available at <a href="http://jdh.hamkins.org/arithmetic-potentialism-and-the-universal-algorithm" rel="nofollow ugc">http://jdh.hamkins.org/arithmetic-potentialism-and-the-universal-algorithm</a>. Please feel free to skip over the more technical parts of this paper. In the seminar discussion, [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Potentialism and implicit actualism in the foundations of mathematics, Jowett Society lecture, Oxford, February 2019 by Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10809</id>
+        <link href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-society-oxford-february-2019/#comment-10809">
+        </link>
+        <updated>2020-04-03T14:38:46Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] of mathematics,” given for the Jowett Society in Oxford last year. The slides are available at: <a href="http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-&#038;#8230" rel="nofollow ugc">http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-jowett-&#038;#8230</a>;.  Interested readers may also wish to consult the more extensive slides for the three-lecture [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10808</id>
@@ -143,39 +176,6 @@
         </link>
         <updated>2020-01-31T19:13:48Z</updated>
         <summary type="html"><![CDATA[<p>How do you win when the piles are 3,4,5? And what do you do when the other person knows it too?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Ali Enayat]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10793</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10793">
-        </link>
-        <updated>2020-01-31T16:06:09Z</updated>
-        <summary type="html"><![CDATA[<p>Very beautiful results. The failure of tightness for ZFC without power set, and for Zermelo set theory nicely complement earlier results indicated in the last section of my 2016 paper (referenced in your paper) about the failure of tightness of ZF without the axioms of infinity, and ZF without the foundation axiom. It is also fairly easy to show that tightness fails for ZF without the extensionality axiom, and ZF without the pairing axiom.  Did you consider the case of ZF without the union axiom?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Bi-interpretation in set theory, Bristol, February 2020 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10792</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10792">
-        </link>
-        <updated>2020-01-22T18:25:38Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] &larr; Previous [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on A new proof of the Barwise extension theorem, without infinitary logic by The $Sigma_1$-definable universal finite sequence | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem/#comment-10791</id>
-        <link href="http://jdh.hamkins.org/a-new-proof-of-the-barwise-extension-theorem/#comment-10791">
-        </link>
-        <updated>2020-01-14T18:44:06Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] A new proof of the Barwise extension theorem [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
