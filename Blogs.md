@@ -3,7 +3,7 @@ layout: page
 title: Blogs
 ---
 
-* **Asaf Karagila** [Choose your own adventure](http://karagila.org/2020/fatalistic-adventure/)
+* **Asaf Karagila** [Choose your own adventure (redux)](http://karagila.org/2020/fatalistic-adventure/)
 * **Norman Lewis Perlmutter** [John Conway](http://normanspace.org/2020/04/14/john-conway/)
 * **Asaf Karagila** [Countable sets of reals](http://karagila.org/2020/countable-sets-of-reals/)
 * **Joel David Hamkins** [Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020](http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt20/)
