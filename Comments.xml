@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-04-26T14:45:25Z</updated>
+    <updated>2020-04-26T18:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 by Rahman Mohammadpour]]></title>
+        <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt20/#comment-10814</id>
+        <link href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt20/#comment-10814">
+        </link>
+        <updated>2020-04-26T17:46:31Z</updated>
+        <summary type="html"><![CDATA[<p>Very interesting! I like to participate in this course. I am still waiting for more details about the zoom link and the schedule.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Set-theoretic potentialism, Winter School in Abstract Analysis 2018, Hejnice, Czech Republic by Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/set-theoretic-potentialism-ws2018/#comment-10811</id>
@@ -165,17 +176,6 @@
         </link>
         <updated>2020-02-01T17:16:17Z</updated>
         <summary type="html"><![CDATA[<p>When the piles are height 3 4 5, then the first player can win by playing to 1 4 5. This is a balanced position, to use the terminology of the post, because if you think of 5 as 4+1, then you have two fours and two ones. And there is nothing that the second player can do to avoid losing, if the first player plays the balancing strategy.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Win at Nim! The secret mathematical strategy for kids (with challange problems in transfinite Nim for the rest of us) by Anna]]></title>
-        <id>http://jdh.hamkins.org/win-at-nim-the-secret-mathematical-strategy/#comment-10794</id>
-        <link href="http://jdh.hamkins.org/win-at-nim-the-secret-mathematical-strategy/#comment-10794">
-        </link>
-        <updated>2020-01-31T19:13:48Z</updated>
-        <summary type="html"><![CDATA[<p>How do you win when the piles are 3,4,5? And what do you do when the other person knows it too?</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
