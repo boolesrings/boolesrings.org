@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-04-27T14:45:25Z</updated>
+    <updated>2020-04-27T18:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,39 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt20/#comment-10817</id>
+        <link href="http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt20/#comment-10817">
+        </link>
+        <updated>2020-04-27T15:34:01Z</updated>
+        <summary type="html"><![CDATA[<p>Contact Wesley Wrigley for the access code.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Bi-interpretation of weak set theories, Oxford Set Theory Seminar, May 2020 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10816</id>
+        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10816">
+        </link>
+        <updated>2020-04-27T15:32:04Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Bi-interpretation in weak set theories [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Bi-interpretation of weak set theories, Oxford Set Theory Seminar, May 2020 | Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10815</id>
+        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10815">
+        </link>
+        <updated>2020-04-27T15:28:14Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] &larr; Previous [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 by Rahman Mohammadpour]]></title>
         <id>http://jdh.hamkins.org/philosophy-of-mathematics-graduate-oxford-tt20/#comment-10814</id>
@@ -143,39 +176,6 @@
         </link>
         <updated>2020-02-26T03:30:54Z</updated>
         <summary type="html"><![CDATA[<p>Nice argument.  Amusingly, your proof makes an essential use of the axiom of choice since it is known that ZF + &#8220;conjugation is the only nontrivial automorphism of the complex field&#8221; is consistent (if ZF is consistent).</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by Z]]></title>
-        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10797</id>
-        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10797">
-        </link>
-        <updated>2020-02-24T07:09:28Z</updated>
-        <summary type="html"><![CDATA[<p>Would you please fix the site soon? This is such a good place to learn about large cardinals and set theory, and without it I would have to search through the whole Internet to find what I need. Thanks!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Bi-interpretation of weak set theories, Oberwolfach, April 2020 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10796</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10796">
-        </link>
-        <updated>2020-02-08T18:04:54Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Bi-interpretation in weak set theories [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Win at Nim! The secret mathematical strategy for kids (with challange problems in transfinite Nim for the rest of us) by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/win-at-nim-the-secret-mathematical-strategy/#comment-10795</id>
-        <link href="http://jdh.hamkins.org/win-at-nim-the-secret-mathematical-strategy/#comment-10795">
-        </link>
-        <updated>2020-02-01T17:16:17Z</updated>
-        <summary type="html"><![CDATA[<p>When the piles are height 3 4 5, then the first player can win by playing to 1 4 5. This is a balanced position, to use the terminology of the post, because if you think of 5 as 4+1, then you have two fours and two ones. And there is nothing that the second player can do to avoid losing, if the first player plays the balancing strategy.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
