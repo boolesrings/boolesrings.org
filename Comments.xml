@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-04-30T18:45:26Z</updated>
+    <updated>2020-04-30T22:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10822</id>
+        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10822">
+        </link>
+        <updated>2020-04-30T21:52:14Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks, Norman. It&#8217;s been years in the making, but I think it is a good book.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by NORMAN PERLMUTTER]]></title>
+        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10821</id>
+        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10821">
+        </link>
+        <updated>2020-04-30T20:53:23Z</updated>
+        <summary type="html"><![CDATA[<p>Congrats on the new publication! This looks like a really great book.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on A survey of infinite time Turing machines by Thomas]]></title>
         <id>http://jdh.hamkins.org/asurveyofinfinitetimeturingmachines/#comment-10818</id>
@@ -154,28 +176,6 @@
         </link>
         <updated>2020-03-27T12:10:27Z</updated>
         <summary type="html"><![CDATA[<p>Thank you so much! This is so funny! I don&#8217;t have blocks at home, so I draw everything in perspective (with good old pen and paper). I think I&#8217;m also going to try this with OpenSCAD ( cube([1,2,4], 0, 0) )&#8230;</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Set-theoretic geology by A tutorial in set-theoretic geology, London 2011 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/set-theoreticgeology/#comment-10802</id>
-        <link href="http://jdh.hamkins.org/set-theoreticgeology/#comment-10802">
-        </link>
-        <updated>2020-03-21T20:42:49Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;]   Article [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The real numbers are not interpretable in the complex field by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/the-real-numbers-are-not-interpretable-in-the-complex-field/#comment-10800</id>
-        <link href="http://jdh.hamkins.org/the-real-numbers-are-not-interpretable-in-the-complex-field/#comment-10800">
-        </link>
-        <updated>2020-03-04T18:45:24Z</updated>
-        <summary type="html"><![CDATA[<p>Yes, indeed, one uses the axiom of choice to produce the automorphisms exchanging transcendental elements.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
