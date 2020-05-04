@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-04T10:45:25Z</updated>
+    <updated>2020-05-04T14:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities May 4 — May 10 2020 | European Set Theory Society]]></title>
+        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10825</id>
+        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10825">
+        </link>
+        <updated>2020-05-03T20:09:31Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime: Wednesday, May 6, 16:00-17:30 UK time (17:00-18:30 CEST)Speaker: Victoria Gitman, City University of New YorkTitle: Elementary embeddings and smaller large cardinalsAbstract: A common theme in the definitions of larger large cardinals is the existence of elementary embeddings from the universe into an inner model. In contrast, smaller large cardinals, such as weakly compact and Ramsey cardinals, are usually characterized by their combinatorial properties such as existence of large homogeneous sets for colorings. It turns out that many familiar smaller large cardinals have elegant elementary embedding characterizations. The embeddings here are correspondingly ‘small’; they are between transitive set models of set theory, usually the size of the large cardinal in question. The study of these elementary embeddings has led us to isolate certain important properties via which we have defined robust hierarchies of large cardinals below a measurable cardinal. In this talk, I will introduce these types of elementary embeddings and discuss the large cardinal hierarchies that have come out of the analysis of their properties. The more recent results in this area are a joint work with Philipp Schlicht.Information: For the Zoom access code, contact Samuel Adam-Day: <a href="mailto:me@samadamday.com">me@samadamday.com</a>. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10822</id>
@@ -165,17 +176,6 @@
         </link>
         <updated>2020-03-28T06:41:16Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] I scrambled to put together a (not used in the end) workshop, based around Joel Hamkin&#039;s pamphlet &quot;Graph Coloring and Chromatic Numbers&quot;. Helen had no trouble with that, and seems comfortable with chromatic numbers (the smallest number [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for kids: fun with orthoprojections! by Marco]]></title>
-        <id>http://jdh.hamkins.org/fun-with-orthoprojections/#comment-10804</id>
-        <link href="http://jdh.hamkins.org/fun-with-orthoprojections/#comment-10804">
-        </link>
-        <updated>2020-03-27T12:10:27Z</updated>
-        <summary type="html"><![CDATA[<p>Thank you so much! This is so funny! I don&#8217;t have blocks at home, so I draw everything in perspective (with good old pen and paper). I think I&#8217;m also going to try this with OpenSCAD ( cube([1,2,4], 0, 0) )&#8230;</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
