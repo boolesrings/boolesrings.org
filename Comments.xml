@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-05T06:45:25Z</updated>
+    <updated>2020-05-05T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,28 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The theory of infinite games, including infinite chess, Talk Math With Your Friends, June 2020 by DukeZhou]]></title>
+        <id>http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10829</id>
+        <link href="http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10829">
+        </link>
+        <updated>2020-05-04T21:36:30Z</updated>
+        <summary type="html"><![CDATA[<p>Very excited!  Thanks for doing this!</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Duke Zhou]]></title>
+        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10828</id>
+        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10828">
+        </link>
+        <updated>2020-05-04T21:34:11Z</updated>
+        <summary type="html"><![CDATA[<p>So excited.  I *clearly* need this book.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities May 4 — May 10 2020 | European Set Theory Society]]></title>
         <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10825</id>
@@ -154,28 +176,6 @@
         <summary type="html"><![CDATA[<p>Great ressource. Just used it to keep the kids entertained during Corona virus lockdown here in Germany! Thanks so much.</p>
 <p>Our kids enjoyed both graph coloring and the Euler characteristic. I totally appreciate the sketch of the inductive prove. Really easy for the kids to follow!</p>
 <p>Keep up the great work and to inspire kids.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by graph theory for children - Oxford Blog]]></title>
-        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10806</id>
-        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10806">
-        </link>
-        <updated>2020-03-28T06:41:33Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] to tackle next? One obvious candidate is Hamkin&#039;s other pamphlet, on Euler&#039;s formula. Then there are Hamiltonian paths and tours. And the concepts of distance and diameter are not [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Math for seven-year-olds:  graph coloring, chromatic numbers, and Eulerian paths and circuits by graph theory for children - Oxford Blog]]></title>
-        <id>http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/#comment-10805</id>
-        <link href="http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/#comment-10805">
-        </link>
-        <updated>2020-03-28T06:41:16Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] I scrambled to put together a (not used in the end) workshop, based around Joel Hamkin&#039;s pamphlet &quot;Graph Coloring and Chromatic Numbers&quot;. Helen had no trouble with that, and seems comfortable with chromatic numbers (the smallest number [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
