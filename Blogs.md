@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Joel David Hamkins** [My view of Univ](http://jdh.hamkins.org/my-view-of-univ/)
 * **Asaf Karagila** [On "trivial" statements](http://karagila.org/2020/on-trivial-statements/)
 * **Joel David Hamkins** [The theory of infinite games, including infinite chess, Talk Math With Your Friends, June 2020](http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/)
 * **Joel David Hamkins** [Proof and the Art of Mathematics](http://jdh.hamkins.org/proof-and-the-art-of-mathematics/)
@@ -12,6 +13,5 @@ title: Blogs
 * **Nick Gill** [An investigation of triality](https://nickpgill.github.io/matrices-for-O8-G2-and-3D4)
 * **Asaf Karagila** [Choose your own adventure (redux)](http://karagila.org/2020/fatalistic-adventure/)
 * **Norman Lewis Perlmutter** [John Conway](http://normanspace.org/2020/04/14/john-conway/)
-* **Asaf Karagila** [Countable sets of reals](http://karagila.org/2020/countable-sets-of-reals/)
 
 [Grab the feed for all Blogs!](Blogs.xml)
