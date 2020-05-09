@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-09T14:45:33Z</updated>
+    <updated>2020-05-09T18:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -19,7 +19,7 @@
         <link href="http://jdh.hamkins.org/my-view-of-univ/">
         </link>
         <updated>2020-05-09T12:36:33Z</updated>
-        <summary type="html"><![CDATA[Appearing in The Martlet, Issue 11, Spring 2020, University College, Oxford. My view of Univ “I came to Oxford last year, leaving an established career in New York, and found a welcoming new home, an ideal environment for research and &#8230; <a href="http://jdh.hamkins.org/my-view-of-univ/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <summary type="html"><![CDATA[[bibtex key="Hamkins2020:My-view-of-univ"] <a href="http://jdh.hamkins.org/my-view-of-univ/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
         </author>
