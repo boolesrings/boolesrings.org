@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-10T10:45:32Z</updated>
+    <updated>2020-05-10T14:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,21 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Jan Saxl]]></title>
+        <id>https://nickpgill.github.io/jan-saxl</id>
+        <link href="https://nickpgill.github.io/jan-saxl">
+        </link>
+        <updated>2020-05-10T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A week ago I heard the very sad news that Jan Saxl has died. Jan was my PhD supervisor at Cambridge – I spent three and a half years working under his guidance. The opportunity to work with Jan was one of the great privileges of my mathematical life, and I owe him a great debt for helping me through the difficult process of researching and writing a doctoral thesis.</p>
+
+<p>As well as being a fine mathematician, Jan was a warm and witty man. Now I have PhD students of my own I know that it is not always easy to know what the right thing to do is when it comes to supervision – looking back I appreciate Jan’s gentle direction all the more.</p>
+
+<p>I feel very sad knowing that Jan is no longer with us. My thoughts are with his wife, Ruth, and the rest of her family.</p>]]></summary>
+        <author>
+            <name>Nick Gill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My view of Univ]]></title>
         <id>http://jdh.hamkins.org/my-view-of-univ/</id>
@@ -117,7 +132,7 @@
 
 <p>I wanted to do an investigation of the triality automorphism of the orthogonal group $O8^+(q)$. I finally got around to this today, and have written up some rough notes which are <a href="https://nickpgill.github.io/omega8.pdf">here</a>. One unexpected bonus was that I was able to write down matrices for the natural 8-dimensional representation of $G2(q)$ over $\mathbb{F}{q}$ and ${^3D4}(q)$ over $\mathbb{F}_{q^3}$.</p>
 
-<p>Both of these families of exceptional groups lie inside $O_8^+$ groups. Their structure, when written as matrices, is surprisingly similar (surprising to me!). I’ve not seen the matrices written down before so I was pleased that I could nut it out…</p>
+<p>Both of these families of exceptional groups lie inside $O_8^+$ groups. Their structure, when written as matrices, is surprisingly similar (surprising to me!). Although all of this is well-known to experts, I’ve not seen the matrices written down before so I was pleased that I could nut it out…</p>
 
 <p>(By the way, I’m having trouble with underscores rendering correctly, so please do whatever’s necessary to make that middle paragraph make sense.)</p>]]></summary>
         <author>
@@ -299,7 +314,7 @@
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4639, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 57"
+                <input type="button" onclick="thankYouButtonClick(4639, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 58"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4639_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -386,6 +401,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
+        <id>https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html</id>
+        <link href="https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html">
+        </link>
+        <updated>2020-01-10T05:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="">Winter ASL Meeting</a>, Denver, January 17-18, 2020.<!--more--></p>
+<p>
+Modern set theoretic research has produced a myriad of set-theoretic universes with fundamentally different properties and structures. Multiversists hold the philosophical position that none of these universes is the true universe of set theory - they all have equal ontological status and populate the set-theoretic multiverse. Hamkins, one of the main proponents of this view, formulated his position via the heuristic Hamkins Multiverse Axioms, which include such radical relativity assertions as that any universe is ill-founded from the perspective of another universe in the multiverse. With Hamkins, we showed that the collection of all countable computably saturated models of ${\rm ZFC}$ satisfies his axioms. Countable computably saturated models form a unique natural class with a number of desirable model theoretic properties such as existence of truth predicates and automorphisms. Indeed, any collection of models satisfying the Hamkins Multiverse Axioms must be contained within this class. In a joint work with Toby Meadows, Michał Godziszewski, and Kameryn Williams, we explore which weaker versions of the multiverse axioms have 'toy multiverses' that are not made up entirely of computably saturated models.
+</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ramsey-like cardinals]]></title>
         <id>https://victoriagitman.github.io/talks/2020/01/10/ramsey-like-cardinals.html</id>
         <link href="https://victoriagitman.github.io/talks/2020/01/10/ramsey-like-cardinals.html">
@@ -432,20 +461,6 @@
 <li><span id="mitchell:ramsey">W. Mitchell, “Ramsey cardinals and constructibility,” <i>J. Symbolic Logic</i>, vol. 44, no. 2, pp. 260–266, 1979. Available at: http://dx.doi.org.ezproxy.gc.cuny.edu/10.2307/2273732</span></li>
 <li><span id="HolySchlicht:HierarchyRamseyLikeCardinals">P. Holy and P. Schlicht, “A hierarchy of Ramsey-like cardinals.” </span></li>
 <li><span id="BovykinMcKenzie:RamseyLikeNFUM">A. Bovykin and Z. McKenzie, “Ramsey-like cardinals that characterize the exact consistency strength of NFUM.” </span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
-        <id>https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html</id>
-        <link href="https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html">
-        </link>
-        <updated>2020-01-10T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="">Winter ASL Meeting</a>, Denver, January 17-18, 2020.<!--more--></p>
-<p>
-Modern set theoretic research has produced a myriad of set-theoretic universes with fundamentally different properties and structures. Multiversists hold the philosophical position that none of these universes is the true universe of set theory - they all have equal ontological status and populate the set-theoretic multiverse. Hamkins, one of the main proponents of this view, formulated his position via the heuristic Hamkins Multiverse Axioms, which include such radical relativity assertions as that any universe is ill-founded from the perspective of another universe in the multiverse. With Hamkins, we showed that the collection of all countable computably saturated models of ${\rm ZFC}$ satisfies his axioms. Countable computably saturated models form a unique natural class with a number of desirable model theoretic properties such as existence of truth predicates and automorphisms. Indeed, any collection of models satisfying the Hamkins Multiverse Axioms must be contained within this class. In a joint work with Toby Meadows, Michał Godziszewski, and Kameryn Williams, we explore which weaker versions of the multiverse axioms have 'toy multiverses' that are not made up entirely of computably saturated models.
-</p>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1247,6 +1262,23 @@ groups with large relational complexity, and we explain how this statistic relat
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
+        </link>
+        <updated>2019-08-27T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
+
+<p><em>Infinite decreasing chains in the Mitchell order</em></p>
+
+<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
+
+<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(with O. Ben-Neria) Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html</id>
         <link href="https://muellersandra.github.io/publication/submitted/2019/08/28/PaperInfiniteDecreasingChainsMO.html">
@@ -1266,23 +1298,6 @@ groups with large relational complexity, and we explain how this statistic relat
 <!--more-->
 
 <p>It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. The purpose of the paper is to make a first step in understanding this case, by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUNY Logic Workshop - Infinite decreasing chains in the Mitchell order]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2019/08/28/TalkCUNYLogicWorkshop.html">
-        </link>
-        <updated>2019-08-27T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I was invited to give a talk in the <a href="https://nylogic.github.io/logic-workshop">CUNY Logic Workshop</a> on Nov 15, 2019.</p>
-
-<p><em>Infinite decreasing chains in the Mitchell order</em></p>
-
-<p><em>Abstract:</em> It is known that the behavior of the Mitchell order substantially changes at the level of rank-to-rank extenders, as it ceases to be well-founded. While the possible partial order structure of the Mitchell order below rank-to-rank extenders is considered to be well understood, little is known about the structure in the ill-founded case. We make a first step in understanding this case by studying the extent to which the Mitchell order can be ill-founded. Our main results are (i) in the presence of a rank-to-rank extender there is a transitive Mitchell order decreasing sequence of extenders of any countable length, and (ii) there is no such sequence of length $\omega_1$. This is joint work with Omer Ben-Neria.</p>
-
-<p>As this is a blackboard talk there are no slides available, you can find a preprint related to this talk <a href="https://arxiv.org/abs/1908.10224">here</a>.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -1921,29 +1936,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
-        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
-        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
-      <td>x</td>
-      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
-      <td>x</td>
-      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
-    </tr>
-  </tbody>
-</table>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fractals, what are they?]]></title>
         <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
         <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
@@ -1965,6 +1957,29 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
 
 <p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
+        <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
+        <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Chloe Munroe, Spring 2019<!--more--></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><em>Abstract</em>: The hyperreal number system $\ast\mathbb R$ forms an ordered field that contains $\mathbb R$ as a subfield as well as infinitely large and small numbers. A number is defined to be infinitely large if $</td>
+      <td>x</td>
+      <td>&gt;n$ for all $n = 1, 2, 3, \ldots$ and infinitely small if $</td>
+      <td>x</td>
+      <td>&lt;1/n$ for all $n = 1, 2, 3\ldots$ This number system is built out of the real number system analogous to Cantor’s construcion of $\mathbb R$ out of $\mathbb Q$. The new entities in $\ast\mathbb R$ and the relationship between the reals and hyperreals provides an appealing alternate approach to real (standard) analysis referred to as nonstandard analysis. This approach is based around that principle that if a property holds for all real numbers then it holds for all hypereal numbers, known as the transfer principle. By only using the fact that $\ast\mathbb R$ is an ordered field that has $\mathbb R$ as a subfield, includes unlimited numbers and satisfies the transfer principle the topics of analysis can be explored.</td>
+    </tr>
+  </tbody>
+</table>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2717,23 +2732,6 @@ Dedekind-finite set added is a set of reals. In particular, the reals cannot be 
  <a href="http://karagila.org/2018/cohens-oddity/">Continue reading...</a>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSc thesis on matrix completion]]></title>
-        <id>https://nickpgill.github.io/2018/10/05/victor-tomno-msc-thesis/</id>
-        <link href="https://nickpgill.github.io/2018/10/05/victor-tomno-msc-thesis/">
-        </link>
-        <updated>2018-10-05T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><a href="http://users.mct.open.ac.uk/is3649/index.php">Ian Short</a> and I have had the great pleasure of helping to supervise Victor Tomno, an MSc student at Moi University, Kenya. Victor has just submitted his thesis entitled <em>The weakly sign symmetric P_{p,1}^+-matrix completion problem</em>; a copy is <a href="/MSc_VictorTomno.pdf">here</a>. I want to congratulate Victor on his hard work!</p>
-
-<p>Victor’s work looks at the problem of taking a <em>partial matrix</em> (i.e. one which does not have all entries filled), and completing it to obtain a matrix with certain prescribed properties. In the course of this research, Victor used the theory of digraphs as well as a lot of linear algebra.</p>
-
-<p>Ian and my involvement with Victor was facilitated by the <em>Mentoring African Research Mathematicians</em> programme of the London Mathematical Society; details of that scheme are <a href="https://www.lms.ac.uk/grants/mentoring-african-research-mathematics">here</a>. Ian and I held a 2 year grant which allowed us to visit with, and host, Kenyan mathematicians, one of whom was Victor. The grant finished up in September 2018, although Ian and my connection with Kenya endures through supervision of two PhD students. We would like to thank the LMS for their financial support – this collaboration has been a very rewarding experience for all involved.</p>
-
-<p>I should note that, in the end, Ian and I removed ourselves from the list of Victor’s official supervisors, as Moi University regulations only allowed for two supervisors on an MSc thesis. Nonetheless we are very proud to be associated with Victor’s excellent work.</p>]]></summary>
-        <author>
-            <name>Nick Gill</name>
         </author>
     </entry>
     <entry>
