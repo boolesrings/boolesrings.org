@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-17T10:45:25Z</updated>
+    <updated>2020-05-17T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Satisfaction is not absolute by Math Genius: Definition of structure and satisfaction on Set theory(ZFC). - TECHPRPR]]></title>
+        <id>http://jdh.hamkins.org/satisfaction-is-not-absolute/#comment-10875</id>
+        <link href="http://jdh.hamkins.org/satisfaction-is-not-absolute/#comment-10875">
+        </link>
+        <updated>2020-05-17T08:13:29Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] The point is that if $M$ is a non-$omega$-model of $mathsf{ZFC}$, then there will be things in $M$ which $M$ thinks are first-order sentences but which actually aren&#8217;t (intuitively, they&#8217;re secretly infinitely long). This added level of flexibility changes the situation dramatically: a negative answer to the broader question was established by Hamkins and Yang. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Transfinite Nim by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/transfinite-nim/#comment-10851</id>
@@ -166,17 +177,6 @@
         </link>
         <updated>2020-04-26T17:46:31Z</updated>
         <summary type="html"><![CDATA[<p>Very interesting! I like to participate in this course. I am still waiting for more details about the zoom link and the schedule.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Set-theoretic potentialism, Winter School in Abstract Analysis 2018, Hejnice, Czech Republic by Philosophy of Mathematics, graduate lecture seminar, Oxford, Trinity term 2020 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/set-theoretic-potentialism-ws2018/#comment-10811</id>
-        <link href="http://jdh.hamkins.org/set-theoretic-potentialism-ws2018/#comment-10811">
-        </link>
-        <updated>2020-04-03T14:39:18Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] workshop I gave on potentialism at the Hejnice Winter School in 2018; the slides are available at <a href="http://jdh.hamkins.org/set-theoretic-potentialism-ws2018" rel="nofollow ugc">http://jdh.hamkins.org/set-theoretic-potentialism-ws2018</a>. My intent is to concentrate on the nature and significance of control statements, such as buttons, [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
