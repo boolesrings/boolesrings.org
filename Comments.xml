@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-25T06:45:25Z</updated>
+    <updated>2020-05-25T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities May 25 — May 29 2020 | European Set Theory Society]]></title>
+        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10891</id>
+        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10891">
+        </link>
+        <updated>2020-05-24T20:29:44Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime: Wednesday, May 27, 4pm UK timeSpeaker: Ali Enayat, GothenbergTitle: Leibnizian and anti-Leibnizian motifs in set theoryAbstract: Leibniz’s principle of identity of indiscernibles at first sight appears completely unrelated to set theory, but Mycielski (1995) formulated a set-theoretic axiom nowadays referred to as LM (for Leibniz-Mycielski) which captures the spirit of Leibniz’s dictum in the following sense: LM holds in a model M of ZF iff M is elementarily equivalent to a model M* in which there is no pair of indiscernibles. LM was further investigated in a 2004 paper of mine, which includes a proof that LM is equivalent to the global form of the Kinna-Wagner selection principle in set theory. On the other hand, one can formulate a strong negation of Leibniz’s principle by first adding a unary predicate I(x) to the usual language of set theory, and then augmenting ZF with a scheme that ensures that I(x) describes a proper class of indiscernibles, thus giving rise to an extension ZFI of ZF that I showed (2005) to be intimately related to Mahlo cardinals of finite order. In this talk I will give an expository account of the above and related results that attest to a lively interaction between set theory and Leibniz’s principle of identity of indiscernibles. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Every function can be computable! by Dialectical Programming – Codical Theory]]></title>
         <id>http://jdh.hamkins.org/every-function-can-be-computable/#comment-10888</id>
@@ -190,17 +201,6 @@ Accepted, May 2020.</p>]]></summary>
         </link>
         <updated>2020-04-27T15:34:01Z</updated>
         <summary type="html"><![CDATA[<p>Contact Wesley Wrigley for the access code.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Bi-interpretation of weak set theories, Oxford Set Theory Seminar, May 2020 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10816</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10816">
-        </link>
-        <updated>2020-04-27T15:32:04Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Bi-interpretation in weak set theories [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
