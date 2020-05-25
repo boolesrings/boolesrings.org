@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-25T18:45:33Z</updated>
+    <updated>2020-05-25T22:45:34Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -14,14 +14,17 @@
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
     <entry>
-        <title type="html"><![CDATA[IMU DMV meeting Jerusalem - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html">
+        <title type="html"><![CDATA[What can you learn about writing papers from cooking pasta?]]></title>
+        <id>http://karagila.org/2020/pasta/</id>
+        <link href="http://karagila.org/2020/pasta/">
         </link>
-        <updated>2020-05-14T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the joint meeting of the Israeli Mathematical Union (IMU) and the German Mathematical Society (DMV) taking place at the Hebrew University, Jerusalem, Israel,  Mar 08-10, 2021. Title and abstract for this talk will be announced in due course.</p>]]></summary>
+        <updated>2020-05-25T20:40:52Z</updated>
+        <summary type="html"><![CDATA[<p>Those who know me in real life will know that I enjoy cooking. I particularly enjoy cooking pasta. Most authentic Italian recipes are so simple (algio e olio anyone?) that it's just wonderful.</p>
+
+<p>I was cooking dinner today, bucatini alla matriciana if you must know, and I realised that cooking pasta and writing papers have nothing in common. Exactly one of those things is enjoyable, and it is not the writing part of papers (I do love the research part, of course).</p>
+ <a href="http://karagila.org/2020/pasta/">Continue reading...</a>]]></summary>
         <author>
-            <name>Sandra Müller</name>
+            <name>Asaf Karagila</name>
         </author>
     </entry>
     <entry>
@@ -31,6 +34,17 @@
         </link>
         <updated>2020-05-14T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the <a href="https://lc2020.pl">Logic Colloquium 2021</a> taking place at the Adam Mickiewicz University, Poznan, Poland, July 19-24, 2021. Title and abstract for this talk will be announced in due course.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMU DMV meeting Jerusalem - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html">
+        </link>
+        <updated>2020-05-14T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the joint meeting of the Israeli Mathematical Union (IMU) and the German Mathematical Society (DMV) taking place at the Hebrew University, Jerusalem, Israel,  Mar 08-10, 2021. Title and abstract for this talk will be announced in due course.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -804,67 +818,6 @@ connections between the C-sequence spectrum and the strong coloring principle in
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ground model definability in ${\rm ZF}$]]></title>
-        <id>https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html</id>
-        <link href="https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html">
-        </link>
-        <updated>2019-10-10T04:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://jointmathematicsmeetings.org/jmm">Joint Mathematics Meeting</a>, special session on 'Choiceless Set Theory and related areas', University of Denver, January 15-16, 2020.<br><strong><a href="/files/ZFGroundModelDefinability.pdf">Slides</a></strong><!--more--></p>
-<p>
-Laver, and independently Woodin, showed that a ground model is always definable (with a ground model parameter) in its set-forcing extensions <a href="#laver:groundmodel">[1]</a>, <a href="#woodin:groundmodel">[2]</a>. More so, the definition is uniform for all ${\rm ZFC}$-universes: there is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZFC}$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V$ of size $|\mathbb P|^V=\gamma$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$ with $\delta=(\gamma^+)^V(=(\gamma^+)^{V[G]})$. Let's explain what the formula $\varphi(x,P^V(\delta))$ says. Let ${\rm Z}^*$ be a certain finite fragment of ${\rm ZFC}$. We will say that a transitive model $M\in V[G]$ is <em>good</em> if $M\models {\rm Z}^*$, $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$. The formula $\varphi(x,P^V(\delta))$ then holds of a set $x$ if $x$ is an element of a good model $M$ of height $\lambda\gg\delta$ such that $V[G]_\lambda\models {\rm Z}^*$ and the pair $M\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties (we will explain what those are in a moment). Here is the reason the formula works. Any forcing extension by a poset of size less than a regular cardinal $\delta$ has the property that there are unboundedly many ordinals $\lambda$ such that both $V_\lambda$ and $V[G]_\lambda$ satisfy ${\rm Z}^*$ and the pair $V_\lambda\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties. Also, if there is a good model $M$ of height $\lambda$ with $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$ such that that pair $M\subseteq V[G]_\delta\models {\rm Z}^*$ has the the $\delta$-cover and $\delta$-approximation properties, then the model is unique. Hence such a model $M$ of height $\lambda$ can only be $V_\lambda$.</p>
-<p>
-The notions of $\delta$-cover and $\delta$-approximation properties are due to Hamkins <a href="#hamkins:coverandapproximations">[3]</a>. Suppose that $V\subseteq W$ are transitive models of (some fragment of) ${\rm ZFC}$ and $\delta$ is a cardinal in $W$.
-<ol>
-<li>
-The pair $V\subseteq W$ satisfies the <em>$\delta$-cover property</em> if for every $A\in W$ with $A\subseteq V$ and $|A|^W<\delta$, there is $B\in V$ with $A\subseteq B$ and $|B|^V<\delta$.</li>
-<li>The pair $V\subseteq W$ satisfies the <em>$\delta$-approximation property</em> if whenever $A\in W$ with $A\subseteq V$ and $A\cap a\in V$ for every $a$ of size less than $\delta$ in $V$, then $A\in V$.</li>
-</ol>
-</p>
-<p>
-Because the existence of cardinalities is fundamental to the definition of the cover and approximation properties, these notions appear to rely  essentially on the axiom of choice. Therefore proofs of ground model definability based on these properties cannot be easily modified to work in the absence of choice. It is not known yet whether ground definability holds in ${\rm ZF}$. There are partial positive results and no known counterexamples.</p>
-
-<p>With Tom Johnstone, we adapted the approximation and cover properties arguments to show that for a cardinal $\delta$, uniform ground model definability holds in models of ${\rm ZF}+{\rm DC}_\delta$ for posets admitting a gap at $\delta$.</p>
-<p>
-<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZF}+{\rm DC}_\delta$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P$ admitting a gap at $\delta$ in $V$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$.
-</p><p>
-A poset is said to <em>admit a gap at $\delta$</em> if it has the form $\mathbb R*\dot{\mathbb Q}$ where $\mathbb R$ is a non-trivial forcing of size less than $\delta$ and it is forced by $\mathbb R$ that is $\dot{\mathbb Q}$ is $\leq\delta$-strategically closed. The $\delta$-dependent choice principle ${\rm DC}_\delta$, introduced by Lévy, allows us to make $\delta$-many dependent choices along any relation without terminal nodes. It asserts that for any non-empty set $S$ and any binary relation  $R$, if for each sequence $s\in S^{\lt\delta}$ there is a $y\in S$ such that $s$ is $R$ related $y$, then there is a function $f:\delta\to S$ such that $f\upharpoonright\alpha \,R\, f(\alpha)$ for all $\alpha<\delta$. The principle ${\rm DC}_\delta$ is robust for forcing with posets admitting a gap at $\delta$ because they preserve it to the forcing extension (see <a href="#gitmanjohnstone:groundmodels">[4]</a>).</p>
-<p>
-A very different recent partial result on ${\rm ZF}$-ground model definability is due to Usuba <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Usuba showed that if a ${\rm ZF}$-universe has a proper class of Löwenheim-Skolem cardinals, a notion which he introduces, then uniform ground model definability holds for it.</p><p>
-<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V$ is a model of ${\rm ZF}$ with a proper class of Löwenheim-Skolem cardinals and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V_\kappa$ for a Lowenheim-Skolem cardinal $\kappa$, then $V$ is defined in the extension $V[G]$ by $\varphi(x,V_\kappa)$.</p><p>
-
-Usuba's proof is another modification of the arguments using cover and approximation, where he replaces the notion of cardinality by a rough measure on sets, defining for a set $x$ that the measure $|\!|x|\!|$ is the least ordinal $\alpha$ such that there is a surjection from $V_\alpha$ onto $x$.
-</p><p>
-An uncountable cardinal $\kappa$ is a <em>Löwenheim-Skolem</em> (${\rm LS}$) <em>cardinal</em> if for every $\gamma<\kappa\leq\alpha$ and $x\in V_\alpha$, there is $\beta>\alpha$ and an elementary $X\prec V_\beta$ such that
-<ol>
-<li>$V_\gamma\subseteq X$,</li>
-<li>$x\in X$,</li>
-<li>the transitive collapse of $X$ belongs to $V_\kappa$,</li>
-<li>$(X\cap V_\alpha)^{V_\gamma}\subseteq X$.</li>
-</ol>
-In a model of ${\rm ZFC}$, the ${\rm LS}$ cardinals are precisely the $\beth$-fixed point cardinals, and so in particular there are proper class many ${\rm LS}$ cardinals. Let us say, following Woodin, that an uncountable cardinal $\kappa$ is <em>supercompact</em> in a model of ${\rm ZF}$ if for every $\alpha\geq\kappa$, there is $\beta\geq\alpha$, a transitive set $N$ and an elementary embedding $j:V_\beta\to N$ such that the critical point of $j$ is $\kappa$, $\alpha < j(\kappa)$, and $N^{V_\alpha}\subseteq N$. It is not difficult to see that every supercompact cardinal is an ${\rm LS}$ cardinal. So, for example, models of ${\rm ZF}$ with a proper class of supercompact cardinals satisfy uniform ground model definability. </p>
-<p>
-The existence of ${\rm LS}$ cardinals is absolute throughout the generic multiverse <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. It follows that if we can force choice over a ${\rm ZF}$-universe, then since its forcing extension has a proper class of ${\rm LS}$ cardinals, it must have a proper class of ${\rm LS}$ cardinals as well. Thus, in particular, ground model definability holds for any ${\rm ZF}$-universe, such as $L(\mathbb R)$, over which we can force the axiom of choice.</p>
-<p>
-At the same time, it is known that there are ${\rm ZF}$ universes without any ${\rm LS}$-cardinals. Let's explain how. Usuba showed that if $\kappa$ is an ${\rm LS}$-cardinal, then the club filter on $\kappa^+$ must be $\kappa$-complete <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Asaf Karagila showed that every model $V$ of ${\rm ZFC}$ satisfying ${\rm GCH}$ has an extension to a model of ${\rm ZF}$ with the same cofinalities in which the club filter is not $\sigma$-complete on every regular cardinal $\kappa$ <a href="#karagila:Fodor">[6]</a>. This model cannot have any ${\rm LS}$ cardinals because if $\kappa$ in it was an ${\rm LS}$-cardinal, then $\kappa^+$ would be a regular cardinal (since cofinalities from $V$ are preserved) with a $\kappa$-complete club filter.</p>
-<p>
-One important consequence of uniform ground model definability is that it makes it possible to define in a first-order way the collection of all grounds of a ${\rm ZFC}$-universe. A priori this is a collection of classes, a second-order notion, but using ground model definability we can write down a first-order formula $\psi(x,y)$ such that for every set $a$, the class $W_a=\{x\mid \psi(x,a)\}$ is a ground of $V$ and for every $W$ ground of $V$, there is a set $a$ such that $W=W_a$. The first-order definability of the collection of grounds makes it possible to study their structure in ${\rm ZFC}$. This has led to the very fruitful subject of set-theoretic geology, initiated by Fuchs, Hamkins, and Reitz, which explores the structure of grounds of a set-theoretic universe. Ground model definability for ${\rm ZF}$ would allow us to extend the same analysis to ${\rm ZF}$-universes, and Usuba's theorem has now made such an analysis possible for a large collection of models, namely those with a proper class of ${\rm LS}$ cardinals. 
-
-We will have to wait to find out whether ground definability holds fully in ${\rm ZF}$.
-
-<h2>References</h2>
-<ol class="bibliography"><li><span id="laver:groundmodel">R. Laver, “Certain very large cardinals are not created in small forcing
-              extensions,” <i>Ann. Pure Appl. Logic</i>, vol. 149, no. 1-3, pp. 1–6, 2007. Available at: http://dx.doi.org/10.1016/j.apal.2007.07.002</span></li>
-<li><span id="woodin:groundmodel">H. Woodin, “Recent developments on Cantor’s Continuum Hypothesis,” in <i>Proceedings of the continuum in Philosophy and Mathematics</i>, 2004. </span></li>
-<li><span id="hamkins:coverandapproximations">J. D. Hamkins, “Extensions with the approximation and cover properties have no
-              new large cardinals,” <i>Fund. Math.</i>, vol. 180, no. 3, pp. 257–277, 2003. Available at: http://dx.doi.org/10.4064/fm180-3-4</span></li>
-<li><span id="gitmanjohnstone:groundmodels">V. Gitman and T. A. Johnstone, “On ground model definability,” in <i>Infinity, Computability, and Metamathematics: Festschrift in honour of the 60th birthdays of Peter Koepke and Philip Welch</i>, London, GB: College publications, 2014. </span></li>
-<li><span id="Usuba:ZFGroundModelDefinability">T. Usuba, “Choiceless Löwenheim-Skolem property and uniform definability of grounds,” <i>Manuscript</i>. </span></li>
-<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Structural properties of the stable core]]></title>
         <id>https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html</id>
         <link href="https://victoriagitman.github.io/publications/2019/10/10/structural-properties-of-the-stable-core.html">
@@ -1017,6 +970,67 @@ models of the stable core.
 <li><span id="CummingsFriedmanGolshani:CollapsingCardinalsHOD">J. Cummings, S. D. Friedman, and M. Golshani, “Collapsing the cardinals of HOD,” <i>J. Math. Log.</i>, vol. 15, no. 2, pp. 1550007, 32, 2015. Available at: https://doi.org/10.1142/S0219061315500075</span></li>
 <li><span id="Mitchell:BeginningInnerModelTheory">W. J. Mitchell, “Beginning inner model theory,” in <i>Handbook of set theory. Vols. 1, 2, 3</i>, Springer, Dordrecht, 2010, pp. 1449–1495. Available at: https://doi.org/10.1007/978-1-4020-5764-9_18</span></li>
 <li><span id="Zeman:InnerModelsLargeCardinals">M. Zeman, <i>Inner Models and Large Cardinals</i>. Walter de Gruyter, 2002. Available at: https://books.google.at/books?id=V0bLReBbRDEC</span></li></ol>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ground model definability in ${\rm ZF}$]]></title>
+        <id>https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html</id>
+        <link href="https://victoriagitman.github.io/talks/2019/10/10/ground-model-definability-in-zf.html">
+        </link>
+        <updated>2019-10-10T04:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="http://jointmathematicsmeetings.org/jmm">Joint Mathematics Meeting</a>, special session on 'Choiceless Set Theory and related areas', University of Denver, January 15-16, 2020.<br><strong><a href="/files/ZFGroundModelDefinability.pdf">Slides</a></strong><!--more--></p>
+<p>
+Laver, and independently Woodin, showed that a ground model is always definable (with a ground model parameter) in its set-forcing extensions <a href="#laver:groundmodel">[1]</a>, <a href="#woodin:groundmodel">[2]</a>. More so, the definition is uniform for all ${\rm ZFC}$-universes: there is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZFC}$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V$ of size $|\mathbb P|^V=\gamma$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$ with $\delta=(\gamma^+)^V(=(\gamma^+)^{V[G]})$. Let's explain what the formula $\varphi(x,P^V(\delta))$ says. Let ${\rm Z}^*$ be a certain finite fragment of ${\rm ZFC}$. We will say that a transitive model $M\in V[G]$ is <em>good</em> if $M\models {\rm Z}^*$, $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$. The formula $\varphi(x,P^V(\delta))$ then holds of a set $x$ if $x$ is an element of a good model $M$ of height $\lambda\gg\delta$ such that $V[G]_\lambda\models {\rm Z}^*$ and the pair $M\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties (we will explain what those are in a moment). Here is the reason the formula works. Any forcing extension by a poset of size less than a regular cardinal $\delta$ has the property that there are unboundedly many ordinals $\lambda$ such that both $V_\lambda$ and $V[G]_\lambda$ satisfy ${\rm Z}^*$ and the pair $V_\lambda\subseteq V[G]_\lambda$ has the $\delta$-cover and $\delta$-approximation properties. Also, if there is a good model $M$ of height $\lambda$ with $P^M(\delta)=P^V(\delta)$ and $(\delta^+)^M=(\delta^+)^{V[G]}$ such that that pair $M\subseteq V[G]_\delta\models {\rm Z}^*$ has the the $\delta$-cover and $\delta$-approximation properties, then the model is unique. Hence such a model $M$ of height $\lambda$ can only be $V_\lambda$.</p>
+<p>
+The notions of $\delta$-cover and $\delta$-approximation properties are due to Hamkins <a href="#hamkins:coverandapproximations">[3]</a>. Suppose that $V\subseteq W$ are transitive models of (some fragment of) ${\rm ZFC}$ and $\delta$ is a cardinal in $W$.
+<ol>
+<li>
+The pair $V\subseteq W$ satisfies the <em>$\delta$-cover property</em> if for every $A\in W$ with $A\subseteq V$ and $|A|^W<\delta$, there is $B\in V$ with $A\subseteq B$ and $|B|^V<\delta$.</li>
+<li>The pair $V\subseteq W$ satisfies the <em>$\delta$-approximation property</em> if whenever $A\in W$ with $A\subseteq V$ and $A\cap a\in V$ for every $a$ of size less than $\delta$ in $V$, then $A\in V$.</li>
+</ol>
+</p>
+<p>
+Because the existence of cardinalities is fundamental to the definition of the cover and approximation properties, these notions appear to rely  essentially on the axiom of choice. Therefore proofs of ground model definability based on these properties cannot be easily modified to work in the absence of choice. It is not known yet whether ground definability holds in ${\rm ZF}$. There are partial positive results and no known counterexamples.</p>
+
+<p>With Tom Johnstone, we adapted the approximation and cover properties arguments to show that for a cardinal $\delta$, uniform ground model definability holds in models of ${\rm ZF}+{\rm DC}_\delta$ for posets admitting a gap at $\delta$.</p>
+<p>
+<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V\models{\rm ZF}+{\rm DC}_\delta$ and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P$ admitting a gap at $\delta$ in $V$, then $V$ is defined in $V[G]$ by $\varphi(x,P^V(\delta))$.
+</p><p>
+A poset is said to <em>admit a gap at $\delta$</em> if it has the form $\mathbb R*\dot{\mathbb Q}$ where $\mathbb R$ is a non-trivial forcing of size less than $\delta$ and it is forced by $\mathbb R$ that is $\dot{\mathbb Q}$ is $\leq\delta$-strategically closed. The $\delta$-dependent choice principle ${\rm DC}_\delta$, introduced by Lévy, allows us to make $\delta$-many dependent choices along any relation without terminal nodes. It asserts that for any non-empty set $S$ and any binary relation  $R$, if for each sequence $s\in S^{\lt\delta}$ there is a $y\in S$ such that $s$ is $R$ related $y$, then there is a function $f:\delta\to S$ such that $f\upharpoonright\alpha \,R\, f(\alpha)$ for all $\alpha<\delta$. The principle ${\rm DC}_\delta$ is robust for forcing with posets admitting a gap at $\delta$ because they preserve it to the forcing extension (see <a href="#gitmanjohnstone:groundmodels">[4]</a>).</p>
+<p>
+A very different recent partial result on ${\rm ZF}$-ground model definability is due to Usuba <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Usuba showed that if a ${\rm ZF}$-universe has a proper class of Löwenheim-Skolem cardinals, a notion which he introduces, then uniform ground model definability holds for it.</p><p>
+<strong>Theorem</strong>: There is a single formula $\varphi(x,y)$ such that whenever $V$ is a model of ${\rm ZF}$ with a proper class of Löwenheim-Skolem cardinals and $V[G]$ is a set-forcing extension of $V$ by a poset $\mathbb P\in V_\kappa$ for a Lowenheim-Skolem cardinal $\kappa$, then $V$ is defined in the extension $V[G]$ by $\varphi(x,V_\kappa)$.</p><p>
+
+Usuba's proof is another modification of the arguments using cover and approximation, where he replaces the notion of cardinality by a rough measure on sets, defining for a set $x$ that the measure $|\!|x|\!|$ is the least ordinal $\alpha$ such that there is a surjection from $V_\alpha$ onto $x$.
+</p><p>
+An uncountable cardinal $\kappa$ is a <em>Löwenheim-Skolem</em> (${\rm LS}$) <em>cardinal</em> if for every $\gamma<\kappa\leq\alpha$ and $x\in V_\alpha$, there is $\beta>\alpha$ and an elementary $X\prec V_\beta$ such that
+<ol>
+<li>$V_\gamma\subseteq X$,</li>
+<li>$x\in X$,</li>
+<li>the transitive collapse of $X$ belongs to $V_\kappa$,</li>
+<li>$(X\cap V_\alpha)^{V_\gamma}\subseteq X$.</li>
+</ol>
+In a model of ${\rm ZFC}$, the ${\rm LS}$ cardinals are precisely the $\beth$-fixed point cardinals, and so in particular there are proper class many ${\rm LS}$ cardinals. Let us say, following Woodin, that an uncountable cardinal $\kappa$ is <em>supercompact</em> in a model of ${\rm ZF}$ if for every $\alpha\geq\kappa$, there is $\beta\geq\alpha$, a transitive set $N$ and an elementary embedding $j:V_\beta\to N$ such that the critical point of $j$ is $\kappa$, $\alpha < j(\kappa)$, and $N^{V_\alpha}\subseteq N$. It is not difficult to see that every supercompact cardinal is an ${\rm LS}$ cardinal. So, for example, models of ${\rm ZF}$ with a proper class of supercompact cardinals satisfy uniform ground model definability. </p>
+<p>
+The existence of ${\rm LS}$ cardinals is absolute throughout the generic multiverse <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. It follows that if we can force choice over a ${\rm ZF}$-universe, then since its forcing extension has a proper class of ${\rm LS}$ cardinals, it must have a proper class of ${\rm LS}$ cardinals as well. Thus, in particular, ground model definability holds for any ${\rm ZF}$-universe, such as $L(\mathbb R)$, over which we can force the axiom of choice.</p>
+<p>
+At the same time, it is known that there are ${\rm ZF}$ universes without any ${\rm LS}$-cardinals. Let's explain how. Usuba showed that if $\kappa$ is an ${\rm LS}$-cardinal, then the club filter on $\kappa^+$ must be $\kappa$-complete <a href="#Usuba:ZFGroundModelDefinability">[5]</a>. Asaf Karagila showed that every model $V$ of ${\rm ZFC}$ satisfying ${\rm GCH}$ has an extension to a model of ${\rm ZF}$ with the same cofinalities in which the club filter is not $\sigma$-complete on every regular cardinal $\kappa$ <a href="#karagila:Fodor">[6]</a>. This model cannot have any ${\rm LS}$ cardinals because if $\kappa$ in it was an ${\rm LS}$-cardinal, then $\kappa^+$ would be a regular cardinal (since cofinalities from $V$ are preserved) with a $\kappa$-complete club filter.</p>
+<p>
+One important consequence of uniform ground model definability is that it makes it possible to define in a first-order way the collection of all grounds of a ${\rm ZFC}$-universe. A priori this is a collection of classes, a second-order notion, but using ground model definability we can write down a first-order formula $\psi(x,y)$ such that for every set $a$, the class $W_a=\{x\mid \psi(x,a)\}$ is a ground of $V$ and for every $W$ ground of $V$, there is a set $a$ such that $W=W_a$. The first-order definability of the collection of grounds makes it possible to study their structure in ${\rm ZFC}$. This has led to the very fruitful subject of set-theoretic geology, initiated by Fuchs, Hamkins, and Reitz, which explores the structure of grounds of a set-theoretic universe. Ground model definability for ${\rm ZF}$ would allow us to extend the same analysis to ${\rm ZF}$-universes, and Usuba's theorem has now made such an analysis possible for a large collection of models, namely those with a proper class of ${\rm LS}$ cardinals. 
+
+We will have to wait to find out whether ground definability holds fully in ${\rm ZF}$.
+
+<h2>References</h2>
+<ol class="bibliography"><li><span id="laver:groundmodel">R. Laver, “Certain very large cardinals are not created in small forcing
+              extensions,” <i>Ann. Pure Appl. Logic</i>, vol. 149, no. 1-3, pp. 1–6, 2007. Available at: http://dx.doi.org/10.1016/j.apal.2007.07.002</span></li>
+<li><span id="woodin:groundmodel">H. Woodin, “Recent developments on Cantor’s Continuum Hypothesis,” in <i>Proceedings of the continuum in Philosophy and Mathematics</i>, 2004. </span></li>
+<li><span id="hamkins:coverandapproximations">J. D. Hamkins, “Extensions with the approximation and cover properties have no
+              new large cardinals,” <i>Fund. Math.</i>, vol. 180, no. 3, pp. 257–277, 2003. Available at: http://dx.doi.org/10.4064/fm180-3-4</span></li>
+<li><span id="gitmanjohnstone:groundmodels">V. Gitman and T. A. Johnstone, “On ground model definability,” in <i>Infinity, Computability, and Metamathematics: Festschrift in honour of the 60th birthdays of Peter Koepke and Philip Welch</i>, London, GB: College publications, 2014. </span></li>
+<li><span id="Usuba:ZFGroundModelDefinability">T. Usuba, “Choiceless Löwenheim-Skolem property and uniform definability of grounds,” <i>Manuscript</i>. </span></li>
+<li><span id="karagila:Fodor">A. Karagila, “Fodor’s lemma can fail everywhere,” <i>Acta Math. Hungar.</i>, vol. 154, no. 1, pp. 231–242, 2018. Available at: https://doi.org/10.1007/s10474-017-0768-5</span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
         </author>
@@ -1297,7 +1311,7 @@ groups with large relational complexity, and we explain how this statistic relat
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4596, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 30"
+                <input type="button" onclick="thankYouButtonClick(4596, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 31"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4596_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -1928,6 +1942,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -1959,19 +1986,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         <summary type="html"><![CDATA[<p>A senior thesis by Christian Carley, Spring 2019<!--more--></p>
 
 <p><em>Abstract</em>: This paper explores what has been termed, ``The Name Tag Problem’’ (NTP). The problem is framed thusly. A group of $n$ people sit around a table and to each person a name tag has been assigned. How can you assign the nametags so that just one person has the correct name tag assigned, and no matter how many times the table is rotated, still just one person has the correct name tag assigned?</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -9320,22 +9334,6 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
-        <id>https://www.peterkrautzberger.org/0142/</id>
-        <link href="https://www.peterkrautzberger.org/0142/">
-        </link>
-        <updated>2013-12-19T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
-<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
-<h3>Update.</h3>
-<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
-<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
-<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another test post -- image sharing]]></title>
         <id>https://www.peterkrautzberger.org/0143/</id>
         <link href="https://www.peterkrautzberger.org/0143/">
@@ -9352,6 +9350,22 @@ Say goodbye to the surveillance state known as USA! Oops I’m on the list now!
 <p>You might think Los Angeles and snow are separate, but surprisingly it's often not by far. Apart from the almost daily updates on NPR regarding snow packing strength during the winter (which is all about the water available the next summer), you have to drive barely two hours to find yourself in need for winter gear, being snowed in in front of a fireplace. At least I did.</p>
 <h3>Update</h3>
 <p>Unfortunately, not as good as I'd hoped. While Google+ will at least pull in the image into the mini-preview twitter won't do anything with it. That's too bad, but perhaps better than nothing.</p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick test post -- Jetpack connect edition]]></title>
+        <id>https://www.peterkrautzberger.org/0142/</id>
+        <link href="https://www.peterkrautzberger.org/0142/">
+        </link>
+        <updated>2013-12-19T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>You know how every blogger once in a while will have a test post that you find in your feed and then you click on it to learn more and it's already deleted?</p>
+<p>I find that frustrating. So let's not do this. This is a test post to check out Jetpack connect and find a way to multishare to different social networks.</p>
+<h3>Update.</h3>
+<p>Alright, not too bad. Here's what this was about. Jetpack offers autoposting to a bunch of social networks, including my two current active ones - twitter and Google+. In particular the Google+ connection is painfully difficult with free tools. But still, a large amount of people I want to share things with are there. However, I strongly believe in my website being my primary digital outlet. I don't want to post content that will just be on Twitter or just on Google+. It is mine and should be shared from my website.</p>
+<p>In addition, I have been thinking about how to write more frequently. One good piece of advise is to write less but more often. But I also find myself wanting to post different, more social content, e.g. a simple photo, share a link. One obvious tool is my phone and tablet. It has apps for all my networks as well my reading applications. A simple idea would be a multi-share app that would allow me to push shared content to all the apps I care about. Luckily, I couldn't find a well working one long enough to remember Jetpack Connect. Luckily it works with the WordPress app, so I can author once wherever I am and share where I want to share.</p>
+<p>Unfortunately, for all my three readers, this means I might start posting little pieces of crappy content. Bear with me and yell at me from time to time. Here's to moar bloggings in 2014.</p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
@@ -15344,33 +15358,6 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
-        <id>https://www.peterkrautzberger.org/0060/</id>
-        <link href="https://www.peterkrautzberger.org/0060/">
-        </link>
-        <updated>2011-06-02T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
-<h2>Part 5: properness</h2>
-<p>In short:</p>
-<ul>
-<li>Basic Properties:
-<ul>
-<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
-</ul>
-</li>
-</ul>
-<figure>
-  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
-  </a>
-</figure>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
-<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
-        <author>
-            <name>Peter Krautzberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shelah's Model without P-points-- part 6]]></title>
         <id>https://www.peterkrautzberger.org/0061/</id>
         <link href="https://www.peterkrautzberger.org/0061/">
@@ -15393,6 +15380,33 @@ Today, I tried to use this knowledge to create some easy mathematics in epub and
 </figure>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.pdf">Part 6 as PDF</a></p>
 <p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0006.xoj">Part 6 as Xournal-source</a></p>]]></summary>
+        <author>
+            <name>Peter Krautzberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelah's Model without P-points-- part 5]]></title>
+        <id>https://www.peterkrautzberger.org/0060/</id>
+        <link href="https://www.peterkrautzberger.org/0060/">
+        </link>
+        <updated>2011-06-02T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Read more about this series at <a href="https://www.peterkrautzberger.org/0056/">the first post</a>.</p>
+<h2>Part 5: properness</h2>
+<p>In short:</p>
+<ul>
+<li>Basic Properties:
+<ul>
+<li>Grigorieff forcing and the Sacks variant are proper (part 1)</li>
+</ul>
+</li>
+</ul>
+<figure>
+  <a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+    <img alt="screenshot of page 5" src="https://www.peterkrautzberger.org/assets/2011/pg_0005.jpg">
+  </a>
+</figure>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.pdf">Part 5 as PDF</a></p>
+<p><a href="https://www.peterkrautzberger.org/assets/2011/pg_0005.xoj">Part 5 as Xournal-source</a></p>]]></summary>
         <author>
             <name>Peter Krautzberger</name>
         </author>
