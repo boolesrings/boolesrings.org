@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-05-26T06:45:37Z</updated>
+    <updated>2020-05-26T10:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -1319,7 +1319,7 @@ groups with large relational complexity, and we explain how this statistic relat
 <p><strong>Abstract. </strong>We introduce a class of notions of forcing which we call $\Sigma$-Prikry, and show that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We show that given a $\Sigma$-Prikry poset $\mathbb P$ and a name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$. Then, in <a href="http://www.assafrinot.com/paper/42">a sequel</a> to this paper, we develop an iteration scheme for $\Sigma$-Prikry posets. Putting the two works together, we obtain a proof of the following.</p>
 <p><em><strong>Theorem. </strong></em>If $\kappa$ is the limit of a countable increasing sequence of supercompact cardinals, then there exists a cofinality-preserving forcing extension in which $\kappa$ remains a strong limit, every finite collection of stationary subsets of $\kappa^+$ reflects simultaneously, and $2^\kappa=\kappa^{++}$.</p>
 <p><strong>Downloads:</strong></p>
-<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4596, '')"  href="http://www.assafrinot.com/files/paper41.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4596, '')" href="http://arxiv.org/abs/1912.03335" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4596, '')" href="http://www.assafrinot.com/files/poveda_sigma1.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/42" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper41" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/41" class="billet_perm"></a></td></tr></table></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4596, '')"  href="http://www.assafrinot.com/files/paper41.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4596, '')" href="http://arxiv.org/abs/1912.03335" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4596, '')" href="http://dx.doi.org/10.4153/S0008414X20000425" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4596, '')" href="http://www.assafrinot.com/files/poveda_sigma1.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/42" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper41" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/41" class="billet_perm"></a></td></tr></table></p>
 <p>&nbsp;</p>
 <p><span id="more-4596"></span></p>]]></summary>
         <author>
