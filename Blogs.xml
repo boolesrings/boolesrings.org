@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-06-01T14:45:33Z</updated>
+    <updated>2020-06-01T18:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -453,7 +453,7 @@
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4636, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 34"
+                <input type="button" onclick="thankYouButtonClick(4636, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 35"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4636_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -1324,7 +1324,7 @@ groups with large relational complexity, and we explain how this statistic relat
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4596, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 31"
+                <input type="button" onclick="thankYouButtonClick(4596, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 32"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4596_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -1772,7 +1772,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 54"
+                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 55"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
