@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-06-04T10:45:26Z</updated>
+    <updated>2020-06-04T14:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Pesquisador do Instituto Modal participa de pesquisa internacional sobre fundamentos da teoria dos conjuntos - Blog CTI - Instituto Modal]]></title>
+        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900</id>
+        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900">
+        </link>
+        <updated>2020-06-04T12:44:32Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Joel Hamkins comenta a importância do trabalho em seu blog. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Bi-interpretation of weak set theories, Oxford Set Theory Seminar, May 2020 by Bi-interpretation of weak set theories, Oberwolfach, April 2020 | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oxford-set-theory-seminar-may-2020/#comment-10893</id>
@@ -190,17 +201,6 @@ Accepted, May 2020.</p>]]></summary>
         </link>
         <updated>2020-04-30T20:53:23Z</updated>
         <summary type="html"><![CDATA[<p>Congrats on the new publication! This looks like a really great book.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on A survey of infinite time Turing machines by Thomas]]></title>
-        <id>http://jdh.hamkins.org/asurveyofinfinitetimeturingmachines/#comment-10818</id>
-        <link href="http://jdh.hamkins.org/asurveyofinfinitetimeturingmachines/#comment-10818">
-        </link>
-        <updated>2020-04-28T12:52:56Z</updated>
-        <summary type="html"><![CDATA[<p>Sorry to bother, but I wonder how those infinite time machines could be used to answer questions like <a href="https://math.stackexchange.com/questions/3647938/prove-uncountability-of-r-using-an-algorithm" rel="nofollow ugc">https://math.stackexchange.com/questions/3647938/prove-uncountability-of-r-using-an-algorithm</a></p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
