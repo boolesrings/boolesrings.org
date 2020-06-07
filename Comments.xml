@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-06-07T10:45:26Z</updated>
+    <updated>2020-06-07T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,18 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Knaster and friends II: The C-sequence number by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4607#comment-806</id>
+        <link href="http://blog.assafrinot.com/?p=4607#comment-806">
+        </link>
+        <updated>2020-06-07T13:37:55Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted to J. Math. Logic, October 2019.<br />
+Accepted, June 2020.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Pesquisador do Instituto Modal participa de pesquisa internacional sobre fundamentos da teoria dos conjuntos - Blog CTI - Instituto Modal]]></title>
         <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900</id>
@@ -284,17 +296,6 @@ Accepted, July 2019.</p>]]></summary>
         <updated>2019-03-13T20:53:11Z</updated>
         <summary type="html"><![CDATA[<p>In reply to <a href="http://blog.assafrinot.com/?p=845#comment-654">Ari B.</a>.</p>
 <p>Now corrected. Thanks!</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on An inconsistent form of club guessing by Ari B.]]></title>
-        <id>http://blog.assafrinot.com/?p=845#comment-654</id>
-        <link href="http://blog.assafrinot.com/?p=845#comment-654">
-        </link>
-        <updated>2019-03-10T15:32:45Z</updated>
-        <summary type="html"><![CDATA[<p>In order for the concept to be non-trivial, it seems that you need to specify $\alpha&gt;0$ somewhere in the definition.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
