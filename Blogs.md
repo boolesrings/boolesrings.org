@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Victoria Gitman** [Class forcing in its rightful setting](https://victoriagitman.github.io/talks/2020/06/25/class-forcing-in-its-rightful-setting.html)
 * **Assaf Rinot** [MFO workshop in Set Theory, April 2020](http://blog.assafrinot.com/?p=4648)
 * **Dana C. Ernst** [Quote from one of my students on final exam](http://dcernst.github.io/student-quote/)
 * **Asaf Karagila** [Speak up](http://karagila.org/2020/speak-up/)
@@ -12,6 +13,5 @@ title: Blogs
 * **Sandra Müller** [IMU DMV meeting Jerusalem - TBA](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html)
 * **Sandra Müller** [Logic Colloquium Poznan - TBA](https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html)
 * **Nick Gill** [Jan Saxl](https://nickpgill.github.io/jan-saxl)
-* **Joel David Hamkins** [My view of Univ](http://jdh.hamkins.org/my-view-of-univ/)
 
 [Grab the feed for all Blogs!](Blogs.xml)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-06-15T18:45:27Z</updated>
+    <updated>2020-06-15T22:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities: week 15th-22nd of June 2020 | European Set Theory Society]]></title>
+        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10906</id>
+        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10906">
+        </link>
+        <updated>2020-06-15T15:17:12Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime: Wednesday, June 17, 16:00-17:30 UK time (17:00-18:30 CEST)Speaker: Corey Bacal Switzer, City University of New YorkTitle: Some Set Theory of Kaufmann ModelsAbstract: A Kaufmann model is an ω1-like, recursively saturated, rather classless model of PA. Such models were shown to exist by Kaufmann under the assumption that ♢ holds, and in ZFC by Shelah via an absoluteness argument involving strong logics. They are important in the theory of models of arithmetic notably because they show that many classic results about countable, recursively saturated models of arithmetic cannot be extended to uncountable models. They are also a particularly interesting example of set theoretic incompactness at ω1, similar to an Aronszajn tree.In this talk we’ll look at several set theoretic issues relating to this class of models motivated by the seemingly naïve question of whether or not such models can be killed by forcing without collapsing ω1. Surprisingly the answer to this question turns out to be independent: under MAℵ1 no ω1-preserving forcing can destroy Kaufmann-ness whereas under ♢ there is a Kaufmann model M and a Souslin tree S so that forcing with S adds a satisfaction class to M (thus killing rather classlessness). The techniques involved in these proofs also yield another surprising side of Kaufmann models: it is independent of ZFC whether the class of Kaufmann models can be axiomatized in the logic Lω1,ω(Q) where Q is the quantifier “there exists uncountably many”. This is the logic used in Shelah’s aforementioned result, hence the interest in this level of expressive power.Information: For the Zoom access code, contact Samuel Adam-Day: <a href="mailto:me@samadamday.com">me@samadamday.com</a>. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Knaster and friends II: The C-sequence number by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4607#comment-806</id>
@@ -202,17 +213,6 @@ Accepted, May 2020.</p>]]></summary>
         </link>
         <updated>2020-04-30T21:52:14Z</updated>
         <summary type="html"><![CDATA[<p>Thanks, Norman. It&#8217;s been years in the making, but I think it is a good book.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by NORMAN PERLMUTTER]]></title>
-        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10821</id>
-        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10821">
-        </link>
-        <updated>2020-04-30T20:53:23Z</updated>
-        <summary type="html"><![CDATA[<p>Congrats on the new publication! This looks like a really great book.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
