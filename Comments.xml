@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-06-18T06:45:25Z</updated>
+    <updated>2020-06-18T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,43 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Categorical cardinals, CUNY Set Theory Seminar, June 2020 by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10910</id>
+        <link href="http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10910">
+        </link>
+        <updated>2020-06-18T07:58:32Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks for those links, Asaf&#8212;I had totally forgotten about my posts there years ago! Meanwhile, the current paper (joint with Robin Solberg) aims to go somewhat beyond those observations. For example, we investigate the existence of gaps in the categorical cardinals, to separate the notions of sentententially categorical from theory categorical, in both first and second-order, and to look into the interaction of categoricity and forcing.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Categorical cardinals, CUNY Set Theory Seminar, June 2020 by Asaf Karagila]]></title>
+        <id>http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10909</id>
+        <link href="http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10909">
+        </link>
+        <updated>2020-06-18T07:13:31Z</updated>
+        <summary type="html"><![CDATA[<p>Some relevant discussions on the topic:</p>
+<p>&#8211; <a href="https://mathoverflow.net/q/206172/7206" rel="nofollow ugc">https://mathoverflow.net/q/206172/7206</a><br />
+&#8211; <a href="https://mathoverflow.net/q/135995/7206" rel="nofollow ugc">https://mathoverflow.net/q/135995/7206</a><br />
+&#8211; <a href="https://math.stackexchange.com/q/317729/622" rel="nofollow ugc">https://math.stackexchange.com/q/317729/622</a></p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Buckets of fish! by Mark R.]]></title>
+        <id>http://jdh.hamkins.org/buckets-of-fish/#comment-10908</id>
+        <link href="http://jdh.hamkins.org/buckets-of-fish/#comment-10908">
+        </link>
+        <updated>2020-06-18T02:56:37Z</updated>
+        <summary type="html"><![CDATA[<p>For the last variation (where you could take any number of fish), I think the losing states are those where buckets 2i+1 and 2i+2 have an equal number of fish. Is that right?</p>
+<p>I also found interesting patterns on the Grundy numbers of different positions in this variation. I couldn&#8217;t generalize them, though.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Worldly cardinals are not always downwards absolute by Neil Barton]]></title>
         <id>http://jdh.hamkins.org/worldly-cardinals-are-not-always-downwards-absolute/#comment-10907</id>
@@ -180,39 +217,6 @@ Accepted, May 2020.</p>]]></summary>
         <summary type="html"><![CDATA[<p>I think I must be misunderstanding something, because I don&#8217;t see how the cases work in the neighborhood of 200 pirates. You say that it&#8217;s only when we get to 199 pirates that the proposing pirate must spend all available coins to buy off the other pirates and be left with nothing themselves, but extrapolating from the table above it certainly seems like this should occur with only 198 pirates: the third pirate gets 2 coins and each even-numbered pirate before the 198th gets 1 coin, leaving no coins for the 198th pirate.</p>
 <p>But then it should be possible for the 199th pirate to get away with claiming a coin for themselves: all they have to do is offer to take 1 coin themselves and give 1 coin to every other odd-numbered pirate except the 3rd, plus 1 coin to the 198th pirate. The 199th pirate gets their own vote, 98 votes from other odd-numbered pirates who would otherwise get nothing, and 1 vote from the 198th pirate, who again would otherwise be left with nothing. This means the 200th pirate would not have any valid proposal, since with the gold supply available they could not out-compete the offer of 1 coin to each of 100 pirates. Then the 201st pirate can again make off with a coin of their own by offering 1 coin to the 3rd pirate and to each even-numbered pirate up through the 196th, keeping 1 coin for themselves, thereby gaining: their own vote, the votes of pirate 3 and the 98 even-numbered pirates up through 196 (who would all otherwise get nothing), and the vote of the 200th pirate (who would otherwise die). Only after this does it seem to settle down into the pattern where there are successively longer chains of pirates with no possible survival strategy interrupted by single pirates who can survive (albeit without any gold) by getting their successors&#8217; support for free.</p>
 <p>Am I falling into an off-by-one error here somewhere?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on The theory of infinite games, including infinite chess, Talk Math With Your Friends, June 2020 by DukeZhou]]></title>
-        <id>http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10829</id>
-        <link href="http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10829">
-        </link>
-        <updated>2020-05-04T21:36:30Z</updated>
-        <summary type="html"><![CDATA[<p>Very excited!  Thanks for doing this!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Duke Zhou]]></title>
-        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10828</id>
-        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10828">
-        </link>
-        <updated>2020-05-04T21:34:11Z</updated>
-        <summary type="html"><![CDATA[<p>So excited.  I *clearly* need this book.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities May 4 — May 10 2020 | European Set Theory Society]]></title>
-        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10825</id>
-        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10825">
-        </link>
-        <updated>2020-05-03T20:09:31Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime: Wednesday, May 6, 16:00-17:30 UK time (17:00-18:30 CEST)Speaker: Victoria Gitman, City University of New YorkTitle: Elementary embeddings and smaller large cardinalsAbstract: A common theme in the definitions of larger large cardinals is the existence of elementary embeddings from the universe into an inner model. In contrast, smaller large cardinals, such as weakly compact and Ramsey cardinals, are usually characterized by their combinatorial properties such as existence of large homogeneous sets for colorings. It turns out that many familiar smaller large cardinals have elegant elementary embedding characterizations. The embeddings here are correspondingly ‘small’; they are between transitive set models of set theory, usually the size of the large cardinal in question. The study of these elementary embeddings has led us to isolate certain important properties via which we have defined robust hierarchies of large cardinals below a measurable cardinal. In this talk, I will introduce these types of elementary embeddings and discuss the large cardinal hierarchies that have come out of the analysis of their properties. The more recent results in this area are a joint work with Philipp Schlicht.Information: For the Zoom access code, contact Samuel Adam-Day: <a href="mailto:me@samadamday.com">me@samadamday.com</a>. [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
