@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-06-24T14:45:26Z</updated>
+    <updated>2020-06-24T18:45:26Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on A Microscopic approach to Souslin-tree constructions. Part I by Ari B.]]></title>
+        <id>http://blog.assafrinot.com/?p=4059#comment-814</id>
+        <link href="http://blog.assafrinot.com/?p=4059#comment-814">
+        </link>
+        <updated>2020-06-24T17:52:08Z</updated>
+        <summary type="html"><![CDATA[<p>Best to start reading with Part II, linked at &#8220;Further Reading&#8221; above, which is comprehensive, up-to-date, and accessible to beginners.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on A Microscopic approach to Souslin-tree constructions. Part II by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4631#comment-811</id>
@@ -288,18 +299,6 @@ Accepted, July 2019.</p>]]></summary>
         <updated>2019-04-24T06:04:01Z</updated>
         <summary type="html"><![CDATA[<p>In reply to <a href="http://blog.assafrinot.com/?p=588#comment-674">Ari B.</a>.</p>
 <p>thanks!</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by Ari B.]]></title>
-        <id>http://blog.assafrinot.com/?p=588#comment-674</id>
-        <link href="http://blog.assafrinot.com/?p=588#comment-674">
-        </link>
-        <updated>2019-04-24T05:43:17Z</updated>
-        <summary type="html"><![CDATA[<p>The &#8220;Open Problem&#8221; above is answered (positively), assuming the consistency of a measurable cardinal, in this paper by Raghavan and Todorcevic:<br />
-<a href="https://doi.org/10.1007/s11856-018-1677-1" rel="nofollow ugc">https://doi.org/10.1007/s11856-018-1677-1</a></p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
