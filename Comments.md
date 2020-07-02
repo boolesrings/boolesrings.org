@@ -3,6 +3,7 @@ layout: page
 title: Comments
 ---
 
+* **Comments for Joel David Hamkins** [Comment on Forcing as a computational process by DukeZhou](http://jdh.hamkins.org/forcing-as-a-computational-process/#comment-10917)
 * **Comments for Joel David Hamkins** [Comment on Proof and the Art of Mathematics by Joel David Hamkins](http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10913)
 * **Comments for Assaf Rinot** [Comment on A Microscopic approach to Souslin-tree constructions. Part I by Ari B.](http://blog.assafrinot.com/?p=4059#comment-814)
 * **Comments for Joel David Hamkins** [Comment on Proof and the Art of Mathematics by Leo](http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10912)
@@ -12,6 +13,5 @@ title: Comments
 * **Comments for Joel David Hamkins** [Comment on Buckets of fish! by Mark R.](http://jdh.hamkins.org/buckets-of-fish/#comment-10908)
 * **Comments for Joel David Hamkins** [Comment on Worldly cardinals are not always downwards absolute by Neil Barton](http://jdh.hamkins.org/worldly-cardinals-are-not-always-downwards-absolute/#comment-10907)
 * **Comments for Joel David Hamkins** [Comment on Oxford Set Theory Seminar by Online activities: week 15th-22nd of June 2020 \| European Set Theory Society](http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10906)
-* **Comments for Assaf Rinot** [Comment on Knaster and friends II: The C-sequence number by saf](http://blog.assafrinot.com/?p=4607#comment-806)
 
 [Grab the feed for all Comments!](Comments.xml)
