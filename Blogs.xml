@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-14T06:45:33Z</updated>
+    <updated>2020-07-14T10:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -755,19 +755,6 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to linear algebra]]></title>
-        <id>http://scoskey.org/course/1920s-301/</id>
-        <link href="http://scoskey.org/course/1920s-301/">
-        </link>
-        <updated>2020-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 301, Spring 2020<!--more--></p>
-
-<p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Foundations of analysis]]></title>
         <id>http://scoskey.org/course/1920s-314/</id>
         <link href="http://scoskey.org/course/1920s-314/">
@@ -776,6 +763,19 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         <summary type="html"><![CDATA[<p>Math 314, Spring 2020<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to linear algebra]]></title>
+        <id>http://scoskey.org/course/1920s-301/</id>
+        <link href="http://scoskey.org/course/1920s-301/">
+        </link>
+        <updated>2020-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 301, Spring 2020<!--more--></p>
+
+<p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1921,7 +1921,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
 <p>In this paper, we prove a consistency result concerning the universality of the higher analogue $(\kappa^\kappa,\le^S)$.</p>
 <p><em><strong>Theorem.</strong></em> Assume GCH. For every regular uncountable cardinal $\kappa$, there is a cofinality-preserving GCH-preserving forcing extension in which for every analytic quasi-order $\mathbb Q$ over $\kappa^\kappa$ and every stationary subset $S$ of $\kappa$, there is a Lipschitz map reducing $\mathbb Q$ to $(\kappa^\kappa,\le^S)$.</p>
 <p><strong>Downloads:</strong></p>
-<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4582, '')"  href="http://www.assafrinot.com/files/paper39.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4582, '')" href="http://arxiv.org/abs/1906.10066" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4582, '')" href="https://doi.org/10.1007/s00605-020-01431-6" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4582, '')" href="http://www.assafrinot.com/talk/toronto50" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/40" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper39" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/39" class="billet_perm"></a></td></tr></table></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4582, '')"  href="http://www.assafrinot.com/files/paper39.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4582, '')" href="http://arxiv.org/abs/1906.10066" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4582, '')" href="https://doi.org/10.1007/s00605-020-01431-6" class="billet_publish"></a><a href="http://www.ams.org/mathscinet-getitem?mr=4122218" class="billet_review"></a><a onclick="thankYouButtonClick(4582, '')" href="http://www.assafrinot.com/talk/toronto50" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/40" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper39" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/39" class="billet_perm"></a></td></tr></table></p>
 <p>&nbsp;</p>
 <p><span id="more-4582"></span></p>]]></summary>
         <author>
@@ -2040,19 +2040,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractals, what are they?]]></title>
-        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
-        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
-        </link>
-        <updated>2019-05-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hyperreals; do you prefer non-standard analysis over standard analysis?]]></title>
         <id>http://scoskey.org/senior-thesis/hyperreal-numbers/</id>
         <link href="http://scoskey.org/senior-thesis/hyperreal-numbers/">
@@ -2071,6 +2058,19 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </tr>
   </tbody>
 </table>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractals, what are they?]]></title>
+        <id>http://scoskey.org/senior-thesis/fractals-what-are-they/</id>
+        <link href="http://scoskey.org/senior-thesis/fractals-what-are-they/">
+        </link>
+        <updated>2019-05-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>A senior thesis by Nicole Reese, Spring 2019<!--more--></p>
+
+<p><em>Abstract</em>: This presentation explores the concept of a fractal, the Hausdorff dimension of a fractal, and fractals generated by iterated function systems.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
