@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-20T02:45:33Z</updated>
+    <updated>2020-07-20T06:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -19,8 +19,8 @@
         <link href="http://scoskey.org/trends">
         </link>
         <updated>2020-07-24T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Editor, with Grigor Sargsyan. Proceedings of the Simon Fest
-Conference in Honor of Simon Thomas’s 60th Birthday. Contemporary Mathematics 752, 2020.<!--more--></p>
+        <summary type="html"><![CDATA[<p>Editor, with Grigor Sargsyan. Simon Fest
+conference in honor of Simon Thomas’s 60th birthday. <em>Contemporary Mathematics</em> 752, AMS, 2020.<!--more--></p>
 
 <p><em>Abstract</em>: The topics covered showcase recent advances from a variety of main areas of set theory, including descriptive set theory, forcing, and inner model theory, in addition to several applications of set theory, including ergodic theory, combinatorics, and model theory.</p>]]></summary>
         <author>
@@ -965,7 +965,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4607, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 27"
+                <input type="button" onclick="thankYouButtonClick(4607, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 28"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4607_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
