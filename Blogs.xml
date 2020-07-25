@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-25T02:45:34Z</updated>
+    <updated>2020-07-25T06:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -192,7 +192,7 @@ The use of class forcing in set theoretic constructions goes back to the proof E
         <link href="http://scoskey.org/fsjump">
         </link>
         <updated>2020-05-28T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>With John Clemens and Gianni Krakoff.<!--more--></p>
+        <summary type="html"><![CDATA[<p>With John Clemens and Gianni Krakoff. In revision.<!--more--></p>
 
 <p><em>Abstract</em>: We introduce the computable FS-jump, an analog of the classical Friedman–Stanley jump in the context of equivalence relations on $\mathbb N$. We prove that the computable FS-jump is proper with respect to computable reducibility. We then study the effect of the computable FS-jump on computably enumerable equivalence relations (ceers).</p>]]></summary>
         <author>
