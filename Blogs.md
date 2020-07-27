@@ -3,7 +3,7 @@ layout: page
 title: Blogs
 ---
 
-* **Samuel Coskey** [Trends in set theory](http://scoskey.org/trends)
+* **Samuel Coskey** [Trends in set theory](https://scoskey.org/trends)
 * **Joel David Hamkins** [Choiceless large cardinals and set-theoretic potentialism](http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/)
 * **Joel David Hamkins** [Forcing as a computational process](http://jdh.hamkins.org/forcing-as-a-computational-process/)
 * **Victoria Gitman** [Class forcing in its rightful setting](https://victoriagitman.github.io/talks/2020/06/25/class-forcing-in-its-rightful-setting.html)

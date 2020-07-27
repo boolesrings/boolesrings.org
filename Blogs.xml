@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-27T02:45:34Z</updated>
+    <updated>2020-07-27T06:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -15,8 +15,8 @@
     <generator>Feed for Node.js</generator>
     <entry>
         <title type="html"><![CDATA[Trends in set theory]]></title>
-        <id>http://scoskey.org/trends</id>
-        <link href="http://scoskey.org/trends">
+        <id>https://scoskey.org/trends</id>
+        <link href="https://scoskey.org/trends">
         </link>
         <updated>2020-07-24T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Editor, with Grigor Sargsyan. Simon Fest conference in honor of Simon Thomas’s 60th birthday. <em>Contemporary Mathematics</em> 752, American mathematical society.<!--more--></p>
@@ -187,8 +187,8 @@ The use of class forcing in set theoretic constructions goes back to the proof E
     </entry>
     <entry>
         <title type="html"><![CDATA[Computable reducibility of equivalence relations and an effective jump operator]]></title>
-        <id>http://scoskey.org/fsjump</id>
-        <link href="http://scoskey.org/fsjump">
+        <id>https://scoskey.org/fsjump</id>
+        <link href="https://scoskey.org/fsjump">
         </link>
         <updated>2020-05-28T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>With John Clemens and Gianni Krakoff. In revision.<!--more--></p>
@@ -320,8 +320,8 @@ A common theme in the definitions of larger large cardinals is the existence of 
     </entry>
     <entry>
         <title type="html"><![CDATA[Combinatorial designs]]></title>
-        <id>http://scoskey.org/senior-thesis/combinatorial-designs/</id>
-        <link href="http://scoskey.org/senior-thesis/combinatorial-designs/">
+        <id>https://scoskey.org/senior-thesis/combinatorial-designs/</id>
+        <link href="https://scoskey.org/senior-thesis/combinatorial-designs/">
         </link>
         <updated>2020-05-01T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>A senior thesis by Thomas Brice, Spring 2020<!--more--></p>
@@ -619,13 +619,13 @@ A common theme in the definitions of larger large cardinals is the existence of 
     </entry>
     <entry>
         <title type="html"><![CDATA[Jumps and the classification of scattered linear orders]]></title>
-        <id>http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</id>
-        <link href="http://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/">
+        <id>https://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</id>
+        <link href="https://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/">
         </link>
         <updated>2020-02-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>SEALS Conference, Gainesville, February 2020. (<a href="http://math.boisestate.edu/~scoskey/slides/seals-slides.pdf">SEALS slides</a>)<!--more--></p>
+        <summary type="html"><![CDATA[<p>SEALS Conference, Gainesville, February 2020 (<a href="https://drive.google.com/file/d/1bGxeEpIPAp10XA31tKn9O452GZWwDiQX/view?usp=sharing">Gainesville slides</a>)<!--more--></p>
 
-<p>Abstract: We begin by studying the classification problem for countable scattered linear orders. Letting $\cong_\alpha$ denote isomorphism of scattered orders of rank $\alpha$, we can define the “$\mathbb Z$-jump” of equivalence relations in such a way that the $\mathbb Z$-jump of $\cong_\alpha$ is $\cong_{\alpha+1}$. More generally, for any countable group $\Gamma$, we will define the $\Gamma$-jump of equivalence relations. After introducing the basic theory of these jump operators, we will discuss the question of when the $\Gamma$-jump is proper. In particular we will show the $\mathbb Z$-jump is proper, and hence the complexity of $\cong_\alpha$ increases properly with $\alpha$. This is joint work with John Clemens.</p>]]></summary>
+<p><em>Abstract</em>: We begin by studying the classification problem for countable scattered linear orders. Letting $\cong_\alpha$ denote isomorphism of scattered orders of rank $\alpha$, we can define the “$\mathbb Z$-jump” of equivalence relations in such a way that the $\mathbb Z$-jump of $\cong_\alpha$ is $\cong_{\alpha+1}$. More generally, for any countable group $\Gamma$, we will define the $\Gamma$-jump of equivalence relations. After introducing the basic theory of these jump operators, we will discuss the question of when the $\Gamma$-jump is proper. In particular we will show the $\mathbb Z$-jump is proper, and hence the complexity of $\cong_\alpha$ increases properly with $\alpha$. This is joint work with John Clemens.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -782,8 +782,8 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
     </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to linear algebra]]></title>
-        <id>http://scoskey.org/course/1920s-301/</id>
-        <link href="http://scoskey.org/course/1920s-301/">
+        <id>https://scoskey.org/course/1920s-301/</id>
+        <link href="https://scoskey.org/course/1920s-301/">
         </link>
         <updated>2020-01-01T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Math 301, Spring 2020<!--more--></p>
@@ -795,8 +795,8 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
     </entry>
     <entry>
         <title type="html"><![CDATA[Foundations of analysis]]></title>
-        <id>http://scoskey.org/course/1920s-314/</id>
-        <link href="http://scoskey.org/course/1920s-314/">
+        <id>https://scoskey.org/course/1920s-314/</id>
+        <link href="https://scoskey.org/course/1920s-314/">
         </link>
         <updated>2020-01-01T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Math 314, Spring 2020<!--more--></p>
@@ -872,13 +872,13 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
     </entry>
     <entry>
         <title type="html"><![CDATA[Locally finite groups and automorphisms]]></title>
-        <id>http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</id>
-        <link href="http://scoskey.org/presentation/locally-finite-groups-and-automorphisms/">
+        <id>https://scoskey.org/presentation/locally-finite-groups-and-automorphisms/</id>
+        <link href="https://scoskey.org/presentation/locally-finite-groups-and-automorphisms/">
         </link>
         <updated>2019-12-10T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Boise Set Theory and Logic Seminar, December 2019<!--more--></p>
 
-<p>Abstract: The class of finite groups is an amalgamation class, which means that they admit a “Fraisse limit” - a countable structure which contains all the finite groups and which is highly self-symmetric. The limit group is called Hall’s group, it is locally finite, and has the property that any isomorphic finite subgroups are conjugate. In this talk we will give background on Hall’s group and discuss constructing automorphisms of Hall’s group.</p>]]></summary>
+<p><em>Abstract</em>: The class of finite groups is an amalgamation class, which means that they admit a “Fraisse limit” - a countable structure which contains all the finite groups and which is highly self-symmetric. The limit group is called Hall’s group, it is locally finite, and has the property that any isomorphic finite subgroups are conjugate. In this talk we will give background on Hall’s group and discuss constructing automorphisms of Hall’s group.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -983,13 +983,13 @@ connections between the C-sequence spectrum and the strong coloring principle in
     </entry>
     <entry>
         <title type="html"><![CDATA[On conjugacy problems for graphs and trees]]></title>
-        <id>http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/</id>
-        <link href="http://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/">
+        <id>https://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/</id>
+        <link href="https://scoskey.org/presentation/on-conjugacy-problems-for-graphs-and-trees/">
         </link>
         <updated>2019-10-11T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Boise Set Theory and Logic Seminar, October 2019<!--more--></p>
 
-<p>Abstract: Given a graph or tree G, the conjugacy problem for G is the conjugacy equivalence relation on the group Aut(G) of automorphisms of G. In this talk we will introduce the basic framework for studying the complexity of the conjugacy problem for G, and then use it to examine a series of examples of graphs and trees G. In particular we will demonstrate that a variety of complexities can occur, from trivial (smooth), up to maximally complex (Borel complete), and in between.</p>]]></summary>
+<p><em>Abstract</em>: Given a graph or tree G, the conjugacy problem for G is the conjugacy equivalence relation on the group Aut(G) of automorphisms of G. In this talk we will introduce the basic framework for studying the complexity of the conjugacy problem for G, and then use it to examine a series of examples of graphs and trees G. In particular we will demonstrate that a variety of complexities can occur, from trivial (smooth), up to maximally complex (Borel complete), and in between.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1426,13 +1426,13 @@ We will have to wait to find out whether ground definability holds fully in ${\r
     </entry>
     <entry>
         <title type="html"><![CDATA[Jumps of equivalence relations and scattered linear orders]]></title>
-        <id>http://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/</id>
-        <link href="http://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/">
+        <id>https://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/</id>
+        <link href="https://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/">
         </link>
         <updated>2019-09-09T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>CUNY set theory seminar, New York, September 2019<!--more--></p>
 
-<p>Abstract: This is joint work with John Clemens. We will begin this talk by discussing the problem of classifying the countable scattered linear orders. Here a linear order is called scattered if the rational order doesn’t embed into it. The class of such orders admits a ranking function valued in the ordinals; we will study the corresponding classification problem for each fixed rank. We will show that each increase in rank results in a “jump” in the complexity of the classification problem. In the second part of the talk we will define a family of jump operators on equivalence relations, each associated with a fixed countable group. The jump in the case of scattered linear orders is that associated with the group Z of integers. We will discuss the basic theory of these jump operators. Finally, we will discuss the question of when such a jump operator is proper, in the sense that the jump of E is strictly above E in the Borel reducibility order.</p>]]></summary>
+<p><em>Abstract</em>: This is joint work with John Clemens. We will begin this talk by discussing the problem of classifying the countable scattered linear orders. Here a linear order is called scattered if the rational order doesn’t embed into it. The class of such orders admits a ranking function valued in the ordinals; we will study the corresponding classification problem for each fixed rank. We will show that each increase in rank results in a “jump” in the complexity of the classification problem. In the second part of the talk we will define a family of jump operators on equivalence relations, each associated with a fixed countable group. The jump in the case of scattered linear orders is that associated with the group Z of integers. We will discuss the basic theory of these jump operators. Finally, we will discuss the question of when such a jump operator is proper, in the sense that the jump of E is strictly above E in the Borel reducibility order.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -2055,8 +2055,8 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Computable reducibility of equivalence relations]]></title>
-        <id>http://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/</id>
-        <link href="http://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/">
+        <id>https://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/</id>
+        <link href="https://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/">
         </link>
         <updated>2019-05-15T00:00:00Z</updated>
         <summary type="html"><![CDATA[<p>A master’s thesis by Gianni Krakoff, Spring 2019<!--more--></p>
