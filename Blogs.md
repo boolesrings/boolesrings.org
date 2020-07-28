@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 ---
 
+* **Asaf Karagila** [Guest comic: Foundations of Forcing](http://karagila.org/2020/ways-to-do-forcing/)
 * **Samuel Coskey** [Trends in set theory](https://scoskey.org/trends)
 * **Joel David Hamkins** [Choiceless large cardinals and set-theoretic potentialism](http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/)
 * **Joel David Hamkins** [Forcing as a computational process](http://jdh.hamkins.org/forcing-as-a-computational-process/)
@@ -12,6 +13,5 @@ title: Blogs
 * **Dana C. Ernst** [Quote from one of my students on final exam](http://dcernst.github.io/student-quote/)
 * **Asaf Karagila** [Speak up](http://karagila.org/2020/speak-up/)
 * **Nick Gill** [Black Lives Matter](https://nickpgill.github.io/black-lives-matter)
-* **Samuel Coskey** [Computable reducibility of equivalence relations and an effective jump operator](https://scoskey.org/fsjump)
 
 [Grab the feed for all Blogs!](Blogs.xml)
