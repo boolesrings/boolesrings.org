@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-29T02:45:33Z</updated>
+    <updated>2020-07-29T06:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -99,6 +99,34 @@ The use of class forcing in set theoretic constructions goes back to the proof E
  <a href="http://karagila.org/2020/want-jobs/">Continue reading...</a>]]></summary>
         <author>
             <name>Asaf Karagila</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MFO workshop in Set Theory, April 2020]]></title>
+        <id>http://blog.assafrinot.com/?p=4648</id>
+        <link href="http://blog.assafrinot.com/?p=4648">
+        </link>
+        <updated>2020-06-12T11:32:37Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4648_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4648_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4648_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4648_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4648, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 5"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4648_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4648_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>The <a href="https://www.mfo.de/occasion/2015/www_view">Set Theory</a> workshop in Obwerwolfach was supposed to take place April 2020, but was transformed into a webinar, due to <a href="https://en.wikipedia.org/wiki/Coronavirus_disease_2019">COVID-19</a>.</p>
+<p>Here you will find the title, abstract, slides and video of my webinar talk.</p>
+<p><strong>Talk Title: </strong><span class="">Transformations of the transfinite plane</span>.</p>
+<p><strong>Abstract:</strong> <span class="">We study the existence of transformations of the transfinite plane that allow to reduce Ramsey-theoretic statements concerning uncountable Abelian groups into classic partition relations for uncountable cardinals.</span></p>
+<p><span class="">This is joint work with Jing Zhang</span></p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4648, '')" href="http://www.assafrinot.com/files/rinot_mfo2020.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/44" class="billet_further"></a><a href="http://www.assafrinot.com/talk/mfo2020" class="billet_perm"></a></td></tr></table></p>
+<p><a href="http://assafrinot.com/videos/rinot_mfo2020.mp4"><img class="alignnone size-large wp-image-4656" src="http://blog.assafrinot.com/wp-content/uploads/2020/06/rinot_mfo2020-1024x957.png" alt="" width="640" height="598" srcset="http://blog.assafrinot.com/wp-content/uploads/2020/06/rinot_mfo2020-1024x957.png 1024w, http://blog.assafrinot.com/wp-content/uploads/2020/06/rinot_mfo2020-300x280.png 300w, http://blog.assafrinot.com/wp-content/uploads/2020/06/rinot_mfo2020-768x718.png 768w, http://blog.assafrinot.com/wp-content/uploads/2020/06/rinot_mfo2020.png 1036w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span id="more-4648"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>
@@ -567,6 +595,32 @@ A common theme in the definitions of larger large cardinals is the existence of 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transformations of the transfinite plane]]></title>
+        <id>http://blog.assafrinot.com/?p=4639</id>
+        <link href="http://blog.assafrinot.com/?p=4639">
+        </link>
+        <updated>2020-02-16T06:49:27Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4639_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4639_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4639, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 74"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4639_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4639_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="https://academy.ac.il/RichText/GeneralPage.aspx?nodeId=1461">Jing Zhang</a>.</p>
+<p><strong>Abstract. </strong>We study the existence of transformations of the transfinite plane that allow to reduce Ramsey-theoretic statements concerning uncountable Abelian groups into classic partition relations for uncountable cardinals.</p>
+<p>To exemplify: we prove that for every inaccessible cardinal $\kappa$, if $\kappa$ admits a stationary set that does not reflect at inaccessibles, then the classic negative partition relation $\kappa\nrightarrow[\kappa]^2_\kappa$ implies that for every Abelian group $(G,+)$ of size $\kappa$, there exists a map $f:G\rightarrow G$ such that, for every $X\subseteq G$ of size $\kappa$ and every $g\in G$, there exist $x\neq y$ in $X$ such that $f(x+y)=g$.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4639, '')"  href="http://www.assafrinot.com/files/paper44.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4639, '')" href="https://arxiv.org/abs/2003.07582" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4639, '')" href="http://www.assafrinot.com/talk/mfo2020" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/13" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper44" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/44" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4639"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bi-interpretation of weak set theories, Oberwolfach, April 2020]]></title>
         <id>http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/</id>
         <link href="http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/">
@@ -602,6 +656,31 @@ A common theme in the definitions of larger large cardinals is the existence of 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fake Reflection]]></title>
+        <id>http://blog.assafrinot.com/?p=4636</id>
+        <link href="http://blog.assafrinot.com/?p=4636">
+        </link>
+        <updated>2020-01-20T19:50:07Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4636_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4636_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4636, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 36"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4636_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4636_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
+<p><strong>Abstract. </strong>We introduce a generalization of stationary set reflection which we call <em>filter reflection</em>, and show it is compatible with the axiom of constructibility as well as with strong forcing axioms. We prove the independence of filter reflection from ZFC, and present applications of filter reflection to the study of canonical equivalence relations of the generalized Cantor and Baire spaces.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4636, '')"  href="http://www.assafrinot.com/files/paper40.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4636, '')" href="https://arxiv.org/abs/2003.08340" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4636, '')" href="http://www.assafrinot.com/talk/toronto50" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/39" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper40" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/40" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4636"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bi-interpretation in weak set theories]]></title>
         <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/</id>
         <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/">
@@ -610,20 +689,6 @@ A common theme in the definitions of larger large cardinals is the existence of 
         <summary type="html"><![CDATA[[bibtex key="FreireHamkins:Bi-interpretation-in-weak-set-theories"] <a href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
         <author>
             <name>Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
-        <id>https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html</id>
-        <link href="https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html">
-        </link>
-        <updated>2020-01-10T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="">Winter ASL Meeting</a>, Denver, January 17-18, 2020.<!--more--></p>
-<p>
-Modern set theoretic research has produced a myriad of set-theoretic universes with fundamentally different properties and structures. Multiversists hold the philosophical position that none of these universes is the true universe of set theory - they all have equal ontological status and populate the set-theoretic multiverse. Hamkins, one of the main proponents of this view, formulated his position via the heuristic Hamkins Multiverse Axioms, which include such radical relativity assertions as that any universe is ill-founded from the perspective of another universe in the multiverse. With Hamkins, we showed that the collection of all countable computably saturated models of ${\rm ZFC}$ satisfies his axioms. Countable computably saturated models form a unique natural class with a number of desirable model theoretic properties such as existence of truth predicates and automorphisms. Indeed, any collection of models satisfying the Hamkins Multiverse Axioms must be contained within this class. In a joint work with Toby Meadows, Michał Godziszewski, and Kameryn Williams, we explore which weaker versions of the multiverse axioms have 'toy multiverses' that are not made up entirely of computably saturated models.
-</p>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
         </author>
     </entry>
     <entry>
@@ -678,6 +743,47 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
+        <id>https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html</id>
+        <link href="https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html">
+        </link>
+        <updated>2020-01-10T05:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="">Winter ASL Meeting</a>, Denver, January 17-18, 2020.<!--more--></p>
+<p>
+Modern set theoretic research has produced a myriad of set-theoretic universes with fundamentally different properties and structures. Multiversists hold the philosophical position that none of these universes is the true universe of set theory - they all have equal ontological status and populate the set-theoretic multiverse. Hamkins, one of the main proponents of this view, formulated his position via the heuristic Hamkins Multiverse Axioms, which include such radical relativity assertions as that any universe is ill-founded from the perspective of another universe in the multiverse. With Hamkins, we showed that the collection of all countable computably saturated models of ${\rm ZFC}$ satisfies his axioms. Countable computably saturated models form a unique natural class with a number of desirable model theoretic properties such as existence of truth predicates and automorphisms. Indeed, any collection of models satisfying the Hamkins Multiverse Axioms must be contained within this class. In a joint work with Toby Meadows, Michał Godziszewski, and Kameryn Williams, we explore which weaker versions of the multiverse axioms have 'toy multiverses' that are not made up entirely of computably saturated models.
+</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Microscopic approach to Souslin-tree constructions. Part II]]></title>
+        <id>http://blog.assafrinot.com/?p=4631</id>
+        <link href="http://blog.assafrinot.com/?p=4631">
+        </link>
+        <updated>2020-01-07T18:52:56Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4631_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4631_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4631, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 68"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4631_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4631_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~brodska/">Ari Meir Brodsky</a>.</p>
+<p><strong>Abstract.</strong> In <a href="http://blog.assafrinot.com/?p=4059">Part I</a> of this series, we presented the microscopic approach to Souslin-tree constructions, and argued that all known $\diamondsuit$-based constructions of Souslin trees with various additional properties may be rendered as applications of our approach. In this paper, we show that constructions following the same approach may be carried out even in the absence of $\diamondsuit$. In particular, we obtain a new weak sufficient condition for the existence of Souslin trees at the level of a strongly inaccessible cardinal.</p>
+<p>We also present a new construction of a Souslin tree with an ascent path, along the way increasing the consistency strength of such a tree&#8217;s nonexistence from a Mahlo cardinal to a weakly compact cardinal.</p>
+<p>Section 2 of this paper is targeted at newcomers with minimal background. It offers a comprehensive exposition of the subject of constructing Souslin trees and the challenges involved.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4631, '')"  href="http://www.assafrinot.com/files/paper23.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4631, '')" href="https://arxiv.org/abs/2003.08146" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4631, '')" href="http://www.assafrinot.com/talk/asl2017" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/22" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper23" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/23" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4631"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Philosophy meets maths, Oxford, January 2020]]></title>
         <id>http://jdh.hamkins.org/philosophy-meets-maths-oxford-january-2020/</id>
         <link href="http://jdh.hamkins.org/philosophy-meets-maths-oxford-january-2020/">
@@ -689,19 +795,6 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to linear algebra]]></title>
-        <id>https://scoskey.org/course/1920s-301/</id>
-        <link href="https://scoskey.org/course/1920s-301/">
-        </link>
-        <updated>2020-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 301, Spring 2020<!--more--></p>
-
-<p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Foundations of analysis]]></title>
         <id>https://scoskey.org/course/1920s-314/</id>
         <link href="https://scoskey.org/course/1920s-314/">
@@ -710,6 +803,19 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         <summary type="html"><![CDATA[<p>Math 314, Spring 2020<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to linear algebra]]></title>
+        <id>https://scoskey.org/course/1920s-301/</id>
+        <link href="https://scoskey.org/course/1920s-301/">
+        </link>
+        <updated>2020-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 301, Spring 2020<!--more--></p>
+
+<p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -792,6 +898,33 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sigma-Prikry forcing II: Iteration Scheme]]></title>
+        <id>http://blog.assafrinot.com/?p=4620</id>
+        <link href="http://blog.assafrinot.com/?p=4620">
+        </link>
+        <updated>2019-12-04T08:49:23Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4620_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4620, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 16"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4620_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4620_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
+<p><strong>Abstract. </strong>In <a href="http://www.assafrinot.com/paper/41">Part I</a> of this series, we introduced a class of notions of forcing which we call $\Sigma$-Prikry, and showed that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We proved that given a $\Sigma$-Prikry poset $\mathbb P$ and a $\mathbb{P}$-name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$.</p>
+<p>In this paper, we develop a general scheme for iterating $\Sigma$-Prikry posets, as well as verify that the Extender Based Prikry Forcing is $\Sigma$-Prikry.</p>
+<p>As an application, we blow up the power of a countable limit of Laver-indestructible supercompact cardinals, and then iteratively kill all non-reflecting stationary subsets of its successor, yielding a model in which the singular cardinal hypothesis fails and simultaneous reflection of finite families of stationary sets holds.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4620, '')"  href="http://www.assafrinot.com/files/paper42.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4620, '')" href="http://arxiv.org/abs/1912.03336" class="billet_arxiv"></a><img src="/design/003_publish_dis.png"   class="opacity_icons"  height=90 width=64 border=1  alt="[No published version]" title="Published version not available"  /><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4620, '')" href="http://www.assafrinot.com/files/poveda_sigma2.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/41" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=preprints.bib&key=paper42" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/42" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4620"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oberseminar mathematische Logik, Bonn - Infinite decreasing chains in the Mitchell order]]></title>
         <id>https://muellersandra.github.io/talk/invsemtalk/2019/11/19/TalkBonn.html</id>
         <link href="https://muellersandra.github.io/talk/invsemtalk/2019/11/19/TalkBonn.html">
@@ -832,6 +965,34 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
 <li><span id="keislermorley:topextensions">H. J. Keisler and M. Morley, “Elementary extensions of models of set theory,” <i>Israel J. Math.</i>, vol. 6, pp. 49–65, 1968. </span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knaster and friends II: The C-sequence number]]></title>
+        <id>http://blog.assafrinot.com/?p=4607</id>
+        <link href="http://blog.assafrinot.com/?p=4607">
+        </link>
+        <updated>2019-10-23T02:58:05Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4607_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4607, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 28"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4607_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4607_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://people.vcu.edu/~cblambiehanso/">Chris Lambie-Hanson</a>.</p>
+<p><strong>Abstract. </strong>Motivated by a characterization of weakly compact cardinals due to Todorcevic,<br />
+we introduce a new cardinal characteristic, <em>the C-sequence number</em>, which can be seen as a measure of the compactness of a regular uncountable cardinal. We prove a number of <strong>ZFC</strong> and independence results about the C-sequence number and its relationship with large cardinals, stationary reflection, and square principles.<br />
+We then introduce and study the more general C-sequence spectrum and uncover some tight<br />
+connections between the C-sequence spectrum and the strong coloring principle introduced in <a href="http://www.assafrinot.com/paper/34">Part I</a> of this series.</p>
+<p><span id="more-4607"></span></p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4607, '')"  href="http://www.assafrinot.com/files/paper35.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4607, '')" href="http://arxiv.org/abs/1912.03342" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4607, '')" href="https://doi.org/10.1142/S0219061321500021" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4607, '')" href="http://www.assafrinot.com/talk/luminy2019" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/34" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper35" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/35" class="billet_perm"></a></td></tr></table></p>
+<p><!--more--></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>
@@ -1114,6 +1275,38 @@ models of the stable core.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The 15th International Workshop on Set Theory in Luminy, September 2019]]></title>
+        <id>http://blog.assafrinot.com/?p=4602</id>
+        <link href="http://blog.assafrinot.com/?p=4602">
+        </link>
+        <updated>2019-09-28T15:02:37Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4602_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4602_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4602, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 6"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4602_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4602_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="https://conferences.cirm-math.fr/2052.html">15th International Workshop on Set Theory in Luminy</a> in Marseille, September 2019.</p>
+<p><strong>Talk Title: </strong>Chain conditions, unbounded colorings and the C-sequence spectrum.</p>
+<p><strong>Abstract: </strong>The productivity of the $\kappa$-chain condition, where $\kappa$ is a regular, uncountable cardinal, has been the focus of a great deal of set-theoretic research.</p>
+<p>In the 1970&#8217;s, consistent examples of $\kappa$-cc posets whose squares are not $\kappa$-cc were constructed by Laver, Galvin, Roitman and Fleissner. Later, ZFC examples were constructed by Todorcevic, Shelah, and others. The most difficult case, that in which $\kappa = \aleph_2$, was resolved by Shelah in 1997.</p>
+<p>In the first part of this talk, we shall present analogous results regarding the infinite productivity of chain conditions stronger than $\kappa$-cc. In particular, for any successor cardinal $\kappa$, we produce a ZFC example of a poset with precaliber $\kappa$ whose $\omega^{\mathrm{th}}$ power is not $\kappa$-cc. To do so, we introduce and study the principle $\textrm{U}(\kappa,\mu,\theta,\chi)$ asserting the existence of a coloring $c:[\kappa]^2\rightarrow\theta$ satisfying a strong unboundedness condition.</p>
+<p>In the second part of this talk, we shall introduce and study a new cardinal invariant $\chi(\kappa)$ for a regular uncountable cardinal $\kappa$. For inaccessible $\kappa$, $\chi(\kappa)$ may be seen as a measure of how far away $\kappa$ is from being weakly compact. We shall prove that if $\chi(\kappa)&gt;1$, then $\chi(\kappa)=\max(\mathrm{Cspec}(\kappa))$, where:</p>
+<p>1. $\textrm{Cspec}(\kappa) := \{\chi(\vec{C}) \mid \vec{C}$ is a $C$-sequence over $\kappa\} \setminus \omega$, and</p>
+<p>2. $\chi(\vec{C})$ is the least cardinal $\chi \leq \kappa$ such that there exist $\Delta \in [\kappa]^\kappa$ and $b:\kappa\rightarrow[\kappa]^\chi$ with $\Delta\cap\alpha\subseteq\bigcup_{\beta\in b(\alpha)}C_\beta$ for every $\alpha&lt;\kappa$.</p>
+<p>We shall also prove that if $\chi(\kappa)=1$, then $\kappa$ is greatly Mahlo, prove the consistency (modulo the existence of a supercompact) of $\chi(\aleph_{\omega+1})=\aleph_0$, and carry a systematic study of the effect of square principles on the $C$-sequence spectrum.</p>
+<p>In the last part of this talk, we shall unveil an unexpected connection between the two principles discussed in the previous parts, proving that, for infinite regular cardinals $\theta&lt;\kappa$, $\theta\in\mathrm{Cspec}(\kappa)$ iff there is a closed witness to $\mathrm{U}(\kappa,\kappa,\theta,\theta)$.</p>
+<p>This is joint work with <a href="http://blog.assafrinot.com/?persons=chris-lambie-hanson">Chris Lambie-Hanson</a>.</p>
+<p><strong>Downloads:</strong></p>
+<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4602, '')" href="http://www.assafrinot.com/files/rinot_luminy2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/34" class="billet_further"></a><a href="http://www.assafrinot.com/talk/luminy2019" class="billet_perm"></a></td></tr></table></p><span id="more-4602"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Weeknote 2019/38]]></title>
         <id>https://www.peterkrautzberger.org/0212/</id>
         <link href="https://www.peterkrautzberger.org/0212/">
@@ -1298,6 +1491,32 @@ groups with large relational complexity, and we explain how this statistic relat
 </ol>]]></summary>
         <author>
             <name>Nick Gill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sigma-Prikry forcing I: The Axioms]]></title>
+        <id>http://blog.assafrinot.com/?p=4596</id>
+        <link href="http://blog.assafrinot.com/?p=4596">
+        </link>
+        <updated>2019-09-02T14:34:33Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4596_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4596_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4596, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 35"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4596_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4596_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://www.ub.edu/dept_matinfo/professors/poveda-alejandro/">Alejandro Poveda</a> and <a href="http://homepages.math.uic.edu/~sinapova/">Dima Sinapova</a>.</p>
+<p><strong>Abstract. </strong>We introduce a class of notions of forcing which we call $\Sigma$-Prikry, and show that many of the known Prikry-type notions of forcing that centers around singular cardinals of countable cofinality are $\Sigma$-Prikry. We show that given a $\Sigma$-Prikry poset $\mathbb P$ and a name for a non-reflecting stationary set $T$, there exists a corresponding $\Sigma$-Prikry poset that projects to $\mathbb P$ and kills the stationarity of $T$. Then, in <a href="http://www.assafrinot.com/paper/42">a sequel</a> to this paper, we develop an iteration scheme for $\Sigma$-Prikry posets. Putting the two works together, we obtain a proof of the following.</p>
+<p><em><strong>Theorem. </strong></em>If $\kappa$ is the limit of a countable increasing sequence of supercompact cardinals, then there exists a cofinality-preserving forcing extension in which $\kappa$ remains a strong limit, every finite collection of stationary subsets of $\kappa^+$ reflects simultaneously, and $2^\kappa=\kappa^{++}$.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4596, '')"  href="http://www.assafrinot.com/files/paper41.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4596, '')" href="http://arxiv.org/abs/1912.03335" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4596, '')" href="http://dx.doi.org/10.4153/S0008414X20000425" class="billet_publish"></a><img src="/design/004_review_dis.png"  class="opacity_icons" height=90 width=64 border=1  alt="[No entry on mathscinet]" title="No entry on mathscinet"  /><a onclick="thankYouButtonClick(4596, '')" href="http://www.assafrinot.com/files/poveda_sigma1.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/42" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper41" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/41" class="billet_perm"></a></td></tr></table></p>
+<p>&nbsp;</p>
+<p><span id="more-4596"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>
@@ -1723,6 +1942,34 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inclusion modulo nonstationary]]></title>
+        <id>http://blog.assafrinot.com/?p=4582</id>
+        <link href="http://blog.assafrinot.com/?p=4582">
+        </link>
+        <updated>2019-06-20T15:37:16Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4582_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 58"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4582_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>Joint work with <a href="http://u.math.biu.ac.il/~zanettg/">Gabriel Fernandes</a> and <a href="http://miguelmath.com/">Miguel Moreno</a>.</p>
+<p><strong>Abstract. </strong>A classical theorem of Hechler asserts that the structure $\left(\omega^\omega,\le^*\right)$ is universal in the sense that for any $\sigma$-directed poset $\mathbb P$ with no maximal element, there is a ccc forcing extension in which $\left(\omega^\omega,\le^*\right)$ contains a cofinal order-isomorphic copy of $\mathbb P$.</p>
+<p>In this paper, we prove a consistency result concerning the universality of the higher analogue $(\kappa^\kappa,\le^S)$.</p>
+<p><em><strong>Theorem.</strong></em> Assume GCH. For every regular uncountable cardinal $\kappa$, there is a cofinality-preserving GCH-preserving forcing extension in which for every analytic quasi-order $\mathbb Q$ over $\kappa^\kappa$ and every stationary subset $S$ of $\kappa$, there is a Lipschitz map reducing $\mathbb Q$ to $(\kappa^\kappa,\le^S)$.</p>
+<p><strong>Downloads:</strong></p>
+<p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4582, '')"  href="http://www.assafrinot.com/files/paper39.pdf" class="billet_author"></a><a onclick="thankYouButtonClick(4582, '')" href="http://arxiv.org/abs/1906.10066" class="billet_arxiv"></a><a onclick="thankYouButtonClick(4582, '')" href="https://doi.org/10.1007/s00605-020-01431-6" class="billet_publish"></a><a href="http://www.ams.org/mathscinet-getitem?mr=4122218" class="billet_review"></a><a onclick="thankYouButtonClick(4582, '')" href="http://www.assafrinot.com/talk/toronto50" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/40" class="billet_further"></a><a href="http://papers.assafrinot.com/list.php?bib=rinot.bib&key=paper39" class="billet_bibtex"></a><a href="http://www.assafrinot.com/paper/39" class="billet_perm"></a></td></tr></table></p>
+<p><strong>Citation information:</strong></p>
+<p>G. Fernandes, M. Moreno and A. Rinot, <em>Inclusion modulo nonstationary</em>, Monatsh. Math., 192(4): 827-851, 2020.</p>
+<p><span id="more-4582"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tuna Altinel]]></title>
         <id>https://nickpgill.github.io/tuna-altinel</id>
         <link href="https://nickpgill.github.io/tuna-altinel">
@@ -1792,6 +2039,32 @@ Suppose that $\kappa$ is completely ineffable in a model $V\models{\rm ZFC}$ and
               cardinals,” <i>Ann. Math. Logic</i>, vol. 12, no. 1, pp. 25–58, 1977. Available at: http://dx.doi.org/10.1016/0003-4843(77)90005-5</span></li></ol>]]></summary>
         <author>
             <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 Years of Set Theory in Toronto, May 2019]]></title>
+        <id>http://blog.assafrinot.com/?p=4577</id>
+        <link href="http://blog.assafrinot.com/?p=4577">
+        </link>
+        <updated>2019-05-19T15:47:41Z</updated>
+        <summary type="html"><![CDATA[<div class="thanks_button_div" 
+                  style="margin-bottom: 30px;"><div id="thanksButtonDiv_4577_2" style="background-image:url(https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/thanks_compact_brown1.png); background-repeat:no-repeat; float: left; display: inline;"
+                onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4577_2', true);" 
+                onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4577_2', false);"
+                onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4577_2', false);" >
+                <input type="button" onclick="thankYouButtonClick(4577, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 6"
+                  class="thanks_button thanks_compact thanks_brown"
+                  style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
+                  id="thanksButton_4577_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
+             </div><div id="ajax_loader_4577_2" style="display:inline;visibility: hidden;"><img alt="ajax loader" src="https://blog.assafrinot.com/wp-content/plugins/thanks-you-counter-button/images/ajax-loader.gif" /></div></div><p>I gave an invited talk at the <a href="http://www.fields.utoronto.ca/activities/18-19/set-theory">50 Years of Set Theory in Toronto</a> meeting,<br />
+Fields Institute for Research in Mathematical Sciences, May 2019.</p>
+<p><strong>Talk Title: </strong>Analytic quasi-orders and two forms of diamond</p>
+<p><strong>Abstract:</strong> We study Borel reduction of equivalence relations (more generally: quasi-orders) in the generalized Baire and Cantor spaces, and connect it with the study of two diamond-type principles. One of these principles holds for all ineffable sets, and the other fails on all ineffable sets, but, in L, holds for all stationary non-ineffable sets.</p>
+<p>This is joint work with <a href="http://blog.assafrinot.com/?persons=gabriel-fernandes">Gabriel Fernandes</a> and <a href="http://blog.assafrinot.com/?persons=miguel-moreno">Miguel Moreno</a>.</p>
+<p><strong>Downloads:</strong></p>
+<p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4577, '')" href="http://www.assafrinot.com/files/rinot_fields2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/39" class="billet_further"></a><a href="http://www.assafrinot.com/talk/toronto50" class="billet_perm"></a></td></tr></table></p><span id="more-4577"></span></p>]]></summary>
+        <author>
+            <name>Assaf Rinot</name>
         </author>
     </entry>
     <entry>

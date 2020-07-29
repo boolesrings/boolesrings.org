@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-29T02:45:25Z</updated>
+    <updated>2020-07-29T06:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by David]]></title>
+        <id>http://blog.assafrinot.com/?p=588#comment-818</id>
+        <link href="http://blog.assafrinot.com/?p=588#comment-818">
+        </link>
+        <updated>2020-07-27T13:09:11Z</updated>
+        <summary type="html"><![CDATA[<p>As to the result of Erdos and Rado assuming CH it holds that: $\omega_2 \rightarrow (\omega_2, \omega_1 + 1)^2$, also the 0-homogeneous set can be made stationary [Handbook of Set Theory, ch. 2., 3.11]. Can it be strengthened to also require the 1-homogeneous set to be closed, i.e. a club subset of some uncountable ordinal $&lt; \omega_2$ ?</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Choiceless large cardinals and set-theoretic potentialism by Wojciech Aleksander Wołoszyn]]></title>
         <id>http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/#comment-10924</id>
@@ -47,6 +58,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Comment on A Microscopic approach to Souslin-tree constructions. Part I by Ari B.]]></title>
+        <id>http://blog.assafrinot.com/?p=4059#comment-814</id>
+        <link href="http://blog.assafrinot.com/?p=4059#comment-814">
+        </link>
+        <updated>2020-06-24T17:52:08Z</updated>
+        <summary type="html"><![CDATA[<p>Best to start reading with Part II, linked at &#8220;Further Reading&#8221; above, which is comprehensive, up-to-date, and accessible to beginners.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Leo]]></title>
         <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10912</id>
         <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10912">
@@ -55,6 +77,18 @@
         <summary type="html"><![CDATA[<p>Looking forward to reading this. What is discussed in the &#8220;mathematical habits&#8221; sections?</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on A Microscopic approach to Souslin-tree constructions. Part II by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4631#comment-811</id>
+        <link href="http://blog.assafrinot.com/?p=4631#comment-811">
+        </link>
+        <updated>2020-06-18T12:15:28Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted to Annals of Pure and Applied Logic, January 2020.<br />
+Accepted, June 2020.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
         </author>
     </entry>
     <entry>
@@ -117,6 +151,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Comment on Knaster and friends II: The C-sequence number by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4607#comment-806</id>
+        <link href="http://blog.assafrinot.com/?p=4607#comment-806">
+        </link>
+        <updated>2020-06-07T13:37:55Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted to J. Math. Logic, October 2019.<br />
+Accepted, June 2020.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Pesquisador do Instituto Modal participa de pesquisa internacional sobre fundamentos da teoria dos conjuntos - Blog CTI - Instituto Modal]]></title>
         <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900</id>
         <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900">
@@ -161,6 +207,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Comment on Sigma-Prikry forcing I: The Axioms by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4596#comment-803</id>
+        <link href="http://blog.assafrinot.com/?p=4596#comment-803">
+        </link>
+        <updated>2020-05-19T00:13:04Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted to Canadian Journal of Mathematics, September 2019.<br />
+Accepted, May 2020.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Inclusion modulo nonstationary by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4582#comment-802</id>
+        <link href="http://blog.assafrinot.com/?p=4582#comment-802">
+        </link>
+        <updated>2020-05-19T00:09:57Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted to Monatshefte für Mathematik, June 2019.<br />
+Accepted, May 2020.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities May 18 — May 22 2020 | European Set Theory Society]]></title>
         <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10876</id>
         <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10876">
@@ -180,6 +250,53 @@
         <summary type="html"><![CDATA[<p>[&#8230;] The point is that if $M$ is a non-$omega$-model of $mathsf{ZFC}$, then there will be things in $M$ which $M$ thinks are first-order sentences but which actually aren&#8217;t (intuitively, they&#8217;re secretly infinitely long). This added level of flexibility changes the situation dramatically: a negative answer to the broader question was established by Hamkins and Yang. [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Knaster and friends I: Closed colorings and precalibers by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4530#comment-744</id>
+        <link href="http://blog.assafrinot.com/?p=4530#comment-744">
+        </link>
+        <updated>2019-11-02T11:05:13Z</updated>
+        <summary type="html"><![CDATA[<p>Correction of two typos:<br />
+1. At the opening of the proof of Theorem 4.23, where it says &#8220;By Corollary 4.19&#8221;, it should have been &#8220;By Corollary 4.12&#8221;.<br />
+2. Later in the proof of Theorem 4.23, where defining the ordinal $\Lambda$, the function $\lambda_2^k$ should have been $\lambda_2$ (the extra superscript is only relevant to the proof of Case 2 of Theorem 4.21, and is redundant here).</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on A relative of the approachability ideal, diamond and non-saturation by On guessing generalized clubs at the successors of regulars | Assaf Rinot]]></title>
+        <id>http://blog.assafrinot.com/?p=244#comment-737</id>
+        <link href="http://blog.assafrinot.com/?p=244#comment-737">
+        </link>
+        <updated>2019-10-24T04:22:31Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] to the author&#8217;s work on the validity of diamond and non-saturation at the successor of singulars, we deal here with [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Partitioning a reflecting stationary set by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4559#comment-707</id>
+        <link href="http://blog.assafrinot.com/?p=4559#comment-707">
+        </link>
+        <updated>2019-07-22T19:55:56Z</updated>
+        <summary type="html"><![CDATA[<p>Submitted to Proc. Amer. Math. Soc., February 2019.<br />
+Accepted, July 2019.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on 50 Years of Set Theory in Toronto, May 2019 by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=4577#comment-686</id>
+        <link href="http://blog.assafrinot.com/?p=4577#comment-686">
+        </link>
+        <updated>2019-05-26T05:24:59Z</updated>
+        <summary type="html"><![CDATA[<p>The <a href="http://www.fields.utoronto.ca/video-archive/static/2019/05/2686-20448/mergedvideo.ogv" rel="nofollow">video</a> of this talk is now available.</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
         </author>
     </entry>
     <entry>
