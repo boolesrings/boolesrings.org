@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-07-30T06:45:27Z</updated>
+    <updated>2020-07-30T10:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -22,6 +22,28 @@
         <summary type="html"><![CDATA[<p>As to the result of Erdos and Rado assuming CH it holds that: $\omega_2 \rightarrow (\omega_2, \omega_1 + 1)^2$, also the 0-homogeneous set can be made stationary [Handbook of Set Theory, ch. 2., 3.11]. Can it be strengthened to also require the 1-homogeneous set to be closed, i.e. a club subset of some uncountable ordinal $&lt; \omega_2$ ?</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on There are no nondegenerate regular polygons in the integer lattice, except for squares by What does this prove? Some of the most gorgeous visual “shrink” proofs ever invented – Burkard Polster – Divagaciones en el Cinosargo]]></title>
+        <id>http://jdh.hamkins.org/no-regular-polygons-in-the-integer-lattice/#comment-10927</id>
+        <link href="http://jdh.hamkins.org/no-regular-polygons-in-the-integer-lattice/#comment-10927">
+        </link>
+        <updated>2020-07-26T23:12:30Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] Joel Hamkin&#8217;s blog posts that inspired this video:<a href="http://jdh.hamkins.org/no-regular-pol&#8230;http://jdh.hamkins.org/no-regular-pol&#038;#8230" rel="nofollow ugc">http://jdh.hamkins.org/no-regular-pol&#8230;http://jdh.hamkins.org/no-regular-pol&#038;#8230</a>; [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on There are no nondegenerate regular polygons in the integer lattice, except for squares by What does this prove? Some of the most gorgeous visual "shrink" proofs ever invented | Dramaqu - Neoanime]]></title>
+        <id>http://jdh.hamkins.org/no-regular-polygons-in-the-integer-lattice/#comment-10926</id>
+        <link href="http://jdh.hamkins.org/no-regular-polygons-in-the-integer-lattice/#comment-10926">
+        </link>
+        <updated>2020-07-26T12:58:48Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] There are no nondegenerate regular polygons in the integer lattice, except for squares [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
@@ -228,28 +250,6 @@ Accepted, May 2020.</p>]]></summary>
 Accepted, May 2020.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities May 18 — May 22 2020 | European Set Theory Society]]></title>
-        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10876</id>
-        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10876">
-        </link>
-        <updated>2020-05-18T05:49:37Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime:&nbsp;Wednesday, May 20, 4pm UK timeSpeaker: Joel David Hamkins, OXFORDTitle: Bi-interpretation of weak set theoriesAbstract: Set theory exhibits a truly robust mutual interpretability phenomenon: in any model of one set theory we can define models of diverse other set theories and vice versa. In any model of ZFC, we can define models of ZFC + GCH and also of ZFC + ¬CH and so on in hundreds of cases. And yet, it turns out, in no instance do these mutual interpretations rise to the level of bi-interpretation. Ali Enayat proved that distinct theories extending ZF are never bi-interpretable, and models of ZF are bi-interpretable only when they are isomorphic. So there is no nontrivial bi-interpretation phenomenon in set theory at the level of ZF or above.&nbsp; Nevertheless, for natural weaker set theories, we prove, including ZFC- without power set and Zermelo set theory Z, there are nontrivial instances of bi-interpretation. Specifically, there are well-founded models of ZFC- that are bi-interpretable, but not isomorphic—even (H(omega_1),in) and (H(omega_2),in) can be bi-interpretable—and there are distinct bi-interpretable theories extending ZFC-. Similarly, using a construction of Mathias, we prove that every model of ZF is bi-interpretable with a model of Zermelo set theory in which the replacement axiom fails. This is joint work with Alfredo Roque Freire.Information:&nbsp;The seminar will take place virtually. Please email Samuel Adam-Day (me@samadamday.com) for the meeting id. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Satisfaction is not absolute by Math Genius: Definition of structure and satisfaction on Set theory(ZFC). - TECHPRPR]]></title>
-        <id>http://jdh.hamkins.org/satisfaction-is-not-absolute/#comment-10875</id>
-        <link href="http://jdh.hamkins.org/satisfaction-is-not-absolute/#comment-10875">
-        </link>
-        <updated>2020-05-17T08:13:29Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] The point is that if $M$ is a non-$omega$-model of $mathsf{ZFC}$, then there will be things in $M$ which $M$ thinks are first-order sentences but which actually aren&#8217;t (intuitively, they&#8217;re secretly infinitely long). This added level of flexibility changes the situation dramatically: a negative answer to the broader question was established by Hamkins and Yang. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
