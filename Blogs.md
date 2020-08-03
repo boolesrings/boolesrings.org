@@ -3,6 +3,8 @@ layout: page
 title: Blogs
 ---
 
+* **Samuel Coskey** [Mathematical proofs and methods](https://scoskey.org/course/1920f-287/)
+* **Samuel Coskey** [Advanced set theory](https://scoskey.org/course/1920f-522/)
 * **Asaf Karagila** [Guest comic: Foundations of Forcing](http://karagila.org/2020/ways-to-do-forcing/)
 * **Samuel Coskey** [Trends in set theory](https://scoskey.org/trends)
 * **Joel David Hamkins** [Choiceless large cardinals and set-theoretic potentialism](http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/)
@@ -11,7 +13,5 @@ title: Blogs
 * **Joel David Hamkins** [Categorical cardinals, CUNY Set Theory Seminar, June 2020](http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/)
 * **Asaf Karagila** [Want jobs?](http://karagila.org/2020/want-jobs/)
 * **Assaf Rinot** [MFO workshop in Set Theory, April 2020](http://blog.assafrinot.com/?p=4648)
-* **Dana C. Ernst** [Quote from one of my students on final exam](http://dcernst.github.io/student-quote/)
-* **Asaf Karagila** [Speak up](http://karagila.org/2020/speak-up/)
 
 [Grab the feed for all Blogs!](Blogs.xml)

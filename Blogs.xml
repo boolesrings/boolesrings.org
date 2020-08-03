@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-08-03T06:45:32Z</updated>
+    <updated>2020-08-03T18:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,32 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Mathematical proofs and methods]]></title>
+        <id>https://scoskey.org/course/1920f-287/</id>
+        <link href="https://scoskey.org/course/1920f-287/">
+        </link>
+        <updated>2020-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 287, Fall 2020<!--more--></p>
+
+<p><em>Catalog description</em>: An introduction to formal mathematical language, mathematical experimentation, mathematical proofs, mathematical communication, and technologies supporting the above. Core content includes sets and functions, elementary number theory and induction, and distances and topology on the real line. Additional content drawn from logic, combinatorics and probability, graph theory, and modular arithmetic.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced set theory]]></title>
+        <id>https://scoskey.org/course/1920f-522/</id>
+        <link href="https://scoskey.org/course/1920f-522/">
+        </link>
+        <updated>2020-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Math 522, Fall 2020<!--more--></p>
+
+<p><em>Catalog description</em>: Topics in modern set theory may be drawn from forcing, choiceless set theory, infinitary combinatorics, set-theoretic topology, descriptive set theory, inner model theory, and alternative set theories.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guest comic: Foundations of Forcing]]></title>
         <id>http://karagila.org/2020/ways-to-do-forcing/</id>
@@ -978,7 +1004,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4607_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4607, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 29"
+                <input type="button" onclick="thankYouButtonClick(4607, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 30"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4607_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
@@ -1436,19 +1462,6 @@ models of the stable core.
  <a href="http://karagila.org/2019/mehifox/">Continue reading...</a>]]></summary>
         <author>
             <name>Asaf Karagila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jumps of equivalence relations and scattered linear orders]]></title>
-        <id>https://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/</id>
-        <link href="https://scoskey.org/presentation/jumps-of-equivalence-relations-and-scattered-linear-orders/">
-        </link>
-        <updated>2019-09-09T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>CUNY set theory seminar, New York, September 2019<!--more--></p>
-
-<p><em>Abstract</em>: This is joint work with John Clemens. We will begin this talk by discussing the problem of classifying the countable scattered linear orders. Here a linear order is called scattered if the rational order doesn’t embed into it. The class of such orders admits a ranking function valued in the ordinals; we will study the corresponding classification problem for each fixed rank. We will show that each increase in rank results in a “jump” in the complexity of the classification problem. In the second part of the talk we will define a family of jump operators on equivalence relations, each associated with a fixed countable group. The jump in the case of scattered linear orders is that associated with the group Z of integers. We will discuss the basic theory of these jump operators. Finally, we will discuss the question of when such a jump operator is proper, in the sense that the jump of E is strictly above E in the Borel reducibility order.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
@@ -2065,19 +2078,6 @@ Fields Institute for Research in Mathematical Sciences, May 2019.</p>
 <p><p><table class=paperruler"><tr><td><a onclick="thankYouButtonClick(4577, '')" href="http://www.assafrinot.com/files/rinot_fields2019.pdf" class="billet_slides"></a><a href="http://www.assafrinot.com/paper/39" class="billet_further"></a><a href="http://www.assafrinot.com/talk/toronto50" class="billet_perm"></a></td></tr></table></p><span id="more-4577"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computable reducibility of equivalence relations]]></title>
-        <id>https://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/</id>
-        <link href="https://scoskey.org/masters-thesis/computable-reducibility-of-equivalence-relations/">
-        </link>
-        <updated>2019-05-15T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>A master’s thesis by Gianni Krakoff, Spring 2019<!--more--></p>
-
-<p><em>Abstract</em>: Computable reducibility of equivalence relations is a tool to compare the complexity of equivalence relations on natural numbers. Its use is important to those doing Borel equivalence relation theory, computability theory, and computable structure theory. In this thesis, we compare many naturally occurring equivalence relations with respect to computable reducibility. We will then define a jump operator on equivalence relations and study proprieties of this operation and its iteration. We will then apply this new jump operation by studying its effect on the isomorphism relations of well-founded computable trees.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
         </author>
     </entry>
     <entry>
