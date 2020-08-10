@@ -3,8 +3,8 @@ layout: page
 title: Blogs
 ---
 
-* **Samuel Coskey** [Mathematical proofs and methods](https://scoskey.org/course/1920f-287/)
-* **Samuel Coskey** [Advanced set theory](https://scoskey.org/course/1920f-522/)
+* **Samuel Coskey** [Math 287, Fall 2020](https://scoskey.org/course/1920f-287/)
+* **Samuel Coskey** [Math 522, Fall 2020](https://scoskey.org/course/1920f-522/)
 * **Asaf Karagila** [Guest comic: Foundations of Forcing](http://karagila.org/2020/ways-to-do-forcing/)
 * **Samuel Coskey** [Trends in set theory](https://scoskey.org/trends)
 * **Joel David Hamkins** [Choiceless large cardinals and set-theoretic potentialism](http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/)

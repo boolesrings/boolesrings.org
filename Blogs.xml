@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-08-10T18:45:34Z</updated>
+    <updated>2020-08-10T22:45:33Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -14,12 +14,12 @@
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
     <entry>
-        <title type="html"><![CDATA[Mathematical proofs and methods]]></title>
+        <title type="html"><![CDATA[Math 287, Fall 2020]]></title>
         <id>https://scoskey.org/course/1920f-287/</id>
         <link href="https://scoskey.org/course/1920f-287/">
         </link>
         <updated>2020-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 287, Fall 2020<!--more--></p>
+        <summary type="html"><![CDATA[<p>Mathematical proofs and methods<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to formal mathematical language, mathematical experimentation, mathematical proofs, mathematical communication, and technologies supporting the above. Core content includes sets and functions, elementary number theory and induction, and distances and topology on the real line. Additional content drawn from logic, combinatorics and probability, graph theory, and modular arithmetic.</p>]]></summary>
         <author>
@@ -27,12 +27,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced set theory]]></title>
+        <title type="html"><![CDATA[Math 522, Fall 2020]]></title>
         <id>https://scoskey.org/course/1920f-522/</id>
         <link href="https://scoskey.org/course/1920f-522/">
         </link>
         <updated>2020-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 522, Fall 2020<!--more--></p>
+        <summary type="html"><![CDATA[<p>Advanced set theory<!--more--></p>
 
 <p><em>Catalog description</em>: Topics in modern set theory may be drawn from forcing, choiceless set theory, infinitary combinatorics, set-theoretic topology, descriptive set theory, inner model theory, and alternative set theories.</p>]]></summary>
         <author>
@@ -821,12 +821,12 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foundations of analysis]]></title>
+        <title type="html"><![CDATA[Math 314, Spring 2020]]></title>
         <id>https://scoskey.org/course/1920s-314/</id>
         <link href="https://scoskey.org/course/1920s-314/">
         </link>
         <updated>2020-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 314, Spring 2020<!--more--></p>
+        <summary type="html"><![CDATA[<p>Foundations of analysis<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
         <author>
@@ -834,12 +834,12 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to linear algebra]]></title>
+        <title type="html"><![CDATA[Math 301, Spring 2020]]></title>
         <id>https://scoskey.org/course/1920s-301/</id>
         <link href="https://scoskey.org/course/1920s-301/">
         </link>
         <updated>2020-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Math 301, Spring 2020<!--more--></p>
+        <summary type="html"><![CDATA[<p>Introduction to linear algebra<!--more--></p>
 
 <p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
         <author>
@@ -934,7 +934,7 @@ you'll mostly find more or less fiddly ones: <a href="https://stackoverflow.com/
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4620_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4620, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 17"
+                <input type="button" onclick="thankYouButtonClick(4620, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 18"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4620_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
