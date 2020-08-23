@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-08-23T06:45:25Z</updated>
+    <updated>2020-08-23T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The theory of infinite games, including infinite chess, Talk Math With Your Friends, June 2020 by none]]></title>
+        <id>http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10928</id>
+        <link href="http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10928">
+        </link>
+        <updated>2020-08-19T08:02:26Z</updated>
+        <summary type="html"><![CDATA[<p>Nice talk, I haven&#8217;t read the papers carefully but the slides are a good summary.  I didn&#8217;t realize the &#8220;white wins&#8221; question had unknown and possibly very high (hyperarithmetic etc.) complexity.  What I had wondered was whether it was possible to encode an arbitrary arithmetic sentence as an infinite chess position (finite number of pieces on infinite board) such that the sentence is true iff white wins.  Since this is apparently unknown, does it seem likely that the rules of chess could be modified to make it straightforwardly possible, while still looking something like chess?  I think it is philosophically interesting because it gives a way to see sentences with high quantifier complexity as meaningful.  Thanks.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by David]]></title>
         <id>http://blog.assafrinot.com/?p=588#comment-818</id>
@@ -213,17 +224,6 @@ Accepted, June 2020.</p>]]></summary>
         </link>
         <updated>2020-05-24T20:29:44Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime: Wednesday, May 27, 4pm UK timeSpeaker: Ali Enayat, GothenbergTitle: Leibnizian and anti-Leibnizian motifs in set theoryAbstract: Leibniz’s principle of identity of indiscernibles at first sight appears completely unrelated to set theory, but Mycielski (1995) formulated a set-theoretic axiom nowadays referred to as LM (for Leibniz-Mycielski) which captures the spirit of Leibniz’s dictum in the following sense: LM holds in a model M of ZF iff M is elementarily equivalent to a model M* in which there is no pair of indiscernibles. LM was further investigated in a 2004 paper of mine, which includes a proof that LM is equivalent to the global form of the Kinna-Wagner selection principle in set theory. On the other hand, one can formulate a strong negation of Leibniz’s principle by first adding a unary predicate I(x) to the usual language of set theory, and then augmenting ZF with a scheme that ensures that I(x) describes a proper class of indiscernibles, thus giving rise to an extension ZFI of ZF that I showed (2005) to be intimately related to Mahlo cardinals of finite order. In this talk I will give an expository account of the above and related results that attest to a lively interaction between set theory and Leibniz’s principle of identity of indiscernibles. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Every function can be computable! by Dialectical Programming – Codical Theory]]></title>
-        <id>http://jdh.hamkins.org/every-function-can-be-computable/#comment-10888</id>
-        <link href="http://jdh.hamkins.org/every-function-can-be-computable/#comment-10888">
-        </link>
-        <updated>2020-05-23T11:14:29Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Every function can be computable! [&#8230;]</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
