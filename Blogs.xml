@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-08-23T10:45:33Z</updated>
+    <updated>2020-08-23T14:45:32Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Corey Bacal Switzer, PhD 2020, CUNY Graduate Center]]></title>
+        <id>http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/</id>
+        <link href="http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/">
+        </link>
+        <updated>2020-08-23T13:00:58Z</updated>
+        <summary type="html"><![CDATA[Dr. Corey Bacal Switzer successfully defended his PhD dissertation, entitled &#8220;Alternative Cichoń Diagrams and Forcing Axioms Compatible with CH,&#8221; on 31 July 2020, for the degree of PhD from The Graduate Center of the City University of New York. The &#8230; <a href="http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New jump operators on equivalence relations]]></title>
         <id>https://scoskey.org/bernoulli</id>
@@ -27,19 +38,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Math 522, Fall 2020]]></title>
-        <id>https://scoskey.org/course/1920f-522/</id>
-        <link href="https://scoskey.org/course/1920f-522/">
-        </link>
-        <updated>2020-08-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Advanced set theory<!--more--></p>
-
-<p><em>Catalog description</em>: Topics in modern set theory may be drawn from forcing, choiceless set theory, infinitary combinatorics, set-theoretic topology, descriptive set theory, inner model theory, and alternative set theories.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Math 287, Fall 2020]]></title>
         <id>https://scoskey.org/course/1920f-287/</id>
         <link href="https://scoskey.org/course/1920f-287/">
@@ -48,6 +46,19 @@
         <summary type="html"><![CDATA[<p>Mathematical proofs and methods<!--more--></p>
 
 <p><em>Catalog description</em>: An introduction to formal mathematical language, mathematical experimentation, mathematical proofs, mathematical communication, and technologies supporting the above. Core content includes sets and functions, elementary number theory and induction, and distances and topology on the real line. Additional content drawn from logic, combinatorics and probability, graph theory, and modular arithmetic.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math 522, Fall 2020]]></title>
+        <id>https://scoskey.org/course/1920f-522/</id>
+        <link href="https://scoskey.org/course/1920f-522/">
+        </link>
+        <updated>2020-08-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Advanced set theory<!--more--></p>
+
+<p><em>Catalog description</em>: Topics in modern set theory may be drawn from forcing, choiceless set theory, infinitary combinatorics, set-theoretic topology, descriptive set theory, inner model theory, and alternative set theories.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -731,6 +742,20 @@ A common theme in the definitions of larger large cardinals is the existence of 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
+        <id>https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html</id>
+        <link href="https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html">
+        </link>
+        <updated>2020-01-10T05:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a talk at the <a href="">Winter ASL Meeting</a>, Denver, January 17-18, 2020.<!--more--></p>
+<p>
+Modern set theoretic research has produced a myriad of set-theoretic universes with fundamentally different properties and structures. Multiversists hold the philosophical position that none of these universes is the true universe of set theory - they all have equal ontological status and populate the set-theoretic multiverse. Hamkins, one of the main proponents of this view, formulated his position via the heuristic Hamkins Multiverse Axioms, which include such radical relativity assertions as that any universe is ill-founded from the perspective of another universe in the multiverse. With Hamkins, we showed that the collection of all countable computably saturated models of ${\rm ZFC}$ satisfies his axioms. Countable computably saturated models form a unique natural class with a number of desirable model theoretic properties such as existence of truth predicates and automorphisms. Indeed, any collection of models satisfying the Hamkins Multiverse Axioms must be contained within this class. In a joint work with Toby Meadows, Michał Godziszewski, and Kameryn Williams, we explore which weaker versions of the multiverse axioms have 'toy multiverses' that are not made up entirely of computably saturated models.
+</p>]]></summary>
+        <author>
+            <name>Victoria Gitman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ramsey-like cardinals]]></title>
         <id>https://victoriagitman.github.io/talks/2020/01/10/ramsey-like-cardinals.html</id>
         <link href="https://victoriagitman.github.io/talks/2020/01/10/ramsey-like-cardinals.html">
@@ -782,20 +807,6 @@ A common theme in the definitions of larger large cardinals is the existence of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toy multiverses of set theory]]></title>
-        <id>https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html</id>
-        <link href="https://victoriagitman.github.io/talks/2020/01/10/toy-multiverses-of-set-theory.html">
-        </link>
-        <updated>2020-01-10T05:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a talk at the <a href="">Winter ASL Meeting</a>, Denver, January 17-18, 2020.<!--more--></p>
-<p>
-Modern set theoretic research has produced a myriad of set-theoretic universes with fundamentally different properties and structures. Multiversists hold the philosophical position that none of these universes is the true universe of set theory - they all have equal ontological status and populate the set-theoretic multiverse. Hamkins, one of the main proponents of this view, formulated his position via the heuristic Hamkins Multiverse Axioms, which include such radical relativity assertions as that any universe is ill-founded from the perspective of another universe in the multiverse. With Hamkins, we showed that the collection of all countable computably saturated models of ${\rm ZFC}$ satisfies his axioms. Countable computably saturated models form a unique natural class with a number of desirable model theoretic properties such as existence of truth predicates and automorphisms. Indeed, any collection of models satisfying the Hamkins Multiverse Axioms must be contained within this class. In a joint work with Toby Meadows, Michał Godziszewski, and Kameryn Williams, we explore which weaker versions of the multiverse axioms have 'toy multiverses' that are not made up entirely of computably saturated models.
-</p>]]></summary>
-        <author>
-            <name>Victoria Gitman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Microscopic approach to Souslin-tree constructions. Part II]]></title>
         <id>http://blog.assafrinot.com/?p=4631</id>
         <link href="http://blog.assafrinot.com/?p=4631">
@@ -820,17 +831,6 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
 <p><span id="more-4631"></span></p>]]></summary>
         <author>
             <name>Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philosophy meets maths, Oxford, January 2020]]></title>
-        <id>http://jdh.hamkins.org/philosophy-meets-maths-oxford-january-2020/</id>
-        <link href="http://jdh.hamkins.org/philosophy-meets-maths-oxford-january-2020/">
-        </link>
-        <updated>2020-01-07T16:57:43Z</updated>
-        <summary type="html"><![CDATA[This will be a fun talk for the Philosophy Plus Science Taster Day, a fun day of events for prospective students in the joint philosophy degrees, whether Mathematics &#38; Philosophy, Physics &#38; Philosophy or Computer Science &#38; Philosophy. The talk &#8230; <a href="http://jdh.hamkins.org/philosophy-meets-maths-oxford-january-2020/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
