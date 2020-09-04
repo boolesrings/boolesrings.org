@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-04T10:45:24Z</updated>
+    <updated>2020-09-04T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,25 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by saf]]></title>
+        <id>http://blog.assafrinot.com/?p=588#comment-830</id>
+        <link href="http://blog.assafrinot.com/?p=588#comment-830">
+        </link>
+        <updated>2020-09-04T14:10:54Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://blog.assafrinot.com/?p=588#comment-818">David</a>.</p>
+<p>Hi David! Let us demonstrate that $\omega_2\nrightarrow(\omega_2,\text{closed}(\omega_1+1))^2$.<br />
+For every limit ordinal $\beta&lt;\omega_2$, fix a club $D_\beta$ in $\beta$ of order-type $cf(\beta)$,<br />
+and then pick a coloring $c:[\omega_2]^2\rightarrow\{0,1\}$ such that, for every limit ordinal $\beta&lt;\omega_2$, and every $\alpha<\beta$, $c(\alpha,\beta)=0$ iff $\alpha\in D_\beta$.
+
+	
+
+<li>$\blacktriangleright$ For every cofinal subset $S$ of $\omega_2$, we may find some $\beta\in S$ such that $S\cap\beta$ has order-type $>\omega_1$, and hence, there is $\alpha\in S\setminus D_\beta$, so that $c(\alpha,\beta)=1$.</li>
+<li>$\blacktriangleright$ For every club $C$ in an ordinal $\beta$ of uncountable cofinality, we may find $\alpha\in C\cap D_\beta$, so that $c(\alpha,\beta)=0$.</li>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The theory of infinite games, including infinite chess, Talk Math With Your Friends, June 2020 by none]]></title>
         <id>http://jdh.hamkins.org/theory-of-infinite-games-tmwyf-june-2020/#comment-10928</id>
@@ -284,17 +303,6 @@ Accepted, May 2020.</p>]]></summary>
         <updated>2019-07-22T19:55:56Z</updated>
         <summary type="html"><![CDATA[<p>Submitted to Proc. Amer. Math. Soc., February 2019.<br />
 Accepted, July 2019.</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on 50 Years of Set Theory in Toronto, May 2019 by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4577#comment-686</id>
-        <link href="http://blog.assafrinot.com/?p=4577#comment-686">
-        </link>
-        <updated>2019-05-26T05:24:59Z</updated>
-        <summary type="html"><![CDATA[<p>The <a href="http://www.fields.utoronto.ca/video-archive/static/2019/05/2686-20448/mergedvideo.ogv" rel="nofollow">video</a> of this talk is now available.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
