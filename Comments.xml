@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-11T18:45:24Z</updated>
+    <updated>2020-09-11T22:45:24Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,81 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10936</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10936">
+        </link>
+        <updated>2020-09-11T22:30:51Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10933">Joel David Hamkins</a>.</p>
+<p>Oh, I see now. The Sigma_2 correct cardinal you intend to use is the other totally otherworldly cardinal. This seems to work perfectly and it resolves my issue. Thanks! I&#8217;ll update the post tomorrow.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Neil Barton]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10935</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10935">
+        </link>
+        <updated>2020-09-11T22:13:12Z</updated>
+        <summary type="html"><![CDATA[<p>Two questions/observations:</p>
+<p>1. Are otherworldly cardinals downward absolute (we know that worldlies, in general, are not)? </p>
+<p>2. We always knew that strength and size didn&#8217;t go hand in hand (e.g. strong vs. superstrong cardinals). But this is really crazy how big the least totally otherworldly is in the presence of other large cardinals. I guess then we then have &#8220;there exists a measurable/huge/whatever and a totally otherworldly&#8221; is stronger than &#8220;there exists a measurable/huge/whatever and an inaccessible&#8221; (since in the latter, the inaccessible is redundant).</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Asaf Karagila]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10934</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10934">
+        </link>
+        <updated>2020-09-11T21:26:02Z</updated>
+        <summary type="html"><![CDATA[<p>I guess the name &#8220;elementary cardinal&#8221; was taken&#8230;</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10933</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10933">
+        </link>
+        <updated>2020-09-11T20:12:32Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10932">Joel David Hamkins</a>.</p>
+<p>Since ZFC proves that the $\Sigma_2$-correct cardinals are unbounded, we cannot expect to prove in ZFC that if there is an totally otherworldly cardinal with a $\Sigma_2$-correct cardinal above, then Con(totally otherworldly), since this would violate the incompleteness theorem.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10932</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10932">
+        </link>
+        <updated>2020-09-11T20:10:28Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10931">Hanul Jeon</a>.</p>
+<p>Your comment was garbled a little, and I tried to edit it, but now I have become confused about your argument; perhaps I have made a mistake with editing&#8212;I apologize. We don&#8217;t know that $V_\lambda$ is worldly, so how does your conclusion work?</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Hanul Jeon]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10931</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10931">
+        </link>
+        <updated>2020-09-11T18:54:37Z</updated>
+        <summary type="html"><![CDATA[<p>I think the existence of a $\Sigma_2$-correct cardinal above a totally otherworldly cardinal implies the consistency of the existence of a totally otherworldly.</p>
+<p>Let $\kappa$ be a totally otherworldly cardinal and $\lambda>\kappa$ be a $\Sigma_2$-correct cardinal. Take $\alpha<\lambda$ and $\beta>\alpha$ such that $V_\kappa\prec V_\beta$. </p>
+<p>Since $V_{\beta+1}\models (\beta>\alpha\land V_\kappa\prec V_\beta)$, we have $V_{\beta+1}\models \exists\xi (\xi>\alpha\land V_\kappa\prec V_\xi)$.<br />
+By $\Sigma_2$-correctness of $\lambda$, there is $\gamma<\lambda$ with $\gamma>\alpha\land V_\kappa\prec V_\gamma)$. Hence $V_\lambda\models (\exists\xi (\xi>\alpha\land V_\kappa\prec V_\xi)$. Since $\alpha$ is arbitrary, $V_\lambda$ thinks $\kappa$ is totally otherworldly.</p>
+<p>Since every totally otherworldly cardinal is $\Sigma_2$-correct, the existence of two totally otherworldly cardinals implies the consistency of the existence of a totally otherworldly cardinal.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Local properties in set theory by The otherwordly cardinals | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/local-properties-in-set-theory/#comment-10930</id>
@@ -168,54 +243,6 @@ Accepted, June 2020.</p>]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on Categorical cardinals, CUNY Set Theory Seminar, June 2020 by Asaf Karagila]]></title>
-        <id>http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10909</id>
-        <link href="http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10909">
-        </link>
-        <updated>2020-06-18T07:13:31Z</updated>
-        <summary type="html"><![CDATA[<p>Some relevant discussions on the topic:</p>
-<p>&#8211; <a href="https://mathoverflow.net/q/206172/7206" rel="nofollow ugc">https://mathoverflow.net/q/206172/7206</a><br />
-&#8211; <a href="https://mathoverflow.net/q/135995/7206" rel="nofollow ugc">https://mathoverflow.net/q/135995/7206</a><br />
-&#8211; <a href="https://math.stackexchange.com/q/317729/622" rel="nofollow ugc">https://math.stackexchange.com/q/317729/622</a></p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Buckets of fish! by Mark R.]]></title>
-        <id>http://jdh.hamkins.org/buckets-of-fish/#comment-10908</id>
-        <link href="http://jdh.hamkins.org/buckets-of-fish/#comment-10908">
-        </link>
-        <updated>2020-06-18T02:56:37Z</updated>
-        <summary type="html"><![CDATA[<p>For the last variation (where you could take any number of fish), I think the losing states are those where buckets 2i+1 and 2i+2 have an equal number of fish. Is that right?</p>
-<p>I also found interesting patterns on the Grundy numbers of different positions in this variation. I couldn&#8217;t generalize them, though.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Worldly cardinals are not always downwards absolute by Neil Barton]]></title>
-        <id>http://jdh.hamkins.org/worldly-cardinals-are-not-always-downwards-absolute/#comment-10907</id>
-        <link href="http://jdh.hamkins.org/worldly-cardinals-are-not-always-downwards-absolute/#comment-10907">
-        </link>
-        <updated>2020-06-17T15:03:15Z</updated>
-        <summary type="html"><![CDATA[<p>This is fascinating stuff Joel. I take it also that worldly cardinals are downwards absolute to models of the form L[x], where x is a real (or maybe any set), by repeating your proof of the Observation?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Oxford Set Theory Seminar by Online activities: week 15th-22nd of June 2020 | European Set Theory Society]]></title>
-        <id>http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10906</id>
-        <link href="http://jdh.hamkins.org/oxford-set-theory-seminar/#comment-10906">
-        </link>
-        <updated>2020-06-15T15:17:12Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Oxford Set Theory SeminarTime: Wednesday, June 17, 16:00-17:30 UK time (17:00-18:30 CEST)Speaker: Corey Bacal Switzer, City University of New YorkTitle: Some Set Theory of Kaufmann ModelsAbstract: A Kaufmann model is an ω1-like, recursively saturated, rather classless model of PA. Such models were shown to exist by Kaufmann under the assumption that ♢ holds, and in ZFC by Shelah via an absoluteness argument involving strong logics. They are important in the theory of models of arithmetic notably because they show that many classic results about countable, recursively saturated models of arithmetic cannot be extended to uncountable models. They are also a particularly interesting example of set theoretic incompactness at ω1, similar to an Aronszajn tree.In this talk we’ll look at several set theoretic issues relating to this class of models motivated by the seemingly naïve question of whether or not such models can be killed by forcing without collapsing ω1. Surprisingly the answer to this question turns out to be independent: under MAℵ1 no ω1-preserving forcing can destroy Kaufmann-ness whereas under ♢ there is a Kaufmann model M and a Souslin tree S so that forcing with S adds a satisfaction class to M (thus killing rather classlessness). The techniques involved in these proofs also yield another surprising side of Kaufmann models: it is independent of ZFC whether the class of Kaufmann models can be axiomatized in the logic Lω1,ω(Q) where Q is the quantifier “there exists uncountably many”. This is the logic used in Shelah’s aforementioned result, hence the interest in this level of expressive power.Information: For the Zoom access code, contact Samuel Adam-Day: <a href="mailto:me@samadamday.com">me@samadamday.com</a>. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on Knaster and friends II: The C-sequence number by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4607#comment-806</id>
         <link href="http://blog.assafrinot.com/?p=4607#comment-806">
@@ -225,28 +252,6 @@ Accepted, June 2020.</p>]]></summary>
 Accepted, June 2020.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Bi-interpretation in weak set theories by Pesquisador do Instituto Modal participa de pesquisa internacional sobre fundamentos da teoria dos conjuntos - Blog CTI - Instituto Modal]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-in-weak-set-theories/#comment-10900">
-        </link>
-        <updated>2020-06-04T12:44:32Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] Joel Hamkins comenta a importância do trabalho em seu blog. [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Bi-interpretation of weak set theories, Oxford Set Theory Seminar, May 2020 by Bi-interpretation of weak set theories, Oberwolfach, April 2020 | Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oxford-set-theory-seminar-may-2020/#comment-10893</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oxford-set-theory-seminar-may-2020/#comment-10893">
-        </link>
-        <updated>2020-05-25T11:05:19Z</updated>
-        <summary type="html"><![CDATA[<p>[&#8230;] the Oberwolfach meeting had been canceled, I gave the talk for the Oxford Set Theory Seminar on 20 May [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
