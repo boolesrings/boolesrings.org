@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-12T06:45:24Z</updated>
+    <updated>2020-09-12T10:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,33 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10938</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10938">
+        </link>
+        <updated>2020-09-12T07:30:07Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10935">Neil Barton</a>.</p>
+<p>For question 1, I guess you mean downward absolute to transitive inner models? If so, the answer is negative, and I think it is a little easier even than in the worldly case. Suppose $\kappa$ is otherworldly to $\lambda$. This is preserved by the forcing of the GCH, so we may assume GCH. Now force violations to the GCH with Easton forcing at every successor. This also preserves otherworldliness. But if we stop this latter forcing at $\kappa$, then this would be an inner model where $\kappa$ is no longer otherworldly, since the GCH holds above $\kappa$ but fails unboundedly often below. </p>
+<p>(I made a few edits to this comment.)</p>
+<p>For question 2, I agree.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Climb into Cantor's attic by JM]]></title>
+        <id>http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10937</id>
+        <link href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10937">
+        </link>
+        <updated>2020-09-12T07:19:03Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/climb-into-cantors-attic/#comment-10788">Joel David Hamkins</a>.</p>
+<p>Aw 🙁 that&#8217;s sad to hear.</p>
+<p>If anyone&#8217;s looking for a static archive, most (all?) of the site seems to be on the Wayback Machine, and the MathJax rendering works: <a href="http://web.archive.org/web/20191104130451/http://cantorsattic.info:80/Cantor%27s_Attic" rel="nofollow ugc">http://web.archive.org/web/20191104130451/http://cantorsattic.info:80/Cantor%27s_Attic</a></p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10936</id>
@@ -208,17 +235,6 @@ and then pick a coloring $c:[\omega_2]^2\rightarrow\{0,1\}$ such that, for every
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Leo]]></title>
-        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10912</id>
-        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10912">
-        </link>
-        <updated>2020-06-22T23:38:46Z</updated>
-        <summary type="html"><![CDATA[<p>Looking forward to reading this. What is discussed in the &#8220;mathematical habits&#8221; sections?</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comment on A Microscopic approach to Souslin-tree constructions. Part II by saf]]></title>
         <id>http://blog.assafrinot.com/?p=4631#comment-811</id>
         <link href="http://blog.assafrinot.com/?p=4631#comment-811">
@@ -228,18 +244,6 @@ and then pick a coloring $c:[\omega_2]^2\rightarrow\{0,1\}$ such that, for every
 Accepted, June 2020.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Categorical cardinals, CUNY Set Theory Seminar, June 2020 by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10910</id>
-        <link href="http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10910">
-        </link>
-        <updated>2020-06-18T07:58:32Z</updated>
-        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10909">Asaf Karagila</a>.</p>
-<p>Thanks for those links, Asaf&#8212;I had totally forgotten about my posts there years ago! Meanwhile, the current paper (joint with Robin Solberg) aims to go somewhat beyond those observations. For example, we investigate the existence of gaps in the categorical cardinals, to separate the notions of sentententially categorical from theory categorical, in both first and second-order, and to look into the interaction of categoricity and forcing.</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
         </author>
     </entry>
     <entry>
