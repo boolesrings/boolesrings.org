@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-12T14:45:24Z</updated>
+    <updated>2020-09-12T18:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,19 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Hanul Jeon]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10939</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10939">
+        </link>
+        <updated>2020-09-12T16:01:40Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10936">Joel David Hamkins</a>.</p>
+<p>Sorry for checking your reply lately. My initial statement is somewhat misleading: it should be as &#8220;if $\kappa$ is a totally otherworldly and $\lambda$ is a $\Sigma_2$-correct cardinal larger than $\kappa$, then $V_\lambda$ sees $\kappa$ is totally otherworldly.&#8221; As you pointed out, this statement itself implies no results about consistency strength.</p>
+<p>If $\lambda$ is also worldly, then $V_\lambda$ is a model of ZFC with a totally otherworldly cardinal. You proved that a totally otherworldly cardinal is $\Sigma_2$-correct worldly cardinal, so we have the desired result.</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10938</id>
@@ -207,18 +220,6 @@ and then pick a coloring $c:[\omega_2]^2\rightarrow\{0,1\}$ such that, for every
         </link>
         <updated>2020-07-02T21:08:08Z</updated>
         <summary type="html"><![CDATA[<p>Exciting!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Proof and the Art of Mathematics by Joel David Hamkins]]></title>
-        <id>http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10913</id>
-        <link href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10913">
-        </link>
-        <updated>2020-06-25T06:31:46Z</updated>
-        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/proof-and-the-art-of-mathematics/#comment-10912">Leo</a>.</p>
-<p>The Habits are brief mathematical habits of mind or pieces of advice that I believe help guide one toward being an effective mathematician. Each chapter ends with a handful of these Habits, usually connected in some way with the methods or ideas that were considered in that chapter.</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
