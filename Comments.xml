@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-14T10:45:25Z</updated>
+    <updated>2020-09-14T14:45:23Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,29 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on The otherwordly cardinals by Joel David Hamkins]]></title>
+        <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10941</id>
+        <link href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10941">
+        </link>
+        <updated>2020-09-14T13:11:55Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://jdh.hamkins.org/otherwordly-cardinals/#comment-10939">Hanul Jeon</a>.</p>
+<p>Yes, that is how I understood your argument in the end, and this is how I have presented it in the revised blog post above (with thanks to you).</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment on Math for eight-year-olds: graph theory for kids! by Having my younger son work through Graph Theory for Kids by Joel David Hamkins – Mike's Math Page]]></title>
+        <id>http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10940</id>
+        <link href="http://jdh.hamkins.org/math-for-eight-year-olds/#comment-10940">
+        </link>
+        <updated>2020-09-13T16:59:39Z</updated>
+        <summary type="html"><![CDATA[<p>[&#8230;] a good exercise for him. You can find the pdf for the project on Joel David Hamkins&#8217; website:<a href="http://jdh.hamkins.org/math-for-eight-year-olds/My" rel="nofollow ugc">http://jdh.hamkins.org/math-for-eight-year-olds/My</a> son spent about 20 min working through the project and then we talked through all of the pages. [&#8230;]</p>]]></summary>
+        <author>
+            <name>Comments for Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on The otherwordly cardinals by Hanul Jeon]]></title>
         <id>http://jdh.hamkins.org/otherwordly-cardinals/#comment-10939</id>
@@ -198,28 +221,6 @@ and then pick a coloring $c:[\omega_2]^2\rightarrow\{0,1\}$ such that, for every
         </link>
         <updated>2020-07-26T12:58:48Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] There are no nondegenerate regular polygons in the integer lattice, except for squares [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Choiceless large cardinals and set-theoretic potentialism by Wojciech Aleksander Wołoszyn]]></title>
-        <id>http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/#comment-10924</id>
-        <link href="http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/#comment-10924">
-        </link>
-        <updated>2020-07-06T12:40:54Z</updated>
-        <summary type="html"><![CDATA[<p>That&#8217;s a very nice paper!</p>]]></summary>
-        <author>
-            <name>Comments for Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Forcing as a computational process by DukeZhou]]></title>
-        <id>http://jdh.hamkins.org/forcing-as-a-computational-process/#comment-10917</id>
-        <link href="http://jdh.hamkins.org/forcing-as-a-computational-process/#comment-10917">
-        </link>
-        <updated>2020-07-02T21:08:08Z</updated>
-        <summary type="html"><![CDATA[<p>Exciting!</p>]]></summary>
         <author>
             <name>Comments for Joel David Hamkins</name>
         </author>
