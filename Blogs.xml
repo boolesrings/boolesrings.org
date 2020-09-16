@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Blogs</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-16T06:45:41Z</updated>
+    <updated>2020-09-16T10:45:31Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,17 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Categorical large cardinals and the tension between categoricity and set-theoretic reflection]]></title>
+        <id>http://jdh.hamkins.org/categorical-large-cardinals/</id>
+        <link href="http://jdh.hamkins.org/categorical-large-cardinals/">
+        </link>
+        <updated>2020-09-16T06:50:00Z</updated>
+        <summary type="html"><![CDATA[[bibtex key="HamkinsSolberg:Categorical-large-cardinals"] <a href="http://jdh.hamkins.org/categorical-large-cardinals/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+        <author>
+            <name>Joel David Hamkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The otherwordly cardinals]]></title>
         <id>http://jdh.hamkins.org/otherwordly-cardinals/</id>
@@ -326,23 +337,23 @@ The use of class forcing in set theoretic constructions goes back to the proof E
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic Colloquium Poznan - TBA]]></title>
-        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html</id>
-        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html">
-        </link>
-        <updated>2020-05-14T22:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the <a href="https://lc2020.pl">Logic Colloquium 2021</a> taking place at the Adam Mickiewicz University, Poznan, Poland, July 19-24, 2021. Title and abstract for this talk will be announced in due course.</p>]]></summary>
-        <author>
-            <name>Sandra Müller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IMU DMV meeting Jerusalem - TBA]]></title>
         <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html</id>
         <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html">
         </link>
         <updated>2020-05-14T22:00:00Z</updated>
         <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the joint meeting of the Israeli Mathematical Union (IMU) and the German Mathematical Society (DMV) taking place at the Hebrew University, Jerusalem, Israel,  Mar 08-10, 2021. Title and abstract for this talk will be announced in due course.</p>]]></summary>
+        <author>
+            <name>Sandra Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic Colloquium Poznan - TBA]]></title>
+        <id>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html</id>
+        <link href="https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html">
+        </link>
+        <updated>2020-05-14T22:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I am invited to give a talk in the special session on set theory at the <a href="https://lc2020.pl">Logic Colloquium 2021</a> taking place at the Adam Mickiewicz University, Poznan, Poland, July 19-24, 2021. Title and abstract for this talk will be announced in due course.</p>]]></summary>
         <author>
             <name>Sandra Müller</name>
         </author>
@@ -720,17 +731,6 @@ A common theme in the definitions of larger large cardinals is the existence of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bi-interpretation of weak set theories, Oberwolfach, April 2020]]></title>
-        <id>http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/</id>
-        <link href="http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/">
-        </link>
-        <updated>2020-02-08T18:04:42Z</updated>
-        <summary type="html"><![CDATA[This will be a talk for the workshop in Set Theory at the Mathematisches Forschungsinstitute Oberwolfach, April 5-11, 2020.&#160; Note: the conference has been cancelled due to concerns over the Coronavirus-19. (Meanwhile, I have given the talk for the Oxford &#8230; <a href="http://jdh.hamkins.org/bi-interpretation-of-weak-set-theories-oberwolfach-april-2020/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
-        <author>
-            <name>Joel David Hamkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jumps and the classification of scattered linear orders]]></title>
         <id>https://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/</id>
         <link href="https://scoskey.org/presentation/jumps-and-the-classification-of-scattered-linear-orders/">
@@ -861,19 +861,6 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Math 301, Spring 2020]]></title>
-        <id>https://scoskey.org/course/1920s-301/</id>
-        <link href="https://scoskey.org/course/1920s-301/">
-        </link>
-        <updated>2020-01-01T00:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Introduction to linear algebra<!--more--></p>
-
-<p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
-        <author>
-            <name>Samuel Coskey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Math 314, Spring 2020]]></title>
         <id>https://scoskey.org/course/1920s-314/</id>
         <link href="https://scoskey.org/course/1920s-314/">
@@ -882,6 +869,19 @@ Modern set theoretic research has produced a myriad of set-theoretic universes w
         <summary type="html"><![CDATA[<p>Foundations of analysis<!--more--></p>
 
 <p><em>Catalog description</em>: The real number system, completeness and compactness, sequences, continuity, foundations of the calculus.</p>]]></summary>
+        <author>
+            <name>Samuel Coskey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math 301, Spring 2020]]></title>
+        <id>https://scoskey.org/course/1920s-301/</id>
+        <link href="https://scoskey.org/course/1920s-301/">
+        </link>
+        <updated>2020-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Introduction to linear algebra<!--more--></p>
+
+<p><em>Catalog description</em>: Linear algebra from a matrix perspective with applications from the applied sciences. Topics include the algebra of matrices, methods for solving linear systems of equations, eigenvalues and eigenvectors, matrix decompositions, vector spaces, linear transformations, least squares, and numerical techniques.</p>]]></summary>
         <author>
             <name>Samuel Coskey</name>
         </author>
@@ -1979,7 +1979,7 @@ w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right) %]]]]><![CDATA[></scri
                 onmouseover="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', true);" 
                 onmouseout="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);"
                 onclick="javascript:thankYouChangeButtonImage('thanksButtonDiv_4582_2', false);" >
-                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 60"
+                <input type="button" onclick="thankYouButtonClick(4582, 'You left &ldquo;Thanks&rdquo; already for this post')" value="Like 61"
                   class="thanks_button thanks_compact thanks_brown"
                   style="  font-family: Verdana, Arial, Sans-Serif; font-size: 14px; font-weight: normal;; color:#ffffff;"
                   id="thanksButton_4582_2" title="Click to leave &ldquo;Thanks&rdquo; for this post"/>
