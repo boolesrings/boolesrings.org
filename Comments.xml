@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Booles&apos; Rings -- Comments</title>
     <link>http://boolesrings.org/</link>
-    <updated>2020-09-16T10:45:24Z</updated>
+    <updated>2020-09-16T14:45:25Z</updated>
     <author>
         <name>Booles&apos; Rings</name>
         <email>info@boolesrings.org</email>
@@ -13,6 +13,18 @@
     <logo>http://boolesrings.org/favicon.gif</logo>
     <rights>No copyright asserted over individual posts; see original posts for copyright and/or licensing.</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Comment on Dushnik-Miller for regular cardinals (part 1) by David]]></title>
+        <id>http://blog.assafrinot.com/?p=588#comment-833</id>
+        <link href="http://blog.assafrinot.com/?p=588#comment-833">
+        </link>
+        <updated>2020-09-16T13:51:23Z</updated>
+        <summary type="html"><![CDATA[<p>In reply to <a href="http://blog.assafrinot.com/?p=588#comment-830">saf</a>.</p>
+<p>thanks, that&#8217;s a nice counterexample!</p>]]></summary>
+        <author>
+            <name>Comments for Assaf Rinot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on Categorical cardinals, CUNY Set Theory Seminar, June 2020 by Categorical large cardinals and the tension between categoricity and set-theoretic reflection | Joel David Hamkins]]></title>
         <id>http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/#comment-10942</id>
@@ -304,18 +316,6 @@ Accepted, May 2020.</p>]]></summary>
         </link>
         <updated>2019-10-24T04:22:31Z</updated>
         <summary type="html"><![CDATA[<p>[&#8230;] to the author&#8217;s work on the validity of diamond and non-saturation at the successor of singulars, we deal here with [&#8230;]</p>]]></summary>
-        <author>
-            <name>Comments for Assaf Rinot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on Partitioning a reflecting stationary set by saf]]></title>
-        <id>http://blog.assafrinot.com/?p=4559#comment-707</id>
-        <link href="http://blog.assafrinot.com/?p=4559#comment-707">
-        </link>
-        <updated>2019-07-22T19:55:56Z</updated>
-        <summary type="html"><![CDATA[<p>Submitted to Proc. Amer. Math. Soc., February 2019.<br />
-Accepted, July 2019.</p>]]></summary>
         <author>
             <name>Comments for Assaf Rinot</name>
         </author>
