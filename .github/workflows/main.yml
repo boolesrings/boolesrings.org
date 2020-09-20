@@ -1,34 +1,27 @@
-name: CI
+name: boolesrings.org cronjob
 
 on:
-  pull_request:
-    branches:
-    - master
+  schedule:
+    - cron: '17 */4 * * *'
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v1
-    - name: Run boolesrings-base and update site
-      run: |
-        git checkout master
-        git config user.name "${GITHUB_ACTOR}"
-        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git remote rm origin || true
-        git remote add origin "${remote_repo}"
-        git clone https://github.com/boolesrings/boolesrings-base.git
-        cd boolesrings-base
-        mkdir -p boolesrings.org
-        npm i
-        node ./app2.js
-        node ./app.js
-        cp boolesrings.org/* ..
-        cd ..
-        git add -u
-        git commit -m'update site'
-        git push origin master
-        
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - run: |
+          echo Update boolesrings.org
+          echo configure git
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          mbdir=$(pwd)
+          echo install boolesrings-base2
+          npm i boolesrings/boolesrings-base2
+          echo run build
+          node node_modules/boolesrings-base2/lib/app.js .
+          git add Blogs.html Blogs.xml
+          git commit -m "chore: cron job" || true
+          git push
