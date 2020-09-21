@@ -4,17 +4,73 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2020 06:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2020 08:26:14 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2020 06:28:21 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2020 08:26:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Categorical large cardinals and the tension between categoricity and set-theoretic reflection]]></title>
+            <link>http://jdh.hamkins.org/categorical-large-cardinals/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-large-cardinals/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2020 06:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The otherwordly cardinals]]></title>
+            <link>http://jdh.hamkins.org/otherwordly-cardinals/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/otherwordly-cardinals/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2020 15:12:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classification of countable models of ZFC]]></title>
+            <link>https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YouTubers Wanted]]></title>
             <link>http://karagila.org/2020/youtubers-wanted/</link>
             <guid isPermaLink="false">http://karagila.org/2020/youtubers-wanted/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Fri, 04 Sep 2020 11:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modal model theory as mathematical potentialism, Oslo online Potentialism Workshop, September 2020]]></title>
+            <link>http://jdh.hamkins.org/modal-model-theory-as-mathematical-potentialism-oslo-potentialism-workshop-september-2020/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/modal-model-theory-as-mathematical-potentialism-oslo-potentialism-workshop-september-2020/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2020 15:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corey Bacal Switzer, PhD 2020, CUNY Graduate Center]]></title>
+            <link>http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2020 13:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New jump operators on equivalence relations]]></title>
+            <link>https://scoskey.org/bernoulli</link>
+            <guid isPermaLink="false">https://scoskey.org/bernoulli</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 287, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-287/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 522, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-522/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guest comic: Foundations of Forcing]]></title>
@@ -24,11 +80,39 @@
             <pubDate>Tue, 28 Jul 2020 12:29:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trends in set theory]]></title>
+            <link>https://scoskey.org/trends</link>
+            <guid isPermaLink="false">https://scoskey.org/trends</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choiceless large cardinals and set-theoretic potentialism]]></title>
+            <link>http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2020 12:19:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forcing as a computational process]]></title>
+            <link>http://jdh.hamkins.org/forcing-as-a-computational-process/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2020 06:34:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Class forcing in its rightful setting]]></title>
             <link>https://victoriagitman.github.io/talks/2020/06/25/class-forcing-in-its-rightful-setting.html</link>
             <guid isPermaLink="false">https://victoriagitman.github.io/talks/2020/06/25/class-forcing-in-its-rightful-setting.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 25 Jun 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Categorical cardinals, CUNY Set Theory Seminar, June 2020]]></title>
+            <link>http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-cardinals-cuny-set-theory-seminar-june-2020/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2020 21:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Want jobs?]]></title>
@@ -66,6 +150,13 @@
             <pubDate>Tue, 02 Jun 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Computable reducibility of equivalence relations and an effective jump operator]]></title>
+            <link>https://scoskey.org/fsjump</link>
+            <guid isPermaLink="false">https://scoskey.org/fsjump</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What can you learn about writing papers from cooking pasta?]]></title>
             <link>http://karagila.org/2020/pasta/</link>
             <guid isPermaLink="false">http://karagila.org/2020/pasta/</guid>
@@ -92,97 +183,6 @@
             <guid isPermaLink="false">https://nickpgill.github.io/jan-saxl</guid>
             <dc:creator><![CDATA[Nick Gill]]></dc:creator>
             <pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On "trivial" statements]]></title>
-            <link>http://karagila.org/2020/on-trivial-statements/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/on-trivial-statements/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 08 May 2020 15:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CUNY Set Theory Seminar, New York - How to obtain lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/05/08/TalkCUNY.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/05/08/TalkCUNY.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 07 May 2020 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elementary embeddings and smaller large cardinals]]></title>
-            <link>https://victoriagitman.github.io/talks/2020/05/06/elementary-embeddings-and-smaller-large-cardinals.html</link>
-            <guid isPermaLink="false">https://victoriagitman.github.io/talks/2020/05/06/elementary-embeddings-and-smaller-large-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 06 May 2020 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Research Seminar, Vienna - How to obtain lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/semtalk/othertalk/2020/04/30/TalkVienna.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/semtalk/othertalk/2020/04/30/TalkVienna.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2020 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes! Future Leaders Fellowship!]]></title>
-            <link>http://karagila.org/2020/future-leaders-fellowship/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/future-leaders-fellowship/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2020 09:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An investigation of triality]]></title>
-            <link>https://nickpgill.github.io/matrices-for-O8-G2-and-3D4</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/matrices-for-O8-G2-and-3D4</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Choose your own adventure (redux)]]></title>
-            <link>http://karagila.org/2020/fatalistic-adventure/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/fatalistic-adventure/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2020 11:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Conway]]></title>
-            <link>http://normanspace.org/2020/04/14/john-conway/</link>
-            <guid isPermaLink="false">http://normanspace.org/2020/04/14/john-conway/</guid>
-            <dc:creator><![CDATA[Norman Lewis Perlmutter]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2020 05:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Countable sets of reals]]></title>
-            <link>http://karagila.org/2020/countable-sets-of-reals/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/countable-sets-of-reals/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2020 12:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bonus questions]]></title>
-            <link>http://karagila.org/2020/bonus-questions/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/bonus-questions/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2020 11:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Consistency strength lower bounds for the proper forcing axiom via the core model induction]]></title>
-            <link>https://muellersandra.github.io/review/2020/03/06/ReviewCoreModelInductionPFA.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/review/2020/03/06/ReviewCoreModelInductionPFA.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 05 Mar 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North American Annual Meeting of the ASL - How to obtain lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2020/03/05/TalkASLIrvine.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2020/03/05/TalkASLIrvine.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Wed, 04 Mar 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day of Mathematics, Vienna - Das Unbegreifliche verstehen - die Faszination Unendlichkeit]]></title>
-            <link>https://muellersandra.github.io/talk/generalaudience/2020/03/04/TalkIDMVienna.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/generalaudience/2020/03/04/TalkIDMVienna.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2020 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
