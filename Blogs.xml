@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2020 08:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2020 12:33:13 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2020 08:27:27 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2020 12:33:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[(with P. Lücke) Closure properties of measurable ultrapowers]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/2020/09/29/PaperClosureMeasUlt.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/2020/09/29/PaperClosureMeasUlt.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2020 22:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Modal model theory]]></title>
             <link>http://jdh.hamkins.org/modal-model-theory/</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[Logic Colloquium Poznan - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkLogicColloquiumPoznan.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 14 May 2020 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMU DMV meeting Jerusalem - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/05/15/TalkIMUDMV.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 14 May 2020 22:00:00 GMT</pubDate>
         </item>
