@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2020 12:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2020 16:31:37 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2020 12:34:59 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2020 16:31:37 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Lectures on the Philosophy of Mathematics, Oxford Michaelmas Term 2020]]></title>
+            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2020 15:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zornian Functional Analysis coming to arXiv!]]></title>
+            <link>http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2020 14:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lectures on the Philosophy of Mathematics]]></title>
             <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics/</link>
@@ -143,6 +157,13 @@
             <pubDate>Wed, 17 Jun 2020 17:02:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Want jobs?]]></title>
+            <link>http://karagila.org/2020/want-jobs/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/want-jobs/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2020 17:02:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MFO workshop in Set Theory, April 2020]]></title>
             <link>https://blog.assafrinot.com/?p=4648</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4648</guid>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/speak-up/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Wed, 03 Jun 2020 12:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Black Lives Matter]]></title>
-            <link>https://nickpgill.github.io/black-lives-matter</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/black-lives-matter</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computable reducibility of equivalence relations and an effective jump operator]]></title>
-            <link>https://scoskey.org/fsjump</link>
-            <guid isPermaLink="false">https://scoskey.org/fsjump</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What can you learn about writing papers from cooking pasta?]]></title>
-            <link>http://karagila.org/2020/pasta/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/pasta/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Mon, 25 May 2020 20:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
