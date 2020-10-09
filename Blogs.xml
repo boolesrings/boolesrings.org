@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2020 12:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2020 16:32:15 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2020 12:46:45 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2020 16:32:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Flow and the Partition Principle (1)]]></title>
+            <link>http://karagila.org/2020/going-with-the-flow/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/going-with-the-flow/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2020 13:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A guessing principle from a Souslin tree, with applications to topology]]></title>
             <link>https://blog.assafrinot.com/?p=4683</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/want-jobs/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Wed, 17 Jun 2020 17:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, April 2020]]></title>
-            <link>https://blog.assafrinot.com/?p=4648</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4648</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2020 11:32:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
