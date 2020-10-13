@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2020 20:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2020 01:11:36 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Oct 2020 20:28:47 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2020 01:11:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A MathJax extension for specifying the accessible name]]></title>
+            <link>https://www.peterkrautzberger.org/0215/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0215/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2020 20:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flow and the Partition Principle (3 updates)]]></title>
             <link>http://karagila.org/2020/going-with-the-flow/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 02 Jul 2020 06:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class forcing in its rightful setting]]></title>
-            <link>http://localhost:4000/talks/2020/06/25/class-forcing-in-its-rightful-setting.html</link>
-            <guid isPermaLink="false">http://localhost:4000/talks/2020/06/25/class-forcing-in-its-rightful-setting.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2020 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
