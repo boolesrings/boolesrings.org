@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2020 20:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2020 01:15:51 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2020 20:28:54 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2020 01:15:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -17,7 +17,7 @@
             <pubDate>Sun, 11 Oct 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flow and the Partition Principle (3 updates)]]></title>
+            <title><![CDATA[Flow and the Partition Principle (4 updates)]]></title>
             <link>http://karagila.org/2020/going-with-the-flow/</link>
             <guid isPermaLink="false">http://karagila.org/2020/going-with-the-flow/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
