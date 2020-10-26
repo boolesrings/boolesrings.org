@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2020 16:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2020 20:31:10 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2020 16:43:49 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2020 20:31:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Flow and the Partition Principle: Conclusions]]></title>
+            <link>http://karagila.org/2020/flowing-to-conclusions/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/flowing-to-conclusions/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2020 20:10:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A new proof of the Barwise extension theorem, and the universal finite sequence, Barcelona Set Theory Seminar, 28 October 2020]]></title>
             <link>http://jdh.hamkins.org/new-proof-of-the-barwise-extension-theorem-barcelona-october-2020/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/trends</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Choiceless large cardinals and set-theoretic potentialism]]></title>
-            <link>http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/choiceless-large-cardinals-and-set-theoretic-potentialism/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2020 12:19:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
