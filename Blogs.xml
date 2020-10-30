@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2020 20:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2020 00:46:03 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2020 20:19:16 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2020 00:46:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Continuous models of arithmetic, MOPA, November 2020]]></title>
+            <link>http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2020 20:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flow and the Partition Principle: Conclusions]]></title>
             <link>http://karagila.org/2020/flowing-to-conclusions/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/ways-to-do-forcing/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Tue, 28 Jul 2020 12:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trends in set theory]]></title>
-            <link>https://scoskey.org/trends</link>
-            <guid isPermaLink="false">https://scoskey.org/trends</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
