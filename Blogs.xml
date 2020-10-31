@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2020 12:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2020 16:29:27 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2020 12:23:26 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2020 16:29:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
+            <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2020 14:59:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Continuous models of arithmetic, MOPA, November 2020]]></title>
             <link>http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guest comic: Foundations of Forcing]]></title>
-            <link>http://karagila.org/2020/ways-to-do-forcing/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/ways-to-do-forcing/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2020 12:29:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
