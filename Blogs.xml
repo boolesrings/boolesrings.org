@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2020 04:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2020 08:24:06 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2020 04:25:32 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2020 08:24:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
+            <link>https://blog.assafrinot.com/?p=4699</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2020 06:19:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
             <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[Math 287, Fall 2020]]></title>
             <link>https://scoskey.org/course/1920f-287/</link>
             <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 522, Fall 2020]]></title>
-            <link>https://scoskey.org/course/1920f-522/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
