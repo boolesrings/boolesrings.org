@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2020 12:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2020 16:42:26 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2020 12:28:09 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2020 16:42:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Cantor’s Ice Cream Shoppe]]></title>
+            <link>http://jdh.hamkins.org/cantors-ice-cream-shoppe/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/cantors-ice-cream-shoppe/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2020 16:14:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
             <link>https://blog.assafrinot.com/?p=4699</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://localhost:4000/research/2020/08/10/abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Mon, 10 Aug 2020 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 287, Fall 2020]]></title>
-            <link>https://scoskey.org/course/1920f-287/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
