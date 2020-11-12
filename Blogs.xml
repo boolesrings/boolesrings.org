@@ -4,17 +4,45 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2020 12:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2020 16:37:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2020 12:27:43 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2020 16:37:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Logic Colloquium Poznan - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/11/12/TalkLogicColloquiumPoznan.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/11/12/TalkLogicColloquiumPoznan.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMU DMV meeting Jerusalem - Cancelled]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2020/11/11/TalkIMUDMV.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2020/11/11/TalkIMUDMV.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set Theory Seminar, The Fields Institute, Toronto - The Large Cardinal Strength of Determinacy Axioms]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/Toronto.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/Toronto.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cantor’s Ice Cream Shoppe]]></title>
             <link>http://jdh.hamkins.org/cantors-ice-cream-shoppe/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/cantors-ice-cream-shoppe/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 05 Nov 2020 16:14:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghent–Leeds Virtual Logic Seminar - Determinacy and inner models]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
@@ -155,34 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/youtubers-wanted/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Fri, 04 Sep 2020 11:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modal model theory as mathematical potentialism, Oslo online Potentialism Workshop, September 2020]]></title>
-            <link>http://jdh.hamkins.org/modal-model-theory-as-mathematical-potentialism-oslo-potentialism-workshop-september-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/modal-model-theory-as-mathematical-potentialism-oslo-potentialism-workshop-september-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2020 15:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corey Bacal Switzer, PhD 2020, CUNY Graduate Center]]></title>
-            <link>http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/corey-bacal-switzer-phd-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2020 13:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New jump operators on equivalence relations]]></title>
-            <link>https://scoskey.org/bernoulli</link>
-            <guid isPermaLink="false">https://scoskey.org/bernoulli</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abstract Logics]]></title>
-            <link>http://localhost:4000/research/2020/08/10/abstract-logics.html</link>
-            <guid isPermaLink="false">http://localhost:4000/research/2020/08/10/abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2020 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
