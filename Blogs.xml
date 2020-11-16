@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2020 04:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2020 08:25:09 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2020 04:25:07 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2020 08:25:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Bernoulli jumps of equivalence relations]]></title>
+            <link>https://scoskey.org/presentation/bernoulli-jumps-of-equivalence-relations/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/bernoulli-jumps-of-equivalence-relations/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2020 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Logic Colloquium Poznan - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/11/12/TalkLogicColloquiumPoznan.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://localhost:4000/publications/2020/09/08/the-virtual-large-cardinal-hierarchy.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Tue, 08 Sep 2020 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTubers Wanted]]></title>
-            <link>http://karagila.org/2020/youtubers-wanted/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/youtubers-wanted/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2020 11:23:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
