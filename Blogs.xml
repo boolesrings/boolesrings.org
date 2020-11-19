@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2020 12:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2020 16:44:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2020 12:30:49 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2020 16:44:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Prikry Forcing Online]]></title>
+            <link>http://karagila.org/2020/pfo/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/pfo/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2020 14:07:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bernoulli jumps of equivalence relations]]></title>
             <link>https://scoskey.org/presentation/bernoulli-jumps-of-equivalence-relations/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The virtual large cardinal hierarchy]]></title>
-            <link>http://localhost:4000/publications/2020/09/08/the-virtual-large-cardinal-hierarchy.html</link>
-            <guid isPermaLink="false">http://localhost:4000/publications/2020/09/08/the-virtual-large-cardinal-hierarchy.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2020 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
