@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Dec 2020 08:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2020 12:37:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Dec 2020 08:33:03 GMT</pubDate>
+        <pubDate>Tue, 01 Dec 2020 12:37:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[World Logic Day, Hamburg - TBA]]></title>
+            <link>https://muellersandra.github.io/talk/generalaudience/upcomingtalk/2020/11/30/TalkWLDHamburg.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/generalaudience/upcomingtalk/2020/11/30/TalkWLDHamburg.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sun, 29 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prikry Forcing Online]]></title>
             <link>http://karagila.org/2020/pfo/</link>
@@ -39,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Set Theory Seminar, The Fields Institute, Toronto - The Large Cardinal Strength of Determinacy Axioms]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/Toronto.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/Toronto.html</guid>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/TalkToronto.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/TalkToronto.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 09 Nov 2020 23:00:00 GMT</pubDate>
         </item>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/otherwordly-cardinals/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 11 Sep 2020 15:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Classification of countable models of ZFC]]></title>
-            <link>https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
