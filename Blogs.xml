@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Dec 2020 20:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2020 01:06:05 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Dec 2020 20:27:49 GMT</pubDate>
+        <pubDate>Thu, 03 Dec 2020 01:06:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[CMU Logic Seminar, Pittsburgh - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2020/12/01/TalkCMU.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2020/12/01/TalkCMU.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 30 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World Logic Day, Hamburg - TBA]]></title>
             <link>https://muellersandra.github.io/talk/generalaudience/upcomingtalk/2020/11/30/TalkWLDHamburg.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/categorical-large-cardinals/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 16 Sep 2020 06:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The otherwordly cardinals]]></title>
-            <link>http://jdh.hamkins.org/otherwordly-cardinals/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/otherwordly-cardinals/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2020 15:12:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
