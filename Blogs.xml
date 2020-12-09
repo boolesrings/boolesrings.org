@@ -4,18 +4,11 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Dec 2020 20:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2020 01:11:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Dec 2020 20:29:35 GMT</pubDate>
+        <pubDate>Wed, 09 Dec 2020 01:11:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
-        <item>
-            <title><![CDATA[Proof and the Art of Mathematics: Examples and Extensions]]></title>
-            <link>http://jdh.hamkins.org/proof-and-the-art-of-mathematics-examples-and-extensions/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/proof-and-the-art-of-mathematics-examples-and-extensions/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2020 21:37:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[CMU Logic Seminar, Pittsburgh - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2020/12/01/TalkCMU.html</link>
@@ -66,13 +59,6 @@
             <pubDate>Mon, 09 Nov 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cantor’s Ice Cream Shoppe]]></title>
-            <link>http://jdh.hamkins.org/cantors-ice-cream-shoppe/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/cantors-ice-cream-shoppe/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2020 16:14:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ghent–Leeds Virtual Logic Seminar - Determinacy and inner models]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</guid>
@@ -87,32 +73,11 @@
             <pubDate>Tue, 03 Nov 2020 06:19:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
-            <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2020 14:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Continuous models of arithmetic, MOPA, November 2020]]></title>
-            <link>http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2020 20:25:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Flow and the Partition Principle: Conclusions]]></title>
             <link>http://karagila.org/2020/flowing-to-conclusions/</link>
             <guid isPermaLink="false">http://karagila.org/2020/flowing-to-conclusions/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Mon, 26 Oct 2020 20:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new proof of the Barwise extension theorem, and the universal finite sequence, Barcelona Set Theory Seminar, 28 October 2020]]></title>
-            <link>http://jdh.hamkins.org/new-proof-of-the-barwise-extension-theorem-barcelona-october-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/new-proof-of-the-barwise-extension-theorem-barcelona-october-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2020 11:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A MathJax extension for specifying the accessible name]]></title>
@@ -143,13 +108,6 @@
             <pubDate>Fri, 09 Oct 2020 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lectures on the Philosophy of Mathematics, Oxford Michaelmas Term 2020]]></title>
-            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2020 15:15:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Zornian Functional Analysis coming to arXiv!]]></title>
             <link>http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</link>
             <guid isPermaLink="false">http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</guid>
@@ -164,13 +122,6 @@
             <pubDate>Tue, 06 Oct 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lectures on the Philosophy of Mathematics]]></title>
-            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2020 10:36:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[(with P. Lücke) Closure properties of measurable ultrapowers]]></title>
             <link>https://muellersandra.github.io/publication/submitted/2020/09/29/PaperClosureMeasUlt.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/2020/09/29/PaperClosureMeasUlt.html</guid>
@@ -178,11 +129,60 @@
             <pubDate>Mon, 28 Sep 2020 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Modal model theory]]></title>
-            <link>http://jdh.hamkins.org/modal-model-theory/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/modal-model-theory/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2020 07:13:05 GMT</pubDate>
+            <title><![CDATA[Classification of countable models of ZFC]]></title>
+            <link>https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/classificaation-of-countable-models-of-zfc/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The virtual large cardinal hierarchy]]></title>
+            <link>http://localhost:4000/publications/2020/09/08/the-virtual-large-cardinal-hierarchy.html</link>
+            <guid isPermaLink="false">http://localhost:4000/publications/2020/09/08/the-virtual-large-cardinal-hierarchy.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YouTubers Wanted]]></title>
+            <link>http://karagila.org/2020/youtubers-wanted/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/youtubers-wanted/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2020 11:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New jump operators on equivalence relations]]></title>
+            <link>https://scoskey.org/bernoulli</link>
+            <guid isPermaLink="false">https://scoskey.org/bernoulli</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abstract Logics]]></title>
+            <link>http://localhost:4000/research/2020/08/10/abstract-logics.html</link>
+            <guid isPermaLink="false">http://localhost:4000/research/2020/08/10/abstract-logics.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 287, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-287/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-287/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 522, Fall 2020]]></title>
+            <link>https://scoskey.org/course/1920f-522/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/1920f-522/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guest comic: Foundations of Forcing]]></title>
+            <link>http://karagila.org/2020/ways-to-do-forcing/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/ways-to-do-forcing/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2020 12:29:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
