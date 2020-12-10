@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Dec 2020 01:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2020 04:37:00 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Dec 2020 01:12:46 GMT</pubDate>
+        <pubDate>Thu, 10 Dec 2020 04:37:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -80,6 +80,13 @@
             <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
+            <link>https://blog.assafrinot.com/?p=4699</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2020 06:19:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
             <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
@@ -120,6 +127,13 @@
             <guid isPermaLink="false">http://karagila.org/2020/going-with-the-flow/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Fri, 09 Oct 2020 13:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A guessing principle from a Souslin tree, with applications to topology]]></title>
+            <link>https://blog.assafrinot.com/?p=4683</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4683</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2020 09:38:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Model theoretic characterizations of large cardinals revisited]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/modal-model-theory/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 22 Sep 2020 07:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Categorical large cardinals and the tension between categoricity and set-theoretic reflection]]></title>
-            <link>http://jdh.hamkins.org/categorical-large-cardinals/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-large-cardinals/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2020 06:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The otherwordly cardinals]]></title>
-            <link>http://jdh.hamkins.org/otherwordly-cardinals/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/otherwordly-cardinals/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2020 15:12:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
