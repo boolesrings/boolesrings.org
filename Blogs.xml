@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Dec 2020 20:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2020 01:13:26 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Dec 2020 20:30:43 GMT</pubDate>
+        <pubDate>Sat, 12 Dec 2020 01:13:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -87,13 +87,6 @@
             <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
-            <link>https://blog.assafrinot.com/?p=4699</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2020 06:19:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
             <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
@@ -136,13 +129,6 @@
             <pubDate>Fri, 09 Oct 2020 13:30:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A guessing principle from a Souslin tree, with applications to topology]]></title>
-            <link>https://blog.assafrinot.com/?p=4683</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4683</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2020 09:38:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Model theoretic characterizations of large cardinals revisited]]></title>
             <link>http://localhost:4000/publications/2020/10/09/model-theoretic-characterizations-of-large-cardinals-revisited.html</link>
             <guid isPermaLink="false">http://localhost:4000/publications/2020/10/09/model-theoretic-characterizations-of-large-cardinals-revisited.html</guid>
@@ -183,6 +169,20 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/2020/09/29/PaperClosureMeasUlt.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 28 Sep 2020 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modal model theory]]></title>
+            <link>http://jdh.hamkins.org/modal-model-theory/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/modal-model-theory/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2020 07:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Categorical large cardinals and the tension between categoricity and set-theoretic reflection]]></title>
+            <link>http://jdh.hamkins.org/categorical-large-cardinals/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-large-cardinals/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2020 06:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
