@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Dec 2020 04:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2020 08:45:27 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Dec 2020 04:47:56 GMT</pubDate>
+        <pubDate>Fri, 25 Dec 2020 08:45:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,6 +15,20 @@
             <guid isPermaLink="false">http://karagila.org/2020/hindsight-2020/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Tue, 22 Dec 2020 21:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Internal Sorting Methods]]></title>
+            <link>https://scoskey.org/senior-thesis/internal-sorting-methods/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/internal-sorting-methods/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The history and application of Benford’s law]]></title>
+            <link>https://scoskey.org/senior-thesis/the-history-and-application-of-benford-law/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/the-history-and-application-of-benford-law/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two quotes by Manu Kapur about learning and productive failure]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Wed, 07 Oct 2020 14:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech update]]></title>
-            <link>https://www.peterkrautzberger.org/0214/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0214/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2020 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lectures on the Philosophy of Mathematics]]></title>
-            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2020 10:36:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
