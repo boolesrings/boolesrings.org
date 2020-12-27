@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Dec 2020 08:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2020 12:48:53 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Dec 2020 08:44:50 GMT</pubDate>
+        <pubDate>Sun, 27 Dec 2020 12:48:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -45,6 +45,13 @@
             <pubDate>Mon, 07 Dec 2020 21:37:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ASL North American Annual Meeting - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/12/01/TalkASLvirtual.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2020/12/01/TalkASLvirtual.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 30 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CMU Logic Seminar, Pittsburgh - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2020/12/01/TalkCMU.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2020/12/01/TalkCMU.html</guid>
@@ -52,7 +59,7 @@
             <pubDate>Mon, 30 Nov 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Logic Day, Hamburg - TBA]]></title>
+            <title><![CDATA[World Logic Day, Hamburg - Unendliche Spiele und die Grenzen der Mathematik]]></title>
             <link>https://muellersandra.github.io/talk/generalaudience/upcomingtalk/2020/11/30/TalkWLDHamburg.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/talk/generalaudience/upcomingtalk/2020/11/30/TalkWLDHamburg.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 07 Oct 2020 15:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zornian Functional Analysis coming to arXiv!]]></title>
-            <link>http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/zornian-functional-analysis-coming-to-arxiv/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2020 14:23:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
