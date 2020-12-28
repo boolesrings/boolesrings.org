@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Dec 2020 17:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 20:38:35 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Dec 2020 17:09:29 GMT</pubDate>
+        <pubDate>Mon, 28 Dec 2020 20:38:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Math 314, Spring 2021]]></title>
+            <link>https://scoskey.org/course/2021s-314/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2021s-314/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 387, Spring 2021]]></title>
+            <link>https://scoskey.org/course/2021s-387/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2021s-387/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hindsight: 2020]]></title>
             <link>http://karagila.org/2020/hindsight-2020/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4683</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 09 Oct 2020 09:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Model theoretic characterizations of large cardinals revisited]]></title>
-            <link>http://localhost:4000/publications/2020/10/09/model-theoretic-characterizations-of-large-cardinals-revisited.html</link>
-            <guid isPermaLink="false">http://localhost:4000/publications/2020/10/09/model-theoretic-characterizations-of-large-cardinals-revisited.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2020 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lectures on the Philosophy of Mathematics, Oxford Michaelmas Term 2020]]></title>
-            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2020 15:15:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
