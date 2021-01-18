@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 Jan 2021 17:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2021 21:01:18 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Jan 2021 17:37:57 GMT</pubDate>
+        <pubDate>Mon, 18 Jan 2021 21:01:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -150,13 +150,6 @@
             <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
-            <link>https://blog.assafrinot.com/?p=4699</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2020 06:19:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
             <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/new-proof-of-the-barwise-extension-theorem-barcelona-october-2020/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 25 Oct 2020 11:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A MathJax extension for specifying the accessible name]]></title>
+            <link>https://www.peterkrautzberger.org/0215/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0215/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2020 20:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
