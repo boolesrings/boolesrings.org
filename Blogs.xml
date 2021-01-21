@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Jan 2021 17:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2021 20:58:33 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Jan 2021 17:38:41 GMT</pubDate>
+        <pubDate>Thu, 21 Jan 2021 20:58:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Graduate Seminar in Philosophy of Logic, Oxford, Hilary Term 2021]]></title>
+            <link>http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2021 20:04:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Advances on strong colorings over partitions]]></title>
             <link>https://blog.assafrinot.com/?p=4706</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 29 Oct 2020 20:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flow and the Partition Principle: Conclusions]]></title>
-            <link>http://karagila.org/2020/flowing-to-conclusions/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/flowing-to-conclusions/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2020 20:10:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
