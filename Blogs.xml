@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 Jan 2021 02:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 05:14:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 Jan 2021 02:08:38 GMT</pubDate>
+        <pubDate>Sun, 24 Jan 2021 05:14:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Category, measure, and forcing: Set theory lecture notes]]></title>
+            <link>https://scoskey.org/forcing</link>
+            <guid isPermaLink="false">https://scoskey.org/forcing</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Graduate Seminar in Philosophy of Logic, Oxford, Hilary Term 2021]]></title>
             <link>http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 31 Oct 2020 14:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Continuous models of arithmetic, MOPA, November 2020]]></title>
-            <link>http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/continuous-models-of-arithmetic-mopa-november-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2020 20:25:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
