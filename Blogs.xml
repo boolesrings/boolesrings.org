@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Feb 2021 16:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 20:30:10 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Feb 2021 16:51:58 GMT</pubDate>
+        <pubDate>Sun, 07 Feb 2021 20:30:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Nonlinearity in the hierarchy of large cardinal consistency strength]]></title>
+            <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2021 17:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A review of the Gödel fixed-point lemma, with generalizations and applications]]></title>
+            <link>http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2021 17:18:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Category, measure, and forcing: Set theory lecture notes]]></title>
             <link>https://scoskey.org/forcing</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
-            <link>https://blog.assafrinot.com/?p=4699</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2020 06:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set-theoretic and arithmetic potentialism: the state of current developments, CACML 2020]]></title>
-            <link>http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/set-theoretic-and-arithmetic-potentialism-the-state-of-current-developments-cacml-2020/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2020 14:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
