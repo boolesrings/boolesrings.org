@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Feb 2021 12:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 16:52:49 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Feb 2021 12:41:32 GMT</pubDate>
+        <pubDate>Wed, 10 Feb 2021 16:52:49 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Forcing as a computational process, Kobe Set Theory Workshop, March 2021]]></title>
+            <link>http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 10 Feb 2021 16:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Determinacy for proper class games, Seminaire de Logique Lyon-Paris, April 2021]]></title>
+            <link>http://jdh.hamkins.org/determinacy-for-proper-class-games-seminaire-de-logique-lyon-paris-april-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/determinacy-for-proper-class-games-seminaire-de-logique-lyon-paris-april-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 10 Feb 2021 16:21:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nonlinearity in the hierarchy of large cardinal consistency strength]]></title>
             <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/10/TalkToronto.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 09 Nov 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cantor’s Ice Cream Shoppe]]></title>
-            <link>http://jdh.hamkins.org/cantors-ice-cream-shoppe/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/cantors-ice-cream-shoppe/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2020 16:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ghent–Leeds Virtual Logic Seminar - Determinacy and inner models]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
