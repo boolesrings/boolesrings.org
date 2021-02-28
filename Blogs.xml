@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Feb 2021 08:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 12:41:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Feb 2021 08:36:24 GMT</pubDate>
+        <pubDate>Sun, 28 Feb 2021 12:41:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -24,14 +24,14 @@
             <pubDate>Sat, 20 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CMU Logic Seminar, Pittsburgh - TBA]]></title>
+            <title><![CDATA[CMU Logic Seminar, Pittsburgh - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/20/TalkCMU.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/20/TalkCMU.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Fri, 19 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KGRC Research Seminar, Vienna - TBA]]></title>
+            <title><![CDATA[KGRC Research Seminar, Vienna - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/19/TalkKGRC.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/19/TalkKGRC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
