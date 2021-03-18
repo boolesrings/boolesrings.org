@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 12:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 16:59:34 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Mar 2021 12:45:24 GMT</pubDate>
+        <pubDate>Thu, 18 Mar 2021 16:59:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Reading and discussion of Lectures on the Philosophy of Mathematics, Amsterdam, March 2021]]></title>
+            <link>http://jdh.hamkins.org/reading-and-discussion-of-lectures-on-the-philosophy-of-mathematics-amsterdam-march-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/reading-and-discussion-of-lectures-on-the-philosophy-of-mathematics-amsterdam-march-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 18 Mar 2021 13:43:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Logic Colloquium Poznan - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2021/02/22/TalkLogicColloquiumPoznan.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/proof-and-the-art-of-mathematics-examples-and-extensions/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 07 Dec 2020 21:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set Theory Seminar, The Fields Institute, Toronto - The Large Cardinal Strength of Determinacy Axioms]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/27/TalkToronto.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/27/TalkToronto.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 26 Nov 2020 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
