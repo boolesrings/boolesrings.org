@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 01:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 04:41:25 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Mar 2021 01:16:09 GMT</pubDate>
+        <pubDate>Thu, 18 Mar 2021 04:41:25 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -85,6 +85,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 21 Jan 2021 20:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advances on strong colorings over partitions]]></title>
+            <link>https://blog.assafrinot.com/?p=4706</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4706</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 20 Jan 2021 11:13:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IMU DMV meeting Jerusalem - Cancelled]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/27/TalkToronto.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 26 Nov 2020 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prikry Forcing Online]]></title>
-            <link>http://karagila.org/2020/pfo/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/pfo/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2020 14:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
