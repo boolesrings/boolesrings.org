@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 08:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 12:46:42 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Mar 2021 08:41:12 GMT</pubDate>
+        <pubDate>Mon, 22 Mar 2021 12:46:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -17,30 +17,37 @@
             <pubDate>Thu, 18 Mar 2021 13:43:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Logic Colloquium Poznan - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2021/02/22/TalkLogicColloquiumPoznan.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2021/02/22/TalkLogicColloquiumPoznan.html</guid>
+            <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkLogicColloquiumPoznan.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkLogicColloquiumPoznan.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 21 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ASL North American Annual Meeting - The strength of determinacy when all sets are uB]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2021/02/21/TalkASLvirtual.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/draft/2021/02/21/TalkASLvirtual.html</guid>
+            <title><![CDATA[ASL North American Annual Meeting - The strength of determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/21/TalkASLvirtual.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/21/TalkASLvirtual.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 20 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CMU Logic Seminar, Pittsburgh - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/20/TalkCMU.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/20/TalkCMU.html</guid>
+            <title><![CDATA[CMU Logic Seminar, Pittsburgh - Large cardinals and determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/20/TalkCMU.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/20/TalkCMU.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Fri, 19 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CUNY Set Theory Seminar, New York - The exact consistency strength of AD + all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkCUNY.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkCUNY.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KGRC Research Seminar, Vienna - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/19/TalkKGRC.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/draft/2021/02/19/TalkKGRC.html</guid>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkKGRC.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
         </item>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://dcernst.github.io/manu-kapur-quote-about-learning/</guid>
             <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
             <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proof and the Art of Mathematics: Examples and Extensions]]></title>
-            <link>http://jdh.hamkins.org/proof-and-the-art-of-mathematics-examples-and-extensions/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/proof-and-the-art-of-mathematics-examples-and-extensions/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 07 Dec 2020 21:37:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
