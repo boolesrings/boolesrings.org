@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Mar 2021 20:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 01:29:52 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Mar 2021 20:34:52 GMT</pubDate>
+        <pubDate>Wed, 31 Mar 2021 01:29:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Sierpinski’s onto mapping and partitions]]></title>
+            <link>https://blog.assafrinot.com/?p=4717</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4717</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Notre Dame, March 2021]]></title>
             <link>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/hindsight-2020/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Tue, 22 Dec 2020 21:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internal sorting methods]]></title>
-            <link>https://scoskey.org/senior-thesis/internal-sorting-methods/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/internal-sorting-methods/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
