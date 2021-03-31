@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 31 Mar 2021 04:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 08:40:52 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 31 Mar 2021 04:43:48 GMT</pubDate>
+        <pubDate>Wed, 31 Mar 2021 08:40:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Flow and the Partition Principle II (0 updates)]]></title>
+            <link>http://karagila.org/2021/flow-redux/</link>
+            <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 31 Mar 2021 07:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sierpinski’s onto mapping and partitions]]></title>
             <link>https://blog.assafrinot.com/?p=4717</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2020/recursion/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Tue, 29 Dec 2020 21:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hindsight: 2020]]></title>
-            <link>http://karagila.org/2020/hindsight-2020/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/hindsight-2020/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Tue, 22 Dec 2020 21:33:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
