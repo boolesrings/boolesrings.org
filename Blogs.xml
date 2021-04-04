@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Apr 2021 12:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 17:11:17 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Apr 2021 12:50:05 GMT</pubDate>
+        <pubDate>Sun, 04 Apr 2021 17:11:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
+            <link>http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flow and the Partition Principle II (0 updates)]]></title>
             <link>http://karagila.org/2021/flow-redux/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2021s-387/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factorial algorithms and recursive thoughts]]></title>
-            <link>http://karagila.org/2020/recursion/</link>
-            <guid isPermaLink="false">http://karagila.org/2020/recursion/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Tue, 29 Dec 2020 21:03:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
