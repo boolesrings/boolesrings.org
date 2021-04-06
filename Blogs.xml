@@ -4,18 +4,11 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Apr 2021 12:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 17:13:55 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Apr 2021 12:50:13 GMT</pubDate>
+        <pubDate>Tue, 06 Apr 2021 17:13:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
-        <item>
-            <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
-            <link>http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Flow and the Partition Principle II (0 updates)]]></title>
             <link>http://karagila.org/2021/flow-redux/</link>
@@ -31,25 +24,11 @@
             <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Notre Dame, March 2021]]></title>
-            <link>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 25 Mar 2021 18:47:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aligned teaching and punishing student success]]></title>
             <link>https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</link>
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Tue, 23 Mar 2021 18:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reading and discussion of Lectures on the Philosophy of Mathematics, Amsterdam, March 2021]]></title>
-            <link>http://jdh.hamkins.org/reading-and-discussion-of-lectures-on-the-philosophy-of-mathematics-amsterdam-march-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/reading-and-discussion-of-lectures-on-the-philosophy-of-mathematics-amsterdam-march-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 13:43:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
@@ -87,53 +66,11 @@
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ode to Hippasus]]></title>
-            <link>http://jdh.hamkins.org/ode-to-hippasus/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/ode-to-hippasus/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 14 Feb 2021 21:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forcing as a computational process, Kobe Set Theory Workshop, March 2021]]></title>
-            <link>http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 10 Feb 2021 16:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Determinacy for proper class games, Seminaire de Logique Lyon-Paris, April 2021]]></title>
-            <link>http://jdh.hamkins.org/determinacy-for-proper-class-games-seminaire-de-logique-lyon-paris-april-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/determinacy-for-proper-class-games-seminaire-de-logique-lyon-paris-april-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 10 Feb 2021 16:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nonlinearity in the hierarchy of large cardinal consistency strength]]></title>
-            <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2021 17:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A review of the Gödel fixed-point lemma, with generalizations and applications]]></title>
-            <link>http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2021 17:18:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Category, measure, and forcing: Set theory lecture notes]]></title>
             <link>https://scoskey.org/forcing</link>
             <guid isPermaLink="false">https://scoskey.org/forcing</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graduate Seminar in Philosophy of Logic, Oxford, Hilary Term 2021]]></title>
-            <link>http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 21 Jan 2021 20:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Advances on strong colorings over partitions]]></title>
@@ -157,20 +94,6 @@
             <pubDate>Thu, 14 Jan 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Definability and the Math Tea argument: must there be numbers we cannot describe or define? University of Warsaw, 22 January 2021]]></title>
-            <link>http://jdh.hamkins.org/definability-and-the-math-tea-argument-warsaw-22-january-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/definability-and-the-math-tea-argument-warsaw-22-january-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2021 16:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can there be natural instances of nonlinearity in the hierarchy of consistency strength? UWM Logic Seminar, January 2021]]></title>
-            <link>http://jdh.hamkins.org/natural-instances-of-nonlinearity-in-the-hierarchy-of-consistency-strength-uwm-logic-seminar-january-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/natural-instances-of-nonlinearity-in-the-hierarchy-of-consistency-strength-uwm-logic-seminar-january-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2021 14:34:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Math 314, Spring 2021]]></title>
             <link>https://scoskey.org/course/2021s-314/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2021s-314/</guid>
@@ -183,6 +106,83 @@
             <guid isPermaLink="false">https://scoskey.org/course/2021s-387/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Factorial algorithms and recursive thoughts]]></title>
+            <link>http://karagila.org/2020/recursion/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/recursion/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 29 Dec 2020 21:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hindsight: 2020]]></title>
+            <link>http://karagila.org/2020/hindsight-2020/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/hindsight-2020/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 22 Dec 2020 21:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Internal sorting methods]]></title>
+            <link>https://scoskey.org/senior-thesis/internal-sorting-methods/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/internal-sorting-methods/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The history and application of Benford’s law]]></title>
+            <link>https://scoskey.org/senior-thesis/the-history-and-application-of-benford-law/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/the-history-and-application-of-benford-law/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two quotes by Manu Kapur about learning and productive failure]]></title>
+            <link>http://dcernst.github.io/manu-kapur-quote-about-learning/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/manu-kapur-quote-about-learning/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
+            <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set Theory Seminar, The Fields Institute, Toronto - The Large Cardinal Strength of Determinacy Axioms]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/27/TalkToronto.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2020/11/27/TalkToronto.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prikry Forcing Online]]></title>
+            <link>http://karagila.org/2020/pfo/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/pfo/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2020 14:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bernoulli jumps of equivalence relations]]></title>
+            <link>https://scoskey.org/presentation/bernoulli-jumps-of-equivalence-relations/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/bernoulli-jumps-of-equivalence-relations/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghent–Leeds Virtual Logic Seminar - Determinacy and inner models]]></title>
+            <link>https://muellersandra.github.io/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2020/11/05/TalkGhentLeeds.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Wed, 04 Nov 2020 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flow and the Partition Principle: Conclusions]]></title>
+            <link>http://karagila.org/2020/flowing-to-conclusions/</link>
+            <guid isPermaLink="false">http://karagila.org/2020/flowing-to-conclusions/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2020 20:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A MathJax extension for specifying the accessible name]]></title>
+            <link>https://www.peterkrautzberger.org/0215/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0215/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2020 20:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
