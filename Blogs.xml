@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Apr 2021 17:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 20:34:08 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Apr 2021 17:13:09 GMT</pubDate>
+        <pubDate>Wed, 07 Apr 2021 20:34:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[On the ideal J[kappa]]]></title>
+            <link>https://blog.assafrinot.com/?p=4725</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4725</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 06 Apr 2021 16:06:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
             <link>http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</link>
@@ -17,7 +24,7 @@
             <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flow and the Partition Principle II (0 updates)]]></title>
+            <title><![CDATA[Flow and the Partition Principle II (1 updates)]]></title>
             <link>http://karagila.org/2021/flow-redux/</link>
             <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
@@ -174,13 +181,6 @@
             <title><![CDATA[Math 314, Spring 2021]]></title>
             <link>https://scoskey.org/course/2021s-314/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2021s-314/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 387, Spring 2021]]></title>
-            <link>https://scoskey.org/course/2021s-387/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2021s-387/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
         </item>
