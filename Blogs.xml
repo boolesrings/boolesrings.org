@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 May 2021 17:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 20:34:38 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 May 2021 17:07:29 GMT</pubDate>
+        <pubDate>Mon, 10 May 2021 20:34:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Four color theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pythageorean theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Strongest transformations]]></title>
             <link>https://blog.assafrinot.com/?p=4737</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invconftalk/2021/01/16/TalkIMUDMV.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Fri, 15 Jan 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Logic Day, Hamburg - Unendliche Spiele und die Grenzen der Mathematik]]></title>
-            <link>https://muellersandra.github.io/talk/generalaudience/2021/01/15/TalkWLDHamburg.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/generalaudience/2021/01/15/TalkWLDHamburg.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 14 Jan 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Definability and the Math Tea argument: must there be numbers we cannot describe or define? University of Warsaw, 22 January 2021]]></title>
-            <link>http://jdh.hamkins.org/definability-and-the-math-tea-argument-warsaw-22-january-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/definability-and-the-math-tea-argument-warsaw-22-january-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 04 Jan 2021 16:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
