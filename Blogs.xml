@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jun 2021 13:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jun 2021 18:26:28 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Jun 2021 13:49:30 GMT</pubDate>
+        <pubDate>Mon, 07 Jun 2021 18:26:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -38,25 +38,11 @@
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strongest transformations]]></title>
-            <link>https://blog.assafrinot.com/?p=4737</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4737</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 25 Apr 2021 10:19:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Plenitudinous Primes!]]></title>
             <link>http://jdh.hamkins.org/plenitudinous-primes/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/plenitudinous-primes/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 22 Apr 2021 19:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the ideal J[kappa]]]></title>
-            <link>https://blog.assafrinot.com/?p=4725</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4725</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 06 Apr 2021 16:06:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
@@ -71,13 +57,6 @@
             <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Wed, 31 Mar 2021 07:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sierpinski’s onto mapping and partitions]]></title>
-            <link>https://blog.assafrinot.com/?p=4717</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4717</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Notre Dame, March 2021]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">https://scoskey.org/forcing</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graduate Seminar in Philosophy of Logic, Oxford, Hilary Term 2021]]></title>
+            <link>http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2021 20:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMU DMV meeting Jerusalem - Cancelled]]></title>
+            <link>https://muellersandra.github.io/talk/invconftalk/2021/01/16/TalkIMUDMV.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invconftalk/2021/01/16/TalkIMUDMV.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Fri, 15 Jan 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Logic Day, Hamburg - Unendliche Spiele und die Grenzen der Mathematik]]></title>
+            <link>https://muellersandra.github.io/talk/generalaudience/2021/01/15/TalkWLDHamburg.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/generalaudience/2021/01/15/TalkWLDHamburg.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2021 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
