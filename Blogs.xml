@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 12:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 17:11:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Jun 2021 12:57:03 GMT</pubDate>
+        <pubDate>Thu, 10 Jun 2021 17:11:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -64,13 +64,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flow and the Partition Principle II (2 updates)]]></title>
-            <link>http://karagila.org/2021/flow-redux/</link>
-            <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 31 Mar 2021 07:01:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sierpinski’s onto mapping and partitions]]></title>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://scoskey.org/forcing</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graduate Seminar in Philosophy of Logic, Oxford, Hilary Term 2021]]></title>
+            <link>http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2021 20:04:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
