@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jun 2021 04:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 08:34:36 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Jun 2021 04:43:48 GMT</pubDate>
+        <pubDate>Sat, 12 Jun 2021 08:34:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
+            <link>https://blog.assafrinot.com/?p=4761</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4761</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 11 Jun 2021 19:22:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The consistency strength of determinacy when all sets are universally Baire]]></title>
             <link>https://muellersandra.github.io/publication/submitted/2021/05/30/PaperAllSetsUB.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 07 Feb 2021 17:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Category, measure, and forcing: Set theory lecture notes]]></title>
-            <link>https://scoskey.org/forcing</link>
-            <guid isPermaLink="false">https://scoskey.org/forcing</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
