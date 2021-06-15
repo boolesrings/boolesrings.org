@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Jun 2021 01:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jun 2021 04:45:19 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Jun 2021 01:36:58 GMT</pubDate>
+        <pubDate>Tue, 15 Jun 2021 04:45:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,27 +22,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/2021/05/30/PaperAllSetsUB.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 29 May 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zariski geometries and quantum mechanics]]></title>
-            <link>https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four color theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pythageorean theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strongest transformations]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 07 Feb 2021 17:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graduate Seminar in Philosophy of Logic, Oxford, Hilary Term 2021]]></title>
+            <link>http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/graduate-seminar-in-philosophy-of-logic-oxford-hilary-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 21 Jan 2021 20:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advances on strong colorings over partitions]]></title>
+            <link>https://blog.assafrinot.com/?p=4706</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4706</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 20 Jan 2021 11:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMU DMV meeting Jerusalem - Cancelled]]></title>
+            <link>https://muellersandra.github.io/talk/invconftalk/2021/01/16/TalkIMUDMV.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invconftalk/2021/01/16/TalkIMUDMV.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Fri, 15 Jan 2021 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
