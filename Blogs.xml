@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 12:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 16:47:28 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Jun 2021 12:43:43 GMT</pubDate>
+        <pubDate>Wed, 23 Jun 2021 16:47:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Categorical set theories, Munich, June 2021]]></title>
+            <link>http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 23 Jun 2021 14:55:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
             <link>https://blog.assafrinot.com/?p=4761</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 07 Feb 2021 17:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A review of the Gödel fixed-point lemma, with generalizations and applications]]></title>
-            <link>http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/a-review-of-the-goedel-fixed-point-lemma-with-generalizations-and-applications/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 07 Feb 2021 17:18:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
