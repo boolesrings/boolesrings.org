@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Jun 2021 08:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 12:49:10 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Jun 2021 08:33:01 GMT</pubDate>
+        <pubDate>Mon, 28 Jun 2021 12:49:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,6 +22,20 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 23 Jun 2021 14:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/06/23/TalkLogicColloquiumPoznan.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/06/23/TalkLogicColloquiumPoznan.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Tue, 22 Jun 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A short talk series: Research in Set Theory - Determinacy Axioms]]></title>
+            <link>https://muellersandra.github.io/talk/invsemtalk/2021/06/21/TalkViennaStudents.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/06/21/TalkViennaStudents.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sun, 20 Jun 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
@@ -122,13 +136,6 @@
             <pubDate>Thu, 18 Mar 2021 13:43:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/23/TalkLogicColloquiumPoznan.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/23/TalkLogicColloquiumPoznan.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 22 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ASL North American Annual Meeting - The strength of determinacy when all sets are universally Baire]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkASLvirtual.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkASLvirtual.html</guid>
@@ -151,15 +158,15 @@
         </item>
         <item>
             <title><![CDATA[CUNY Set Theory Seminar, New York - The exact consistency strength of AD + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkCUNY.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkCUNY.html</guid>
+            <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KGRC Research Seminar, Vienna - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkKGRC.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
+            <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
         </item>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 10 Feb 2021 16:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Determinacy for proper class games, Seminaire de Logique Lyon-Paris, April 2021]]></title>
-            <link>http://jdh.hamkins.org/determinacy-for-proper-class-games-seminaire-de-logique-lyon-paris-april-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/determinacy-for-proper-class-games-seminaire-de-logique-lyon-paris-april-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 10 Feb 2021 16:21:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
