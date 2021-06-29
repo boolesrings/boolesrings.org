@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 12:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 16:51:27 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Jun 2021 12:49:58 GMT</pubDate>
+        <pubDate>Tue, 29 Jun 2021 16:51:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Was Ulam right?]]></title>
+            <link>https://blog.assafrinot.com/?p=4770</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4770</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 29 Jun 2021 13:43:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the game of recursive chess?]]></title>
             <link>http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/ode-to-hippasus/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 14 Feb 2021 21:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forcing as a computational process, Kobe Set Theory Workshop, March 2021]]></title>
-            <link>http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 10 Feb 2021 16:48:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
