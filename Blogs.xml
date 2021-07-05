@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 16:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 20:28:57 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jul 2021 16:50:10 GMT</pubDate>
+        <pubDate>Mon, 05 Jul 2021 20:28:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Naturality in mathematics and the hierarchy of consistency strength, University of Konstanz, July 2021]]></title>
+            <link>http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 05 Jul 2021 17:23:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Was Ulam right?]]></title>
             <link>https://blog.assafrinot.com/?p=4770</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ode to Hippasus]]></title>
-            <link>http://jdh.hamkins.org/ode-to-hippasus/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/ode-to-hippasus/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 14 Feb 2021 21:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
