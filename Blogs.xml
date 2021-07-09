@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jul 2021 12:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 16:51:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jul 2021 12:46:48 GMT</pubDate>
+        <pubDate>Fri, 09 Jul 2021 16:51:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Engaged]]></title>
+            <link>http://karagila.org/2021/engaged/</link>
+            <guid isPermaLink="false">http://karagila.org/2021/engaged/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Fri, 09 Jul 2021 16:02:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Naturality in mathematics and the hierarchy of consistency strength, University of Konstanz, July 2021]]></title>
             <link>http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[CUNY Set Theory Seminar, New York - The exact consistency strength of AD + all sets are universally Baire]]></title>
             <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KGRC Research Seminar, Vienna - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
         </item>
