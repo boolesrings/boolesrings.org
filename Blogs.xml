@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jul 2021 20:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 01:23:59 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jul 2021 20:28:56 GMT</pubDate>
+        <pubDate>Sat, 17 Jul 2021 01:23:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -71,27 +71,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/2021/05/30/PaperAllSetsUB.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 29 May 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zariski geometries and quantum mechanics]]></title>
-            <link>https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four color theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pythageorean theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strongest transformations]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KGRC Research Seminar, Vienna - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ode to Hippasus]]></title>
+            <link>http://jdh.hamkins.org/ode-to-hippasus/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/ode-to-hippasus/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 14 Feb 2021 21:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forcing as a computational process, Kobe Set Theory Workshop, March 2021]]></title>
+            <link>http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process-kobe-set-theory-workshop-march-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 10 Feb 2021 16:48:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
