@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 16:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 20:29:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Aug 2021 16:50:48 GMT</pubDate>
+        <pubDate>Mon, 09 Aug 2021 20:29:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Tennenbaum phenomenon for computable quotient presentations of models of arithmetic and set theory, Shanghai, August 2021]]></title>
+            <link>http://jdh.hamkins.org/tennenbaum-phenomen-for-computable-quotient-presentations-shanghai-august-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/tennenbaum-phenomen-for-computable-quotient-presentations-shanghai-august-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 08 Aug 2021 17:14:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Review of Ungrading (Blum 2020) for use in UTM math courses]]></title>
             <link>https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</link>
@@ -45,11 +52,32 @@
             <pubDate>Fri, 09 Jul 2021 16:02:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Naturality in mathematics and the hierarchy of consistency strength, University of Konstanz, July 2021]]></title>
+            <link>http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 05 Jul 2021 17:23:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Was Ulam right?]]></title>
             <link>https://blog.assafrinot.com/?p=4770</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4770</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Tue, 29 Jun 2021 13:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the game of recursive chess?]]></title>
+            <link>http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 26 Jun 2021 21:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Categorical set theories, Munich, June 2021]]></title>
+            <link>http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 23 Jun 2021 14:55:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
@@ -108,11 +136,25 @@
             <pubDate>Sun, 25 Apr 2021 10:19:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Plenitudinous Primes!]]></title>
+            <link>http://jdh.hamkins.org/plenitudinous-primes/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/plenitudinous-primes/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 22 Apr 2021 19:15:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On the ideal J[kappa]]]></title>
             <link>https://blog.assafrinot.com/?p=4725</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4725</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Tue, 06 Apr 2021 16:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
+            <link>http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flow and the Partition Principle II (2 updates)]]></title>
@@ -129,60 +171,18 @@
             <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Notre Dame, March 2021]]></title>
+            <link>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 25 Mar 2021 18:47:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aligned teaching and punishing student success]]></title>
             <link>https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</link>
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Tue, 23 Mar 2021 18:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ASL North American Annual Meeting - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkASLvirtual.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkASLvirtual.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sun, 21 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol/Oxford Set Theory seminar - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/21/TalkBristolOxford.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/21/TalkBristolOxford.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sat, 20 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CMU Logic Seminar, Pittsburgh - Large cardinals and determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/20/TalkCMU.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/20/TalkCMU.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Fri, 19 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CUNY Set Theory Seminar, New York - The exact consistency strength of AD + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkCUNY.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KGRC Research Seminar, Vienna - The exact consistency strength of $AD^+$ + all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/02/19/TalkKGRC.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Thu, 18 Feb 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Category, measure, and forcing: Set theory lecture notes]]></title>
-            <link>https://scoskey.org/forcing</link>
-            <guid isPermaLink="false">https://scoskey.org/forcing</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advances on strong colorings over partitions]]></title>
-            <link>https://blog.assafrinot.com/?p=4706</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4706</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 20 Jan 2021 11:13:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
