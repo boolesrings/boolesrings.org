@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 16:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 23:01:10 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Aug 2021 16:53:29 GMT</pubDate>
+        <pubDate>Tue, 10 Aug 2021 23:01:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -36,13 +36,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tukey morphisms between finite binary relations]]></title>
-            <link>https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Engaged]]></title>
@@ -108,27 +101,6 @@
             <pubDate>Sat, 29 May 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zariski geometries and quantum mechanics]]></title>
-            <link>https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four color theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pythageorean theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Strongest transformations]]></title>
             <link>https://blog.assafrinot.com/?p=4737</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4737</guid>
@@ -183,6 +155,34 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Tue, 23 Mar 2021 18:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reading and discussion of Lectures on the Philosophy of Mathematics, Amsterdam, March 2021]]></title>
+            <link>http://jdh.hamkins.org/reading-and-discussion-of-lectures-on-the-philosophy-of-mathematics-amsterdam-march-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/reading-and-discussion-of-lectures-on-the-philosophy-of-mathematics-amsterdam-march-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 18 Mar 2021 13:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASL North American Annual Meeting - The strength of determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkASLvirtual.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/02/22/TalkASLvirtual.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sun, 21 Feb 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol/Oxford Set Theory seminar - The strength of determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/21/TalkBristolOxford.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/21/TalkBristolOxford.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sat, 20 Feb 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CMU Logic Seminar, Pittsburgh - Large cardinals and determinacy when all sets are universally Baire]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/20/TalkCMU.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/02/20/TalkCMU.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Fri, 19 Feb 2021 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
