@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 01:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 04:39:57 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Aug 2021 01:24:18 GMT</pubDate>
+        <pubDate>Thu, 12 Aug 2021 04:39:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,6 +15,20 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/tennenbaum-phenomen-for-computable-quotient-presentations-shanghai-august-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 08 Aug 2021 17:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 275, Fall 2021]]></title>
+            <link>https://scoskey.org/course/2122f-275/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122f-275/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 301, Fall 2021]]></title>
+            <link>https://scoskey.org/course/2122f-301/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122f-301/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review of Ungrading (Blum 2020) for use in UTM math courses]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4717</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Notre Dame, March 2021]]></title>
-            <link>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 25 Mar 2021 18:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aligned teaching and punishing student success]]></title>
-            <link>https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Tue, 23 Mar 2021 18:42:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
