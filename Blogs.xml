@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 20:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 01:24:03 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Aug 2021 20:28:28 GMT</pubDate>
+        <pubDate>Sun, 15 Aug 2021 01:24:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Linear gradings of partial orders]]></title>
+            <link>http://jdh.hamkins.org/linear-gradings-of-partial-orders/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/linear-gradings-of-partial-orders/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 14 Aug 2021 21:37:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The lattice of sets of natural numbers is rich]]></title>
             <link>http://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flow and the Partition Principle II (2 updates)]]></title>
-            <link>http://karagila.org/2021/flow-redux/</link>
-            <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 31 Mar 2021 07:01:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
