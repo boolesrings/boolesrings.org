@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 04:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 08:36:03 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Aug 2021 04:40:33 GMT</pubDate>
+        <pubDate>Thu, 19 Aug 2021 08:36:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -38,6 +38,20 @@
             <pubDate>Sun, 08 Aug 2021 17:14:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math 275, Fall 2021]]></title>
+            <link>https://scoskey.org/course/2122f-275/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122f-275/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 301, Fall 2021]]></title>
+            <link>https://scoskey.org/course/2122f-301/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122f-301/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Review of Ungrading (Blum 2020) for use in UTM math courses]]></title>
             <link>https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</link>
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</guid>
@@ -64,6 +78,13 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkASLJMM.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tukey morphisms between finite binary relations]]></title>
+            <link>https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</link>
+            <guid isPermaLink="false">https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Engaged]]></title>
@@ -129,6 +150,27 @@
             <pubDate>Sat, 29 May 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Zariski geometries and quantum mechanics]]></title>
+            <link>https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</link>
+            <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four color theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pythageorean theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Strongest transformations]]></title>
             <link>https://blog.assafrinot.com/?p=4737</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4737</guid>
@@ -141,48 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/plenitudinous-primes/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 22 Apr 2021 19:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the ideal J[kappa]]]></title>
-            <link>https://blog.assafrinot.com/?p=4725</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4725</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 06 Apr 2021 16:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
-            <link>http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flow and the Partition Principle II (2 updates)]]></title>
-            <link>http://karagila.org/2021/flow-redux/</link>
-            <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 31 Mar 2021 07:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sierpinski’s onto mapping and partitions]]></title>
-            <link>https://blog.assafrinot.com/?p=4717</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4717</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Potentialism and implicit actualism in the foundations of mathematics, Notre Dame, March 2021]]></title>
-            <link>http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/potentialism-and-implicit-actualism-in-the-foundations-of-mathematics-notre-dame-march-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 25 Mar 2021 18:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aligned teaching and punishing student success]]></title>
-            <link>https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Tue, 23 Mar 2021 18:42:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
