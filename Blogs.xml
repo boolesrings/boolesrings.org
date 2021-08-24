@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 08:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 12:53:40 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Aug 2021 08:37:38 GMT</pubDate>
+        <pubDate>Tue, 24 Aug 2021 12:53:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[(with P. Schlicht) Uniformization and Internal Absoluteness]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sun, 22 Aug 2021 22:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An algebra of orders]]></title>
             <link>http://jdh.hamkins.org/an-algebra-of-orders/</link>
@@ -66,9 +73,9 @@
             <pubDate>Wed, 28 Jul 2021 19:53:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
+            <title><![CDATA[Winter Meeting of the Association for Symbolic Logic with the JMM - Lower bounds in set theory]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkASLJMM.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkASLJMM.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
@@ -80,9 +87,9 @@
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Winter Meeting of the Association for Symbolic Logic with the JMM - Lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkASLJMM.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkASLJMM.html</guid>
+            <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strongest transformations]]></title>
-            <link>https://blog.assafrinot.com/?p=4737</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4737</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 25 Apr 2021 10:19:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
