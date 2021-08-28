@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 08:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 12:44:30 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Aug 2021 08:31:36 GMT</pubDate>
+        <pubDate>Sat, 28 Aug 2021 12:44:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -115,6 +115,13 @@
             <pubDate>Mon, 05 Jul 2021 17:23:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Was Ulam right?]]></title>
+            <link>https://blog.assafrinot.com/?p=4770</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4770</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 29 Jun 2021 13:43:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is the game of recursive chess?]]></title>
             <link>http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</guid>
@@ -143,6 +150,13 @@
             <pubDate>Sun, 20 Jun 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
+            <link>https://blog.assafrinot.com/?p=4761</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4761</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 11 Jun 2021 19:22:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The consistency strength of determinacy when all sets are universally Baire]]></title>
             <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/05/30/PaperAllSetsUB.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/05/30/PaperAllSetsUB.html</guid>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plenitudinous Primes!]]></title>
-            <link>http://jdh.hamkins.org/plenitudinous-primes/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/plenitudinous-primes/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 22 Apr 2021 19:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A gentle introduction to Boolean-valued model theory]]></title>
-            <link>http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/a-gentle-introduction-to-boolean-valued-model-theory/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 04 Apr 2021 13:34:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
