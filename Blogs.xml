@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 12:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 16:48:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Aug 2021 12:44:30 GMT</pubDate>
+        <pubDate>Sat, 28 Aug 2021 16:48:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
+            <link>http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 28 Aug 2021 14:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[(with P. Schlicht) Uniformization and Internal Absoluteness]]></title>
             <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[Four color theorem]]></title>
             <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pythageorean theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
         </item>
