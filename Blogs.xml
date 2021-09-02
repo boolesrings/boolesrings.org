@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 12:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 16:51:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Sep 2021 12:51:32 GMT</pubDate>
+        <pubDate>Thu, 02 Sep 2021 16:51:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Counting to Infinity and Beyond]]></title>
+            <link>http://jdh.hamkins.org/counting-to-infinity-poster/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/counting-to-infinity-poster/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 02 Sep 2021 14:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
             <link>https://blog.assafrinot.com/?p=4699</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4761</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 11 Jun 2021 19:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The consistency strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/05/30/PaperAllSetsUB.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/05/30/PaperAllSetsUB.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sat, 29 May 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
