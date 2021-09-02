@@ -4,17 +4,17 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 04:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 08:32:46 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Sep 2021 04:38:07 GMT</pubDate>
+        <pubDate>Thu, 02 Sep 2021 08:32:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
-            <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
-            <link>http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 28 Aug 2021 14:02:36 GMT</pubDate>
+            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
+            <link>https://blog.assafrinot.com/?p=4699</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[(with P. Schlicht) Uniformization and Internal Absoluteness]]></title>
@@ -24,39 +24,11 @@
             <pubDate>Sun, 22 Aug 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An algebra of orders]]></title>
-            <link>http://jdh.hamkins.org/an-algebra-of-orders/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/an-algebra-of-orders/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 20 Aug 2021 19:57:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Set Theory Conference in Jerusalem - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/08/16/TalkJerusalem.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/08/16/TalkJerusalem.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 15 Aug 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linear gradings of partial orders]]></title>
-            <link>http://jdh.hamkins.org/linear-gradings-of-partial-orders/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/linear-gradings-of-partial-orders/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 14 Aug 2021 21:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lattice of sets of natural numbers is rich]]></title>
-            <link>http://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 13 Aug 2021 21:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tennenbaum phenomenon for computable quotient presentations of models of arithmetic and set theory, Shanghai, August 2021]]></title>
-            <link>http://jdh.hamkins.org/tennenbaum-phenomen-for-computable-quotient-presentations-shanghai-august-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/tennenbaum-phenomen-for-computable-quotient-presentations-shanghai-august-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 08 Aug 2021 17:14:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math 275, Fall 2021]]></title>
@@ -122,32 +94,11 @@
             <pubDate>Fri, 09 Jul 2021 16:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Naturality in mathematics and the hierarchy of consistency strength, University of Konstanz, July 2021]]></title>
-            <link>http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/naturality-in-mathematics-and-the-hierarchy-of-consistency-strength-university-of-konstanz-july-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 05 Jul 2021 17:23:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Was Ulam right?]]></title>
             <link>https://blog.assafrinot.com/?p=4770</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4770</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Tue, 29 Jun 2021 13:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the game of recursive chess?]]></title>
-            <link>http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 26 Jun 2021 21:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Categorical set theories, Munich, June 2021]]></title>
-            <link>http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 23 Jun 2021 14:55:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
@@ -183,6 +134,55 @@
             <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four color theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pythageorean theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/pythagorean-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pythagorean-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strongest transformations]]></title>
+            <link>https://blog.assafrinot.com/?p=4737</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4737</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 25 Apr 2021 10:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the ideal J[kappa]]]></title>
+            <link>https://blog.assafrinot.com/?p=4725</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4725</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 06 Apr 2021 16:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flow and the Partition Principle II (2 updates)]]></title>
+            <link>http://karagila.org/2021/flow-redux/</link>
+            <guid isPermaLink="false">http://karagila.org/2021/flow-redux/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 31 Mar 2021 07:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sierpinski’s onto mapping and partitions]]></title>
+            <link>https://blog.assafrinot.com/?p=4717</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4717</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 30 Mar 2021 21:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aligned teaching and punishing student success]]></title>
+            <link>https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2021/03/23/aligned-teaching-and-punishing-student-success/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Tue, 23 Mar 2021 18:42:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
