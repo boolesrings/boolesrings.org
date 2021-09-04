@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 20:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 01:25:47 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Sep 2021 20:30:14 GMT</pubDate>
+        <pubDate>Sat, 04 Sep 2021 01:25:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,6 +15,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/counting-to-infinity-poster/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 02 Sep 2021 14:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
+            <link>https://blog.assafrinot.com/?p=4699</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
@@ -136,6 +143,13 @@
             <pubDate>Mon, 05 Jul 2021 17:23:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Was Ulam right?]]></title>
+            <link>https://blog.assafrinot.com/?p=4770</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4770</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 29 Jun 2021 13:43:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is the game of recursive chess?]]></title>
             <link>http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</guid>
@@ -164,25 +178,11 @@
             <pubDate>Sun, 20 Jun 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The consistency strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/05/30/PaperAllSetsUB.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/05/30/PaperAllSetsUB.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sat, 29 May 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zariski geometries and quantum mechanics]]></title>
-            <link>https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four color theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
+            <link>https://blog.assafrinot.com/?p=4761</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4761</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 11 Jun 2021 19:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
