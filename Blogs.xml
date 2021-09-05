@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 16:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 20:29:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Sep 2021 16:48:08 GMT</pubDate>
+        <pubDate>Sun, 05 Sep 2021 20:29:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Book review, Catarina Dutilh Novaes, The dialogical roots of deduction]]></title>
+            <link>http://jdh.hamkins.org/book-review-catarina-dutilh-novaes-the-dialogical-roots-of-deduction/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/book-review-catarina-dutilh-novaes-the-dialogical-roots-of-deduction/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 05 Sep 2021 17:11:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Counting to Infinity and Beyond]]></title>
             <link>http://jdh.hamkins.org/counting-to-infinity-poster/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/2021/06/21/TalkViennaStudents.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 20 Jun 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
-            <link>https://blog.assafrinot.com/?p=4761</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4761</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 11 Jun 2021 19:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
