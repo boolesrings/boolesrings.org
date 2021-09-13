@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 04:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 08:33:02 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Sep 2021 04:40:45 GMT</pubDate>
+        <pubDate>Mon, 13 Sep 2021 08:33:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -115,6 +115,13 @@
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trans-Alps Logic Seminar - TBA]]></title>
+            <link>https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DMV-ÖMG Annual Conference 2021 - Uniformization and internal absoluteness]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</guid>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 23 Jun 2021 14:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/06/23/TalkLogicColloquiumPoznan.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/06/23/TalkLogicColloquiumPoznan.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Tue, 22 Jun 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
