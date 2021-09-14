@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 20:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 01:28:27 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Sep 2021 20:30:42 GMT</pubDate>
+        <pubDate>Tue, 14 Sep 2021 01:28:27 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -36,6 +36,13 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Borel complexity theory - Classification and structure]]></title>
+            <link>https://scoskey.org/presentation/borel-complexity-theory-classification-and-structure/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/borel-complexity-theory-classification-and-structure/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 26 Jun 2021 21:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Categorical set theories, Munich, June 2021]]></title>
-            <link>http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/categorical-set-theories-munich-june-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 23 Jun 2021 14:55:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
