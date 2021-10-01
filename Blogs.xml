@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Oct 2021 08:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 12:46:25 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Oct 2021 08:32:46 GMT</pubDate>
+        <pubDate>Fri, 01 Oct 2021 12:46:25 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Davide Leonessi, MSc MFoCS, Oxford, September 2021]]></title>
+            <link>http://jdh.hamkins.org/davide-leonessi/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/davide-leonessi/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 01 Oct 2021 09:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thursday September 30 – National Day for Truth and Reconciliation]]></title>
             <link>https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invconftalk/upcomingtalk/2021/07/18/TalkLuminy.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 17 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tukey morphisms between finite binary relations]]></title>
-            <link>https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
