@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Oct 2021 08:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 12:45:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 Oct 2021 08:33:15 GMT</pubDate>
+        <pubDate>Mon, 04 Oct 2021 12:45:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Complicated colorings, revisited]]></title>
+            <link>https://blog.assafrinot.com/?p=4790</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4790</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 03 Oct 2021 14:58:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Davide Leonessi, MSc MFoCS, Oxford, September 2021]]></title>
             <link>http://jdh.hamkins.org/davide-leonessi/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16th International Luminy Workshop in Set Theory - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/talk/invconftalk/upcomingtalk/2021/07/18/TalkLuminy.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invconftalk/upcomingtalk/2021/07/18/TalkLuminy.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sat, 17 Jul 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
