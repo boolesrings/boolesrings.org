@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 Oct 2021 04:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 08:32:53 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 Oct 2021 04:38:44 GMT</pubDate>
+        <pubDate>Wed, 06 Oct 2021 08:32:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[(with P. Lücke) Sigma_1-definability at higher cardinals: Thin sets, almost disjoint families and long well-orders]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 04 Oct 2021 22:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Complicated colorings, revisited]]></title>
             <link>https://blog.assafrinot.com/?p=4790</link>
@@ -157,9 +164,9 @@
             <pubDate>Wed, 28 Jul 2021 19:53:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Winter Meeting of the ASL with the JMM - Lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2021/07/20/TalkASLJMM.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2021/07/20/TalkASLJMM.html</guid>
+            <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
@@ -174,13 +181,6 @@
             <title><![CDATA[DMV-ÖMG Annual Conference 2021 - Uniformization and internal absoluteness]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
