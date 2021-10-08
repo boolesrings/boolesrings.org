@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Oct 2021 12:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 16:49:06 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Oct 2021 12:45:50 GMT</pubDate>
+        <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -36,6 +36,13 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Thu, 30 Sep 2021 13:58:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refugees are welcome!]]></title>
+            <link>https://nickpgill.github.io/refugees-are-welcome</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/refugees-are-welcome</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel ZF set theory, Oxford, November 2021]]></title>
@@ -174,13 +181,6 @@
             <title><![CDATA[Trans-Alps Logic Seminar - TBA]]></title>
             <link>https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DMV-ÖMG Annual Conference 2021 - Uniformization and internal absoluteness]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
