@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Oct 2021 20:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:22:34 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Oct 2021 20:30:15 GMT</pubDate>
+        <pubDate>Fri, 29 Oct 2021 01:22:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,6 +22,13 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 04 Oct 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complicated colorings, revisited]]></title>
+            <link>https://blog.assafrinot.com/?p=4790</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4790</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 03 Oct 2021 14:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Davide Leonessi, MSc MFoCS, Oxford, September 2021]]></title>
@@ -85,6 +92,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/counting-to-infinity-poster/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 02 Sep 2021 14:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
+            <link>https://blog.assafrinot.com/?p=4699</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Borel complexity theory - Classification and structure]]></title>
@@ -167,20 +181,6 @@
             <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
             <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trans-Alps Logic Seminar - TBA]]></title>
-            <link>https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DMV-ÖMG Annual Conference 2021 - Uniformization and internal absoluteness]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
