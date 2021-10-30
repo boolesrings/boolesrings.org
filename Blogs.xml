@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Oct 2021 12:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 16:47:18 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Oct 2021 12:44:28 GMT</pubDate>
+        <pubDate>Sat, 30 Oct 2021 16:47:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -52,7 +52,7 @@
             <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel ZF set theory, Oxford, November 2021]]></title>
+            <title><![CDATA[A deflationary account of Fregean abstraction in Zermelo-Fraenkel ZF set theory, Oxford, November 2021]]></title>
             <link>http://jdh.hamkins.org/fregean-abstraction-in-zf-set-theory-oxford-november-2021/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-zf-set-theory-oxford-november-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
