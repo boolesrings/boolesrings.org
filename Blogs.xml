@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Nov 2021 20:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 01:29:54 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Nov 2021 20:30:33 GMT</pubDate>
+        <pubDate>Tue, 02 Nov 2021 01:29:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -73,6 +73,13 @@
             <pubDate>Wed, 22 Sep 2021 14:55:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jumps in the Borel complexity hierarchy]]></title>
+            <link>https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lectures on the Philosophy of Mathematics, Michaelmas term 2021, Oxford]]></title>
             <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</guid>
@@ -99,6 +106,13 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Borel complexity theory - Classification and structure]]></title>
+            <link>https://scoskey.org/presentation/borel-complexity-theory-classification-and-structure/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/borel-complexity-theory-classification-and-structure/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
@@ -150,39 +164,25 @@
             <pubDate>Sun, 08 Aug 2021 17:14:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math 275, Fall 2021]]></title>
+            <link>https://scoskey.org/course/2122f-275/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122f-275/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 301, Fall 2021]]></title>
+            <link>https://scoskey.org/course/2122f-301/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122f-301/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Review of Ungrading (Blum 2020) for use in UTM math courses]]></title>
             <link>https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</link>
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Wed, 28 Jul 2021 19:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trans-Alps Logic Seminar - TBA]]></title>
-            <link>https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkTransAlpsLogicSeminar.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DMV-ÖMG Annual Conference 2021 - Uniformization and internal absoluteness]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter Meeting of the ASL with the JMM - Lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2021/07/20/TalkASLJMM.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2021/07/20/TalkASLJMM.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
