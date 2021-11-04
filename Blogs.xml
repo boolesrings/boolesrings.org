@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Nov 2021 04:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 08:33:45 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Nov 2021 04:39:57 GMT</pubDate>
+        <pubDate>Thu, 04 Nov 2021 08:33:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Transfinite game values in infinite draughts]]></title>
+            <link>http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 Nov 2021 07:05:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the twin prime conjecture independent of Peano Arithmetic?]]></title>
             <link>http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2122f-301/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review of Ungrading (Blum 2020) for use in UTM math courses]]></title>
-            <link>https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Wed, 28 Jul 2021 19:53:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
