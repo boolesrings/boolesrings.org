@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Nov 2021 20:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 01:30:17 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Nov 2021 20:29:11 GMT</pubDate>
+        <pubDate>Sun, 07 Nov 2021 01:30:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The hierarchy of geometric constructibility: can we go back?]]></title>
+            <link>http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 06 Nov 2021 23:14:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The surprising strength of reflection in second-order set theory with abundant urelements, Konstanz, December 2021]]></title>
             <link>http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</link>
@@ -169,13 +176,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/linear-gradings-of-partial-orders/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 14 Aug 2021 21:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lattice of sets of natural numbers is rich]]></title>
-            <link>http://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 13 Aug 2021 21:33:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math 275, Fall 2021]]></title>
