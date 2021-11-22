@@ -4,11 +4,53 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Nov 2021 16:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 20:30:43 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Nov 2021 16:50:57 GMT</pubDate>
+        <pubDate>Mon, 22 Nov 2021 20:30:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The hierarchy of geometric constructibility: can we go back?]]></title>
+            <link>http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 06 Nov 2021 23:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The surprising strength of reflection in second-order set theory with abundant urelements, Konstanz, December 2021]]></title>
+            <link>http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 Nov 2021 16:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite draughts and the logic of infinitary games, Oslo, November 2021]]></title>
+            <link>http://jdh.hamkins.org/infinite-draughts-and-the-logic-of-infinitary-games-oslo-november-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-draughts-and-the-logic-of-infinitary-games-oslo-november-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 Nov 2021 12:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transfinite game values in infinite draughts]]></title>
+            <link>http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 Nov 2021 07:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the twin prime conjecture independent of Peano Arithmetic?]]></title>
+            <link>http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 01 Nov 2021 10:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frege’s philosophy of mathematics—Interview with Nathan Ormond, December 2021]]></title>
+            <link>http://jdh.hamkins.org/frege-philosophy-of-mathematics-interview-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/frege-philosophy-of-mathematics-interview-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 10 Oct 2021 08:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[(with P. Lücke) Sigma_1-definability at higher cardinals: Thin sets, almost disjoint families and long well-orders]]></title>
             <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</link>
@@ -22,6 +64,13 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4790</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 03 Oct 2021 14:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Davide Leonessi, MSc MFoCS, Oxford, September 2021]]></title>
+            <link>http://jdh.hamkins.org/davide-leonessi/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/davide-leonessi/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 01 Oct 2021 09:51:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thursday September 30 – National Day for Truth and Reconciliation]]></title>
@@ -38,11 +87,46 @@
             <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A deflationary account of Fregean abstraction in Zermelo-Fraenkel ZF set theory, Oxford, November 2021]]></title>
+            <link>http://jdh.hamkins.org/fregean-abstraction-in-zf-set-theory-oxford-november-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-zf-set-theory-oxford-november-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 23 Sep 2021 09:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My favorite theorem]]></title>
+            <link>http://jdh.hamkins.org/my-favorite-theorem/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/my-favorite-theorem/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 22 Sep 2021 14:55:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jumps in the Borel complexity hierarchy]]></title>
             <link>https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</link>
             <guid isPermaLink="false">https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lectures on the Philosophy of Mathematics, Michaelmas term 2021, Oxford]]></title>
+            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 07 Sep 2021 19:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book review, Catarina Dutilh Novaes, The dialogical roots of deduction]]></title>
+            <link>http://jdh.hamkins.org/book-review-catarina-dutilh-novaes-the-dialogical-roots-of-deduction/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/book-review-catarina-dutilh-novaes-the-dialogical-roots-of-deduction/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 05 Sep 2021 17:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Counting to Infinity and Beyond]]></title>
+            <link>http://jdh.hamkins.org/counting-to-infinity-poster/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/counting-to-infinity-poster/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 02 Sep 2021 14:21:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
@@ -59,11 +143,25 @@
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
+            <link>http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 28 Aug 2021 14:02:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[(with P. Schlicht) Uniformization and Internal Absoluteness]]></title>
             <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</link>
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 22 Aug 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An algebra of orders]]></title>
+            <link>http://jdh.hamkins.org/an-algebra-of-orders/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/an-algebra-of-orders/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 20 Aug 2021 19:57:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set Theory Conference in Jerusalem - TBA]]></title>
@@ -73,116 +171,18 @@
             <pubDate>Sun, 15 Aug 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Linear gradings of partial orders]]></title>
+            <link>http://jdh.hamkins.org/linear-gradings-of-partial-orders/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/linear-gradings-of-partial-orders/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 14 Aug 2021 21:37:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Math 275, Fall 2021]]></title>
             <link>https://scoskey.org/course/2122f-275/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2122f-275/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 301, Fall 2021]]></title>
-            <link>https://scoskey.org/course/2122f-301/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2122f-301/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review of Ungrading (Blum 2020) for use in UTM math courses]]></title>
-            <link>https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2021/07/28/review-of-ungrading-blum-2020-for-use-in-utm-math-courses/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Wed, 28 Jul 2021 19:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter Meeting of the ASL with the JMM - Lower bounds in set theory]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2021/07/22/TalkASLJMM.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2021/07/22/TalkASLJMM.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Wed, 21 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vorstellungsvortrag an der Fakultät für Mathematik und Geoinformation - The Interplay of Determinacy, Large Cardinals, and Inner Models]]></title>
-            <link>https://muellersandra.github.io/talk/upcomingtalk/2021/07/21/VorstellungsvortragTUHabil.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/upcomingtalk/2021/07/21/VorstellungsvortragTUHabil.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Tue, 20 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with C. J. Eagle, C. Hamel, and F. D. Tall) An undecidable extension of Morley’s theorem on the number of countable models]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/07/20/PaperMorley.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DMV-ÖMG Annual Conference 2021 - Uniformization and internal absoluteness]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/07/20/TalkDMVOEMGPassau.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross-Alps Logic Seminar - Large Cardinals and Determinacy]]></title>
-            <link>https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkCrossAlpsLogicSeminar.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invsemtalk/upcomingtalk/2021/07/20/TalkCrossAlpsLogicSeminar.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 19 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16th International Luminy Workshop in Set Theory - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/talk/invconftalk/upcomingtalk/2021/07/18/TalkLuminy.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/talk/invconftalk/upcomingtalk/2021/07/18/TalkLuminy.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sat, 17 Jul 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tukey morphisms between finite binary relations]]></title>
-            <link>https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/tukey-morphisms-between-finite-binary-relations/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Engaged]]></title>
-            <link>http://karagila.org/2021/engaged/</link>
-            <guid isPermaLink="false">http://karagila.org/2021/engaged/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 09 Jul 2021 16:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? I: Basic theory and subnormal ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=4770</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4770</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 29 Jun 2021 13:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logic Colloquium Poznan - The strength of determinacy when all sets are universally Baire]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/06/23/TalkLogicColloquiumPoznan.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/06/23/TalkLogicColloquiumPoznan.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Tue, 22 Jun 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Knaster and friends III: Subadditive colorings]]></title>
-            <link>https://blog.assafrinot.com/?p=4761</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4761</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 11 Jun 2021 19:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zariski geometries and quantum mechanics]]></title>
-            <link>https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</link>
-            <guid isPermaLink="false">https://scoskey.org/masters-thesis/zariski-geometries-and-quantum-mechanics/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four color theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/four-color-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/four-color-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
