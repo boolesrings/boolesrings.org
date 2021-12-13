@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Dec 2021 04:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 08:35:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Dec 2021 04:41:34 GMT</pubDate>
+        <pubDate>Mon, 13 Dec 2021 08:35:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -171,18 +171,18 @@
             <pubDate>Sun, 15 Aug 2021 22:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Logic Colloquium, University of Vienna - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/08/15/TalkLogicColloquiumUnivie.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/08/15/TalkLogicColloquiumUnivie.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sat, 14 Aug 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Linear gradings of partial orders]]></title>
             <link>http://jdh.hamkins.org/linear-gradings-of-partial-orders/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/linear-gradings-of-partial-orders/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 14 Aug 2021 21:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 275, Fall 2021]]></title>
-            <link>https://scoskey.org/course/2122f-275/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2122f-275/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
