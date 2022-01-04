@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Jan 2022 20:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 01:34:23 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Jan 2022 20:32:02 GMT</pubDate>
+        <pubDate>Tue, 04 Jan 2022 01:34:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[PhDs in Logic XIII, Turin - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2022/01/03/TalkPhDsInLogic.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2022/01/03/TalkPhDsInLogic.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sun, 02 Jan 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European Set Theory Conference, Turin - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/01/02/TalkESTC.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/01/02/TalkESTC.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coming to Agreement, a logic puzzle for Oxford admissions interviews]]></title>
             <link>http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/an-algebra-of-orders/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 20 Aug 2021 19:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set Theory Conference in Jerusalem - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/08/16/TalkJerusalem.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/08/16/TalkJerusalem.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sun, 15 Aug 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logic Colloquium, University of Vienna - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/08/15/TalkLogicColloquiumUnivie.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2021/08/15/TalkLogicColloquiumUnivie.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sat, 14 Aug 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
