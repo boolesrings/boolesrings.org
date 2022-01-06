@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Jan 2022 20:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 01:41:26 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Jan 2022 20:32:20 GMT</pubDate>
+        <pubDate>Thu, 06 Jan 2022 01:41:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,6 +22,20 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/01/02/TalkESTC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 01 Jan 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 301, Spring 2022]]></title>
+            <link>https://scoskey.org/course/2122s-301/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122s-301/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 404+504, Spring 2022]]></title>
+            <link>https://scoskey.org/course/2122s-504/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122s-504/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coming to Agreement, a logic puzzle for Oxford admissions interviews]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 28 Aug 2021 14:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with P. Schlicht) Uniformization and Internal Absoluteness]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sun, 22 Aug 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An algebra of orders]]></title>
-            <link>http://jdh.hamkins.org/an-algebra-of-orders/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/an-algebra-of-orders/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 20 Aug 2021 19:57:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
