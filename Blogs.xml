@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Jan 2022 12:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 16:50:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Jan 2022 12:48:29 GMT</pubDate>
+        <pubDate>Sat, 08 Jan 2022 16:50:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Philosophy of Mathematics, Notre Dame Spring 2022]]></title>
+            <link>http://jdh.hamkins.org/philosophy-of-mathematics-notre-dame-spring-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/philosophy-of-mathematics-notre-dame-spring-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 08 Jan 2022 15:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O’Hara Professor of Philosophy and Mathematics, University of Notre Dame]]></title>
+            <link>http://jdh.hamkins.org/ohara-professor-of-philosophy-and-mathematics-notre-dame/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/ohara-professor-of-philosophy-and-mathematics-notre-dame/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 08 Jan 2022 14:53:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PhDs in Logic XIII, Turin - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2022/01/03/TalkPhDsInLogic.html</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Borel complexity theory - Classification and structure]]></title>
-            <link>https://scoskey.org/presentation/borel-complexity-theory-classification-and-structure/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/borel-complexity-theory-classification-and-structure/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite sets and Foundations—Interviewed on the Daniel Rubin Show]]></title>
-            <link>http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-sets-and-foundations-interviewed-on-the-daniel-rubin-show/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 28 Aug 2021 14:02:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
