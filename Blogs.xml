@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Jan 2022 12:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 16:50:44 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Jan 2022 12:48:46 GMT</pubDate>
+        <pubDate>Sat, 15 Jan 2022 16:50:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -43,6 +43,20 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/01/02/TalkESTC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 01 Jan 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 301, Spring 2022]]></title>
+            <link>https://scoskey.org/course/2122s-301/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122s-301/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 404+504, Spring 2022]]></title>
+            <link>https://scoskey.org/course/2122s-504/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122s-504/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coming to Agreement, a logic puzzle for Oxford admissions interviews]]></title>
@@ -143,6 +157,13 @@
             <pubDate>Wed, 22 Sep 2021 14:55:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jumps in the Borel complexity hierarchy]]></title>
+            <link>https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lectures on the Philosophy of Mathematics, Michaelmas term 2021, Oxford]]></title>
             <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</guid>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/counting-to-infinity-poster/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 02 Sep 2021 14:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sigma-Prikry forcing III: Down to Aleph_omega]]></title>
-            <link>https://blog.assafrinot.com/?p=4699</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4699</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 01 Sep 2021 06:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with P. Schlicht) Uniformization and Internal Absoluteness]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/08/23/PaperUniformizationInternalAbsoluteness.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sun, 22 Aug 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set Theory Conference in Jerusalem - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/08/17/TalkJerusalem.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2021/08/17/TalkJerusalem.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 16 Aug 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
