@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Jan 2022 01:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 04:38:11 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Jan 2022 01:26:33 GMT</pubDate>
+        <pubDate>Wed, 19 Jan 2022 04:38:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinite Hex is a draw]]></title>
+            <link>http://jdh.hamkins.org/infinite-hex-is-a-draw/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-hex-is-a-draw/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 19 Jan 2022 01:55:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The model theory of set-theoretic mereology, Notre Dame Math Logic Seminar, January 2022]]></title>
             <link>http://jdh.hamkins.org/model-theory-of-set-theoretic-mereology-notre-dame-math-logic-seminar-january-2022/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lectures on the Philosophy of Mathematics, Michaelmas term 2021, Oxford]]></title>
-            <link>http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-michaelmas-term-2021-oxford/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 07 Sep 2021 19:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
