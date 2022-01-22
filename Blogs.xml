@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Jan 2022 20:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 01:23:17 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Jan 2022 20:27:34 GMT</pubDate>
+        <pubDate>Sat, 22 Jan 2022 01:23:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -85,6 +85,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 27 Dec 2021 21:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The PID controller algorithm]]></title>
+            <link>https://scoskey.org/senior-thesis/pid-algorithm/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pid-algorithm/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The hierarchy of geometric constructibility: can we go back?]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/my-favorite-theorem/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 22 Sep 2021 14:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jumps in the Borel complexity hierarchy]]></title>
-            <link>https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
