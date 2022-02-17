@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Feb 2022 20:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:22:51 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Feb 2022 20:28:43 GMT</pubDate>
+        <pubDate>Thu, 17 Feb 2022 01:22:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Winter Meeting of the ASL with the JMM - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Tue, 15 Feb 2022 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pluralism in the ontology of mathematics, MaMuPhi, Paris, February 2022]]></title>
             <link>http://jdh.hamkins.org/pluralism-in-the-ontology-of-mathematics-mamuphi-paris-february-2022/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://nickpgill.github.io/refugees-are-welcome</guid>
             <dc:creator><![CDATA[Nick Gill]]></dc:creator>
             <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A deflationary account of Fregean abstraction in Zermelo-Fraenkel ZF set theory, Oxford, November 2021]]></title>
-            <link>http://jdh.hamkins.org/fregean-abstraction-in-zf-set-theory-oxford-november-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-zf-set-theory-oxford-november-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 23 Sep 2021 09:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
