@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Feb 2022 12:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 16:44:44 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Feb 2022 12:47:15 GMT</pubDate>
+        <pubDate>Tue, 22 Feb 2022 16:44:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinite Wordle and the mastermind numbers, CUNY Logic Workshop, March 2022]]></title>
+            <link>http://jdh.hamkins.org/infinite-wordle-and-the-mastermind-numbers-cuny-logic-workshop-march-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-and-the-mastermind-numbers-cuny-logic-workshop-march-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 22 Feb 2022 16:36:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winter Meeting of the ASL with the JMM - TBA]]></title>
             <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Thu, 30 Sep 2021 13:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Refugees are welcome!]]></title>
-            <link>https://nickpgill.github.io/refugees-are-welcome</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/refugees-are-welcome</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
