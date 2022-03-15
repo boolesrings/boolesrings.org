@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Mar 2022 20:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 01:47:53 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Mar 2022 20:31:48 GMT</pubDate>
+        <pubDate>Tue, 15 Mar 2022 01:47:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinite Wordle and the Mastermind numbers]]></title>
+            <link>http://jdh.hamkins.org/infinite-wordle-mastermind/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-mastermind/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 15 Mar 2022 00:37:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Was Ulam right? II: Small width and general ideals]]></title>
             <link>https://blog.assafrinot.com/?p=4818</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4790</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 03 Oct 2021 14:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Davide Leonessi, MSc MFoCS, Oxford, September 2021]]></title>
-            <link>http://jdh.hamkins.org/davide-leonessi/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/davide-leonessi/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 01 Oct 2021 09:51:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
