@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Mar 2022 16:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 20:31:46 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Mar 2022 16:46:12 GMT</pubDate>
+        <pubDate>Mon, 28 Mar 2022 20:31:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A new small Dowker space]]></title>
+            <link>https://blog.assafrinot.com/?p=4823</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4823</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2022 17:18:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Infinite Wordle and the Mastermind numbers]]></title>
             <link>http://jdh.hamkins.org/infinite-wordle-mastermind/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 04 Oct 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complicated colorings, revisited]]></title>
-            <link>https://blog.assafrinot.com/?p=4790</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4790</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 03 Oct 2021 14:58:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
