@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Apr 2022 16:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 20:30:29 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Apr 2022 16:44:06 GMT</pubDate>
+        <pubDate>Sat, 09 Apr 2022 20:30:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,13 +15,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/surprising-strength-of-reflection-with-abundant-urelements-cuny-set-theory-seminar-april-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 08 Apr 2022 20:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changes]]></title>
-            <link>http://karagila.org/2022/changes/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/changes/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2022 21:02:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A new small Dowker space]]></title>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 01 Nov 2021 10:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(with P. Lücke) Sigma_1-definability at higher cardinals: Thin sets, almost disjoint families and long well-orders]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 04 Oct 2021 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
