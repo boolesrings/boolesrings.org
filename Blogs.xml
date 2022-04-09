@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Apr 2022 20:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 01:55:29 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Apr 2022 20:30:45 GMT</pubDate>
+        <pubDate>Sat, 09 Apr 2022 01:55:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The surprising strength of reflection in second-order set theory with abundant urelements, CUNY Set Theory seminar, April 2022]]></title>
+            <link>http://jdh.hamkins.org/surprising-strength-of-reflection-with-abundant-urelements-cuny-set-theory-seminar-april-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/surprising-strength-of-reflection-with-abundant-urelements-cuny-set-theory-seminar-april-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 20:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Changes]]></title>
             <link>http://karagila.org/2022/changes/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 01 Nov 2021 10:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frege’s philosophy of mathematics—Interview with Nathan Ormond, December 2021]]></title>
-            <link>http://jdh.hamkins.org/frege-philosophy-of-mathematics-interview-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/frege-philosophy-of-mathematics-interview-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 10 Oct 2021 08:43:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
