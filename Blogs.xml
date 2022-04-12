@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Apr 2022 12:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 16:47:20 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 Apr 2022 12:56:37 GMT</pubDate>
+        <pubDate>Tue, 12 Apr 2022 16:47:20 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -122,11 +122,32 @@
             <pubDate>Sat, 01 Jan 2022 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math 301, Spring 2022]]></title>
+            <link>https://scoskey.org/course/2122s-301/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122s-301/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 404+504, Spring 2022]]></title>
+            <link>https://scoskey.org/course/2122s-504/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2122s-504/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coming to Agreement, a logic puzzle for Oxford admissions interviews]]></title>
             <link>http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 27 Dec 2021 21:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The PID controller algorithm]]></title>
+            <link>https://scoskey.org/senior-thesis/pid-algorithm/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pid-algorithm/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The hierarchy of geometric constructibility: can we go back?]]></title>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 01 Nov 2021 10:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with P. Lücke) Sigma_1-definability at higher cardinals: Thin sets, almost disjoint families and long well-orders]]></title>
-            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 04 Oct 2021 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complicated colorings, revisited]]></title>
-            <link>https://blog.assafrinot.com/?p=4790</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4790</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 03 Oct 2021 14:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thursday September 30 – National Day for Truth and Reconciliation]]></title>
-            <link>https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Thu, 30 Sep 2021 13:58:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
