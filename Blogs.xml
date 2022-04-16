@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 Apr 2022 16:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 20:30:13 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Apr 2022 16:44:38 GMT</pubDate>
+        <pubDate>Sat, 16 Apr 2022 20:30:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -24,25 +24,11 @@
             <pubDate>Thu, 31 Mar 2022 21:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A new small Dowker space]]></title>
-            <link>https://blog.assafrinot.com/?p=4823</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4823</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2022 17:18:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite Wordle and the Mastermind numbers]]></title>
             <link>http://jdh.hamkins.org/infinite-wordle-mastermind/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-mastermind/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 15 Mar 2022 00:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? II: Small width and general ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=4818</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4818</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2022 04:43:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite Wordle and the mastermind numbers, CUNY Logic Workshop, March 2022]]></title>
@@ -85,13 +71,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/bi-interpretation-in-set-theory-oberwolfach-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 17 Jan 2022 22:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2022]]></title>
-            <link>https://blog.assafrinot.com/?p=4808</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4808</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 10 Jan 2022 12:32:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philosophy of Mathematics, Notre Dame Spring 2022]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 01 Nov 2021 10:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(with P. Lücke) Sigma_1-definability at higher cardinals: Thin sets, almost disjoint families and long well-orders]]></title>
+            <link>https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/submitted/richterv844/loreal/2021/10/05/PaperSigma1Definability.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 04 Oct 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thursday September 30 – National Day for Truth and Reconciliation]]></title>
+            <link>https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2021/09/30/thursday-september-30-national-day-for-truth-and-reconciliation/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Thu, 30 Sep 2021 13:58:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refugees are welcome!]]></title>
+            <link>https://nickpgill.github.io/refugees-are-welcome</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/refugees-are-welcome</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
