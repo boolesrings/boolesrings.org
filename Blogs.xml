@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Apr 2022 20:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 02:30:15 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Apr 2022 20:34:56 GMT</pubDate>
+        <pubDate>Fri, 22 Apr 2022 02:30:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Reflection in second-order set theory with abundant urelements bi-interprets a supercompact cardinal]]></title>
+            <link>http://jdh.hamkins.org/second-order-reflection-with-abundant-urelements/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/second-order-reflection-with-abundant-urelements/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 22 Apr 2022 00:11:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The surprising strength of reflection in second-order set theory with abundant urelements, CUNY Set Theory seminar, April 2022]]></title>
             <link>http://jdh.hamkins.org/surprising-strength-of-reflection-with-abundant-urelements-cuny-set-theory-seminar-april-2022/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 04 Nov 2021 07:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the twin prime conjecture independent of Peano Arithmetic?]]></title>
-            <link>http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/is-the-twin-prime-conjecture-independent-of-peano-arithmetic/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 01 Nov 2021 10:00:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
