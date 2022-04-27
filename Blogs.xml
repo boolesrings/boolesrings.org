@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Apr 2022 08:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 13:01:28 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Apr 2022 08:40:37 GMT</pubDate>
+        <pubDate>Wed, 27 Apr 2022 13:01:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinite Games, Frivolities of the Gods, Logic at Large Lecture, May 2022]]></title>
+            <link>http://jdh.hamkins.org/infinite-games-frivolities-of-the-gods-logic-at-large-lecture-may-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-games-frivolities-of-the-gods-logic-at-large-lecture-may-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 27 Apr 2022 11:44:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reflection in second-order set theory with abundant urelements bi-interprets a supercompact cardinal]]></title>
             <link>http://jdh.hamkins.org/second-order-reflection-with-abundant-urelements/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-draughts-and-the-logic-of-infinitary-games-oslo-november-2021/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 04 Nov 2021 12:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transfinite game values in infinite draughts]]></title>
-            <link>http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/transfinite-game-values-in-infinite-draughts/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 04 Nov 2021 07:05:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
