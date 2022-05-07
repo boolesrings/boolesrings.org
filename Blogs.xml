@@ -4,11 +4,32 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 May 2022 20:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 02:02:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 May 2022 20:32:23 GMT</pubDate>
+        <pubDate>Sat, 07 May 2022 02:02:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Barcodes and their secrets]]></title>
+            <link>https://scoskey.org/senior-thesis/barcodes/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/barcodes/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A different way to approach integration by parts]]></title>
+            <link>https://scoskey.org/senior-thesis/integration-by-parts/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/integration-by-parts/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ramsey’s theorem]]></title>
+            <link>https://scoskey.org/senior-thesis/ramseys-theorem/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/ramseys-theorem/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ramsey theory over partitions II: Negative Ramsey relations and pump-up theorems]]></title>
             <link>https://blog.assafrinot.com/?p=4846</link>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 27 Dec 2021 21:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The PID controller algorithm]]></title>
-            <link>https://scoskey.org/senior-thesis/pid-algorithm/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pid-algorithm/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The hierarchy of geometric constructibility: can we go back?]]></title>
-            <link>http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 06 Nov 2021 23:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The surprising strength of reflection in second-order set theory with abundant urelements, Konstanz, December 2021]]></title>
-            <link>http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 04 Nov 2021 16:24:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
