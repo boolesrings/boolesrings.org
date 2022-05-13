@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 May 2022 20:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 02:37:59 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 May 2022 20:33:26 GMT</pubDate>
+        <pubDate>Fri, 13 May 2022 02:37:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -29,13 +29,6 @@
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/ramseys-theorem/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramsey theory over partitions II: Negative Ramsey relations and pump-up theorems]]></title>
-            <link>https://blog.assafrinot.com/?p=4846</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4846</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 27 Apr 2022 19:40:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite Games, Frivolities of the Gods, Logic at Large Lecture, May 2022]]></title>
@@ -66,25 +59,11 @@
             <pubDate>Thu, 31 Mar 2022 21:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A new small Dowker space]]></title>
-            <link>https://blog.assafrinot.com/?p=4823</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4823</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2022 17:18:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite Wordle and the Mastermind numbers]]></title>
             <link>http://jdh.hamkins.org/infinite-wordle-mastermind/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-mastermind/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 15 Mar 2022 00:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? II: Small width and general ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=4818</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4818</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2022 04:43:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite Wordle and the mastermind numbers, CUNY Logic Workshop, March 2022]]></title>
@@ -127,13 +106,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/bi-interpretation-in-set-theory-oberwolfach-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 17 Jan 2022 22:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2022]]></title>
-            <link>https://blog.assafrinot.com/?p=4808</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4808</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 10 Jan 2022 12:32:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philosophy of Mathematics, Notre Dame Spring 2022]]></title>
@@ -183,6 +155,34 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 27 Dec 2021 21:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The PID controller algorithm]]></title>
+            <link>https://scoskey.org/senior-thesis/pid-algorithm/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/pid-algorithm/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hierarchy of geometric constructibility: can we go back?]]></title>
+            <link>http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-hierarchy-of-geometric-constructibility-can-we-go-back/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 06 Nov 2021 23:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The surprising strength of reflection in second-order set theory with abundant urelements, Konstanz, December 2021]]></title>
+            <link>http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/surprising-strength-of-reflection-konstanz-december-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 Nov 2021 16:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite draughts and the logic of infinitary games, Oslo, November 2021]]></title>
+            <link>http://jdh.hamkins.org/infinite-draughts-and-the-logic-of-infinitary-games-oslo-november-2021/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-draughts-and-the-logic-of-infinitary-games-oslo-november-2021/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 Nov 2021 12:24:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
