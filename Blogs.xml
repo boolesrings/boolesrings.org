@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 May 2022 08:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 13:02:03 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 May 2022 08:40:23 GMT</pubDate>
+        <pubDate>Mon, 16 May 2022 13:02:03 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[(with P. Schlicht, D. Schrittesser, and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
+            <link>https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Sun, 01 May 2022 22:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barcodes and their secrets]]></title>
             <link>https://scoskey.org/senior-thesis/barcodes/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2122s-504/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coming to Agreement, a logic puzzle for Oxford admissions interviews]]></title>
-            <link>http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 27 Dec 2021 21:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
