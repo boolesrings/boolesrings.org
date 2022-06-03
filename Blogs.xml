@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jun 2022 02:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 04:39:02 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jun 2022 02:10:36 GMT</pubDate>
+        <pubDate>Fri, 03 Jun 2022 04:39:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -64,13 +64,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/surprising-strength-of-reflection-with-abundant-urelements-cuny-set-theory-seminar-april-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 08 Apr 2022 20:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changes]]></title>
-            <link>http://karagila.org/2022/changes/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/changes/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2022 21:02:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A new small Dowker space]]></title>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://scoskey.org/course/2122s-504/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coming to Agreement, a logic puzzle for Oxford admissions interviews]]></title>
+            <link>http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 27 Dec 2021 21:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
