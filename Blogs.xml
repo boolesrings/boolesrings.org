@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jun 2022 13:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 16:49:14 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jun 2022 13:00:52 GMT</pubDate>
+        <pubDate>Mon, 06 Jun 2022 16:49:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -136,6 +136,13 @@
             <pubDate>Mon, 17 Jan 2022 22:20:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Baltic Set Theory Seminar - A stationary-tower-free proof of Woodin’s Sealing Theorem]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Fri, 14 Jan 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MFO workshop in Set Theory, January 2022]]></title>
             <link>https://blog.assafrinot.com/?p=4808</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4808</guid>
@@ -174,13 +181,6 @@
             <title><![CDATA[Math 301, Spring 2022]]></title>
             <link>https://scoskey.org/course/2122s-301/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2122s-301/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 404+504, Spring 2022]]></title>
-            <link>https://scoskey.org/course/2122s-504/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2122s-504/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
         </item>
