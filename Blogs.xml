@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jun 2022 20:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 02:41:15 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jun 2022 20:29:44 GMT</pubDate>
+        <pubDate>Sun, 19 Jun 2022 02:41:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The ontology of mathematics, Japan Association for the Philosophy of Science, June 2022]]></title>
+            <link>http://jdh.hamkins.org/the-ontology-of-mathematics-japan-association-for-the-philosophy-of-science-june-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-ontology-of-mathematics-japan-association-for-the-philosophy-of-science-june-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 18 Jun 2022 23:53:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[(with P. Schlicht, D. Schrittesser, and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
             <link>https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/01/02/TalkESTC.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sat, 01 Jan 2022 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 301, Spring 2022]]></title>
-            <link>https://scoskey.org/course/2122s-301/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2122s-301/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
