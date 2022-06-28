@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jun 2022 20:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 02:35:11 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jun 2022 20:31:04 GMT</pubDate>
+        <pubDate>Tue, 28 Jun 2022 02:35:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Fregean abstraction in set theory—a deflationary account, Italian Philosophy of Mathematics, September 2022]]></title>
+            <link>http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 28 Jun 2022 01:29:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nonlinearity and illfoundedness in the hierarchy of consistency strength and the question of naturality, Italy (AILA), September 2022]]></title>
             <link>http://jdh.hamkins.org/nonlinearity-and-illfoundedness-in-consistency-strength-aila-2022/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4808</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Mon, 10 Jan 2022 12:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philosophy of Mathematics, Notre Dame Spring 2022]]></title>
-            <link>http://jdh.hamkins.org/philosophy-of-mathematics-notre-dame-spring-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/philosophy-of-mathematics-notre-dame-spring-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 08 Jan 2022 15:13:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
