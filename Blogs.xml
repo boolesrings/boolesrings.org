@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Jul 2022 20:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 02:35:35 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Jul 2022 20:33:16 GMT</pubDate>
+        <pubDate>Sat, 02 Jul 2022 02:35:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Checkmate is not the same as a forced win in simplified chess]]></title>
+            <link>http://jdh.hamkins.org/checkmate-is-not-the-same-as-a-forced-win-in-simplified-chess/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/checkmate-is-not-the-same-as-a-forced-win-in-simplified-chess/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 02 Jul 2022 01:46:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fregean abstraction in set theory—a deflationary account, Italian Philosophy of Mathematics, September 2022]]></title>
             <link>http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Fri, 14 Jan 2022 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2022]]></title>
-            <link>https://blog.assafrinot.com/?p=4808</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4808</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 10 Jan 2022 12:32:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
