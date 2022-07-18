@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 Jul 2022 05:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:38:42 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Jul 2022 05:02:32 GMT</pubDate>
+        <pubDate>Mon, 18 Jul 2022 08:38:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -71,27 +71,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 01 May 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcodes and their secrets]]></title>
-            <link>https://scoskey.org/senior-thesis/barcodes/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/barcodes/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A different way to approach integration by parts]]></title>
-            <link>https://scoskey.org/senior-thesis/integration-by-parts/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/integration-by-parts/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramsey’s theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/ramseys-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/ramseys-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ramsey theory over partitions II: Negative Ramsey relations and pump-up theorems]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/model-theory-of-set-theoretic-mereology-notre-dame-math-logic-seminar-february-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 18 Jan 2022 01:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bi-interpretation in set theory, Oberwolfach Set Theory Conference, January 2022]]></title>
+            <link>http://jdh.hamkins.org/bi-interpretation-in-set-theory-oberwolfach-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/bi-interpretation-in-set-theory-oberwolfach-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 17 Jan 2022 22:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baltic Set Theory Seminar - A stationary-tower-free proof of Woodin’s Sealing Theorem]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Fri, 14 Jan 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MFO workshop in Set Theory, January 2022]]></title>
+            <link>https://blog.assafrinot.com/?p=4808</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4808</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Mon, 10 Jan 2022 12:32:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
