@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Jul 2022 16:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 20:30:09 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Jul 2022 16:43:14 GMT</pubDate>
+        <pubDate>Sat, 30 Jul 2022 20:30:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -36,13 +36,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-logic-of-definite-descriptions/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 19 Jul 2022 15:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A club guessing toolbox I]]></title>
-            <link>https://blog.assafrinot.com/?p=4858</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ATHEN STEM Accessibility Conference 2022]]></title>
@@ -122,13 +115,6 @@
             <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ramsey theory over partitions II: Negative Ramsey relations and pump-up theorems]]></title>
-            <link>https://blog.assafrinot.com/?p=4846</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4846</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 27 Apr 2022 19:40:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite Games, Frivolities of the Gods, Logic at Large Lecture, May 2022]]></title>
             <link>http://jdh.hamkins.org/infinite-games-frivolities-of-the-gods-logic-at-large-lecture-may-2022/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-games-frivolities-of-the-gods-logic-at-large-lecture-may-2022/</guid>
@@ -157,13 +143,6 @@
             <pubDate>Thu, 31 Mar 2022 21:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A new small Dowker space]]></title>
-            <link>https://blog.assafrinot.com/?p=4823</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4823</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2022 17:18:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite Wordle and the Mastermind numbers]]></title>
             <link>http://jdh.hamkins.org/infinite-wordle-mastermind/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-mastermind/</guid>
@@ -171,18 +150,39 @@
             <pubDate>Tue, 15 Mar 2022 00:37:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Was Ulam right? II: Small width and general ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=4818</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4818</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2022 04:43:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite Wordle and the mastermind numbers, CUNY Logic Workshop, March 2022]]></title>
             <link>http://jdh.hamkins.org/infinite-wordle-and-the-mastermind-numbers-cuny-logic-workshop-march-2022/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-and-the-mastermind-numbers-cuny-logic-workshop-march-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 22 Feb 2022 16:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter Meeting of the ASL with the JMM - Universally Baire Sets, Determinacy, and Inner Models]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Tue, 15 Feb 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pluralism in the ontology of mathematics, MaMuPhi, Paris, February 2022]]></title>
+            <link>http://jdh.hamkins.org/pluralism-in-the-ontology-of-mathematics-mamuphi-paris-february-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pluralism-in-the-ontology-of-mathematics-mamuphi-paris-february-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 04 Feb 2022 21:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite Hex is a draw]]></title>
+            <link>http://jdh.hamkins.org/infinite-hex-is-a-draw/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-hex-is-a-draw/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 19 Jan 2022 01:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The model theory of set-theoretic mereology, Notre Dame Math Logic Seminar, February 2022]]></title>
+            <link>http://jdh.hamkins.org/model-theory-of-set-theoretic-mereology-notre-dame-math-logic-seminar-february-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/model-theory-of-set-theoretic-mereology-notre-dame-math-logic-seminar-february-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 18 Jan 2022 01:12:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
