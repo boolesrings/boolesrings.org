@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Aug 2022 13:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 16:45:57 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Aug 2022 13:00:25 GMT</pubDate>
+        <pubDate>Thu, 11 Aug 2022 16:45:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Math 287, Fall 2022]]></title>
+            <link>https://scoskey.org/course/2223f-287/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2223f-287/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 403+503, Fall 2022]]></title>
+            <link>https://scoskey.org/course/2223f-503/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Question on Dually Dedekind-infinite sets]]></title>
             <link>http://karagila.org/2022/dual-df-maps/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-mastermind/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 15 Mar 2022 00:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? II: Small width and general ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=4818</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4818</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2022 04:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite Wordle and the mastermind numbers, CUNY Logic Workshop, March 2022]]></title>
-            <link>http://jdh.hamkins.org/infinite-wordle-and-the-mastermind-numbers-cuny-logic-workshop-march-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-wordle-and-the-mastermind-numbers-cuny-logic-workshop-march-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 22 Feb 2022 16:36:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
