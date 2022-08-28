@@ -4,11 +4,32 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Aug 2022 12:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 16:44:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Aug 2022 12:52:28 GMT</pubDate>
+        <pubDate>Sun, 28 Aug 2022 16:44:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The math tea argument—must there be numbers we cannot describe or define? Pavia Logic Seminar]]></title>
+            <link>http://jdh.hamkins.org/the-math-tea-argument-must-there-be-numbers-we-cannot-describe-or-define-pavia-logic-seminar-sep-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-math-tea-argument-must-there-be-numbers-we-cannot-describe-or-define-pavia-logic-seminar-sep-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2022 15:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Workshop on the Set-theoretic Multiverse, Konstanz, September 2022]]></title>
+            <link>http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2022 15:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable end-extensions of the universe, Sophia 2022, Salzburg]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-end-extensions-of-the-universe-sophia-2022-salzburg/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-end-extensions-of-the-universe-sophia-2022-salzburg/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2022 14:03:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nonlinearity and illfoundedness in the hierarchy of large cardinal consistency strength]]></title>
             <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/ramseys-theorem/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramsey theory over partitions II: Negative Ramsey relations and pump-up theorems]]></title>
-            <link>https://blog.assafrinot.com/?p=4846</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4846</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 27 Apr 2022 19:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite Games, Frivolities of the Gods, Logic at Large Lecture, May 2022]]></title>
-            <link>http://jdh.hamkins.org/infinite-games-frivolities-of-the-gods-logic-at-large-lecture-may-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-games-frivolities-of-the-gods-logic-at-large-lecture-may-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 27 Apr 2022 11:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflection in second-order set theory with abundant urelements bi-interprets a supercompact cardinal]]></title>
-            <link>http://jdh.hamkins.org/second-order-reflection-with-abundant-urelements/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/second-order-reflection-with-abundant-urelements/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 22 Apr 2022 00:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
