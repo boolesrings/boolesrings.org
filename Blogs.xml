@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Sep 2022 20:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 03:06:04 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Sep 2022 20:32:50 GMT</pubDate>
+        <pubDate>Mon, 05 Sep 2022 03:06:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Everything Wrong With The Princess Bride]]></title>
+            <link>http://karagila.org/2022/the-princess-bride/</link>
+            <guid isPermaLink="false">http://karagila.org/2022/the-princess-bride/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2022 23:38:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The math tea argument—must there be numbers we cannot describe or define? Pavia Logic Seminar]]></title>
             <link>http://jdh.hamkins.org/the-math-tea-argument-must-there-be-numbers-we-cannot-describe-or-define-pavia-logic-seminar-sep-2022/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 01 May 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcodes and their secrets]]></title>
-            <link>https://scoskey.org/senior-thesis/barcodes/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/barcodes/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
