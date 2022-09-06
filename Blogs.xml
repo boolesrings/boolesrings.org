@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Sep 2022 20:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 03:11:22 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Sep 2022 20:32:56 GMT</pubDate>
+        <pubDate>Tue, 06 Sep 2022 03:11:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -122,6 +122,13 @@
             <pubDate>Tue, 19 Jul 2022 15:31:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A club guessing toolbox I]]></title>
+            <link>https://blog.assafrinot.com/?p=4858</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ATHEN STEM Accessibility Conference 2022]]></title>
             <link>https://www.peterkrautzberger.org/0216/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0216/</guid>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Sun, 01 May 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcodes and their secrets]]></title>
-            <link>https://scoskey.org/senior-thesis/barcodes/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/barcodes/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
