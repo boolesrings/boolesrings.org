@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Sep 2022 16:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 20:36:38 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Sep 2022 16:53:38 GMT</pubDate>
+        <pubDate>Wed, 14 Sep 2022 20:36:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Machine Learning Observations 1 – Turning a picture into a vector doesn’t lose information!]]></title>
+            <link>https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2022 19:55:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everything Wrong With The Princess Bride]]></title>
             <link>http://karagila.org/2022/the-princess-bride/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-ontology-of-mathematics-japan-association-for-the-philosophy-of-science-june-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 18 Jun 2022 23:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with P. Schlicht, D. Schrittesser, and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
-            <link>https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
