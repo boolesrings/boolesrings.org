@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Sep 2022 05:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:47:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2022 05:47:49 GMT</pubDate>
+        <pubDate>Mon, 19 Sep 2022 08:47:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel set theory: a deflationary account]]></title>
+            <link>http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2022 07:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thoughts on Print Equation Layout]]></title>
             <link>https://www.peterkrautzberger.org/0218/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/set-theory-inside-out-estc-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 25 Jun 2022 22:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many sizes of infinity are there?]]></title>
-            <link>https://mikepawliuk.ca/2022/06/22/how-many-sizes-of-infinity-are-there/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2022/06/22/how-many-sizes-of-infinity-are-there/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Wed, 22 Jun 2022 19:59:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
