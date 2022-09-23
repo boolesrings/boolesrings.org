@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Sep 2022 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 08:45:50 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Sep 2022 05:41:05 GMT</pubDate>
+        <pubDate>Fri, 23 Sep 2022 08:45:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The sentence asserting its own non-forceability by nontrivial forcing]]></title>
+            <link>http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 23 Sep 2022 08:18:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel set theory: a deflationary account]]></title>
             <link>http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-and-illfoundedness-in-consistency-strength-aila-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 26 Jun 2022 00:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set theory inside out: realizing every inner model theory in an end extension, European Set Theory Conference, September 2022]]></title>
-            <link>http://jdh.hamkins.org/set-theory-inside-out-estc-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/set-theory-inside-out-estc-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 25 Jun 2022 22:18:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
