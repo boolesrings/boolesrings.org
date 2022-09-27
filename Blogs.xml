@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Sep 2022 05:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 08:53:55 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Sep 2022 05:39:08 GMT</pubDate>
+        <pubDate>Tue, 27 Sep 2022 08:53:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Every countable model of arithmetic or set theory has a pointwise definable end extension]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-end-extensions/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-end-extensions/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2022 07:38:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The sentence asserting its own non-forceability by nontrivial forcing]]></title>
             <link>http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 28 Jun 2022 01:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nonlinearity and illfoundedness in the hierarchy of consistency strength and the question of naturality, Italy (AILA), September 2022]]></title>
-            <link>http://jdh.hamkins.org/nonlinearity-and-illfoundedness-in-consistency-strength-aila-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-and-illfoundedness-in-consistency-strength-aila-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 26 Jun 2022 00:55:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
