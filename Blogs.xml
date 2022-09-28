@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Sep 2022 13:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 17:01:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Sep 2022 13:07:22 GMT</pubDate>
+        <pubDate>Wed, 28 Sep 2022 17:01:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Pointwise definable and Leibnizian models of arithmetic and set theory, realized in end extensions of a given model, Notre Dame Logic Seminar, October 2022]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-models-notre-dame-logic-seminar-october-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-models-notre-dame-logic-seminar-october-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2022 14:51:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Every countable model of arithmetic or set theory has a pointwise definable end extension]]></title>
             <link>http://jdh.hamkins.org/pointwise-definable-end-extensions/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/checkmate-is-not-the-same-as-a-forced-capture-of-the-enemy-king-in-simplified-chess/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 02 Jul 2022 01:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fregean abstraction in set theory—a deflationary account, Italian Philosophy of Mathematics, September 2022]]></title>
-            <link>http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 28 Jun 2022 01:29:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
