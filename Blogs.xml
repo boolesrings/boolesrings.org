@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Oct 2022 16:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 20:36:49 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Oct 2022 16:51:20 GMT</pubDate>
+        <pubDate>Sat, 01 Oct 2022 20:36:49 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -94,6 +94,13 @@
             <pubDate>Wed, 17 Aug 2022 01:28:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[10th Indian Conference on Logic and its Applications (ICLA) - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
             <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
             <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/checkmate-is-not-the-same-as-a-forced-capture-of-the-enemy-king-in-simplified-chess/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 02 Jul 2022 01:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fregean abstraction in set theory—a deflationary account, Italian Philosophy of Mathematics, September 2022]]></title>
-            <link>http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-in-set-theory-italy-phil-maths-september-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 28 Jun 2022 01:29:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
