@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Oct 2022 20:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 03:01:58 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Oct 2022 20:38:58 GMT</pubDate>
+        <pubDate>Tue, 11 Oct 2022 03:01:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Pseudo-countable models]]></title>
+            <link>http://jdh.hamkins.org/pseudo-countable-models/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pseudo-countable-models/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2022 00:53:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Self-similar self-similarity, in The Language of Symmetry]]></title>
             <link>http://jdh.hamkins.org/self-similar-self-similarity-in-the-language-of-symmetry/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ATHEN STEM Accessibility Conference 2022]]></title>
-            <link>https://www.peterkrautzberger.org/0216/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0216/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
