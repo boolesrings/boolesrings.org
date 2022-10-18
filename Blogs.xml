@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Oct 2022 17:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 20:40:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Oct 2022 17:01:25 GMT</pubDate>
+        <pubDate>Tue, 18 Oct 2022 20:40:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Pointwise definable and Leibnizian extensions of models of arithmetic and set theory, MOPA seminar CUNY, November 2022]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-mopa-november-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-mopa-november-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 18 Oct 2022 18:15:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pseudo-countable models]]></title>
             <link>http://jdh.hamkins.org/pseudo-countable-models/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-logic-of-definite-descriptions/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 19 Jul 2022 15:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A club guessing toolbox I]]></title>
-            <link>https://blog.assafrinot.com/?p=4858</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
