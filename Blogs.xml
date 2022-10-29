@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Oct 2022 08:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 12:55:15 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Oct 2022 08:39:16 GMT</pubDate>
+        <pubDate>Sat, 29 Oct 2022 12:55:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -101,13 +101,6 @@
             <pubDate>Sun, 28 Aug 2022 14:03:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A version of Jensen’s forcing for an inaccessible cardinal]]></title>
-            <link>/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</link>
-            <guid isPermaLink="false">/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Sun, 21 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nonlinearity and illfoundedness in the hierarchy of large cardinal consistency strength]]></title>
             <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
             <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</guid>
@@ -122,25 +115,11 @@
             <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
-            <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
-            <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Multiple Choice]]></title>
             <link>http://karagila.org/2022/quiz-question/</link>
             <guid isPermaLink="false">http://karagila.org/2022/quiz-question/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Sat, 13 Aug 2022 08:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZFC without Power Set II: Reflection Strikes Back]]></title>
-            <link>/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</link>
-            <guid isPermaLink="false">/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2022 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math 287, Fall 2022]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-logic-of-definite-descriptions/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 19 Jul 2022 15:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A club guessing toolbox I]]></title>
+            <link>https://blog.assafrinot.com/?p=4858</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ATHEN STEM Accessibility Conference 2022]]></title>
+            <link>https://www.peterkrautzberger.org/0216/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0216/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Checkmate is not the same as a forced capture of the enemy king in simplified chess]]></title>
+            <link>http://jdh.hamkins.org/checkmate-is-not-the-same-as-a-forced-capture-of-the-enemy-king-in-simplified-chess/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/checkmate-is-not-the-same-as-a-forced-capture-of-the-enemy-king-in-simplified-chess/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 02 Jul 2022 01:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
