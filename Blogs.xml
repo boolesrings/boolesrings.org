@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Oct 2022 13:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 16:55:54 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Oct 2022 13:04:39 GMT</pubDate>
+        <pubDate>Mon, 31 Oct 2022 16:55:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -115,6 +115,13 @@
             <pubDate>Wed, 17 Aug 2022 01:28:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[10th Indian Conference on Logic and its Applications (ICLA) - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
             <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
             <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-logic-of-definite-descriptions/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 19 Jul 2022 15:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A club guessing toolbox I]]></title>
-            <link>https://blog.assafrinot.com/?p=4858</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
