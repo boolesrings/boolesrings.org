@@ -4,11 +4,60 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Nov 2022 20:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 02:31:19 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Nov 2022 20:33:03 GMT</pubDate>
+        <pubDate>Sun, 06 Nov 2022 02:31:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Pointwise definable and Leibnizian extensions of models of arithmetic and set theory, MOPA seminar CUNY, November 2022]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-mopa-november-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-mopa-november-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 18 Oct 2022 18:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pseudo-countable models]]></title>
+            <link>http://jdh.hamkins.org/pseudo-countable-models/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pseudo-countable-models/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2022 00:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-similar self-similarity, in The Language of Symmetry]]></title>
+            <link>http://jdh.hamkins.org/self-similar-self-similarity-in-the-language-of-symmetry/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/self-similar-self-similarity-in-the-language-of-symmetry/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2022 20:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable and Leibnizian models of arithmetic and set theory, realized in end extensions of a given model, Notre Dame Logic Seminar, October 2022]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-models-notre-dame-logic-seminar-october-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-models-notre-dame-logic-seminar-october-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2022 14:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Every countable model of arithmetic or set theory has a pointwise definable end extension]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-end-extensions/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-end-extensions/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2022 07:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sentence asserting its own non-forceability by nontrivial forcing]]></title>
+            <link>http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 23 Sep 2022 08:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel set theory: a deflationary account]]></title>
+            <link>http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2022 07:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thoughts on Print Equation Layout]]></title>
             <link>https://www.peterkrautzberger.org/0218/</link>
@@ -31,11 +80,39 @@
             <pubDate>Sun, 04 Sep 2022 23:38:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The math tea argument—must there be numbers we cannot describe or define? Pavia Logic Seminar]]></title>
+            <link>http://jdh.hamkins.org/the-math-tea-argument-must-there-be-numbers-we-cannot-describe-or-define-pavia-logic-seminar-sep-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-math-tea-argument-must-there-be-numbers-we-cannot-describe-or-define-pavia-logic-seminar-sep-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2022 15:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Workshop on the Set-theoretic Multiverse, Konstanz, September 2022]]></title>
+            <link>http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2022 15:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable end-extensions of the universe, Sophia 2022, Salzburg]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-end-extensions-of-the-universe-sophia-2022-salzburg/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-end-extensions-of-the-universe-sophia-2022-salzburg/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 28 Aug 2022 14:03:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A version of Jensen’s forcing for an inaccessible cardinal]]></title>
             <link>/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</link>
             <guid isPermaLink="false">/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sun, 21 Aug 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nonlinearity and illfoundedness in the hierarchy of large cardinal consistency strength]]></title>
+            <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 17 Aug 2022 01:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10th Indian Conference on Logic and its Applications (ICLA) - TBA]]></title>
@@ -94,95 +171,18 @@
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A club guessing toolbox I]]></title>
-            <link>https://blog.assafrinot.com/?p=4858</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
+            <title><![CDATA[Quantifer elimination]]></title>
+            <link>http://jdh.hamkins.org/quantifer-elimination/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/quantifer-elimination/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 24 Jul 2022 02:08:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ATHEN STEM Accessibility Conference 2022]]></title>
-            <link>https://www.peterkrautzberger.org/0216/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0216/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many sizes of infinity are there?]]></title>
-            <link>https://mikepawliuk.ca/2022/06/22/how-many-sizes-of-infinity-are-there/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2022/06/22/how-many-sizes-of-infinity-are-there/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Wed, 22 Jun 2022 19:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(with P. Schlicht, D. Schrittesser, and T. Weinert) Lebesgue’s density theorem and definable selectors for ideals]]></title>
-            <link>https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/publication/published/2022/05/02/PaperLebesgueDensity.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcodes and their secrets]]></title>
-            <link>https://scoskey.org/senior-thesis/barcodes/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/barcodes/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A different way to approach integration by parts]]></title>
-            <link>https://scoskey.org/senior-thesis/integration-by-parts/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/integration-by-parts/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramsey’s theorem]]></title>
-            <link>https://scoskey.org/senior-thesis/ramseys-theorem/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/ramseys-theorem/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramsey theory over partitions II: Negative Ramsey relations and pump-up theorems]]></title>
-            <link>https://blog.assafrinot.com/?p=4846</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4846</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 27 Apr 2022 19:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changes]]></title>
-            <link>http://karagila.org/2022/changes/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/changes/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2022 21:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new small Dowker space]]></title>
-            <link>https://blog.assafrinot.com/?p=4823</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4823</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 28 Mar 2022 17:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? II: Small width and general ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=4818</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4818</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 01 Mar 2022 04:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter Meeting of the ASL with the JMM - Universally Baire Sets, Determinacy, and Inner Models]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/02/16/TalkASLJMMBoston.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Tue, 15 Feb 2022 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baltic Set Theory Seminar - A stationary-tower-free proof of Woodin’s Sealing Theorem]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invsemtalk/2022/01/15/TalkBalticSetTheorySeminar.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Fri, 14 Jan 2022 23:00:00 GMT</pubDate>
+            <title><![CDATA[The logic of definite descriptions]]></title>
+            <link>http://jdh.hamkins.org/the-logic-of-definite-descriptions/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-logic-of-definite-descriptions/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 19 Jul 2022 15:31:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
