@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Nov 2022 20:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 02:01:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Nov 2022 20:27:53 GMT</pubDate>
+        <pubDate>Mon, 28 Nov 2022 02:01:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[(with Y. Hayut) Perfect Subtree Property for Weakly Compact Cardinals]]></title>
+            <link>https://muellersandra.github.io/publication/published/richterv844/loreal/2022/11/17/PaperPSPweaklycompact.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/publication/published/richterv844/loreal/2022/11/17/PaperPSPweaklycompact.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Wed, 16 Nov 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gdansk Logic Conference - TBA]]></title>
+            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2022/11/16/TalkGdansk.html</link>
+            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/2022/11/16/TalkGdansk.html</guid>
+            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
+            <pubDate>Tue, 15 Nov 2022 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jumps in the Borel complexity hierarchy]]></title>
             <link>https://scoskey.org/presentation/jumps-in-the-Borel-complexity-hierarchy2/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question on Dually Dedekind-infinite sets]]></title>
-            <link>http://karagila.org/2022/dual-df-maps/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/dual-df-maps/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2022 08:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(Print) "Algorithm Layout" in HTML and CSS]]></title>
-            <link>https://www.peterkrautzberger.org/0217/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0217/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
