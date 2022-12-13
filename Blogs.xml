@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Dec 2022 02:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 04:33:02 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Dec 2022 02:00:16 GMT</pubDate>
+        <pubDate>Tue, 13 Dec 2022 04:33:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Protected: Job Materials]]></title>
+            <link>https://mikepawliuk.ca/2022/12/12/job-materials/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2022/12/12/job-materials/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Tue, 13 Dec 2022 03:55:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[(with Y. Hayut) Perfect Subtree Property for Weakly Compact Cardinals]]></title>
             <link>https://muellersandra.github.io/publication/published/richterv844/loreal/2022/11/17/PaperPSPweaklycompact.html</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[Math 287, Fall 2022]]></title>
             <link>https://scoskey.org/course/2223f-287/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2223f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 403+503, Fall 2022]]></title>
-            <link>https://scoskey.org/course/2223f-503/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
         </item>
