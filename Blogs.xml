@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Dec 2022 08:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 12:48:29 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Dec 2022 08:32:28 GMT</pubDate>
+        <pubDate>Wed, 14 Dec 2022 12:48:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Sums of triples in Abelian groups]]></title>
+            <link>https://blog.assafrinot.com/?p=4917</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4917</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2022 10:40:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Protected: Job Materials]]></title>
             <link>https://mikepawliuk.ca/2022/12/12/job-materials/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Wed, 03 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 287, Fall 2022]]></title>
-            <link>https://scoskey.org/course/2223f-287/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2223f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
