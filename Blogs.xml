@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Dec 2022 01:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 04:30:29 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Dec 2022 01:44:38 GMT</pubDate>
+        <pubDate>Sat, 17 Dec 2022 04:30:29 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Strategic thinking in infinite games, CosmoCaixa Science Museum, Barcelona, March 2023]]></title>
+            <link>http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 17 Dec 2022 02:21:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sums of triples in Abelian groups]]></title>
             <link>https://blog.assafrinot.com/?p=4917</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://karagila.org/2022/quiz-question/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Sat, 13 Aug 2022 08:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZFC without Power Set II: Reflection Strikes Back]]></title>
-            <link>/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</link>
-            <guid isPermaLink="false">/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2022 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
