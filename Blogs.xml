@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Dec 2022 12:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 16:35:10 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Dec 2022 12:44:36 GMT</pubDate>
+        <pubDate>Fri, 23 Dec 2022 16:35:10 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -29,6 +29,20 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2022/12/12/job-materials/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Tue, 13 Dec 2022 03:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dual spaces]]></title>
+            <link>https://scoskey.org/senior-thesis/dual-spaces/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/dual-spaces/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hilbert spaces]]></title>
+            <link>https://scoskey.org/senior-thesis/hilbert-spaces/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/hilbert-spaces/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[(with Y. Hayut) Perfect Subtree Property for Weakly Compact Cardinals]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
-            <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
-            <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Multiple Choice]]></title>
-            <link>http://karagila.org/2022/quiz-question/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/quiz-question/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 13 Aug 2022 08:16:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
