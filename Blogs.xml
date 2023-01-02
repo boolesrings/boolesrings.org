@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jan 2023 12:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 16:34:53 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Jan 2023 12:47:23 GMT</pubDate>
+        <pubDate>Mon, 02 Jan 2023 16:34:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,13 +22,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4917</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 14 Dec 2022 10:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protected: Job Materials]]></title>
-            <link>https://mikepawliuk.ca/2022/12/12/job-materials/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2022/12/12/job-materials/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Tue, 13 Dec 2022 03:55:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dual spaces]]></title>
@@ -129,13 +122,6 @@
             <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Machine Learning Observations 1 – Turning a picture into a vector doesn’t lose information!]]></title>
-            <link>https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2022 19:55:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Everything Wrong With The Princess Bride]]></title>
             <link>http://karagila.org/2022/the-princess-bride/</link>
             <guid isPermaLink="false">http://karagila.org/2022/the-princess-bride/</guid>
@@ -183,6 +169,20 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
+            <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
+            <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 15 Aug 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Multiple Choice]]></title>
+            <link>http://karagila.org/2022/quiz-question/</link>
+            <guid isPermaLink="false">http://karagila.org/2022/quiz-question/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Sat, 13 Aug 2022 08:16:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
