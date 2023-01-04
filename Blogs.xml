@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Jan 2023 12:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 16:44:45 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Jan 2023 12:47:12 GMT</pubDate>
+        <pubDate>Wed, 04 Jan 2023 16:44:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Math 189, Spring 2023]]></title>
+            <link>https://scoskey.org/course/2223s-189/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2223s-189/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math 314, Spring 2023]]></title>
+            <link>https://scoskey.org/course/2223s-314/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2223s-314/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Strategic thinking in infinite games, CosmoCaixa Science Museum, Barcelona, March 2023]]></title>
             <link>http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sun, 21 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nonlinearity and illfoundedness in the hierarchy of large cardinal consistency strength]]></title>
-            <link>http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/nonlinearity-in-the-hierarchy-of-consistency-strength/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 17 Aug 2022 01:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10th Indian Conference on Logic and its Applications (ICLA) - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
