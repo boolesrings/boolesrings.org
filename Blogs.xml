@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Jan 2023 20:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 01:56:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Jan 2023 20:25:40 GMT</pubDate>
+        <pubDate>Sun, 08 Jan 2023 01:56:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinity, University of Notre Dame, Spring 2023]]></title>
+            <link>http://jdh.hamkins.org/infinity-university-of-notre-dame-spring-2023/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinity-university-of-notre-dame-spring-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 08 Jan 2023 01:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[University Calculus Materials]]></title>
             <link>https://mikepawliuk.ca/2023/01/04/university-calculus-materials/</link>
@@ -36,6 +43,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 17 Dec 2022 02:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sums of triples in Abelian groups]]></title>
+            <link>https://blog.assafrinot.com/?p=4917</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4917</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2022 10:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protected: Job Materials]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 28 Aug 2022 15:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pointwise definable end-extensions of the universe, Sophia 2022, Salzburg]]></title>
-            <link>http://jdh.hamkins.org/pointwise-definable-end-extensions-of-the-universe-sophia-2022-salzburg/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-end-extensions-of-the-universe-sophia-2022-salzburg/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 28 Aug 2022 14:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A version of Jensen’s forcing for an inaccessible cardinal]]></title>
-            <link>/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</link>
-            <guid isPermaLink="false">/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Sun, 21 Aug 2022 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
