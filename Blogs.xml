@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Jan 2023 16:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 20:27:11 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jan 2023 16:41:24 GMT</pubDate>
+        <pubDate>Tue, 10 Jan 2023 20:27:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -50,6 +50,13 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 17 Dec 2022 02:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sums of triples in Abelian groups]]></title>
+            <link>https://blog.assafrinot.com/?p=4917</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4917</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2022 10:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protected: Job Materials]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-math-tea-argument-must-there-be-numbers-we-cannot-describe-or-define-pavia-logic-seminar-sep-2022/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 28 Aug 2022 15:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Workshop on the Set-theoretic Multiverse, Konstanz, September 2022]]></title>
-            <link>http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/workshop-on-the-set-theoretic-multiverse-konstanz-september-2022/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 28 Aug 2022 15:08:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
