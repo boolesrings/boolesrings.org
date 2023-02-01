@@ -4,17 +4,38 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Feb 2023 16:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 20:27:39 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Feb 2023 16:36:27 GMT</pubDate>
+        <pubDate>Wed, 01 Feb 2023 20:27:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A survey of set-theoretic geology, Notre Dame Logic Seminar, January 2023]]></title>
+            <link>http://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 25 Jan 2023 03:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paradox, Infinity, & The Foundations of Mathematics, interview with Robinson Erhardt, January 2023]]></title>
+            <link>http://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 12 Jan 2023 15:56:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Safe spaces]]></title>
             <link>http://karagila.org/2023/safe-spaces/</link>
             <guid isPermaLink="false">http://karagila.org/2023/safe-spaces/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Sun, 08 Jan 2023 11:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinity, University of Notre Dame, Spring 2023]]></title>
+            <link>http://jdh.hamkins.org/infinity-university-of-notre-dame-spring-2023/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/infinity-university-of-notre-dame-spring-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 08 Jan 2023 01:02:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[University Calculus Materials]]></title>
@@ -36,6 +57,13 @@
             <guid isPermaLink="false">https://scoskey.org/course/2223s-314/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strategic thinking in infinite games, CosmoCaixa Science Museum, Barcelona, March 2023]]></title>
+            <link>http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/strategic-thinking-in-infinite-games-cosmocaixa-science-museum-barcelona-march-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 17 Dec 2022 02:21:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sums of triples in Abelian groups]]></title>
@@ -87,6 +115,62 @@
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A model of set theory with a definable copy of the complex field in which the two roots of -1 are set-theoretically indiscernible]]></title>
+            <link>http://jdh.hamkins.org/a-model-of-set-theory-with-a-definable-copy-of-the-complex-field-in-which-the-two-roots-of-1-are-set-theoretically-indiscernible/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/a-model-of-set-theory-with-a-definable-copy-of-the-complex-field-in-which-the-two-roots-of-1-are-set-theoretically-indiscernible/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2022 18:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable and Leibnizian extensions of models of arithmetic and set theory, MOPA seminar CUNY, November 2022]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-mopa-november-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-mopa-november-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 18 Oct 2022 18:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pseudo-countable models]]></title>
+            <link>http://jdh.hamkins.org/pseudo-countable-models/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pseudo-countable-models/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2022 00:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-similar self-similarity, in The Language of Symmetry]]></title>
+            <link>http://jdh.hamkins.org/self-similar-self-similarity-in-the-language-of-symmetry/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/self-similar-self-similarity-in-the-language-of-symmetry/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 04 Oct 2022 20:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable and Leibnizian models of arithmetic and set theory, realized in end extensions of a given model, Notre Dame Logic Seminar, October 2022]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-models-notre-dame-logic-seminar-october-2022/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-models-notre-dame-logic-seminar-october-2022/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 28 Sep 2022 14:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Every countable model of arithmetic or set theory has a pointwise definable end extension]]></title>
+            <link>http://jdh.hamkins.org/pointwise-definable-end-extensions/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-end-extensions/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 27 Sep 2022 07:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sentence asserting its own non-forceability by nontrivial forcing]]></title>
+            <link>http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 23 Sep 2022 08:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel set theory: a deflationary account]]></title>
+            <link>http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</link>
+            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2022 07:50:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thoughts on Print Equation Layout]]></title>
             <link>https://www.peterkrautzberger.org/0218/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0218/</guid>
@@ -99,90 +183,6 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Wed, 14 Sep 2022 19:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everything Wrong With The Princess Bride]]></title>
-            <link>http://karagila.org/2022/the-princess-bride/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/the-princess-bride/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sun, 04 Sep 2022 23:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A version of Jensen’s forcing for an inaccessible cardinal]]></title>
-            <link>/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</link>
-            <guid isPermaLink="false">/research/2022/08/21/a-version-of-Jensens-forcing-for-an-inaccessible-cardinal.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Sun, 21 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10th Indian Conference on Logic and its Applications (ICLA) - TBA]]></title>
-            <link>https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</link>
-            <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
-            <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
-            <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
-            <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Multiple Choice]]></title>
-            <link>http://karagila.org/2022/quiz-question/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/quiz-question/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 13 Aug 2022 08:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZFC without Power Set II: Reflection Strikes Back]]></title>
-            <link>/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</link>
-            <guid isPermaLink="false">/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 287, Fall 2022]]></title>
-            <link>https://scoskey.org/course/2223f-287/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2223f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 403+503, Fall 2022]]></title>
-            <link>https://scoskey.org/course/2223f-503/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question on Dually Dedekind-infinite sets]]></title>
-            <link>http://karagila.org/2022/dual-df-maps/</link>
-            <guid isPermaLink="false">http://karagila.org/2022/dual-df-maps/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2022 08:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(Print) "Algorithm Layout" in HTML and CSS]]></title>
-            <link>https://www.peterkrautzberger.org/0217/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0217/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A club guessing toolbox I]]></title>
-            <link>https://blog.assafrinot.com/?p=4858</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4858</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 08 Jul 2022 14:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ATHEN STEM Accessibility Conference 2022]]></title>
-            <link>https://www.peterkrautzberger.org/0216/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0216/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
