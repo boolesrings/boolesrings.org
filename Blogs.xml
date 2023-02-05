@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Feb 2023 12:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 16:33:38 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Feb 2023 12:43:50 GMT</pubDate>
+        <pubDate>Sun, 05 Feb 2023 16:33:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Winter School in Abstract Analysis, January 2023]]></title>
+            <link>https://blog.assafrinot.com/?p=4929</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A survey of set-theoretic geology, Notre Dame Logic Seminar, January 2023]]></title>
             <link>http://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0218/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning Observations 1 – Turning a picture into a vector doesn’t lose information!]]></title>
-            <link>https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</link>
-            <guid isPermaLink="false">https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</guid>
-            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
-            <pubDate>Wed, 14 Sep 2022 19:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
