@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Feb 2023 20:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 01:51:08 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Feb 2023 20:27:36 GMT</pubDate>
+        <pubDate>Tue, 07 Feb 2023 01:51:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -178,11 +178,11 @@
             <pubDate>Mon, 19 Sep 2022 07:50:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thoughts on Print Equation Layout]]></title>
-            <link>https://www.peterkrautzberger.org/0218/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0218/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[Machine Learning Observations 1 – Turning a picture into a vector doesn’t lose information!]]></title>
+            <link>https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2022 19:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
