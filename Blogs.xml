@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Feb 2023 08:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 12:48:08 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Feb 2023 08:31:31 GMT</pubDate>
+        <pubDate>Tue, 07 Feb 2023 12:48:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,6 +15,13 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tukey morphisms between finite relations]]></title>
+            <link>https://scoskey.org/tukeyfin</link>
+            <guid isPermaLink="false">https://scoskey.org/tukeyfin</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A survey of set-theoretic geology, Notre Dame Logic Seminar, January 2023]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 19 Sep 2022 07:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thoughts on Print Equation Layout]]></title>
-            <link>https://www.peterkrautzberger.org/0218/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0218/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
