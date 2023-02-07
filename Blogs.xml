@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Feb 2023 12:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 16:37:19 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Feb 2023 12:48:08 GMT</pubDate>
+        <pubDate>Tue, 07 Feb 2023 16:37:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,6 +15,13 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five fabulous activities for your math circle]]></title>
+            <link>https://scoskey.org/5fab</link>
+            <guid isPermaLink="false">https://scoskey.org/5fab</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tukey morphisms between finite relations]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://jdh.hamkins.org/the-sentence-asserting-its-own-non-forceability/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 23 Sep 2022 08:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fregean abstraction in Zermelo-Fraenkel set theory: a deflationary account]]></title>
-            <link>http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-deflationary-account/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 19 Sep 2022 07:50:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
