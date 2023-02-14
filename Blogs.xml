@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Feb 2023 20:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 01:58:46 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Feb 2023 20:28:25 GMT</pubDate>
+        <pubDate>Tue, 14 Feb 2023 01:58:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -46,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Safe spaces]]></title>
-            <link>http://karagila.org/2023/safe-spaces/</link>
-            <guid isPermaLink="false">http://karagila.org/2023/safe-spaces/</guid>
+            <link>https://karagila.org/2023/safe-spaces/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/safe-spaces/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Sun, 08 Jan 2023 11:58:10 GMT</pubDate>
         </item>
