@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Mar 2023 20:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 01:43:14 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Mar 2023 20:24:44 GMT</pubDate>
+        <pubDate>Wed, 22 Mar 2023 01:43:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Borel classification of conjugacy problems]]></title>
+            <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winter School in Abstract Analysis, January 2023]]></title>
             <link>https://blog.assafrinot.com/?p=4929</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question on Dually Dedekind-infinite sets]]></title>
-            <link>https://karagila.org/2022/dual-df-maps/</link>
-            <guid isPermaLink="false">https://karagila.org/2022/dual-df-maps/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 27 Jul 2022 08:42:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
