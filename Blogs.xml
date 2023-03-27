@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Mar 2023 01:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 04:30:09 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Mar 2023 01:42:44 GMT</pubDate>
+        <pubDate>Mon, 27 Mar 2023 04:30:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -115,13 +115,6 @@
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thoughts on Print Equation Layout]]></title>
-            <link>https://www.peterkrautzberger.org/0218/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0218/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Machine Learning Observations 1 – Turning a picture into a vector doesn’t lose information!]]></title>
             <link>https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</link>
             <guid isPermaLink="false">https://mikepawliuk.ca/2022/09/14/machine-learning-observations-1-turning-a-picture-into-a-vector-doesnt-lose-information/</guid>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question on Dually Dedekind-infinite sets]]></title>
+            <link>https://karagila.org/2022/dual-df-maps/</link>
+            <guid isPermaLink="false">https://karagila.org/2022/dual-df-maps/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 27 Jul 2022 08:42:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
