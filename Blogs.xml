@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Mar 2023 20:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 01:47:13 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Mar 2023 20:26:33 GMT</pubDate>
+        <pubDate>Thu, 30 Mar 2023 01:47:13 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A series of lectures on Club_AD, February–March 2023]]></title>
+            <link>https://blog.assafrinot.com/?p=4938</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4938</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 29 Mar 2023 21:22:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Borel classification of conjugacy problems]]></title>
             <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[Math 287, Fall 2022]]></title>
             <link>https://scoskey.org/course/2223f-287/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2223f-287/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math 403+503, Fall 2022]]></title>
-            <link>https://scoskey.org/course/2223f-503/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2223f-503/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
         </item>
