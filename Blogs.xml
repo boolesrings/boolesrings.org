@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Apr 2023 20:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 01:43:55 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Apr 2023 20:24:43 GMT</pubDate>
+        <pubDate>Fri, 28 Apr 2023 01:43:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -49,6 +49,13 @@
             <link>https://scoskey.org/5fab</link>
             <guid isPermaLink="false">https://scoskey.org/5fab</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2023 Combinatorial Game Theory Colloquia]]></title>
+            <link>http://dcernst.github.io/CGTC/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/CGTC/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
-            <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
-            <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
