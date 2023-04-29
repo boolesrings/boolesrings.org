@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Apr 2023 12:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 16:29:26 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Apr 2023 12:39:16 GMT</pubDate>
+        <pubDate>Sat, 29 Apr 2023 16:29:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -24,11 +24,25 @@
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A series of lectures on Club_AD, February–March 2023]]></title>
+            <link>https://blog.assafrinot.com/?p=4938</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4938</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 29 Mar 2023 21:22:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Borel classification of conjugacy problems]]></title>
             <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
             <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter School in Abstract Analysis, January 2023]]></title>
+            <link>https://blog.assafrinot.com/?p=4929</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five fabulous activities for your math circle]]></title>
@@ -78,6 +92,13 @@
             <guid isPermaLink="false">https://scoskey.org/course/2223s-314/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sums of triples in Abelian groups]]></title>
+            <link>https://blog.assafrinot.com/?p=4917</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4917</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2022 10:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protected: Job Materials]]></title>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">https://muellersandra.github.io/upcomingtalk/talk/invconftalk/plenary/2022/08/16/TalkICLAIndore.html</guid>
             <dc:creator><![CDATA[Sandra Müller]]></dc:creator>
             <pubDate>Mon, 15 Aug 2022 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can a Cohen extension have an $\omega_1$-sequence of successively more generic Cohen reals?]]></title>
-            <link>/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</link>
-            <guid isPermaLink="false">/research/2022/08/15/can-a-cohen-extension-have-an-omega-1-sequence-of-successively-more-generic-cohen-reals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 15 Aug 2022 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Multiple Choice]]></title>
-            <link>https://karagila.org/2022/quiz-question/</link>
-            <guid isPermaLink="false">https://karagila.org/2022/quiz-question/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 13 Aug 2022 08:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZFC without Power Set II: Reflection Strikes Back]]></title>
-            <link>/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</link>
-            <guid isPermaLink="false">/publications/2022/08/03/zfc-without-powerset-ii-reflection-strikes-back.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 03 Aug 2022 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
