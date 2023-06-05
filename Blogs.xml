@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jun 2023 12:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 16:30:17 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jun 2023 12:46:40 GMT</pubDate>
+        <pubDate>Mon, 05 Jun 2023 16:30:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -18,22 +18,22 @@
         </item>
         <item>
             <title><![CDATA[A deflationary account of Fregean abstraction in set theory, with Basic Law V as a ZFC theorem, Paris PhilMath Intersem 2023]]></title>
-            <link>http://jdh.hamkins.org/fregean-abstraction-paris-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/fregean-abstraction-paris-2023/</guid>
+            <link>https://jdh.hamkins.org/fregean-abstraction-paris-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/fregean-abstraction-paris-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 15 May 2023 08:35:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set theory with abundant urelements, STUK 10, Oxford, June 2023]]></title>
-            <link>http://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</guid>
+            <link>https://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 14 May 2023 17:28:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Natural Instances of Illfoundedness and Nonlinearity in the Hierarchy of Consistency Strength, Oxford Phil Math Seminar, May 2023]]></title>
-            <link>http://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</guid>
+            <link>https://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 14 May 2023 17:11:28 GMT</pubDate>
         </item>
@@ -46,15 +46,15 @@
         </item>
         <item>
             <title><![CDATA[How to find pointwise definable and Leibnizian extensions of models of arithmetic and set theory, Oxford Logic Seminar, May 2023]]></title>
-            <link>http://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
+            <link>https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 11 May 2023 00:24:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infinite games—strategies, logic, theory, and computation, Northeastern, June 2023]]></title>
-            <link>http://jdh.hamkins.org/infinite-games-northeastern-june-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/infinite-games-northeastern-june-2023/</guid>
+            <link>https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 10 May 2023 23:36:07 GMT</pubDate>
         </item>
@@ -67,15 +67,15 @@
         </item>
         <item>
             <title><![CDATA[Realizing Frege’s Basic Law V provably in ZFC, New York, May 2023]]></title>
-            <link>http://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</guid>
+            <link>https://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 04 May 2023 16:21:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set-theoretic forcing as a computational process, Midwest Computability Seminar, Chicago, May 2023]]></title>
-            <link>http://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</guid>
+            <link>https://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 02 May 2023 14:55:33 GMT</pubDate>
         </item>
@@ -88,8 +88,8 @@
         </item>
         <item>
             <title><![CDATA[Varieties of potentialism, Oslo, April 2023]]></title>
-            <link>http://jdh.hamkins.org/varieties-of-potentialism-oslo-april-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/varieties-of-potentialism-oslo-april-2023/</guid>
+            <link>https://jdh.hamkins.org/varieties-of-potentialism-oslo-april-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/varieties-of-potentialism-oslo-april-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 13 Apr 2023 00:49:56 GMT</pubDate>
         </item>
@@ -102,15 +102,15 @@
         </item>
         <item>
             <title><![CDATA[Natures of Proof, Pacific APA, San Francisco, April 2023]]></title>
-            <link>http://jdh.hamkins.org/natures-of-proof-pacific-apa-san-francisco-april-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/natures-of-proof-pacific-apa-san-francisco-april-2023/</guid>
+            <link>https://jdh.hamkins.org/natures-of-proof-pacific-apa-san-francisco-april-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/natures-of-proof-pacific-apa-san-francisco-april-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 05 Apr 2023 22:43:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pointwise definable and Leibnizian extensions of models of arithmetic and set theory, Madison Logic Seminar, April 2023]]></title>
-            <link>http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-of-models-of-arithmetic-and-set-theory-madison-logic-seminar-april-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-of-models-of-arithmetic-and-set-theory-madison-logic-seminar-april-2023/</guid>
+            <link>https://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-of-models-of-arithmetic-and-set-theory-madison-logic-seminar-april-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-of-models-of-arithmetic-and-set-theory-madison-logic-seminar-april-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 05 Apr 2023 22:21:01 GMT</pubDate>
         </item>
@@ -130,8 +130,8 @@
         </item>
         <item>
             <title><![CDATA[The Math Tea argument: must there be numbers we can neither describe nor define? Barcelona March 2023]]></title>
-            <link>http://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</guid>
+            <link>https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 14 Mar 2023 17:37:12 GMT</pubDate>
         </item>
@@ -165,15 +165,15 @@
         </item>
         <item>
             <title><![CDATA[A survey of set-theoretic geology, Notre Dame Logic Seminar, January 2023]]></title>
-            <link>http://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</guid>
+            <link>https://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 25 Jan 2023 03:29:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paradox, Infinity, & The Foundations of Mathematics, interview with Robinson Erhardt, January 2023]]></title>
-            <link>http://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</link>
-            <guid isPermaLink="false">http://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</guid>
+            <link>https://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 12 Jan 2023 15:56:05 GMT</pubDate>
         </item>
