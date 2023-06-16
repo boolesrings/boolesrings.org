@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jun 2023 16:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 20:24:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jun 2023 16:30:10 GMT</pubDate>
+        <pubDate>Fri, 16 Jun 2023 20:24:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A counterexample related to a theorem of Komjath and Weiss]]></title>
+            <link>https://blog.assafrinot.com/?p=4962</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 16 Jun 2023 12:36:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I trained neural nets to do forcing and symmetric extensions]]></title>
             <link>https://karagila.org/2023/forcing-notes/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 12 Jan 2023 15:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safe spaces]]></title>
-            <link>https://karagila.org/2023/safe-spaces/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/safe-spaces/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sun, 08 Jan 2023 11:58:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
