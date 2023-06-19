@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jun 2023 08:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 12:45:15 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jun 2023 08:28:41 GMT</pubDate>
+        <pubDate>Mon, 19 Jun 2023 12:45:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -94,6 +94,27 @@
             <pubDate>Tue, 02 May 2023 14:55:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introductory elliptic curves]]></title>
+            <link>https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Overview of Set Theory]]></title>
+            <link>https://scoskey.org/senior-thesis/an-overview-of-set-theory/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-overview-of-set-theory/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Counting, anyone can do it]]></title>
+            <link>https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to prove theorems?]]></title>
             <link>https://karagila.org/2023/theorems/</link>
             <guid isPermaLink="false">https://karagila.org/2023/theorems/</guid>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five fabulous activities for your math circle]]></title>
-            <link>https://scoskey.org/5fab</link>
-            <guid isPermaLink="false">https://scoskey.org/5fab</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2023 Combinatorial Game Theory Colloquia]]></title>
-            <link>http://dcernst.github.io/CGTC/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/CGTC/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tukey morphisms between finite relations]]></title>
-            <link>https://scoskey.org/tukeyfin</link>
-            <guid isPermaLink="false">https://scoskey.org/tukeyfin</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
