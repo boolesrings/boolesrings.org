@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jun 2023 08:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 12:51:14 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jun 2023 08:31:52 GMT</pubDate>
+        <pubDate>Wed, 28 Jun 2023 12:51:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Conjugacy, classification, and complexity]]></title>
+            <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
             <link>https://blog.assafrinot.com/?p=4962</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 14 Mar 2023 17:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter School in Abstract Analysis, January 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=4929</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
