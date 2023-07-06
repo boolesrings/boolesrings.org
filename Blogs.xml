@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Jul 2023 08:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 12:52:47 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Jul 2023 08:33:12 GMT</pubDate>
+        <pubDate>Thu, 06 Jul 2023 12:52:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,13 +15,6 @@
             <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
-            <link>https://blog.assafrinot.com/?p=4962</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 16 Jun 2023 12:36:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enumerating signed permutations by reversal distance (Talk)]]></title>
@@ -59,13 +52,6 @@
             <pubDate>Sun, 14 May 2023 17:11:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Shelah group in ZFC]]></title>
-            <link>https://blog.assafrinot.com/?p=4949</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4949</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 11 May 2023 14:46:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to find pointwise definable and Leibnizian extensions of models of arithmetic and set theory, Oxford Logic Seminar, May 2023]]></title>
             <link>https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
@@ -78,13 +64,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 10 May 2023 23:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gdańsk Logic Conference, May 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=4946</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4946</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 07 May 2023 18:25:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Realizing Frege’s Basic Law V provably in ZFC, New York, May 2023]]></title>
@@ -164,13 +143,6 @@
             <pubDate>Wed, 05 Apr 2023 22:21:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A series of lectures on Club_AD, February–March 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=4938</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4938</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 29 Mar 2023 21:22:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Borel classification of conjugacy problems]]></title>
             <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
             <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
@@ -183,6 +155,34 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 14 Mar 2023 17:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five fabulous activities for your math circle]]></title>
+            <link>https://scoskey.org/5fab</link>
+            <guid isPermaLink="false">https://scoskey.org/5fab</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2023 Combinatorial Game Theory Colloquia]]></title>
+            <link>http://dcernst.github.io/CGTC/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/CGTC/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tukey morphisms between finite relations]]></title>
+            <link>https://scoskey.org/tukeyfin</link>
+            <guid isPermaLink="false">https://scoskey.org/tukeyfin</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A survey of set-theoretic geology, Notre Dame Logic Seminar, January 2023]]></title>
+            <link>https://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 25 Jan 2023 03:29:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
