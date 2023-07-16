@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Jul 2023 20:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 02:23:01 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Jul 2023 20:24:51 GMT</pubDate>
+        <pubDate>Sun, 16 Jul 2023 02:23:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Conjugacy, classification, and complexity]]></title>
+            <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
             <link>https://blog.assafrinot.com/?p=4962</link>
@@ -94,6 +101,27 @@
             <pubDate>Tue, 02 May 2023 14:55:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introductory elliptic curves]]></title>
+            <link>https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An overview of set theory]]></title>
+            <link>https://scoskey.org/senior-thesis/an-overview-of-set-theory/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-overview-of-set-theory/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Counting, anyone can do it]]></title>
+            <link>https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to prove theorems?]]></title>
             <link>https://karagila.org/2023/theorems/</link>
             <guid isPermaLink="false">https://karagila.org/2023/theorems/</guid>
@@ -143,46 +171,18 @@
             <pubDate>Wed, 29 Mar 2023 21:22:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Borel classification of conjugacy problems]]></title>
+            <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
+            <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Math Tea argument: must there be numbers we can neither describe nor define? Barcelona March 2023]]></title>
             <link>https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 14 Mar 2023 17:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter School in Abstract Analysis, January 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=4929</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4929</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 05 Feb 2023 14:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2023 Combinatorial Game Theory Colloquia]]></title>
-            <link>http://dcernst.github.io/CGTC/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/CGTC/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A survey of set-theoretic geology, Notre Dame Logic Seminar, January 2023]]></title>
-            <link>https://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/a-survery-of-set-theoretic-geology-notre-dame-logic-seminar-january-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 25 Jan 2023 03:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paradox, Infinity, & The Foundations of Mathematics, interview with Robinson Erhardt, January 2023]]></title>
-            <link>https://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/paradox-infinity-the-foundations-of-mathematics-interview-with-robinson-erhardt-january-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 12 Jan 2023 15:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safe spaces]]></title>
-            <link>https://karagila.org/2023/safe-spaces/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/safe-spaces/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sun, 08 Jan 2023 11:58:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
