@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Jul 2023 16:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 20:26:40 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Jul 2023 16:34:44 GMT</pubDate>
+        <pubDate>Mon, 17 Jul 2023 20:26:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Westfjords Way Bikepacking Route]]></title>
+            <link>http://dcernst.github.io/Westfjords-way/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/Westfjords-way/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conjugacy, classification, and complexity]]></title>
             <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Math Tea argument: must there be numbers we can neither describe nor define? Barcelona March 2023]]></title>
-            <link>https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/math-tea-argument-barcelona-march-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 14 Mar 2023 17:37:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
