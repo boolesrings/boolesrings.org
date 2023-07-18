@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Jul 2023 12:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 16:34:25 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2023 12:46:59 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2023 16:34:25 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Full Souslin trees at small cardinals]]></title>
+            <link>https://blog.assafrinot.com/?p=4976</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4976</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Tue, 18 Jul 2023 08:02:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Westfjords Way Bikepacking Route]]></title>
             <link>http://dcernst.github.io/Westfjords-way/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4938</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 29 Mar 2023 21:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Borel classification of conjugacy problems]]></title>
-            <link>https://scoskey.org/presentation/borel-classification-conjugacy-problems/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/borel-classification-conjugacy-problems/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
