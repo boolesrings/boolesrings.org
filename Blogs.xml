@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Aug 2023 12:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 16:29:12 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Aug 2023 12:41:55 GMT</pubDate>
+        <pubDate>Fri, 04 Aug 2023 16:29:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Upgrading democracy]]></title>
+            <link>https://nickpgill.github.io/upgrade-democracy</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/upgrade-democracy</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Full Souslin trees at small cardinals]]></title>
             <link>https://blog.assafrinot.com/?p=4976</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-and-leibnizian-extensions-of-models-of-arithmetic-and-set-theory-madison-logic-seminar-april-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 05 Apr 2023 22:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A series of lectures on Club_AD, February–March 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=4938</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4938</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 29 Mar 2023 21:22:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
