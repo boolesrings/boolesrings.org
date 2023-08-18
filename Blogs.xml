@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Aug 2023 16:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 20:22:06 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Aug 2023 16:28:28 GMT</pubDate>
+        <pubDate>Fri, 18 Aug 2023 20:22:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Philosophy of Mathematics and Truth, interview with Matthew Geleta on Paradigm Podcast]]></title>
+            <link>https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 18 Aug 2023 17:10:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An exploration of infinite games—infinite Wordle and the Mastermind numbers, Harvard, October 2023]]></title>
             <link>https://jdh.hamkins.org/infinite-games-harvard-october-2023/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://dcernst.github.io/stagecoach-400/</guid>
             <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Natures of Proof, Pacific APA, San Francisco, April 2023]]></title>
-            <link>https://jdh.hamkins.org/natures-of-proof-pacific-apa-san-francisco-april-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/natures-of-proof-pacific-apa-san-francisco-april-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 05 Apr 2023 22:43:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
