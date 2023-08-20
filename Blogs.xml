@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Aug 2023 12:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 16:26:45 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Aug 2023 12:35:49 GMT</pubDate>
+        <pubDate>Sun, 20 Aug 2023 16:26:45 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Granularity walkers for textual descriptions]]></title>
+            <link>https://www.peterkrautzberger.org/0219/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The vanishing levels of a tree]]></title>
             <link>https://blog.assafrinot.com/?p=4991</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://dcernst.github.io/morphisms-of-impartial-combinatorial-games/</guid>
             <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
             <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Varieties of potentialism, Oslo, April 2023]]></title>
-            <link>https://jdh.hamkins.org/varieties-of-potentialism-oslo-april-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/varieties-of-potentialism-oslo-april-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 13 Apr 2023 00:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
