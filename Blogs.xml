@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Aug 2023 08:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 12:40:58 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Aug 2023 08:27:02 GMT</pubDate>
+        <pubDate>Mon, 21 Aug 2023 12:40:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Ladder systems and countably metacompact topological spaces]]></title>
+            <link>https://blog.assafrinot.com/?p=4995</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Granularity walkers for textual descriptions]]></title>
             <link>https://www.peterkrautzberger.org/0219/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2023/theorems/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Wed, 26 Apr 2023 20:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Morphisms of impartial combinatorial games (Talk)]]></title>
-            <link>http://dcernst.github.io/morphisms-of-impartial-combinatorial-games/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/morphisms-of-impartial-combinatorial-games/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
