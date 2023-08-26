@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Aug 2023 20:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 01:17:28 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Aug 2023 20:22:38 GMT</pubDate>
+        <pubDate>Sat, 26 Aug 2023 01:17:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[What is best in science?]]></title>
+            <link>https://karagila.org/2023/what-is-best/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ladder systems and countably metacompact topological spaces]]></title>
             <link>https://blog.assafrinot.com/?p=4995</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to prove theorems?]]></title>
-            <link>https://karagila.org/2023/theorems/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/theorems/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 26 Apr 2023 20:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
