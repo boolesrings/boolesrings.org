@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 Sep 2023 16:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 20:21:28 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 Sep 2023 16:27:33 GMT</pubDate>
+        <pubDate>Sun, 17 Sep 2023 20:21:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Infinite Games Workshop]]></title>
+            <link>https://jdh.hamkins.org/infinite-games-workshop/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-workshop/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is best in science?]]></title>
             <link>https://karagila.org/2023/what-is-best/</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[An overview of set theory]]></title>
             <link>https://scoskey.org/senior-thesis/an-overview-of-set-theory/</link>
             <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-overview-of-set-theory/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Counting, anyone can do it]]></title>
-            <link>https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/counting-anyone-can-do-it/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
         </item>
