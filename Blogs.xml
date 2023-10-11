@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Oct 2023 16:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 20:23:44 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Oct 2023 16:29:19 GMT</pubDate>
+        <pubDate>Wed, 11 Oct 2023 20:23:44 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The surprising strength of second-order reflection in urelement set theory, Luminy, October 2023]]></title>
+            <link>https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 11 Oct 2023 16:37:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is potentialist second-order logic? Konstanz Actualism and Potentialism Conference 2023]]></title>
             <link>https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 02 May 2023 14:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introductory elliptic curves]]></title>
-            <link>https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</link>
-            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
