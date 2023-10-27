@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Oct 2023 04:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 08:26:57 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Oct 2023 04:26:34 GMT</pubDate>
+        <pubDate>Fri, 27 Oct 2023 08:26:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -94,13 +94,6 @@
             <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conjugacy, classification, and complexity]]></title>
-            <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
             <link>https://blog.assafrinot.com/?p=4962</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 02 May 2023 14:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to prove theorems?]]></title>
+            <link>https://karagila.org/2023/theorems/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/theorems/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 26 Apr 2023 20:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
