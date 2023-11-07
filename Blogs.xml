@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Nov 2023 16:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 20:23:28 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Nov 2023 16:31:03 GMT</pubDate>
+        <pubDate>Tue, 07 Nov 2023 20:23:28 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Wordle and Absurdle numbers, CUNY Logic Workshop, November 2023]]></title>
+            <link>https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 07 Nov 2023 16:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is second-order predicate modal logic? FoMoLo Seminar, February 2024]]></title>
             <link>https://jdh.hamkins.org/what-is-second-order-predicate-modal-logic-fomolo-seminar-february-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4946</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 07 May 2023 18:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Realizing Frege’s Basic Law V provably in ZFC, New York, May 2023]]></title>
-            <link>https://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 04 May 2023 16:21:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
