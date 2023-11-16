@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Nov 2023 16:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 20:24:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Nov 2023 16:32:17 GMT</pubDate>
+        <pubDate>Thu, 16 Nov 2023 20:24:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Perspectives on Set Theory,  November 2023]]></title>
+            <link>https://blog.assafrinot.com/?p=5029</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5029</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Thu, 16 Nov 2023 16:52:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Web components for (mathematical) writing, a first problem]]></title>
             <link>https://www.peterkrautzberger.org/0220/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 11 May 2023 00:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite games—strategies, logic, theory, and computation, Northeastern, June 2023]]></title>
-            <link>https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 10 May 2023 23:36:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
