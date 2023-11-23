@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Nov 2023 12:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 16:30:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Nov 2023 12:43:13 GMT</pubDate>
+        <pubDate>Thu, 23 Nov 2023 16:30:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
+            <link>https://blog.assafrinot.com/?p=5036</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5036</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Perspectives on Set Theory,  November 2023]]></title>
             <link>https://blog.assafrinot.com/?p=5029</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4949</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Thu, 11 May 2023 14:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to find pointwise definable and Leibnizian extensions of models of arithmetic and set theory, Oxford Logic Seminar, May 2023]]></title>
-            <link>https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 11 May 2023 00:24:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
