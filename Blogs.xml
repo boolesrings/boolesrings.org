@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Nov 2023 16:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 20:24:39 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Nov 2023 16:31:55 GMT</pubDate>
+        <pubDate>Wed, 29 Nov 2023 20:24:39 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,20 +15,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
-            <link>https://blog.assafrinot.com/?p=5036</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5036</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspectives on Set Theory,  November 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=5029</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5029</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 16 Nov 2023 16:52:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web components for (mathematical) writing, a first problem]]></title>
@@ -80,25 +66,11 @@
             <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ladder systems and countably metacompact topological spaces]]></title>
-            <link>https://blog.assafrinot.com/?p=4995</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Granularity walkers for textual descriptions]]></title>
             <link>https://www.peterkrautzberger.org/0219/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vanishing levels of a tree]]></title>
-            <link>https://blog.assafrinot.com/?p=4991</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4991</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 19 Aug 2023 13:44:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philosophy of Mathematics and Truth, interview with Matthew Geleta on Paradigm Podcast]]></title>
@@ -122,13 +94,6 @@
             <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Full Souslin trees at small cardinals]]></title>
-            <link>https://blog.assafrinot.com/?p=4976</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4976</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 18 Jul 2023 08:02:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Westfjords Way Bikepacking Route]]></title>
             <link>http://dcernst.github.io/Westfjords-way/</link>
             <guid isPermaLink="false">http://dcernst.github.io/Westfjords-way/</guid>
@@ -141,13 +106,6 @@
             <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
-            <link>https://blog.assafrinot.com/?p=4962</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 16 Jun 2023 12:36:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enumerating signed permutations by reversal distance (Talk)]]></title>
@@ -183,6 +141,48 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 14 May 2023 17:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to find pointwise definable and Leibnizian extensions of models of arithmetic and set theory, Oxford Logic Seminar, May 2023]]></title>
+            <link>https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 11 May 2023 00:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite games—strategies, logic, theory, and computation, Northeastern, June 2023]]></title>
+            <link>https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-northeastern-june-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 10 May 2023 23:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Realizing Frege’s Basic Law V provably in ZFC, New York, May 2023]]></title>
+            <link>https://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/realizing-freges-basic-law-v-provably-in-zfc-new-york-may-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 04 May 2023 16:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set-theoretic forcing as a computational process, Midwest Computability Seminar, Chicago, May 2023]]></title>
+            <link>https://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/forcing-as-a-computational-process-mcs-chicago-may-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 02 May 2023 14:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introductory elliptic curves]]></title>
+            <link>https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-introduction-to-elliptic-curves/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An overview of set theory]]></title>
+            <link>https://scoskey.org/senior-thesis/an-overview-of-set-theory/</link>
+            <guid isPermaLink="false">https://scoskey.org/senior-thesis/an-overview-of-set-theory/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
