@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 Dec 2023 04:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 08:28:49 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Dec 2023 04:28:08 GMT</pubDate>
+        <pubDate>Fri, 15 Dec 2023 08:28:49 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -129,13 +129,6 @@
             <pubDate>Tue, 18 Jul 2023 08:02:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Westfjords Way Bikepacking Route]]></title>
-            <link>http://dcernst.github.io/Westfjords-way/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/Westfjords-way/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Conjugacy, classification, and complexity]]></title>
             <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
             <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
@@ -148,13 +141,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 16 Jun 2023 12:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enumerating signed permutations by reversal distance (Talk)]]></title>
-            <link>http://dcernst.github.io/enumerating-signed-permutations-by-reversal-distance/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/enumerating-signed-permutations-by-reversal-distance/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I trained neural nets to do forcing and symmetric extensions]]></title>
@@ -183,6 +169,20 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 14 May 2023 17:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Shelah group in ZFC]]></title>
+            <link>https://blog.assafrinot.com/?p=4949</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4949</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Thu, 11 May 2023 14:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to find pointwise definable and Leibnizian extensions of models of arithmetic and set theory, Oxford Logic Seminar, May 2023]]></title>
+            <link>https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-leibnizian-extensions-oxford-logic-may-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 11 May 2023 00:24:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
