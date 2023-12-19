@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 Dec 2023 20:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 01:32:24 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Dec 2023 20:22:48 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2023 01:32:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[120 Years of Choice: First Announcement]]></title>
+            <link>https://karagila.org/2023/120-years-annoucement/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/120-years-annoucement/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 19 Dec 2023 00:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pluralism in the foundations of mathematics, ASL invited address, joint APA/ASL meeting, New York, January 2024]]></title>
+            <link>https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 18 Dec 2023 21:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The computable model theory of forcing, Rutgers Logic Seminar, December 2023]]></title>
             <link>https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/fregean-abstraction-paris-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 15 May 2023 08:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set theory with abundant urelements, STUK 10, Oxford, June 2023]]></title>
-            <link>https://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 14 May 2023 17:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Natural Instances of Illfoundedness and Nonlinearity in the Hierarchy of Consistency Strength, Oxford Phil Math Seminar, May 2023]]></title>
-            <link>https://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/nonlinear-consistency-strength-oxford-may-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 14 May 2023 17:11:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
