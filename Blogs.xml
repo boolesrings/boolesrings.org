@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Dec 2023 04:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 08:28:37 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2023 04:27:54 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2023 08:28:37 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -150,13 +150,6 @@
             <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conjugacy, classification, and complexity]]></title>
-            <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
             <link>https://blog.assafrinot.com/?p=4962</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/fregean-abstraction-paris-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 15 May 2023 08:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set theory with abundant urelements, STUK 10, Oxford, June 2023]]></title>
+            <link>https://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/set-theory-with-abundant-urelements-stuk-10-oxford-june-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 14 May 2023 17:28:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
