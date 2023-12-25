@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Dec 2023 01:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 04:27:56 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 Dec 2023 01:32:42 GMT</pubDate>
+        <pubDate>Mon, 25 Dec 2023 04:27:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -24,6 +24,13 @@
             <pubDate>Tue, 19 Dec 2023 00:21:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pluralism in the foundations of mathematics, ASL invited address, joint APA/ASL meeting, New York, January 2024]]></title>
+            <link>https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 18 Dec 2023 21:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New large cardinal chart of Ramsey-like cardinals]]></title>
             <link>/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</link>
             <guid isPermaLink="false">/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</guid>
@@ -36,6 +43,13 @@
             <guid isPermaLink="false">/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The computable model theory of forcing, Rutgers Logic Seminar, December 2023]]></title>
+            <link>https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
@@ -73,6 +87,41 @@
             <pubDate>Fri, 10 Nov 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Wordle and Absurdle numbers, CUNY Logic Workshop, November 2023]]></title>
+            <link>https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 07 Nov 2023 16:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is second-order predicate modal logic? FoMoLo Seminar, February 2024]]></title>
+            <link>https://jdh.hamkins.org/what-is-second-order-predicate-modal-logic-fomolo-seminar-february-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-second-order-predicate-modal-logic-fomolo-seminar-february-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 03 Nov 2023 15:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The surprising strength of second-order reflection in urelement set theory, Luminy, October 2023]]></title>
+            <link>https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 11 Oct 2023 16:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is potentialist second-order logic? Konstanz Actualism and Potentialism Conference 2023]]></title>
+            <link>https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 20 Sep 2023 19:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite-Games Workshop]]></title>
+            <link>https://jdh.hamkins.org/infinite-games-workshop/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-workshop/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is best in science?]]></title>
             <link>https://karagila.org/2023/what-is-best/</link>
             <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
@@ -101,6 +150,20 @@
             <pubDate>Sat, 19 Aug 2023 13:44:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Philosophy of Mathematics and Truth, interview with Matthew Geleta on Paradigm Podcast]]></title>
+            <link>https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 18 Aug 2023 17:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An exploration of infinite games—infinite Wordle and the Mastermind numbers, Harvard, October 2023]]></title>
+            <link>https://jdh.hamkins.org/infinite-games-harvard-october-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-harvard-october-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 15 Aug 2023 18:19:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Upgrading democracy]]></title>
             <link>https://nickpgill.github.io/upgrade-democracy</link>
             <guid isPermaLink="false">https://nickpgill.github.io/upgrade-democracy</guid>
@@ -120,69 +183,6 @@
             <guid isPermaLink="false">/talks/2023/07/21/a-gentle-introduction-to-class-forcing.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Fri, 21 Jul 2023 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Souslin trees at small cardinals]]></title>
-            <link>https://blog.assafrinot.com/?p=4976</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4976</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Tue, 18 Jul 2023 08:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Westfjords Way Bikepacking Route]]></title>
-            <link>http://dcernst.github.io/Westfjords-way/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/Westfjords-way/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conjugacy, classification, and complexity]]></title>
-            <link>https://scoskey.org/presentation/conjugacy-classification-and-complexity/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/conjugacy-classification-and-complexity/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A counterexample related to a theorem of Komjáth and Weiss]]></title>
-            <link>https://blog.assafrinot.com/?p=4962</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4962</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 16 Jun 2023 12:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enumerating signed permutations by reversal distance (Talk)]]></title>
-            <link>http://dcernst.github.io/enumerating-signed-permutations-by-reversal-distance/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/enumerating-signed-permutations-by-reversal-distance/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I trained neural nets to do forcing and symmetric extensions]]></title>
-            <link>https://karagila.org/2023/forcing-notes/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/forcing-notes/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 01 Jun 2023 13:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Shelah group in ZFC]]></title>
-            <link>https://blog.assafrinot.com/?p=4949</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4949</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 11 May 2023 14:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gdańsk Logic Conference, May 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=4946</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4946</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 07 May 2023 18:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jensen forcing at an inaccessible and a model of Kelley-Morse satisfying ${\rm CC}$ but not ${\rm DC}_\omega$]]></title>
-            <link>/publications/2023/05/01/jensen-forcing-at-an-inaccessible.html</link>
-            <guid isPermaLink="false">/publications/2023/05/01/jensen-forcing-at-an-inaccessible.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 01 May 2023 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
