@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 Dec 2023 12:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 16:28:34 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 Dec 2023 12:38:57 GMT</pubDate>
+        <pubDate>Sun, 31 Dec 2023 16:28:34 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A first look at MathJax v4]]></title>
+            <link>https://www.peterkrautzberger.org/0222/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0222/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cardinal correct extendible cardinals]]></title>
             <link>/research/2023/12/19/cardinal-correct-extendible-cardinals.html</link>
@@ -174,13 +181,6 @@
             <title><![CDATA[An overview of virtual large cardinals]]></title>
             <link>/talks/2023/07/21/an-overview-of-virtual-large-cardinals.html</link>
             <guid isPermaLink="false">/talks/2023/07/21/an-overview-of-virtual-large-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 21 Jul 2023 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A gentle introduction to class forcing]]></title>
-            <link>/talks/2023/07/21/a-gentle-introduction-to-class-forcing.html</link>
-            <guid isPermaLink="false">/talks/2023/07/21/a-gentle-introduction-to-class-forcing.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Fri, 21 Jul 2023 04:00:00 GMT</pubDate>
         </item>
