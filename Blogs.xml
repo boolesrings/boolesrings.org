@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jan 2024 12:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 16:29:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jan 2024 12:39:29 GMT</pubDate>
+        <pubDate>Sun, 14 Jan 2024 16:29:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
+            <link>https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 14 Jan 2024 15:33:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A first look at MathJax v4]]></title>
             <link>https://www.peterkrautzberger.org/0222/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://nickpgill.github.io/upgrade-democracy</guid>
             <dc:creator><![CDATA[Nick Gill]]></dc:creator>
             <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An overview of virtual large cardinals]]></title>
-            <link>/talks/2023/07/21/an-overview-of-virtual-large-cardinals.html</link>
-            <guid isPermaLink="false">/talks/2023/07/21/an-overview-of-virtual-large-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 21 Jul 2023 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
