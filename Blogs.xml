@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jan 2024 16:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 20:22:01 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jan 2024 16:27:54 GMT</pubDate>
+        <pubDate>Sat, 27 Jan 2024 20:22:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Web components for (mathematical) writing, continued]]></title>
+            <link>https://www.peterkrautzberger.org/0221/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0221/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
             <link>https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-harvard-october-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 15 Aug 2023 18:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upgrading democracy]]></title>
-            <link>https://nickpgill.github.io/upgrade-democracy</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/upgrade-democracy</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
