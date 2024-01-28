@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jan 2024 04:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 08:27:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jan 2024 04:25:51 GMT</pubDate>
+        <pubDate>Sun, 28 Jan 2024 08:27:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Squares, ultrafilters and forcing axioms]]></title>
+            <link>https://blog.assafrinot.com/?p=5049</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5049</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sat, 27 Jan 2024 15:16:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Web components for (mathematical) writing, continued]]></title>
             <link>https://www.peterkrautzberger.org/0221/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 18 Aug 2023 17:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An exploration of infinite games—infinite Wordle and the Mastermind numbers, Harvard, October 2023]]></title>
-            <link>https://jdh.hamkins.org/infinite-games-harvard-october-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-harvard-october-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2023 18:19:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
