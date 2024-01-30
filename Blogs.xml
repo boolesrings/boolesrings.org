@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jan 2024 12:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 16:28:30 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jan 2024 12:37:36 GMT</pubDate>
+        <pubDate>Tue, 30 Jan 2024 16:28:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -36,6 +36,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 14 Jan 2024 15:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0046, Term 2 2023]]></title>
+            <link>https://scoskey.org/course/2324s-0046/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A first look at MathJax v4]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vanishing levels of a tree]]></title>
-            <link>https://blog.assafrinot.com/?p=4991</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4991</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 19 Aug 2023 13:44:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
