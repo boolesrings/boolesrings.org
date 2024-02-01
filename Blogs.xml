@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Feb 2024 12:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 16:28:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Feb 2024 12:38:23 GMT</pubDate>
+        <pubDate>Thu, 01 Feb 2024 16:28:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,13 +15,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 29 Jan 2024 19:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Squares, ultrafilters and forcing axioms]]></title>
-            <link>https://blog.assafrinot.com/?p=5049</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5049</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 27 Jan 2024 15:16:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web components for (mathematical) writing, continued]]></title>
@@ -94,25 +87,11 @@
             <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
-            <link>https://blog.assafrinot.com/?p=5036</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5036</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Between Ramsey and measurable cardinals]]></title>
             <link>/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</link>
             <guid isPermaLink="false">/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspectives on Set Theory,  November 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=5029</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5029</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 16 Nov 2023 16:52:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web components for (mathematical) writing, a first problem]]></title>
@@ -171,18 +150,39 @@
             <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Diamond on ladder systems and countably metacompact topological spaces]]></title>
-            <link>https://blog.assafrinot.com/?p=4995</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Granularity walkers for textual descriptions]]></title>
             <link>https://www.peterkrautzberger.org/0219/</link>
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philosophy of Mathematics and Truth, interview with Matthew Geleta on Paradigm Podcast]]></title>
+            <link>https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 18 Aug 2023 17:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An exploration of infinite games—infinite Wordle and the Mastermind numbers, Harvard, October 2023]]></title>
+            <link>https://jdh.hamkins.org/infinite-games-harvard-october-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-harvard-october-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 15 Aug 2023 18:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upgrading democracy]]></title>
+            <link>https://nickpgill.github.io/upgrade-democracy</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/upgrade-democracy</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0010, Term 1 2023]]></title>
+            <link>https://scoskey.org/course/2324f-00010/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2324f-00010/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
