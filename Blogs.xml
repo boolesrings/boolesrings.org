@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Feb 2024 20:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 01:19:53 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Feb 2024 20:23:13 GMT</pubDate>
+        <pubDate>Wed, 07 Feb 2024 01:19:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -57,6 +57,13 @@
             <guid isPermaLink="false">/research/2023/12/19/cardinal-correct-extendible-cardinals.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Tue, 19 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[120 Years of Choice: First Announcement]]></title>
+            <link>https://karagila.org/2023/120-years-annoucement/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/120-years-annoucement/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 19 Dec 2023 00:21:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pluralism in the foundations of mathematics, ASL invited address, joint APA/ASL meeting, New York, January 2024]]></title>
@@ -157,6 +164,13 @@
             <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What is best in science?]]></title>
+            <link>https://karagila.org/2023/what-is-best/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Diamond on ladder systems and countably metacompact topological spaces]]></title>
             <link>https://blog.assafrinot.com/?p=4995</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vanishing levels of a tree]]></title>
-            <link>https://blog.assafrinot.com/?p=4991</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4991</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 19 Aug 2023 13:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philosophy of Mathematics and Truth, interview with Matthew Geleta on Paradigm Podcast]]></title>
-            <link>https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/philosophy-of-mathematics-and-truth-interview-with-matthew-geleta-on-paradigm-podcast/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 18 Aug 2023 17:10:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
