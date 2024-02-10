@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Feb 2024 01:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 04:27:38 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Feb 2024 01:18:46 GMT</pubDate>
+        <pubDate>Sat, 10 Feb 2024 04:27:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[What if your potentialism is implicitly actualist? Oxford conference, March 2024]]></title>
+            <link>https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 10 Feb 2024 02:25:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The covering reflection principle, Notre Dame Logic Seminar, February 2024]]></title>
             <link>https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Granularity walkers for textual descriptions]]></title>
-            <link>https://www.peterkrautzberger.org/0219/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
