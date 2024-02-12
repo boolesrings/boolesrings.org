@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Feb 2024 16:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 20:22:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Feb 2024 16:30:02 GMT</pubDate>
+        <pubDate>Mon, 12 Feb 2024 20:22:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom, UC Irvine Logic & Philosoph of Science Colloquium, March 2024]]></title>
+            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2024 19:17:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What if your potentialism is implicitly actualist? Oxford conference, March 2024]]></title>
             <link>https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diamond on ladder systems and countably metacompact topological spaces]]></title>
-            <link>https://blog.assafrinot.com/?p=4995</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
