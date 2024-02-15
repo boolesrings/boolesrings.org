@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Feb 2024 16:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 20:21:55 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Feb 2024 16:28:19 GMT</pubDate>
+        <pubDate>Thu, 15 Feb 2024 20:21:55 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[120 Years of Choice: Registration is open]]></title>
+            <link>https://karagila.org/2024/120-years-reg/</link>
+            <guid isPermaLink="false">https://karagila.org/2024/120-years-reg/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Thu, 15 Feb 2024 18:22:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom, UC Irvine Logic & Philosoph of Science Colloquium, March 2024]]></title>
             <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-workshop/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is best in science?]]></title>
-            <link>https://karagila.org/2023/what-is-best/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
