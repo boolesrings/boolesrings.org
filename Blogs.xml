@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Feb 2024 08:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 12:38:19 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Feb 2024 08:26:33 GMT</pubDate>
+        <pubDate>Fri, 16 Feb 2024 12:38:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
+            <link>https://blog.assafrinot.com/?p=5055</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5055</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 16 Feb 2024 10:50:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[120 Years of Choice: Registration is open]]></title>
             <link>https://karagila.org/2024/120-years-reg/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 20 Sep 2023 19:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite-Games Workshop]]></title>
-            <link>https://jdh.hamkins.org/infinite-games-workshop/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-workshop/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
