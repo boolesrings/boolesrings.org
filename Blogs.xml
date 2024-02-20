@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Feb 2024 20:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 01:20:04 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Feb 2024 20:22:37 GMT</pubDate>
+        <pubDate>Tue, 20 Feb 2024 01:20:04 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -52,13 +52,6 @@
             <pubDate>Sat, 27 Jan 2024 15:16:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web components for (mathematical) writing, continued]]></title>
-            <link>https://www.peterkrautzberger.org/0221/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0221/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
             <link>https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</guid>
@@ -71,13 +64,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A first look at MathJax v4]]></title>
-            <link>https://www.peterkrautzberger.org/0222/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0222/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cardinal correct extendible cardinals]]></title>
@@ -143,13 +129,6 @@
             <pubDate>Thu, 16 Nov 2023 16:52:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web components for (mathematical) writing, a first problem]]></title>
-            <link>https://www.peterkrautzberger.org/0220/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0220/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
             <link>/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
             <guid isPermaLink="false">/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 20 Sep 2023 19:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite-Games Workshop]]></title>
+            <link>https://jdh.hamkins.org/infinite-games-workshop/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-workshop/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is best in science?]]></title>
+            <link>https://karagila.org/2023/what-is-best/</link>
+            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diamond on ladder systems and countably metacompact topological spaces]]></title>
+            <link>https://blog.assafrinot.com/?p=4995</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
