@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Mar 2024 20:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 01:18:59 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Mar 2024 20:23:31 GMT</pubDate>
+        <pubDate>Sat, 02 Mar 2024 01:18:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Failing definite descriptions, Notre Dame Food for Thought Seminar, March 2024]]></title>
+            <link>https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 01 Mar 2024 23:43:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
             <link>https://blog.assafrinot.com/?p=5055</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 11 Oct 2023 16:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is potentialist second-order logic? Konstanz Actualism and Potentialism Conference 2023]]></title>
-            <link>https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 20 Sep 2023 19:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
