@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Mar 2024 20:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 01:23:09 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Mar 2024 20:22:49 GMT</pubDate>
+        <pubDate>Fri, 08 Mar 2024 01:23:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -78,6 +78,13 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0221/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
+            <link>/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</link>
+            <guid isPermaLink="false">/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Thu, 18 Jan 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wordle and Absurdle numbers, CUNY Logic Workshop, November 2023]]></title>
-            <link>https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 07 Nov 2023 16:51:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
