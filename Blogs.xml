@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Apr 2024 16:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 20:23:59 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Apr 2024 16:28:35 GMT</pubDate>
+        <pubDate>Tue, 16 Apr 2024 20:23:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -80,6 +80,13 @@
             <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
+            <link>/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</link>
+            <guid isPermaLink="false">/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Thu, 18 Jan 2024 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
             <link>https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</guid>
@@ -101,6 +108,13 @@
             <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cardinal correct extendible cardinals]]></title>
+            <link>/research/2023/12/19/cardinal-correct-extendible-cardinals.html</link>
+            <guid isPermaLink="false">/research/2023/12/19/cardinal-correct-extendible-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Tue, 19 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[120 Years of Choice: First Announcement]]></title>
             <link>https://karagila.org/2023/120-years-annoucement/</link>
             <guid isPermaLink="false">https://karagila.org/2023/120-years-annoucement/</guid>
@@ -113,6 +127,20 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 18 Dec 2023 21:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New large cardinal chart of Ramsey-like cardinals]]></title>
+            <link>/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</link>
+            <guid isPermaLink="false">/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 18 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
+            <link>/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
+            <guid isPermaLink="false">/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The computable model theory of forcing, Rutgers Logic Seminar, December 2023]]></title>
@@ -129,6 +157,13 @@
             <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Between Ramsey and measurable cardinals]]></title>
+            <link>/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</link>
+            <guid isPermaLink="false">/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Perspectives on Set Theory,  November 2023]]></title>
             <link>https://blog.assafrinot.com/?p=5029</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5029</guid>
@@ -143,46 +178,11 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Wordle and Absurdle numbers, CUNY Logic Workshop, November 2023]]></title>
-            <link>https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 07 Nov 2023 16:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is second-order predicate modal logic? FoMoLo Seminar, February 2024]]></title>
-            <link>https://jdh.hamkins.org/what-is-second-order-predicate-modal-logic-fomolo-seminar-february-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-second-order-predicate-modal-logic-fomolo-seminar-february-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 03 Nov 2023 15:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The surprising strength of second-order reflection in urelement set theory, Luminy, October 2023]]></title>
-            <link>https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 11 Oct 2023 16:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is potentialist second-order logic? Konstanz Actualism and Potentialism Conference 2023]]></title>
-            <link>https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 20 Sep 2023 19:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite-Games Workshop]]></title>
-            <link>https://jdh.hamkins.org/infinite-games-workshop/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-games-workshop/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 17 Sep 2023 20:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is best in science?]]></title>
-            <link>https://karagila.org/2023/what-is-best/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
+            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
+            <link>/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
+            <guid isPermaLink="false">/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Fri, 10 Nov 2023 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
