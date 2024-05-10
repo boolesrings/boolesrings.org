@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 May 2024 08:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 12:41:18 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 May 2024 08:27:49 GMT</pubDate>
+        <pubDate>Fri, 10 May 2024 12:41:18 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Borel reducibility and conjugacy equivalence relations]]></title>
+            <link>https://scoskey.org/masters-thesis/borel-reducibility-and-conjugacy-equivalence-relations/</link>
+            <guid isPermaLink="false">https://scoskey.org/masters-thesis/borel-reducibility-and-conjugacy-equivalence-relations/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Diamond on Kurepa trees]]></title>
             <link>https://blog.assafrinot.com/?p=5062</link>
@@ -94,7 +101,7 @@
             <pubDate>Sun, 14 Jan 2024 15:33:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MATH0046, Term 2 2023]]></title>
+            <title><![CDATA[MATH0046, Term 2 2024]]></title>
             <link>https://scoskey.org/course/2324s-0046/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0220/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2023 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
