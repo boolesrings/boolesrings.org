@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 May 2024 01:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 08:27:15 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 May 2024 01:38:25 GMT</pubDate>
+        <pubDate>Sun, 12 May 2024 08:27:15 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -24,6 +24,20 @@
             <pubDate>Wed, 06 Mar 2024 15:17:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gödel incompleteness, graduate course, Notre Dame, Fall 2024]]></title>
+            <link>https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 02 Mar 2024 01:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Failing definite descriptions, Notre Dame Food for Thought Seminar, March 2024]]></title>
+            <link>https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 01 Mar 2024 23:43:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
             <link>https://blog.assafrinot.com/?p=5055</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5055</guid>
@@ -36,6 +50,27 @@
             <guid isPermaLink="false">https://karagila.org/2024/120-years-reg/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Thu, 15 Feb 2024 18:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom, UC Irvine Logic & Philosoph of Science Colloquium, March 2024]]></title>
+            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2024 19:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if your potentialism is implicitly actualist? Oxford conference, March 2024]]></title>
+            <link>https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 10 Feb 2024 02:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The covering reflection principle, Notre Dame Logic Seminar, February 2024]]></title>
+            <link>https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 29 Jan 2024 19:03:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Squares, ultrafilters and forcing axioms]]></title>
@@ -57,6 +92,13 @@
             <guid isPermaLink="false">/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 18 Jan 2024 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
+            <link>https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 14 Jan 2024 15:33:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MATH0046, Term 2 2024]]></title>
@@ -87,6 +129,13 @@
             <pubDate>Tue, 19 Dec 2023 00:21:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pluralism in the foundations of mathematics, ASL invited address, joint APA/ASL meeting, New York, January 2024]]></title>
+            <link>https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 18 Dec 2023 21:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New large cardinal chart of Ramsey-like cardinals]]></title>
             <link>/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</link>
             <guid isPermaLink="false">/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</guid>
@@ -99,6 +148,13 @@
             <guid isPermaLink="false">/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The computable model theory of forcing, Rutgers Logic Seminar, December 2023]]></title>
+            <link>https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
@@ -127,62 +183,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0220/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is best in science?]]></title>
-            <link>https://karagila.org/2023/what-is-best/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diamond on ladder systems and countably metacompact topological spaces]]></title>
-            <link>https://blog.assafrinot.com/?p=4995</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Granularity walkers for textual descriptions]]></title>
-            <link>https://www.peterkrautzberger.org/0219/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vanishing levels of a tree]]></title>
-            <link>https://blog.assafrinot.com/?p=4991</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4991</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 19 Aug 2023 13:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upgrading democracy]]></title>
-            <link>https://nickpgill.github.io/upgrade-democracy</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/upgrade-democracy</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0010, Term 1 2023]]></title>
-            <link>https://scoskey.org/course/2324f-0010/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324f-0010/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An overview of virtual large cardinals]]></title>
-            <link>/talks/2023/07/21/an-overview-of-virtual-large-cardinals.html</link>
-            <guid isPermaLink="false">/talks/2023/07/21/an-overview-of-virtual-large-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 21 Jul 2023 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
