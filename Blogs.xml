@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 May 2024 20:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 01:36:01 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 May 2024 20:23:19 GMT</pubDate>
+        <pubDate>Mon, 27 May 2024 01:36:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Life Story of Mathematician & Philosopher of Infinity, interviewed by The Human Podcast, May 2024]]></title>
+            <link>https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 27 May 2024 01:18:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forcing is simply the iterative conception undertaken with multivalued logic, ForcingFest, Oslo, June 2024]]></title>
             <link>https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5036</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between Ramsey and measurable cardinals]]></title>
-            <link>/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</link>
-            <guid isPermaLink="false">/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
