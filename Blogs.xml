@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 May 2024 16:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 20:25:35 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 May 2024 16:31:07 GMT</pubDate>
+        <pubDate>Wed, 29 May 2024 20:25:35 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Daniel Solow Author’s Award 2024]]></title>
+            <link>https://jdh.hamkins.org/daniel-solow-authors-award-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/daniel-solow-authors-award-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 29 May 2024 16:47:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life Story of Mathematician & Philosopher of Infinity, interviewed by The Human Podcast, May 2024]]></title>
             <link>https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
-            <link>https://blog.assafrinot.com/?p=5036</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5036</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
