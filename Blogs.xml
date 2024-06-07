@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Jun 2024 12:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 16:31:46 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Jun 2024 12:49:51 GMT</pubDate>
+        <pubDate>Fri, 07 Jun 2024 16:31:46 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Mathematics, Philosophy of Set Theory and Infinity, Back to the Stone Age interview, May 2024]]></title>
+            <link>https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2024 13:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Daniel Solow Author’s Award 2024]]></title>
             <link>https://jdh.hamkins.org/daniel-solow-authors-award-2024/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The computable model theory of forcing, Rutgers Logic Seminar, December 2023]]></title>
-            <link>https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
