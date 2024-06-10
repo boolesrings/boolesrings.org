@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Jun 2024 12:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 16:31:56 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Jun 2024 12:45:15 GMT</pubDate>
+        <pubDate>Mon, 10 Jun 2024 16:31:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -52,13 +52,6 @@
             <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Diamond on Kurepa trees]]></title>
-            <link>https://blog.assafrinot.com/?p=5062</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5062</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 06 Mar 2024 15:17:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gödel incompleteness, graduate course, Notre Dame, Fall 2024]]></title>
             <link>https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</guid>
@@ -71,13 +64,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 01 Mar 2024 23:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
-            <link>https://blog.assafrinot.com/?p=5055</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5055</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 16 Feb 2024 10:50:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[120 Years of Choice: Registration is open]]></title>
@@ -106,13 +92,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 29 Jan 2024 19:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Squares, ultrafilters and forcing axioms]]></title>
-            <link>https://blog.assafrinot.com/?p=5049</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5049</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 27 Jan 2024 15:16:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web components for (mathematical) writing, continued]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The computable model theory of forcing, Rutgers Logic Seminar, December 2023]]></title>
+            <link>https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 23 Nov 2023 20:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Between Ramsey and measurable cardinals]]></title>
+            <link>/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</link>
+            <guid isPermaLink="false">/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web components for (mathematical) writing, a first problem]]></title>
+            <link>https://www.peterkrautzberger.org/0220/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0220/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
