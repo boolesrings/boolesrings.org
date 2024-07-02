@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jul 2024 20:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 01:38:22 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jul 2024 20:25:30 GMT</pubDate>
+        <pubDate>Tue, 02 Jul 2024 01:38:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
+            <link>https://jdh.hamkins.org/turing-halting-problem/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/turing-halting-problem/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2024 00:50:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[120 Years of Choice: Final call for registration!]]></title>
             <link>https://karagila.org/2024/120-years-reg-final/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 18 Dec 2023 21:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New large cardinal chart of Ramsey-like cardinals]]></title>
-            <link>/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</link>
-            <guid isPermaLink="false">/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 18 Dec 2023 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
