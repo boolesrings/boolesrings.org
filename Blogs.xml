@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jul 2024 12:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 16:32:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jul 2024 12:46:27 GMT</pubDate>
+        <pubDate>Mon, 15 Jul 2024 16:32:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Puzzles of reality and infinity, Mindscape Podcast]]></title>
+            <link>https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 15 Jul 2024 15:45:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[120 Years of Choice, July 2024]]></title>
             <link>https://blog.assafrinot.com/?p=5080</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A first look at MathJax v4]]></title>
-            <link>https://www.peterkrautzberger.org/0222/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0222/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
