@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jul 2024 12:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 16:31:30 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jul 2024 12:44:26 GMT</pubDate>
+        <pubDate>Fri, 26 Jul 2024 16:31:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Intersection models]]></title>
+            <link>https://blog.assafrinot.com/?p=5084</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5084</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 26 Jul 2024 14:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025]]></title>
             <link>https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 18 Jan 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gödel incompleteness phenomenon, interview with Rahul Sam]]></title>
-            <link>https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 14 Jan 2024 15:33:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
