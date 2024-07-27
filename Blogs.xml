@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jul 2024 01:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 04:30:11 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jul 2024 01:39:20 GMT</pubDate>
+        <pubDate>Sat, 27 Jul 2024 04:30:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -15,6 +15,20 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5084</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 26 Jul 2024 14:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025]]></title>
+            <link>https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 22 Jul 2024 13:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puzzles of reality and infinity, Mindscape Podcast]]></title>
+            <link>https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 15 Jul 2024 15:45:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[120 Years of Choice, July 2024]]></title>
@@ -31,11 +45,60 @@
             <pubDate>Fri, 05 Jul 2024 14:12:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
+            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2024 12:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
+            <link>https://jdh.hamkins.org/turing-halting-problem/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/turing-halting-problem/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2024 00:50:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[120 Years of Choice: Final call for registration!]]></title>
             <link>https://karagila.org/2024/120-years-reg-final/</link>
             <guid isPermaLink="false">https://karagila.org/2024/120-years-reg-final/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Tue, 11 Jun 2024 20:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematics, Philosophy of Set Theory and Infinity, Back to the Stone Age interview, May 2024]]></title>
+            <link>https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2024 13:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daniel Solow Author’s Award 2024]]></title>
+            <link>https://jdh.hamkins.org/daniel-solow-authors-award-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/daniel-solow-authors-award-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 29 May 2024 16:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life Story of Mathematician & Philosopher of Infinity, interviewed by The Human Podcast, May 2024]]></title>
+            <link>https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 27 May 2024 01:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forcing is simply the iterative conception undertaken with multivalued logic, ForcingFest, Oslo, June 2024]]></title>
+            <link>https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 24 May 2024 23:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The continuum hypothesis could have been a fundamental axiom, CFORS Grad Conference, Oslo, June 2024]]></title>
+            <link>https://jdh.hamkins.org/the-continuum-hypothesis-could-have-been-a-fundamental-axiom-oslo-june-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-continuum-hypothesis-could-have-been-a-fundamental-axiom-oslo-june-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 24 May 2024 23:28:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Borel reducibility and conjugacy equivalence relations]]></title>
@@ -52,6 +115,20 @@
             <pubDate>Wed, 06 Mar 2024 15:17:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gödel incompleteness, graduate course, Notre Dame, Fall 2024]]></title>
+            <link>https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 02 Mar 2024 01:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Failing definite descriptions, Notre Dame Food for Thought Seminar, March 2024]]></title>
+            <link>https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 01 Mar 2024 23:43:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
             <link>https://blog.assafrinot.com/?p=5055</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5055</guid>
@@ -64,6 +141,27 @@
             <guid isPermaLink="false">https://karagila.org/2024/120-years-reg/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Thu, 15 Feb 2024 18:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom, UC Irvine Logic & Philosoph of Science Colloquium, March 2024]]></title>
+            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2024 19:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if your potentialism is implicitly actualist? Oxford conference, March 2024]]></title>
+            <link>https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 10 Feb 2024 02:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The covering reflection principle, Notre Dame Logic Seminar, February 2024]]></title>
+            <link>https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 29 Jan 2024 19:03:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Squares, ultrafilters and forcing axioms]]></title>
@@ -85,104 +183,6 @@
             <guid isPermaLink="false">/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 18 Jan 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0046, Term 2 2024]]></title>
-            <link>https://scoskey.org/course/2324s-0046/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A first look at MathJax v4]]></title>
-            <link>https://www.peterkrautzberger.org/0222/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0222/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardinal correct extendible cardinals]]></title>
-            <link>/research/2023/12/19/cardinal-correct-extendible-cardinals.html</link>
-            <guid isPermaLink="false">/research/2023/12/19/cardinal-correct-extendible-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Tue, 19 Dec 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[120 Years of Choice: First Announcement]]></title>
-            <link>https://karagila.org/2023/120-years-annoucement/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/120-years-annoucement/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Tue, 19 Dec 2023 00:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New large cardinal chart of Ramsey-like cardinals]]></title>
-            <link>/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</link>
-            <guid isPermaLink="false">/research/2023/12/18/new-large-cardinal-chart-of-ramsey-like-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 18 Dec 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/publications/2023/12/14/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[May the successor of a singular cardinal be Jonsson?]]></title>
-            <link>https://blog.assafrinot.com/?p=5036</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5036</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 23 Nov 2023 15:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between Ramsey and measurable cardinals]]></title>
-            <link>/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</link>
-            <guid isPermaLink="false">/publications/2023/11/20/between-ramsey-and-measurable-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspectives on Set Theory,  November 2023]]></title>
-            <link>https://blog.assafrinot.com/?p=5029</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5029</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 16 Nov 2023 16:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web components for (mathematical) writing, a first problem]]></title>
-            <link>https://www.peterkrautzberger.org/0220/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0220/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/talks/2023/11/10/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2023 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is best in science?]]></title>
-            <link>https://karagila.org/2023/what-is-best/</link>
-            <guid isPermaLink="false">https://karagila.org/2023/what-is-best/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Sat, 26 Aug 2023 22:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diamond on ladder systems and countably metacompact topological spaces]]></title>
-            <link>https://blog.assafrinot.com/?p=4995</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=4995</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 21 Aug 2023 11:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Granularity walkers for textual descriptions]]></title>
-            <link>https://www.peterkrautzberger.org/0219/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0219/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
