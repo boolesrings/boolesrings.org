@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Sep 2024 12:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 16:33:56 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Sep 2024 12:49:17 GMT</pubDate>
+        <pubDate>Thu, 05 Sep 2024 16:33:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,13 +22,6 @@
             <guid isPermaLink="false">https://nickpgill.github.io/a-correction-to-paper-on-degos-conjecture</guid>
             <dc:creator><![CDATA[Nick Gill]]></dc:creator>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ketonen’s question and other cardinal sins]]></title>
-            <link>https://blog.assafrinot.com/?p=5084</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5084</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 26 Jul 2024 14:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025]]></title>
@@ -50,20 +43,6 @@
             <guid isPermaLink="false">https://karagila.org/2024/conferences/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Fri, 12 Jul 2024 16:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[120 Years of Choice, July 2024]]></title>
-            <link>https://blog.assafrinot.com/?p=5080</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5080</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 12 Jul 2024 02:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A model for global compactness]]></title>
-            <link>https://blog.assafrinot.com/?p=5073</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5073</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 05 Jul 2024 14:12:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
@@ -129,13 +108,6 @@
             <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Diamond on Kurepa trees]]></title>
-            <link>https://blog.assafrinot.com/?p=5062</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5062</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 06 Mar 2024 15:17:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gödel incompleteness, graduate course, Notre Dame, Fall 2024]]></title>
             <link>https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</guid>
@@ -148,13 +120,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 01 Mar 2024 23:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
-            <link>https://blog.assafrinot.com/?p=5055</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5055</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 16 Feb 2024 10:50:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[120 Years of Choice: Registration is open]]></title>
@@ -183,6 +148,41 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 29 Jan 2024 19:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web components for (mathematical) writing, continued]]></title>
+            <link>https://www.peterkrautzberger.org/0221/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0221/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
+            <link>/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</link>
+            <guid isPermaLink="false">/publications/2024/01/18/parameter-free-schemes-in-second-order-arithmetic.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Thu, 18 Jan 2024 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0046, Term 2 2024]]></title>
+            <link>https://scoskey.org/course/2324s-0046/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A first look at MathJax v4]]></title>
+            <link>https://www.peterkrautzberger.org/0222/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0222/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cardinal correct extendible cardinals]]></title>
+            <link>/research/2023/12/19/cardinal-correct-extendible-cardinals.html</link>
+            <guid isPermaLink="false">/research/2023/12/19/cardinal-correct-extendible-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Tue, 19 Dec 2023 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
