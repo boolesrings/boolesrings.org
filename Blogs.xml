@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Oct 2024 16:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 20:29:01 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Oct 2024 16:35:32 GMT</pubDate>
+        <pubDate>Thu, 03 Oct 2024 20:29:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Lighthouse Problem]]></title>
+            <link>https://karagila.org/2024/lighthouse/</link>
+            <guid isPermaLink="false">https://karagila.org/2024/lighthouse/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Thu, 03 Oct 2024 18:08:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2014]]></title>
             <link>https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 10 Feb 2024 02:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The covering reflection principle, Notre Dame Logic Seminar, February 2024]]></title>
-            <link>https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 29 Jan 2024 19:03:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
