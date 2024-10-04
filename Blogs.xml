@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Oct 2024 20:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 01:54:02 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Oct 2024 20:29:01 GMT</pubDate>
+        <pubDate>Fri, 04 Oct 2024 01:54:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,6 +22,20 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 18 Aug 2024 15:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0010, Term 1 2024]]></title>
+            <link>https://scoskey.org/course/2324f-0010/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2324f-0010/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0037, Term 1 2024]]></title>
+            <link>https://scoskey.org/course/2324f-0037/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2324f-0037/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erratum: On a conjecture of Degos]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2024/120-years-reg/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Thu, 15 Feb 2024 18:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom, UC Irvine Logic & Philosoph of Science Colloquium, March 2024]]></title>
-            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental-irvine-march-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 12 Feb 2024 19:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What if your potentialism is implicitly actualist? Oxford conference, March 2024]]></title>
-            <link>https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/what-if-your-potentialism-is-implicitly-actualist-oxford-conference-march-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sat, 10 Feb 2024 02:25:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
