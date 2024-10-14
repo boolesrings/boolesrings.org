@@ -4,11 +4,32 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Oct 2024 20:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 01:56:36 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Oct 2024 20:27:38 GMT</pubDate>
+        <pubDate>Mon, 14 Oct 2024 01:56:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Determinateness of truth does not come for free from determinateness of objects, Singapore, November 2024]]></title>
+            <link>https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Oct 2024 00:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The covering reflection theorem, Madison Logic Seminar, October 2024]]></title>
+            <link>https://jdh.hamkins.org/the-covering-reflection-theorem-madison-logic-seminar-october-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-theorem-madison-logic-seminar-october-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Oct 2024 00:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walks on uncountable ordinals and non-structure theorems for higher Aronszajn lines]]></title>
+            <link>https://blog.assafrinot.com/?p=5095</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5095</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 13 Oct 2024 23:56:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Lighthouse Problem]]></title>
             <link>https://karagila.org/2024/lighthouse/</link>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 02 Mar 2024 01:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Failing definite descriptions, Notre Dame Food for Thought Seminar, March 2024]]></title>
-            <link>https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/failing-definite-descriptions-notre-dame-food-for-thought-seminar-march-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 01 Mar 2024 23:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proxy principles in combinatorial set theory]]></title>
-            <link>https://blog.assafrinot.com/?p=5055</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5055</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 16 Feb 2024 10:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[120 Years of Choice: Registration is open]]></title>
-            <link>https://karagila.org/2024/120-years-reg/</link>
-            <guid isPermaLink="false">https://karagila.org/2024/120-years-reg/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 15 Feb 2024 18:22:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
