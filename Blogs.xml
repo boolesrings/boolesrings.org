@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 12:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 16:35:02 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 12:51:44 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 16:35:02 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Human Podcast: 10 questions in 10 minutes]]></title>
+            <link>https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 10 Jan 2025 16:09:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Every worldly cardinal admits a Gödel-Bernays structure]]></title>
             <link>https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 24 May 2024 23:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The continuum hypothesis could have been a fundamental axiom, CFORS Grad Conference, Oslo, June 2024]]></title>
-            <link>https://jdh.hamkins.org/the-continuum-hypothesis-could-have-been-a-fundamental-axiom-oslo-june-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-continuum-hypothesis-could-have-been-a-fundamental-axiom-oslo-june-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 24 May 2024 23:28:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
