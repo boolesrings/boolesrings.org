@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jan 2025 12:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 16:36:17 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jan 2025 12:52:59 GMT</pubDate>
+        <pubDate>Mon, 13 Jan 2025 16:36:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Finite classical groups]]></title>
+            <link>https://nickpgill.github.io/finite-classical-groups-2025</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/finite-classical-groups-2025</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Human Podcast: 10 questions in 10 minutes]]></title>
             <link>https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 27 May 2024 01:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forcing is simply the iterative conception undertaken with multivalued logic, ForcingFest, Oslo, June 2024]]></title>
-            <link>https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 24 May 2024 23:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
