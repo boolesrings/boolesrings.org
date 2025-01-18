@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jan 2025 16:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 20:26:01 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jan 2025 16:30:39 GMT</pubDate>
+        <pubDate>Sat, 18 Jan 2025 20:26:01 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
+            <link>https://blog.assafrinot.com/?p=5104</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finite classical groups]]></title>
             <link>https://nickpgill.github.io/finite-classical-groups-2025</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/daniel-solow-authors-award-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 29 May 2024 16:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life Story of Mathematician & Philosopher of Infinity, interviewed by The Human Podcast, May 2024]]></title>
-            <link>https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/life-story-of-mathematician-philosopher-of-infinity-interviewed-by-the-human-podcast-may-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 27 May 2024 01:18:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
