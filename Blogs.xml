@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Feb 2025 16:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 20:29:47 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Feb 2025 16:36:48 GMT</pubDate>
+        <pubDate>Thu, 27 Feb 2025 20:29:47 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -101,13 +101,6 @@
             <pubDate>Sun, 13 Oct 2024 23:56:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Lighthouse Problem]]></title>
-            <link>https://karagila.org/2024/lighthouse/</link>
-            <guid isPermaLink="false">https://karagila.org/2024/lighthouse/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 03 Oct 2024 18:08:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2024]]></title>
             <link>https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/</guid>
@@ -157,13 +150,6 @@
             <pubDate>Mon, 15 Jul 2024 15:45:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conferences: unsolicited advice]]></title>
-            <link>https://karagila.org/2024/conferences/</link>
-            <guid isPermaLink="false">https://karagila.org/2024/conferences/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 12 Jul 2024 16:02:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[120 Years of Choice, July 2024]]></title>
             <link>https://blog.assafrinot.com/?p=5080</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5080</guid>
@@ -183,6 +169,20 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 03 Jul 2024 12:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
+            <link>https://jdh.hamkins.org/turing-halting-problem/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/turing-halting-problem/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2024 00:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematics, Philosophy of Set Theory and Infinity, Back to the Stone Age interview, May 2024]]></title>
+            <link>https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2024 13:05:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
