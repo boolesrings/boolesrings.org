@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 16:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 20:29:53 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 16:36:05 GMT</pubDate>
+        <pubDate>Thu, 06 Mar 2025 20:29:53 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
+            <link>https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 06 Mar 2025 18:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 William Reinhardt Memorial Lecture, Boulder]]></title>
+            <link>https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 06 Mar 2025 18:39:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025]]></title>
             <link>https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5080</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 12 Jul 2024 02:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A model for global compactness]]></title>
-            <link>https://blog.assafrinot.com/?p=5073</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5073</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 05 Jul 2024 14:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
-            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 03 Jul 2024 12:42:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
