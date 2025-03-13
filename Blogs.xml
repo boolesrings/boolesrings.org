@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Mar 2025 12:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 16:37:40 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Mar 2025 12:53:56 GMT</pubDate>
+        <pubDate>Thu, 13 Mar 2025 16:37:40 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -43,6 +43,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 21 Jan 2025 23:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
+            <link>https://blog.assafrinot.com/?p=5104</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finite classical groups]]></title>
@@ -101,6 +108,13 @@
             <pubDate>Mon, 14 Oct 2024 00:00:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Walks on uncountable ordinals and non-structure theorems for higher Aronszajn lines]]></title>
+            <link>https://blog.assafrinot.com/?p=5095</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5095</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sun, 13 Oct 2024 23:56:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Lighthouse Problem]]></title>
             <link>https://karagila.org/2024/lighthouse/</link>
             <guid isPermaLink="false">https://karagila.org/2024/lighthouse/</guid>
@@ -136,6 +150,13 @@
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ketonen’s question and other cardinal sins]]></title>
+            <link>https://blog.assafrinot.com/?p=5084</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5084</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 26 Jul 2024 14:13:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025]]></title>
             <link>https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</guid>
@@ -157,32 +178,11 @@
             <pubDate>Fri, 12 Jul 2024 16:02:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
-            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 03 Jul 2024 12:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
-            <link>https://jdh.hamkins.org/turing-halting-problem/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/turing-halting-problem/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 02 Jul 2024 00:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[120 Years of Choice: Final call for registration!]]></title>
-            <link>https://karagila.org/2024/120-years-reg-final/</link>
-            <guid isPermaLink="false">https://karagila.org/2024/120-years-reg-final/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Tue, 11 Jun 2024 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mathematics, Philosophy of Set Theory and Infinity, Back to the Stone Age interview, May 2024]]></title>
-            <link>https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/mathematics-philosophy-of-set-theory-and-infinity-back-to-the-stone-age-interview-may-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 07 Jun 2024 13:05:28 GMT</pubDate>
+            <title><![CDATA[120 Years of Choice, July 2024]]></title>
+            <link>https://blog.assafrinot.com/?p=5080</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5080</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 12 Jul 2024 02:54:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
