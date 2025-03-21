@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 02:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 04:34:08 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Mar 2025 02:01:34 GMT</pubDate>
+        <pubDate>Fri, 21 Mar 2025 04:34:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -29,13 +29,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 28 Jan 2025 19:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set theory and classification problems]]></title>
-            <link>https://scoskey.org/presentation/set-theory-and-classification-problems/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/set-theory-and-classification-problems/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The covering reflection principle – Oberwolfach January 2025]]></title>
@@ -64,13 +57,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 10 Jan 2025 16:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0046, Term 2 2025]]></title>
-            <link>https://scoskey.org/course/2324s-0046/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Every worldly cardinal admits a Gödel-Bernays structure]]></title>
@@ -129,20 +115,6 @@
             <pubDate>Sun, 18 Aug 2024 15:05:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MATH0010, Term 1 2024]]></title>
-            <link>https://scoskey.org/course/2324f-0010/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324f-0010/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0037, Term 1 2024]]></title>
-            <link>https://scoskey.org/course/2324f-0037/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324f-0037/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Erratum: On a conjecture of Degos]]></title>
             <link>https://nickpgill.github.io/a-correction-to-paper-on-degos-conjecture</link>
             <guid isPermaLink="false">https://nickpgill.github.io/a-correction-to-paper-on-degos-conjecture</guid>
@@ -183,6 +155,34 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5080</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 12 Jul 2024 02:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A model for global compactness]]></title>
+            <link>https://blog.assafrinot.com/?p=5073</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5073</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 05 Jul 2024 14:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
+            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2024 12:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Turing prove the undecidability of the halting problem?]]></title>
+            <link>https://jdh.hamkins.org/turing-halting-problem/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/turing-halting-problem/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2024 00:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[120 Years of Choice: Final call for registration!]]></title>
+            <link>https://karagila.org/2024/120-years-reg-final/</link>
+            <guid isPermaLink="false">https://karagila.org/2024/120-years-reg-final/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2024 20:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
