@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Mar 2025 04:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 08:33:05 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Mar 2025 04:35:35 GMT</pubDate>
+        <pubDate>Sat, 29 Mar 2025 08:33:05 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
+            <link>https://blog.assafrinot.com/?p=5133</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
             <link>https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2024/conferences/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Fri, 12 Jul 2024 16:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[120 Years of Choice, July 2024]]></title>
-            <link>https://blog.assafrinot.com/?p=5080</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5080</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 12 Jul 2024 02:54:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
