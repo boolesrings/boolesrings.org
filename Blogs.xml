@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Apr 2025 16:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 20:31:00 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Apr 2025 16:40:26 GMT</pubDate>
+        <pubDate>Wed, 02 Apr 2025 20:31:00 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
+            <link>https://blog.assafrinot.com/?p=5146</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A new model for all C-sequences are trivial]]></title>
             <link>https://blog.assafrinot.com/?p=5133</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 15 Jul 2024 15:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conferences: unsolicited advice]]></title>
-            <link>https://karagila.org/2024/conferences/</link>
-            <guid isPermaLink="false">https://karagila.org/2024/conferences/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Fri, 12 Jul 2024 16:02:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
