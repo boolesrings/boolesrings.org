@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Apr 2025 20:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 02:07:43 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Apr 2025 20:29:39 GMT</pubDate>
+        <pubDate>Mon, 07 Apr 2025 02:07:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A potentialist conception of ultrafinitism, Columbia University, April 2025]]></title>
+            <link>https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 06 Apr 2025 22:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hierarchy of consistency strengths for membership in a computably enumerable set, Oxford Logic Seminar, May 2025]]></title>
+            <link>https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 06 Apr 2025 22:29:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
             <link>https://blog.assafrinot.com/?p=5146</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5084</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Fri, 26 Jul 2024 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025]]></title>
-            <link>https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 22 Jul 2024 13:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Puzzles of reality and infinity, Mindscape Podcast]]></title>
-            <link>https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 15 Jul 2024 15:45:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
