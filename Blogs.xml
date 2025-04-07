@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Apr 2025 16:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 20:31:22 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Apr 2025 16:37:21 GMT</pubDate>
+        <pubDate>Mon, 07 Apr 2025 20:31:22 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -22,20 +22,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 06 Apr 2025 22:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=5146</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
-            <link>https://blog.assafrinot.com/?p=5133</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
@@ -71,13 +57,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 21 Jan 2025 23:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5104</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finite classical groups]]></title>
@@ -136,13 +115,6 @@
             <pubDate>Mon, 14 Oct 2024 00:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Walks on uncountable ordinals and non-structure theorems for higher Aronszajn lines]]></title>
-            <link>https://blog.assafrinot.com/?p=5095</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5095</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 13 Oct 2024 23:56:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Lighthouse Problem]]></title>
             <link>https://karagila.org/2024/lighthouse/</link>
             <guid isPermaLink="false">https://karagila.org/2024/lighthouse/</guid>
@@ -178,11 +150,39 @@
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ketonen’s question and other cardinal sins]]></title>
-            <link>https://blog.assafrinot.com/?p=5084</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5084</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 26 Jul 2024 14:13:26 GMT</pubDate>
+            <title><![CDATA[How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025]]></title>
+            <link>https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 22 Jul 2024 13:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puzzles of reality and infinity, Mindscape Podcast]]></title>
+            <link>https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/puzzles-of-reality-and-infinity-mindscape-podcast/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 15 Jul 2024 15:45:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conferences: unsolicited advice]]></title>
+            <link>https://karagila.org/2024/conferences/</link>
+            <guid isPermaLink="false">https://karagila.org/2024/conferences/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Fri, 12 Jul 2024 16:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the continuum hypothesis could have been a fundamental axiom]]></title>
+            <link>https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-ch-could-have-been-fundamental/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 03 Jul 2024 12:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[120 Years of Choice: Final call for registration!]]></title>
+            <link>https://karagila.org/2024/120-years-reg-final/</link>
+            <guid isPermaLink="false">https://karagila.org/2024/120-years-reg-final/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Tue, 11 Jun 2024 20:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
