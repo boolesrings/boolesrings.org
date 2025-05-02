@@ -4,17 +4,45 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 May 2025 16:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 20:31:54 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 May 2025 16:38:32 GMT</pubDate>
+        <pubDate>Fri, 02 May 2025 20:31:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Categoricty theorems for second-order set theory without powersets]]></title>
+            <link>/research/2025/05/01/categoricity-theorems-for-second-order-set-theory-without-powersets.html</link>
+            <guid isPermaLink="false">/research/2025/05/01/categoricity-theorems-for-second-order-set-theory-without-powersets.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflection principles in set theory without powersets]]></title>
+            <link>/research/2025/04/23/reflection-principles-in-set-theory-without-powersets.html</link>
+            <guid isPermaLink="false">/research/2025/04/23/reflection-principles-in-set-theory-without-powersets.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Wed, 23 Apr 2025 04:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Church of Logic podcast, April 2025]]></title>
             <link>https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 21 Apr 2025 15:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filter extension games and generic large cardinals]]></title>
+            <link>/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</link>
+            <guid isPermaLink="false">/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Sun, 20 Apr 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filter extension games on mini supercompactness filters]]></title>
+            <link>/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</link>
+            <guid isPermaLink="false">/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A potentialist conception of ultrafinitism, Columbia University, April 2025]]></title>
@@ -31,18 +59,11 @@
             <pubDate>Sun, 06 Apr 2025 22:29:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=5146</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
-            <link>https://blog.assafrinot.com/?p=5133</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
+            <title><![CDATA[Cardinals of the $P_\kappa(\lambda)$-filter games]]></title>
+            <link>/publications/2025/04/04/cardinals-of-the-p-kappa-lambda-filter-games.html</link>
+            <guid isPermaLink="false">/publications/2025/04/04/cardinals-of-the-p-kappa-lambda-filter-games.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
@@ -80,13 +101,6 @@
             <pubDate>Tue, 21 Jan 2025 23:16:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5104</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finite classical groups]]></title>
             <link>https://nickpgill.github.io/finite-classical-groups-2025</link>
             <guid isPermaLink="false">https://nickpgill.github.io/finite-classical-groups-2025</guid>
@@ -101,6 +115,13 @@
             <pubDate>Fri, 10 Jan 2025 16:09:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
+            <link>/talks/2025/01/09/parameter-free-schemes-in-second-order-arithmetic.html</link>
+            <guid isPermaLink="false">/talks/2025/01/09/parameter-free-schemes-in-second-order-arithmetic.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MATH0046, Term 2 2025]]></title>
             <link>https://scoskey.org/course/2324s-0046/</link>
             <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
@@ -113,6 +134,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 13 Dec 2024 22:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
+            <link>/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
+            <guid isPermaLink="false">/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The computable surreal numbers, Notre Dame Logic Seminar, December 2024]]></title>
@@ -143,13 +171,6 @@
             <pubDate>Mon, 14 Oct 2024 00:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Walks on uncountable ordinals and non-structure theorems for higher Aronszajn lines]]></title>
-            <link>https://blog.assafrinot.com/?p=5095</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5095</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 13 Oct 2024 23:56:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Lighthouse Problem]]></title>
             <link>https://karagila.org/2024/lighthouse/</link>
             <guid isPermaLink="false">https://karagila.org/2024/lighthouse/</guid>
@@ -157,32 +178,11 @@
             <pubDate>Thu, 03 Oct 2024 18:08:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2024]]></title>
-            <link>https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 18 Aug 2024 15:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0010, Term 1 2024]]></title>
-            <link>https://scoskey.org/course/2324f-0010/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324f-0010/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0037, Term 1 2024]]></title>
-            <link>https://scoskey.org/course/2324f-0037/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324f-0037/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erratum: On a conjecture of Degos]]></title>
-            <link>https://nickpgill.github.io/a-correction-to-paper-on-degos-conjecture</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/a-correction-to-paper-on-degos-conjecture</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[Baby measurable cardinals]]></title>
+            <link>/talks/2024/09/27/baby-measurable-cardinals.html</link>
+            <guid isPermaLink="false">/talks/2024/09/27/baby-measurable-cardinals.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Fri, 27 Sep 2024 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
