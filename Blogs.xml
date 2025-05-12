@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 May 2025 16:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 20:32:42 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 May 2025 16:40:47 GMT</pubDate>
+        <pubDate>Mon, 12 May 2025 20:32:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025]]></title>
+            <link>https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 12 May 2025 20:09:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Categoricty theorems for second-order set theory without powersets]]></title>
             <link>/research/2025/05/01/categoricity-theorems-for-second-order-set-theory-without-powersets.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://nickpgill.github.io/on-karma</guid>
             <dc:creator><![CDATA[Nick Gill]]></dc:creator>
             <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Determinateness of truth does not come for free from determinateness of objects, Singapore, November 2024]]></title>
-            <link>https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 14 Oct 2024 00:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
