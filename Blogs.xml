@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 May 2025 20:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 02:13:57 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 May 2025 20:27:56 GMT</pubDate>
+        <pubDate>Thu, 15 May 2025 02:13:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[I trained neural nets on large cardinal axioms]]></title>
+            <link>https://karagila.org/2025/lc-notes/</link>
+            <guid isPermaLink="false">https://karagila.org/2025/lc-notes/</guid>
+            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
+            <pubDate>Wed, 14 May 2025 22:48:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025]]></title>
             <link>https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 01 Dec 2024 18:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On karma]]></title>
-            <link>https://nickpgill.github.io/on-karma</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/on-karma</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
