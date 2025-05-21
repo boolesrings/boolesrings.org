@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 May 2025 12:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 16:40:56 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 May 2025 12:59:06 GMT</pubDate>
+        <pubDate>Wed, 21 May 2025 16:40:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -80,20 +80,6 @@
             <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=5146</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
-            <link>https://blog.assafrinot.com/?p=5133</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
             <link>https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</guid>
@@ -127,13 +113,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 21 Jan 2025 23:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5104</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finite classical groups]]></title>
@@ -183,6 +162,27 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sun, 01 Dec 2024 18:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On karma]]></title>
+            <link>https://nickpgill.github.io/on-karma</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/on-karma</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Determinateness of truth does not come for free from determinateness of objects, Singapore, November 2024]]></title>
+            <link>https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Oct 2024 00:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The covering reflection theorem, Madison Logic Seminar, October 2024]]></title>
+            <link>https://jdh.hamkins.org/the-covering-reflection-theorem-madison-logic-seminar-october-2024/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-covering-reflection-theorem-madison-logic-seminar-october-2024/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Oct 2024 00:00:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
