@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 May 2025 08:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 12:58:14 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 May 2025 08:38:38 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 12:58:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Stop the genocide in Gaza]]></title>
+            <link>https://nickpgill.github.io/gaza-genocide</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/gaza-genocide</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I trained neural nets on large cardinal axioms]]></title>
             <link>https://karagila.org/2025/lc-notes/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The computable surreal numbers, Notre Dame Logic Seminar, December 2024]]></title>
-            <link>https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Sun, 01 Dec 2024 18:48:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
