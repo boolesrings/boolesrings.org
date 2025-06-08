@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Jun 2025 20:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jun 2025 02:28:26 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Jun 2025 20:30:54 GMT</pubDate>
+        <pubDate>Sun, 08 Jun 2025 02:28:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Filter extension games with mini supercompactness measures]]></title>
+            <link>/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</link>
+            <guid isPermaLink="false">/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Sat, 07 Jun 2025 04:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stop the genocide in Gaza]]></title>
             <link>https://nickpgill.github.io/gaza-genocide</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Fri, 13 Dec 2024 22:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
