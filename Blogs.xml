@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Jun 2025 13:00:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 16:41:52 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Jun 2025 13:00:12 GMT</pubDate>
+        <pubDate>Wed, 11 Jun 2025 16:41:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Lectures on Set Theory, Beijing, June 2025]]></title>
+            <link>https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 11 Jun 2025 15:37:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Filter extension games with mini supercompactness measures]]></title>
             <link>/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Every worldly cardinal admits a Gödel-Bernays structure]]></title>
-            <link>https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 13 Dec 2024 22:29:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
