@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 02:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 04:47:41 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Jun 2025 02:28:30 GMT</pubDate>
+        <pubDate>Mon, 23 Jun 2025 04:47:41 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Potentialist conceptions of infinity, Peking University, June 2025]]></title>
+            <link>https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 23 Jun 2025 02:58:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lectures on Set Theory, Beijing, June 2025]]></title>
             <link>https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/talks/2025/01/09/parameter-free-schemes-in-second-order-arithmetic.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0046, Term 2 2025]]></title>
-            <link>https://scoskey.org/course/2324s-0046/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
