@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Jun 2025 20:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 02:26:58 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Jun 2025 20:31:49 GMT</pubDate>
+        <pubDate>Mon, 30 Jun 2025 02:26:58 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -108,6 +108,20 @@
             <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
+            <link>https://blog.assafrinot.com/?p=5146</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
+            <link>https://blog.assafrinot.com/?p=5133</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
             <link>https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</guid>
@@ -143,6 +157,13 @@
             <pubDate>Tue, 21 Jan 2025 23:16:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
+            <link>https://blog.assafrinot.com/?p=5104</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Finite classical groups]]></title>
             <link>https://nickpgill.github.io/finite-classical-groups-2025</link>
             <guid isPermaLink="false">https://nickpgill.github.io/finite-classical-groups-2025</guid>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">/talks/2025/01/09/parameter-free-schemes-in-second-order-arithmetic.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0046, Term 2 2025]]></title>
-            <link>https://scoskey.org/course/2324s-0046/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Every worldly cardinal admits a Gödel-Bernays structure]]></title>
-            <link>https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Fri, 13 Dec 2024 22:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
