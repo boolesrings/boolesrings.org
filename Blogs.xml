@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Jul 2025 13:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 16:43:19 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Jul 2025 13:02:45 GMT</pubDate>
+        <pubDate>Mon, 14 Jul 2025 16:43:19 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025]]></title>
+            <link>https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Jul 2025 13:59:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lecture series on the philosophy of mathematics]]></title>
             <link>https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 28 Jan 2025 19:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set theory and classification problems]]></title>
-            <link>https://scoskey.org/presentation/set-theory-and-classification-problems/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/set-theory-and-classification-problems/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
