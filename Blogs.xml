@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jul 2025 08:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 13:03:49 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Jul 2025 08:43:58 GMT</pubDate>
+        <pubDate>Wed, 16 Jul 2025 13:03:49 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The computable surreal numbers, Fudan University, July 2025]]></title>
+            <link>https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 16 Jul 2025 09:07:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025]]></title>
             <link>https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 06 Mar 2025 18:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025]]></title>
-            <link>https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 28 Jan 2025 19:55:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
