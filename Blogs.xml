@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jul 2025 08:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 13:04:20 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Jul 2025 08:43:55 GMT</pubDate>
+        <pubDate>Fri, 18 Jul 2025 13:04:20 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
+            <link>https://blog.assafrinot.com/?p=5164</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5164</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 18 Jul 2025 13:03:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The computable surreal numbers, Fudan University, July 2025]]></title>
             <link>https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Thu, 06 Mar 2025 18:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 William Reinhardt Memorial Lecture, Boulder]]></title>
-            <link>https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2025 18:39:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
