@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jul 2025 20:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 02:40:17 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Jul 2025 20:33:25 GMT</pubDate>
+        <pubDate>Sun, 27 Jul 2025 02:40:17 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[On texml and texml-to-html]]></title>
+            <link>https://www.peterkrautzberger.org/0223/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0223/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
             <link>https://blog.assafrinot.com/?p=5164</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
-            <link>https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2025 18:48:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
