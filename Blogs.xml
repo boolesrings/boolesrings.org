@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 Aug 2025 13:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 16:42:56 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Aug 2025 13:03:33 GMT</pubDate>
+        <pubDate>Mon, 18 Aug 2025 16:42:56 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025]]></title>
+            <link>https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 18 Aug 2025 16:01:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On texml and texml-to-html]]></title>
             <link>https://www.peterkrautzberger.org/0223/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
-            <link>https://blog.assafrinot.com/?p=5133</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
