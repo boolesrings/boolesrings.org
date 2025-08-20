@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 Aug 2025 16:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 20:33:12 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Aug 2025 16:37:15 GMT</pubDate>
+        <pubDate>Wed, 20 Aug 2025 20:33:12 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025]]></title>
+            <link>https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 20 Aug 2025 17:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025]]></title>
             <link>https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2025/04/04/cardinals-of-the-p-kappa-lambda-filter-games.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=5146</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
