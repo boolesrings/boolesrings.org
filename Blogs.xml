@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 Aug 2025 04:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 08:39:14 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Aug 2025 04:35:58 GMT</pubDate>
+        <pubDate>Wed, 20 Aug 2025 08:39:14 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -64,6 +64,20 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5160</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 06 Jul 2025 18:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0010, Term 1 2025]]></title>
+            <link>https://scoskey.org/course/2425f-0010/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2425f-0010/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0037, Term 1 2025]]></title>
+            <link>https://scoskey.org/course/2425f-0037/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2425f-0037/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Potentialist conceptions of infinity, Peking University, June 2025]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
-            <link>https://blog.assafrinot.com/?p=5133</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025]]></title>
-            <link>https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Thu, 06 Mar 2025 18:48:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
