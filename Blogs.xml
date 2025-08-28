@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Aug 2025 16:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 20:30:49 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Aug 2025 16:37:17 GMT</pubDate>
+        <pubDate>Thu, 28 Aug 2025 20:30:49 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -108,6 +108,13 @@
             <pubDate>Sat, 07 Jun 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stop the genocide in Gaza]]></title>
+            <link>https://nickpgill.github.io/gaza-genocide</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/gaza-genocide</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I trained neural nets on large cardinal axioms]]></title>
             <link>https://karagila.org/2025/lc-notes/</link>
             <guid isPermaLink="false">https://karagila.org/2025/lc-notes/</guid>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2025/04/04/cardinals-of-the-p-kappa-lambda-filter-games.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=5146</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
