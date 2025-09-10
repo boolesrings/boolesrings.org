@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Sep 2025 16:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 20:30:32 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Sep 2025 16:36:11 GMT</pubDate>
+        <pubDate>Wed, 10 Sep 2025 20:30:32 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art]]></title>
+            <link>https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 10 Sep 2025 17:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
             <link>/talks/2025/09/07/parameter-free-schemes-in-second-order-arithmetic.html</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sun, 20 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filter extension games on mini supercompactness filters]]></title>
-            <link>/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</link>
-            <guid isPermaLink="false">/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
