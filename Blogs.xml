@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Sep 2025 08:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 12:53:30 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Sep 2025 08:35:34 GMT</pubDate>
+        <pubDate>Fri, 12 Sep 2025 12:53:30 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art]]></title>
+            <link>https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 10 Sep 2025 17:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
             <link>/talks/2025/09/07/parameter-free-schemes-in-second-order-arithmetic.html</link>
@@ -22,6 +29,20 @@
             <guid isPermaLink="false">https://karagila.org/2025/talks/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Thu, 04 Sep 2025 00:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025]]></title>
+            <link>https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 20 Aug 2025 17:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025]]></title>
+            <link>https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 18 Aug 2025 16:01:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reflection principles in set theory without powerset]]></title>
@@ -45,6 +66,34 @@
             <pubDate>Fri, 18 Jul 2025 13:03:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The computable surreal numbers, Fudan University, July 2025]]></title>
+            <link>https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 16 Jul 2025 09:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025]]></title>
+            <link>https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Jul 2025 13:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lecture series on the philosophy of mathematics]]></title>
+            <link>https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 09 Jul 2025 10:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025]]></title>
+            <link>https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 09 Jul 2025 10:21:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2025 Annual conference of the IMU]]></title>
             <link>https://blog.assafrinot.com/?p=5160</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5160</guid>
@@ -64,6 +113,20 @@
             <guid isPermaLink="false">https://scoskey.org/course/2425f-0037/</guid>
             <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
             <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Potentialist conceptions of infinity, Peking University, June 2025]]></title>
+            <link>https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 23 Jun 2025 02:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lectures on Set Theory, Beijing, June 2025]]></title>
+            <link>https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 11 Jun 2025 15:37:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Filter extension games with mini supercompactness measures]]></title>
@@ -87,6 +150,13 @@
             <pubDate>Wed, 14 May 2025 22:48:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025]]></title>
+            <link>https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 12 May 2025 20:09:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Categoricty theorems for second-order set theory without powersets]]></title>
             <link>/research/2025/05/01/categoricity-theorems-for-second-order-set-theory-without-powersets.html</link>
             <guid isPermaLink="false">/research/2025/05/01/categoricity-theorems-for-second-order-set-theory-without-powersets.html</guid>
@@ -101,88 +171,18 @@
             <pubDate>Wed, 23 Apr 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Church of Logic podcast, April 2025]]></title>
+            <link>https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 21 Apr 2025 15:20:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Filter extension games and generic large cardinals]]></title>
             <link>/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</link>
             <guid isPermaLink="false">/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sun, 20 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filter extension games on mini supercompactness filters]]></title>
-            <link>/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</link>
-            <guid isPermaLink="false">/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardinals of the $P_\kappa(\lambda)$-filter games]]></title>
-            <link>/publications/2025/04/04/cardinals-of-the-p-kappa-lambda-filter-games.html</link>
-            <guid isPermaLink="false">/publications/2025/04/04/cardinals-of-the-p-kappa-lambda-filter-games.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ulam right? III: Indecomposable ideals]]></title>
-            <link>https://blog.assafrinot.com/?p=5146</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5146</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new model for all C-sequences are trivial]]></title>
-            <link>https://blog.assafrinot.com/?p=5133</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5133</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Thu, 27 Mar 2025 16:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set theory and classification problems]]></title>
-            <link>https://scoskey.org/presentation/set-theory-and-classification-problems/</link>
-            <guid isPermaLink="false">https://scoskey.org/presentation/set-theory-and-classification-problems/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MFO workshop in Set Theory, January 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5104</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5104</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 18 Jan 2025 17:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finite classical groups]]></title>
-            <link>https://nickpgill.github.io/finite-classical-groups-2025</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/finite-classical-groups-2025</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parameter-free schemes in second-order arithmetic]]></title>
-            <link>/talks/2025/01/09/parameter-free-schemes-in-second-order-arithmetic.html</link>
-            <guid isPermaLink="false">/talks/2025/01/09/parameter-free-schemes-in-second-order-arithmetic.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0046, Term 2 2025]]></title>
-            <link>https://scoskey.org/course/2324s-0046/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2324s-0046/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upward Löwenheim-Skolem numbers for abstract logics]]></title>
-            <link>/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</link>
-            <guid isPermaLink="false">/talks/2024/12/09/upward-lowenheim-skolem-numbers-for-abstract-logics.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On karma]]></title>
-            <link>https://nickpgill.github.io/on-karma</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/on-karma</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
