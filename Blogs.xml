@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Sep 2025 12:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 16:36:49 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Sep 2025 12:58:08 GMT</pubDate>
+        <pubDate>Thu, 25 Sep 2025 16:36:49 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -59,13 +59,6 @@
             <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
-            <link>https://blog.assafrinot.com/?p=5164</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5164</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 18 Jul 2025 13:03:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The computable surreal numbers, Fudan University, July 2025]]></title>
             <link>https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</guid>
@@ -92,13 +85,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 09 Jul 2025 10:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Annual conference of the IMU]]></title>
-            <link>https://blog.assafrinot.com/?p=5160</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5160</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sun, 06 Jul 2025 18:39:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MATH0010, Term 1 2025]]></title>
@@ -183,6 +169,20 @@
             <guid isPermaLink="false">/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sun, 20 Apr 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filter extension games on mini supercompactness filters]]></title>
+            <link>/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</link>
+            <guid isPermaLink="false">/research/2025/04/09/filter-extension-games-on-mini-supercompactness-filters.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A potentialist conception of ultrafinitism, Columbia University, April 2025]]></title>
+            <link>https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sun, 06 Apr 2025 22:48:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
