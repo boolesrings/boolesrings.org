@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Sep 2025 12:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 16:30:23 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Sep 2025 12:58:55 GMT</pubDate>
+        <pubDate>Mon, 29 Sep 2025 16:30:23 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The power of trees]]></title>
+            <link>https://blog.assafrinot.com/?p=5179</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5179</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Mon, 29 Sep 2025 13:15:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art]]></title>
             <link>https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 21 Apr 2025 15:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filter extension games and generic large cardinals]]></title>
-            <link>/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</link>
-            <guid isPermaLink="false">/research/2025/04/20/filter-extension-games-and-generic-large-cardinals.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Sun, 20 Apr 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
