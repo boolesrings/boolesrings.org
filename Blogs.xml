@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Oct 2025 16:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 20:30:59 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Oct 2025 16:35:25 GMT</pubDate>
+        <pubDate>Thu, 02 Oct 2025 20:30:59 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Probably don't put equation layout in links]]></title>
+            <link>https://www.peterkrautzberger.org/0224/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The power of trees]]></title>
             <link>https://blog.assafrinot.com/?p=5179</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/research/2025/04/23/reflection-principles-in-set-theory-without-powersets.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Wed, 23 Apr 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Church of Logic podcast, April 2025]]></title>
-            <link>https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 21 Apr 2025 15:20:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
