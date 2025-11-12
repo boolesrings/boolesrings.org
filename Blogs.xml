@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Nov 2025 13:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 16:43:09 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Nov 2025 13:02:00 GMT</pubDate>
+        <pubDate>Wed, 12 Nov 2025 16:43:09 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025]]></title>
+            <link>https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 12 Nov 2025 16:06:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A story of my friend Don Miller]]></title>
             <link>https://nickpgill.github.io/don-miller</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2025/lc-notes/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Wed, 14 May 2025 22:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025]]></title>
-            <link>https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 12 May 2025 20:09:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
