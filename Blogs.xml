@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Dec 2025 16:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Dec 2025 20:32:57 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Dec 2025 16:37:57 GMT</pubDate>
+        <pubDate>Sun, 21 Dec 2025 20:32:57 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -150,6 +150,20 @@
             <pubDate>Sun, 06 Jul 2025 18:39:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MATH0010, Term 1 2025]]></title>
+            <link>https://scoskey.org/course/2425f-0010/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2425f-0010/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0037, Term 1 2025]]></title>
+            <link>https://scoskey.org/course/2425f-0037/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2425f-0037/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Potentialist conceptions of infinity, Peking University, June 2025]]></title>
             <link>https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</guid>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sat, 07 Jun 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop the genocide in Gaza]]></title>
-            <link>https://nickpgill.github.io/gaza-genocide</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/gaza-genocide</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I trained neural nets on large cardinal axioms]]></title>
-            <link>https://karagila.org/2025/lc-notes/</link>
-            <guid isPermaLink="false">https://karagila.org/2025/lc-notes/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 14 May 2025 22:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
