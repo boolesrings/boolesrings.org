@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jan 2026 02:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 04:52:36 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Jan 2026 02:27:16 GMT</pubDate>
+        <pubDate>Fri, 02 Jan 2026 04:52:36 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -43,6 +43,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 04 Nov 2025 02:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Probably don't put equation layout in links]]></title>
+            <link>https://www.peterkrautzberger.org/0224/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The power of trees]]></title>
@@ -92,6 +99,13 @@
             <guid isPermaLink="false">/publications/2025/08/06/reflection-principles-in-set-theory-without-powersets.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Wed, 06 Aug 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On texml and texml-to-html]]></title>
+            <link>https://www.peterkrautzberger.org/0223/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0223/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Sat, 07 Jun 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop the genocide in Gaza]]></title>
-            <link>https://nickpgill.github.io/gaza-genocide</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/gaza-genocide</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I trained neural nets on large cardinal axioms]]></title>
-            <link>https://karagila.org/2025/lc-notes/</link>
-            <guid isPermaLink="false">https://karagila.org/2025/lc-notes/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Wed, 14 May 2025 22:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
