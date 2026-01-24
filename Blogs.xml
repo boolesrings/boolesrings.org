@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jan 2026 16:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 20:33:26 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Jan 2026 16:40:18 GMT</pubDate>
+        <pubDate>Sat, 24 Jan 2026 20:33:26 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Being unhappy with accessible SVGs: text elements]]></title>
+            <link>https://www.peterkrautzberger.org/0225/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0225/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I asked ChatGPT to look at a proof, here's what happened...]]></title>
             <link>https://karagila.org/2026/chatgpt/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 23 Jun 2025 02:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lectures on Set Theory, Beijing, June 2025]]></title>
-            <link>https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 11 Jun 2025 15:37:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
