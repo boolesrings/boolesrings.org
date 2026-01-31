@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jan 2026 20:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 02:45:54 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Jan 2026 20:46:40 GMT</pubDate>
+        <pubDate>Sat, 31 Jan 2026 02:45:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -164,25 +164,25 @@
             <pubDate>Sun, 06 Jul 2025 18:39:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MATH0010, Term 1 2025]]></title>
-            <link>https://scoskey.org/course/2425f-0010/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2425f-0010/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0037, Term 1 2025]]></title>
-            <link>https://scoskey.org/course/2425f-0037/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2425f-0037/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Potentialist conceptions of infinity, Peking University, June 2025]]></title>
             <link>https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 23 Jun 2025 02:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lectures on Set Theory, Beijing, June 2025]]></title>
+            <link>https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 11 Jun 2025 15:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filter extension games with mini supercompactness measures]]></title>
+            <link>/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</link>
+            <guid isPermaLink="false">/talks/2025/06/07/filter-extensions-games-with-mini-supercompactness-filters.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Sat, 07 Jun 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
