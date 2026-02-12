@@ -4,11 +4,25 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 20:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 03:20:51 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Feb 2026 20:55:15 GMT</pubDate>
+        <pubDate>Thu, 12 Feb 2026 03:20:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026]]></title>
+            <link>https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 02:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mathematicians do not agree on the essential structure of the complex numbers, ASL/APA Central Division Meeting, Chicago, February 2016]]></title>
+            <link>https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2016/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2016/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 20:58:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026]]></title>
             <link>https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/</link>
@@ -169,20 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5160</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Sun, 06 Jul 2025 18:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0010, Term 1 2025]]></title>
-            <link>https://scoskey.org/course/2425f-0010/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2425f-0010/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MATH0037, Term 1 2025]]></title>
-            <link>https://scoskey.org/course/2425f-0037/</link>
-            <guid isPermaLink="false">https://scoskey.org/course/2425f-0037/</guid>
-            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
