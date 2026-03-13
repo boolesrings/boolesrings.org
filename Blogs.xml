@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 08:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 13:33:24 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 08:58:16 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 13:33:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Congratulations to Kimeu Arphaxad Ngwava]]></title>
+            <link>https://nickpgill.github.io/kimeu-arphaxad-ngwava-phd</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/kimeu-arphaxad-ngwava-phd</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026]]></title>
             <link>https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 09 Jul 2025 10:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025]]></title>
-            <link>https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 09 Jul 2025 10:21:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
