@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 09:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 13:53:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 09:12:53 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 13:53:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -52,20 +52,6 @@
             <pubDate>Mon, 12 Jan 2026 05:41:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RIMS workshop on Set Theory 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5199</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5199</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 17 Dec 2025 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 18th International Workshop on Set Theory in Luminy, November 2015]]></title>
-            <link>https://blog.assafrinot.com/?p=5190</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5190</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 17 Nov 2025 16:15:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025]]></title>
             <link>https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</guid>
@@ -99,13 +85,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The power of trees]]></title>
-            <link>https://blog.assafrinot.com/?p=5179</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5179</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 29 Sep 2025 13:15:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art]]></title>
@@ -157,13 +136,6 @@
             <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
-            <link>https://blog.assafrinot.com/?p=5164</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5164</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 18 Jul 2025 13:03:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The computable surreal numbers, Fudan University, July 2025]]></title>
             <link>https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</guid>
@@ -183,6 +155,34 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 09 Jul 2025 10:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025]]></title>
+            <link>https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 09 Jul 2025 10:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0010, Term 1 2025]]></title>
+            <link>https://scoskey.org/course/2425f-0010/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2425f-0010/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MATH0037, Term 1 2025]]></title>
+            <link>https://scoskey.org/course/2425f-0037/</link>
+            <guid isPermaLink="false">https://scoskey.org/course/2425f-0037/</guid>
+            <dc:creator><![CDATA[Samuel Coskey]]></dc:creator>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Potentialist conceptions of infinity, Peking University, June 2025]]></title>
+            <link>https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 23 Jun 2025 02:58:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
