@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 03:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 05:52:43 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 03:37:08 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 05:52:43 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -57,13 +57,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0225/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I asked ChatGPT to look at a proof, here's what happened...]]></title>
-            <link>https://karagila.org/2026/chatgpt/</link>
-            <guid isPermaLink="false">https://karagila.org/2026/chatgpt/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Mon, 12 Jan 2026 05:41:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RIMS workshop on Set Theory 2025]]></title>
@@ -136,13 +129,6 @@
             <pubDate>Sun, 07 Sep 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to give a talk]]></title>
-            <link>https://karagila.org/2025/talks/</link>
-            <guid isPermaLink="false">https://karagila.org/2025/talks/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Thu, 04 Sep 2025 00:08:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025]]></title>
             <link>https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</guid>
@@ -183,6 +169,20 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 16 Jul 2025 09:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025]]></title>
+            <link>https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 14 Jul 2025 13:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lecture series on the philosophy of mathematics]]></title>
+            <link>https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Wed, 09 Jul 2025 10:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
