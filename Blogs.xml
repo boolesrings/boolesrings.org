@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 14:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 17:19:38 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 14:01:31 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 17:19:38 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -50,6 +50,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 04 Feb 2026 17:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being unhappy with accessible SVGs: text elements]]></title>
+            <link>https://www.peterkrautzberger.org/0225/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0225/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I asked ChatGPT to look at a proof, here's what happened...]]></title>
@@ -101,6 +108,13 @@
             <pubDate>Mon, 06 Oct 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Probably don't put equation layout in links]]></title>
+            <link>https://www.peterkrautzberger.org/0224/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The power of trees]]></title>
             <link>https://blog.assafrinot.com/?p=5179</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5179</guid>
@@ -150,6 +164,13 @@
             <pubDate>Wed, 06 Aug 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[On texml and texml-to-html]]></title>
+            <link>https://www.peterkrautzberger.org/0223/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0223/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
             <link>https://blog.assafrinot.com/?p=5164</link>
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5164</guid>
@@ -162,27 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 16 Jul 2025 09:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025]]></title>
-            <link>https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 14 Jul 2025 13:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lecture series on the philosophy of mathematics]]></title>
-            <link>https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 09 Jul 2025 10:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025]]></title>
-            <link>https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 09 Jul 2025 10:21:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
