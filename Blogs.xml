@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 10:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 14:11:37 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 10:09:03 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:11:37 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[FYMSIC 2026 presentation and materials]]></title>
+            <link>https://mikepawliuk.ca/2026/04/20/fymsic-2026/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2026/04/20/fymsic-2026/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 13:41:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Partition relations for trees]]></title>
             <link>https://blog.assafrinot.com/?p=5220</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0223/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conference in honor of Saharon Shelah’s 80th birthday]]></title>
-            <link>https://blog.assafrinot.com/?p=5164</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5164</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 18 Jul 2025 13:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
