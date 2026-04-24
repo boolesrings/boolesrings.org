@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 21:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 03:50:11 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 21:06:39 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 03:50:11 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A potentialist perspective on ultrafinitism, Ohio University]]></title>
+            <link>https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 21:24:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FYMSIC 2026 presentation and materials]]></title>
             <link>https://mikepawliuk.ca/2026/04/20/fymsic-2026/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2025/08/06/reflection-principles-in-set-theory-without-powersets.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Wed, 06 Aug 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On texml and texml-to-html]]></title>
-            <link>https://www.peterkrautzberger.org/0223/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0223/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
