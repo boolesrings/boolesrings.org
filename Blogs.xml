@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 22:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 04:34:33 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jun 2026 22:00:10 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 04:34:33 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026]]></title>
+            <link>https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 08 Jun 2026 22:31:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A potentialist perspective on ultrafinitism, Ohio University]]></title>
             <link>https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Mon, 18 Aug 2025 16:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflection principles in set theory without powersets]]></title>
-            <link>/publications/2025/08/06/reflection-principles-in-set-theory-without-powersets.html</link>
-            <guid isPermaLink="false">/publications/2025/08/06/reflection-principles-in-set-theory-without-powersets.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
