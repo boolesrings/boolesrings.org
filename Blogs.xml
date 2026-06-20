@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 21:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 04:40:07 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 21:33:47 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 04:40:07 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026]]></title>
+            <link>https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 01:33:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026]]></title>
             <link>https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 20 Aug 2025 17:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025]]></title>
-            <link>https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Mon, 18 Aug 2025 16:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
