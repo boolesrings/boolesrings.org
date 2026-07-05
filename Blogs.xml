@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 14:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 17:31:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 14:08:28 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 17:31:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -164,6 +164,13 @@
             <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Math on Tap]]></title>
+            <link>http://dcernst.github.io/math-on-tap/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/math-on-tap/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech]]></title>
             <link>https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</guid>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">/publications/2025/10/06/class-choice-and-the-surprising-weakness-of-kelley-morse-set-theory.html</guid>
             <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
             <pubDate>Mon, 06 Oct 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Probably don't put equation layout in links]]></title>
-            <link>https://www.peterkrautzberger.org/0224/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
