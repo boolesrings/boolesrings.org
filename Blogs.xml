@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 21:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 04:15:51 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 21:46:18 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 04:15:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026]]></title>
+            <link>https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 03:05:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026]]></title>
             <link>https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Tue, 04 Nov 2025 02:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class choice and the surprising weakness of Kelley-Morse set theory]]></title>
-            <link>/publications/2025/10/06/class-choice-and-the-surprising-weakness-of-kelley-morse-set-theory.html</link>
-            <guid isPermaLink="false">/publications/2025/10/06/class-choice-and-the-surprising-weakness-of-kelley-morse-set-theory.html</guid>
-            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
