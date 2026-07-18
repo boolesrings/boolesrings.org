@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 21:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 03:31:08 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 21:07:22 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 03:31:08 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[MAT136 – Tree activity (for IUM4)]]></title>
+            <link>https://mikepawliuk.ca/2026/07/17/mat136-tree-activity-for-ium4/</link>
+            <guid isPermaLink="false">https://mikepawliuk.ca/2026/07/17/mat136-tree-activity-for-ium4/</guid>
+            <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 00:57:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026]]></title>
             <link>https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://dcernst.github.io/math-on-tap/</guid>
             <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
             <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech]]></title>
-            <link>https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 04 Nov 2025 02:10:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
