@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 18:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 21:31:50 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 18:18:47 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 21:31:50 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -136,13 +136,6 @@
             <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I asked ChatGPT to look at a proof, here's what happened...]]></title>
-            <link>https://karagila.org/2026/chatgpt/</link>
-            <guid isPermaLink="false">https://karagila.org/2026/chatgpt/</guid>
-            <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
-            <pubDate>Mon, 12 Jan 2026 05:41:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025]]></title>
             <link>https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</guid>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
             <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[45th first day of school!]]></title>
+            <link>http://dcernst.github.io/45th-first-day/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/45th-first-day/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
