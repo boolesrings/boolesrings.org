@@ -4,25 +4,11 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 14:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 17:37:51 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 14:30:11 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 17:37:51 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
-        <item>
-            <title><![CDATA[More notions of forcing add a square]]></title>
-            <link>https://blog.assafrinot.com/?p=5245</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5245</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 18:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[40th summer conference on topology and its applications]]></title>
-            <link>https://blog.assafrinot.com/?p=5242</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5242</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 15:02:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[MAT136 – Tree activity (for IUM4)]]></title>
             <link>https://mikepawliuk.ca/2026/07/17/mat136-tree-activity-for-ium4/</link>
@@ -85,13 +71,6 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2026/04/20/fymsic-2026/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 13:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Partition relations for trees I: Incomparable trees]]></title>
-            <link>https://blog.assafrinot.com/?p=5220</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5220</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 04:40:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The spectrum of consistency strengths for membership in a computably enumerable set, Notre Dame Logic Seminar, April 2026]]></title>
@@ -164,25 +143,46 @@
             <pubDate>Mon, 12 Jan 2026 05:41:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RIMS workshop on Set Theory 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5199</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5199</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 17 Dec 2025 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 18th International Workshop on Set Theory in Luminy, November 2015]]></title>
-            <link>https://blog.assafrinot.com/?p=5190</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5190</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 17 Nov 2025 16:15:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025]]></title>
             <link>https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 12 Nov 2025 16:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A story of my friend Don Miller]]></title>
+            <link>https://nickpgill.github.io/don-miller</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/don-miller</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Math on Tap!]]></title>
+            <link>http://dcernst.github.io/math-on-tap/</link>
+            <guid isPermaLink="false">http://dcernst.github.io/math-on-tap/</guid>
+            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech]]></title>
+            <link>https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 04 Nov 2025 02:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Class choice and the surprising weakness of Kelley-Morse set theory]]></title>
+            <link>/publications/2025/10/06/class-choice-and-the-surprising-weakness-of-kelley-morse-set-theory.html</link>
+            <guid isPermaLink="false">/publications/2025/10/06/class-choice-and-the-surprising-weakness-of-kelley-morse-set-theory.html</guid>
+            <dc:creator><![CDATA[Victoria Gitman]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Probably don't put equation layout in links]]></title>
+            <link>https://www.peterkrautzberger.org/0224/</link>
+            <guid isPermaLink="false">https://www.peterkrautzberger.org/0224/</guid>
+            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
