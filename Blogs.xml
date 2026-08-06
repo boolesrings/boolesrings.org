@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 03:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 06:45:16 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 03:36:20 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 06:45:16 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -150,13 +150,6 @@
             <pubDate>Wed, 04 Feb 2026 17:56:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Being unhappy with accessible SVGs: text elements]]></title>
-            <link>https://www.peterkrautzberger.org/0225/</link>
-            <guid isPermaLink="false">https://www.peterkrautzberger.org/0225/</guid>
-            <dc:creator><![CDATA[Peter Krautzberger]]></dc:creator>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I asked ChatGPT to look at a proof, here's what happened...]]></title>
             <link>https://karagila.org/2026/chatgpt/</link>
             <guid isPermaLink="false">https://karagila.org/2026/chatgpt/</guid>
@@ -183,6 +176,13 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 12 Nov 2025 16:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A story of my friend Don Miller]]></title>
+            <link>https://nickpgill.github.io/don-miller</link>
+            <guid isPermaLink="false">https://nickpgill.github.io/don-miller</guid>
+            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
+            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
