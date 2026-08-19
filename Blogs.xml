@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 04:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 08:53:52 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 04:51:26 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 08:53:52 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[Partition relations for trees II: Entangled linear orders]]></title>
+            <link>https://blog.assafrinot.com/?p=5256</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5256</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 08:19:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alternative Fields Medal, awarded August 2026]]></title>
             <link>https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://blog.assafrinot.com/?p=5199</guid>
             <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
             <pubDate>Wed, 17 Dec 2025 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 18th International Workshop on Set Theory in Luminy, November 2015]]></title>
-            <link>https://blog.assafrinot.com/?p=5190</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5190</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Mon, 17 Nov 2025 16:15:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
