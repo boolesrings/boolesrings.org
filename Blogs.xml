@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 20:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 01:56:48 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 20:45:45 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 01:56:48 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Contingent HOD Dichotomy, CUNY Logic Workshop, October 2026]]></title>
+            <link>https://jdh.hamkins.org/the-contingent-hod-dichotomy-cuny-logic-workshop-october-2026/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-contingent-hod-dichotomy-cuny-logic-workshop-october-2026/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 00:04:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Partition relations for trees II: Entangled linear orders]]></title>
             <link>https://blog.assafrinot.com/?p=5256</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2026/chatgpt/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Mon, 12 Jan 2026 05:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIMS workshop on Set Theory 2025]]></title>
-            <link>https://blog.assafrinot.com/?p=5199</link>
-            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5199</guid>
-            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
-            <pubDate>Wed, 17 Dec 2025 08:29:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
