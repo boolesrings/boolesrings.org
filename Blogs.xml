@@ -4,9 +4,9 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 20:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 01:57:54 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 20:45:13 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 01:57:54 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
@@ -17,11 +17,32 @@
             <pubDate>Fri, 21 Aug 2026 00:04:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Partition relations for trees II: Entangled linear orders]]></title>
+            <link>https://blog.assafrinot.com/?p=5256</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5256</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 08:19:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alternative Fields Medal, awarded August 2026]]></title>
             <link>https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/</link>
             <guid isPermaLink="false">https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 18:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More notions of forcing add a square]]></title>
+            <link>https://blog.assafrinot.com/?p=5245</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5245</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 18:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[40th summer conference on topology and its applications]]></title>
+            <link>https://blog.assafrinot.com/?p=5242</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5242</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 15:02:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MAT136 – Tree activity (for IUM4)]]></title>
@@ -85,6 +106,13 @@
             <guid isPermaLink="false">https://mikepawliuk.ca/2026/04/20/fymsic-2026/</guid>
             <dc:creator><![CDATA[Mike Pawliuk – Mathematics]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 13:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Partition relations for trees I: Incomparable trees]]></title>
+            <link>https://blog.assafrinot.com/?p=5220</link>
+            <guid isPermaLink="false">https://blog.assafrinot.com/?p=5220</guid>
+            <dc:creator><![CDATA[Assaf Rinot]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 04:40:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The spectrum of consistency strengths for membership in a computably enumerable set, Notre Dame Logic Seminar, April 2026]]></title>
@@ -155,34 +183,6 @@
             <guid isPermaLink="false">https://karagila.org/2026/chatgpt/</guid>
             <dc:creator><![CDATA[Asaf Karagila]]></dc:creator>
             <pubDate>Mon, 12 Jan 2026 05:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025]]></title>
-            <link>https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Wed, 12 Nov 2025 16:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A story of my friend Don Miller]]></title>
-            <link>https://nickpgill.github.io/don-miller</link>
-            <guid isPermaLink="false">https://nickpgill.github.io/don-miller</guid>
-            <dc:creator><![CDATA[Nick Gill]]></dc:creator>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Math on Tap!]]></title>
-            <link>http://dcernst.github.io/math-on-tap/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/math-on-tap/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech]]></title>
-            <link>https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/</guid>
-            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
-            <pubDate>Tue, 04 Nov 2025 02:10:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
