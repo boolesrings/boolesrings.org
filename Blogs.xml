@@ -4,15 +4,15 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 13:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 20:09:06 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 13:48:14 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 20:09:06 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
         <item>
             <title><![CDATA[The pattern of consistency strength for membership in a computably enumerable set]]></title>
-            <link>https://jdh.hamkins.org/pattern-of-consistencty-strength-of-membership-in-a-ce-set/</link>
-            <guid isPermaLink="false">https://jdh.hamkins.org/pattern-of-consistencty-strength-of-membership-in-a-ce-set/</guid>
+            <link>https://jdh.hamkins.org/consistency-strength-of-membership-in-a-ce-set/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/consistency-strength-of-membership-in-a-ce-set/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 02:02:29 GMT</pubDate>
         </item>
