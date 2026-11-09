@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 20:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 06:28:24 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 20:28:33 GMT</pubDate>
+        <pubDate>Mon, 09 Nov 2026 06:28:24 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[A Conversation on Philosophy, Mathematics, and the Mysteries of Infinity]]></title>
+            <link>https://jdh.hamkins.org/a-conversation-on-philosophy-mathematics-and-the-mysteries-of-infinity/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/a-conversation-on-philosophy-mathematics-and-the-mysteries-of-infinity/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 04:23:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Screenreader-only text without CSS? Hold my beer.]]></title>
             <link>https://www.peterkrautzberger.org/0227/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">https://jdh.hamkins.org/consistency-strengths-for-membership-in-a-ce-set-notre-dame-logic-seminar-april-2026/</guid>
             <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 18:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Great Survival Debate]]></title>
-            <link>http://dcernst.github.io/great-survival-debate/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/great-survival-debate/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
