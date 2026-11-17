@@ -4,11 +4,18 @@
         <description><![CDATA[Researchers. Connecting.]]></description>
         <link>https://boolesrings.org/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 02:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 13:26:42 GMT</lastBuildDate>
         <atom:link href="https://boolesrings.org/Blogs.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 02:55:34 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 13:26:42 GMT</pubDate>
         <copyright><![CDATA[No copyright asserted over individual posts; see original posts for copyright and/or licensing.]]></copyright>
         <managingEditor><![CDATA[info@boolesrings.org]]></managingEditor>
+        <item>
+            <title><![CDATA[The Contingent HOD Dichotomy]]></title>
+            <link>https://jdh.hamkins.org/the-contingent-hod-dichotomy/</link>
+            <guid isPermaLink="false">https://jdh.hamkins.org/the-contingent-hod-dichotomy/</guid>
+            <dc:creator><![CDATA[Joel David Hamkins]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 12:49:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disarming the AI Bomb]]></title>
             <link>https://karagila.org/2026/future-maths/</link>
@@ -176,13 +183,6 @@
             <guid isPermaLink="false">http://dcernst.github.io/akin-thesis/</guid>
             <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025-2026 Undergraduate Research Students]]></title>
-            <link>http://dcernst.github.io/2025-2026-undergrad-research-students/</link>
-            <guid isPermaLink="false">http://dcernst.github.io/2025-2026-undergrad-research-students/</guid>
-            <dc:creator><![CDATA[Dana C. Ernst]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
